@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> Windows 10 on ARM, version 21H1 ARM64 - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> Windows 10 on ARM, version 21H1 ARM64 - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" Windows 10 on ARM, version 21H1 ARM64 - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" Windows 10 on ARM, version 21H1 ARM64 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/windows-10-arm-21h1/">
+  <link rel="canonical" href="https://sysin.org/blog/windows-10-arm-21h1/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -224,6 +227,8 @@
 
           
           
+          
+          
           <li>
             <a href="/about/">
               
@@ -232,8 +237,6 @@
               
             </a>
           </li>
-          
-          
           
           
           
@@ -461,7 +464,7 @@
         
 
         <p>请访问原文链接：<a href="/blog/windows-10-arm/" title="Windows 10 on ARM, version 21H2 (updated Mar 2022) ARM64 简体中文版、英文版下载">Windows 10 on ARM, version 21H2 (updated Mar 2022) ARM64 简体中文版、英文版下载</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p>Windows 10, version 21H1 (released May 2021) ARM64 English</p>
@@ -489,7 +492,7 @@
 <p>x86 应用的模拟使得在 ARM 中可以使用丰富的 Win32 应用生态系统。这使得用户无需对应用进行任何修改，便可获得运行现有 x86 win32 应用的神奇体验。该应用甚至不知道它在基于 ARM 的 Windows 电脑上运行，除非它调用特定 API (<a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/desktop/api/wow64apiset/nf-wow64apiset-iswow64process2">IsWoW64Process2</a>)。</p>
 <p>Windows 10 的 <a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/desktop/WinProg64/running-32-bit-applications">WOW64</a> 层允许 x86 代码在 ARM64 版本的 Windows 10 上运行。x86 模拟的工作原理是将 x86 指令块编译为 ARM64 指令，并通过优化来提高性能。服务会缓存这些已转换的代码块，从而减少指令转换开销，并可在代码再次运行时实现优化。将为每个模块生成缓存，以便于其他应用在初次启动时使用这些缓存。</p>
 <p>有关这些技术的更多详细信息，请参阅<a target="_blank" rel="noopener" href="https://channel9.msdn.com/Events/Build/2017/P4171">基于 ARM 的 Windows 10</a> Channel9 视频。</p>
-<h2 id="下载地址-385">下载地址</h2>
+<h2 id="下载地址-386">下载地址</h2>
 <p>简体中文版和英文版 Windows 10 ARM64：</p>
 <p>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1dO82AuhtgfJBhT9-ZwHOCg">https://pan.baidu.com/s/1dO82AuhtgfJBhT9-ZwHOCg</a>  提取码：8e6a</p>
 
@@ -578,6 +581,24 @@
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/windows-10-arm-21h1/" class="leancloud-visitors" data-flag-title="Windows 10 on ARM, version 21H1 ARM64">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -610,7 +631,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%9F%BA%E4%BA%8E-ARM-%E7%9A%84-Windows-10"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">基于 ARM 的 Windows 10</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#ARM-%E4%B8%8A%E7%9A%84%E5%BA%94%E7%94%A8%E5%92%8C%E4%BD%93%E9%AA%8C"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">ARM 上的应用和体验</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%86%85%E7%BD%AE-Windows-10-%E4%BD%93%E9%AA%8C%E3%80%81%E5%BA%94%E7%94%A8%E5%92%8C%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">内置 Windows 10 体验、应用和驱动程序</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%80%9A%E7%94%A8-Windows-%E5%B9%B3%E5%8F%B0-UWP-%E5%BA%94%E7%94%A8"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">通用 Windows 平台 (UWP) 应用</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Win32-%E5%BA%94%E7%94%A8"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">Win32 应用</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#x86-64-%E5%BA%94%E7%94%A8"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">x86-64 应用</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#x86-%E4%BB%BF%E7%9C%9F%E5%9C%A8-ARM-%E4%B8%8A%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">x86 仿真在 ARM 上的工作原理</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-385"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%9F%BA%E4%BA%8E-ARM-%E7%9A%84-Windows-10"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">基于 ARM 的 Windows 10</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#ARM-%E4%B8%8A%E7%9A%84%E5%BA%94%E7%94%A8%E5%92%8C%E4%BD%93%E9%AA%8C"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">ARM 上的应用和体验</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%86%85%E7%BD%AE-Windows-10-%E4%BD%93%E9%AA%8C%E3%80%81%E5%BA%94%E7%94%A8%E5%92%8C%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">内置 Windows 10 体验、应用和驱动程序</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%80%9A%E7%94%A8-Windows-%E5%B9%B3%E5%8F%B0-UWP-%E5%BA%94%E7%94%A8"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">通用 Windows 平台 (UWP) 应用</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Win32-%E5%BA%94%E7%94%A8"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">Win32 应用</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#x86-64-%E5%BA%94%E7%94%A8"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">x86-64 应用</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#x86-%E4%BB%BF%E7%9C%9F%E5%9C%A8-ARM-%E4%B8%8A%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">x86 仿真在 ARM 上的工作原理</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-386"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -782,7 +803,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -858,7 +879,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
