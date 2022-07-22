@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> 如何禁用 Firefox 自动更新 (macOS, Linux, Windows) - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> 如何禁用 Firefox 自动更新 (macOS, Linux, Windows) - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" 如何禁用 Firefox 自动更新 (macOS, Linux, Windows) - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" 如何禁用 Firefox 自动更新 (macOS, Linux, Windows) "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/disable-firefox-auto-update/">
+  <link rel="canonical" href="https://sysin.org/blog/disable-firefox-auto-update/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -461,24 +464,19 @@
         
 
         <p>请访问原文链接：<a href="/blog/disable-firefox-auto-update/" title="如何禁用 Firefox 自动更新 (macOS, Linux, Windows)">如何禁用 Firefox 自动更新 (macOS, Linux, Windows)</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p>禁用浏览器自动更新系列文章：</p>
 <ul>
-<li>
-<a href="/blog/disable-firefox-auto-update/" title="如何禁用 Firefox 自动更新 (macOS, Linux, Windows)">如何禁用 Firefox 自动更新 (macOS, Linux, Windows)</a>
+<li><a href="/blog/disable-firefox-auto-update/" title="如何禁用 Firefox 自动更新 (macOS, Linux, Windows)">如何禁用 Firefox 自动更新 (macOS, Linux, Windows)</a>
 </li>
-<li>
-<a href="/blog/disable-chrome-auto-update/" title="如何禁用 Google Chrome 自动更新 (macOS, Linux, Windows)">如何禁用 Google Chrome 自动更新 (macOS, Linux, Windows)</a>
+<li><a href="/blog/disable-chrome-auto-update/" title="如何禁用 Google Chrome 自动更新 (macOS, Linux, Windows)">如何禁用 Google Chrome 自动更新 (macOS, Linux, Windows)</a>
 </li>
-<li>
-<a href="/blog/disable-edge-auto-update/" title="如何禁用 Microsoft Edge 自动更新 (Windows, Linux, macOS)">如何禁用 Microsoft Edge 自动更新 (Windows, Linux, macOS)</a>
+<li><a href="/blog/disable-edge-auto-update/" title="如何禁用 Microsoft Edge 自动更新 (Windows, Linux, macOS)">如何禁用 Microsoft Edge 自动更新 (Windows, Linux, macOS)</a>
 </li>
 </ul>
-<h2 id="Firefox-for-macOS">Firefox for macOS</h2>
-<h3 id="方法一：配置策略文件">方法一：配置策略文件</h3>
-<p>获取最新或者对应版本的策略模板：<a target="_blank" rel="noopener" href="https://github.com/mozilla/policy-templates/releases">https://github.com/mozilla/policy-templates/releases</a></p>
+<h2 id="Firefox-for-macOS"><a href="#Firefox-for-macOS" class="headerlink" title="Firefox for macOS"></a>Firefox for macOS</h2><h3 id="方法一：配置策略文件"><a href="#方法一：配置策略文件" class="headerlink" title="方法一：配置策略文件"></a>方法一：配置策略文件</h3><p>获取最新或者对应版本的策略模板：<a target="_blank" rel="noopener" href="https://github.com/mozilla/policy-templates/releases">https://github.com/mozilla/policy-templates/releases</a></p>
 <p>自动更新策略描述如下：</p>
 <figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;policies&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;DisableAppUpdate&quot;</span><span class="punctuation">:</span> <span class="keyword">true</span> | <span class="keyword">false</span></span><br><span class="line">  <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure>
 <p>创建 Firefox 策略配置文件</p>
@@ -487,8 +485,7 @@
 <figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;policies&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;DisableAppUpdate&quot;</span><span class="punctuation">:</span> <span class="keyword">true</span></span><br><span class="line">  <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure>
 <p>可以直接在终端中执行如下命令实现：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">创建目录 (sysin)</span></span><br><span class="line">mkdir /Applications/Firefox.app/Contents/Resources/distribution</span><br><span class="line"></span><br><span class="line">echo &#x27;</span><br><span class="line">&#123;</span><br><span class="line">  &quot;policies&quot;: &#123;</span><br><span class="line">    &quot;DisableAppUpdate&quot;: true</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line">&#x27; &gt; /Applications/Firefox.app/Contents/Resources/distribution/policies.json</span><br></pre></td></tr></table></figure>
-<h3 id="方法二：使用-Plist-配置策略">方法二：使用 Plist 配置策略</h3>
-<p>配置 org.mozilla.firefox.plist 内容如下：</p>
+<h3 id="方法二：使用-Plist-配置策略"><a href="#方法二：使用-Plist-配置策略" class="headerlink" title="方法二：使用 Plist 配置策略"></a>方法二：使用 Plist 配置策略</h3><p>配置 org.mozilla.firefox.plist 内容如下：</p>
 <ul>
 <li>启用策略</li>
 </ul>
@@ -497,20 +494,16 @@
 <li>禁用自动更新</li>
 </ul>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo defaults write /Library/Preferences/org.mozilla.firefox DisableAppUpdate -bool TRUE</span><br></pre></td></tr></table></figure>
-<h3 id="验证">验证</h3>
-<p>此时在 “关于 Firefox” 对话框，或者 “首选项” 中 “Firefox 更新”，提示 “更新已被系统管理员禁用”，检查更新按钮也不可用！</p>
+<h3 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h3><p>此时在 “关于 Firefox” 对话框，或者 “首选项” 中 “Firefox 更新”，提示 “更新已被系统管理员禁用”，检查更新按钮也不可用！</p>
 <p><img src="disable-firefox-auto-update-mac.webp" alt="disable-firefox-auto-update-mac"></p>
-<h2 id="Firefox-for-Linux">Firefox for Linux</h2>
-<h3 id="禁用-Firefox-自带更新功能">禁用 Firefox 自带更新功能</h3>
-<p>On Linux, the file goes into <code>firefox/distribution</code>, where <code>firefox</code> is the installation directory for firefox, which varies by distribution or you can specify system-wide policy by placing the file in <code>/etc/firefox/policies</code>.</p>
+<h2 id="Firefox-for-Linux"><a href="#Firefox-for-Linux" class="headerlink" title="Firefox for Linux"></a>Firefox for Linux</h2><h3 id="禁用-Firefox-自带更新功能"><a href="#禁用-Firefox-自带更新功能" class="headerlink" title="禁用 Firefox 自带更新功能"></a>禁用 Firefox 自带更新功能</h3><p>On Linux, the file goes into <code>firefox/distribution</code>, where <code>firefox</code> is the installation directory for firefox, which varies by distribution or you can specify system-wide policy by placing the file in <code>/etc/firefox/policies</code>.</p>
 <p>在上述路径写入 policies.json 文件，内容如下：</p>
 <figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;policies&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;DisableAppUpdate&quot;</span><span class="punctuation">:</span> <span class="keyword">true</span></span><br><span class="line">  <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure>
 <p>例如：在 Ubuntu 20.04 中，Firefox 默认安装在 <code>/usr/lib/firefox</code> 目录下，创建步骤如下：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">#</span><span class="language-bash"><span class="comment"># 默认 distribution 目录已经存在，若不存在手动创建</span></span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash"><span class="built_in">mkdir</span> /usr/lib/firefox/distribution</span></span><br><span class="line">echo &#x27;</span><br><span class="line">&#123;</span><br><span class="line">  &quot;policies&quot;: &#123;</span><br><span class="line">    &quot;DisableAppUpdate&quot;: true</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line">&#x27; &gt; /usr/lib/firefox/distribution/policies.json</span><br></pre></td></tr></table></figure>
 <p>或者，直接在系统级别创建策略文件，无论 Firefox 安装路径如何：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">mkdir /etc/firefox/policies</span><br><span class="line"></span><br><span class="line">echo &#x27;</span><br><span class="line">&#123;</span><br><span class="line">  &quot;policies&quot;: &#123;</span><br><span class="line">    &quot;DisableAppUpdate&quot;: true</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line">&#x27; &gt; /etc/firefox/policies/policies.json</span><br></pre></td></tr></table></figure>
-<h3 id="禁用软件包管理中的更新">禁用软件包管理中的更新</h3>
-<p>Linux 软件更新通常依赖于系统级别的包管理机制（例如 apt 和 yum），我们可以手动来控制是否更新。</p>
+<h3 id="禁用软件包管理中的更新"><a href="#禁用软件包管理中的更新" class="headerlink" title="禁用软件包管理中的更新"></a>禁用软件包管理中的更新</h3><p>Linux 软件更新通常依赖于系统级别的包管理机制（例如 apt 和 yum），我们可以手动来控制是否更新。</p>
 <blockquote>
 <p>Firefox 稳定版（快速发行版）在 Linux 中的软件包名称为：firefox，另外有 Firefox（ESR）延长支持版（firefox-esr）</p>
 </blockquote>
@@ -518,69 +511,50 @@
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-mark hold firefox</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">恢复</span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">sudo apt-mark unhold firefox</span></span><br></pre></td></tr></table></figure>
 <p>在 Redhat 及衍生系统中禁用 Firefox 更新：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">echo &#x27;exclude=firefox&#x27; &gt;&gt; /etc/yum.conf</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">恢复</span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">编辑 /etc/yum.conf 删除 exclude=firefox</span></span><br></pre></td></tr></table></figure>
-<h2 id="Firefox-for-Windows">Firefox for Windows</h2>
-<h3 id="方法一：使用策略文件">方法一：使用策略文件</h3>
-<p>官方策略模板：<a target="_blank" rel="noopener" href="https://github.com/mozilla/policy-templates/releases">https://github.com/mozilla/policy-templates/releases</a></p>
+<h2 id="Firefox-for-Windows"><a href="#Firefox-for-Windows" class="headerlink" title="Firefox for Windows"></a>Firefox for Windows</h2><h3 id="方法一：使用策略文件"><a href="#方法一：使用策略文件" class="headerlink" title="方法一：使用策略文件"></a>方法一：使用策略文件</h3><p>官方策略模板：<a target="_blank" rel="noopener" href="https://github.com/mozilla/policy-templates/releases">https://github.com/mozilla/policy-templates/releases</a></p>
 <p>创建策略文件 <code>&lt;Firefox 安装目录&gt;\distribution\policies.json</code>，内容如下：</p>
 <figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;policies&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;DisableAppUpdate&quot;</span><span class="punctuation">:</span> <span class="keyword">true</span></span><br><span class="line">  <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure>
-<h3 id="方法二：使用注册表">方法二：使用注册表</h3>
-<p>操作步骤：</p>
+<h3 id="方法二：使用注册表"><a href="#方法二：使用注册表" class="headerlink" title="方法二：使用注册表"></a>方法二：使用注册表</h3><p>操作步骤：</p>
 <ul>
-<li>
-<p>浏览到 “HKEY_LOCAL_MACHINE\Software\Policies” 创建项 “Mozilla”，在创建项 “Firefox”，创建完毕即 “HKEY_LOCAL_MACHINE\Software\Policies\Mozilla\Firefox”</p>
+<li><p>浏览到 “HKEY_LOCAL_MACHINE\Software\Policies” 创建项 “Mozilla”，在创建项 “Firefox”，创建完毕即 “HKEY_LOCAL_MACHINE\Software\Policies\Mozilla\Firefox”</p>
 </li>
-<li>
-<p>在上述路径，右键点击空白处 (sysin)，新建一个 DWORD (32-Bit) Value，名称为 “DisableAppUpdate”</p>
+<li><p>在上述路径，右键点击空白处 (sysin)，新建一个 DWORD (32-Bit) Value，名称为 “DisableAppUpdate”</p>
 </li>
-<li>
-<p>双击创建的 “DisableAppUpdate”，将值修改为 “1”。</p>
+<li><p>双击创建的 “DisableAppUpdate”，将值修改为 “1”。</p>
 </li>
 </ul>
 <p>直接使用注册表文件：</p>
 <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">Windows Registry Editor Version <span class="number">5.00</span></span><br><span class="line"></span><br><span class="line">[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Mozilla\Firefox]</span><br><span class="line"><span class="string">&quot;DisableAppUpdate&quot;</span>=dword:<span class="number">00000001</span></span><br></pre></td></tr></table></figure>
 <p><strong>直接使用 CMD</strong>（推荐，最便捷）：</p>
 <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">reg add <span class="string">&quot;HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Mozilla\Firefox&quot;</span> /v DisableAppUpdate /t REG_DWORD /d <span class="number">1</span> /f</span><br></pre></td></tr></table></figure>
-<h3 id="验证效果">验证效果</h3>
-<p>此时 “选项” 中 “Firefox 更新”，提示 “更新已被系统管理员禁用”，检查更新按钮也不可用！</p>
+<h3 id="验证效果"><a href="#验证效果" class="headerlink" title="验证效果"></a>验证效果</h3><p>此时 “选项” 中 “Firefox 更新”，提示 “更新已被系统管理员禁用”，检查更新按钮也不可用！</p>
 <p>“关于 Firefox” 对话框中也可以看到提示 “更新已被系统管理员禁用”。</p>
 <p>参考文章：<a target="_blank" rel="noopener" href="https://www.webnots.com/how-to-disable-automatic-update-in-firefox/">https://www.webnots.com/how-to-disable-automatic-update-in-firefox/</a></p>
-<h2 id="Firefox-下载">Firefox 下载</h2>
-<blockquote>
+<h2 id="Firefox-下载"><a href="#Firefox-下载" class="headerlink" title="Firefox 下载"></a>Firefox 下载</h2><blockquote>
 <p>备注：Firefox 区分界面语言，如果需要英文版将链接后缀 zh-CN 替换为 en-US 即可。</p>
 </blockquote>
 <p><strong>下载最新版（固定链接）：</strong></p>
 <ul>
-<li>
-<p>macOS</p>
+<li><p>macOS</p>
 <ul>
 <li><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=osx&amp;lang=zh-CN">macOS (Universal) 简体中文版</a></li>
 </ul>
 </li>
-<li>
-<p>Linux</p>
+<li><p>Linux</p>
 <ul>
 <li><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=linux64&amp;lang=zh-CN">Linux 64-bit 简体中文版</a></li>
 <li><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=linux&amp;lang=zh-CN">Linux 32-bit 简体中文版</a></li>
 </ul>
 </li>
-<li>
-<p>Windows</p>
+<li><p>Windows</p>
 <ul>
-<li>
-<p><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=win64&amp;lang=zh-CN">Windows 64-bit 简体中文版</a></p>
+<li><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=win64&amp;lang=zh-CN">Windows 64-bit 简体中文版</a></li>
+<li><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-msi-latest-ssl&amp;os=win64&amp;lang=zh-CN">Windows 64-bit MSI 简体中文版</a></li>
+<li><p><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=win64-aarch64&amp;lang=zh-CN">Windows ARM64/AArch64 简体中文版</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-msi-latest-ssl&amp;os=win64&amp;lang=zh-CN">Windows 64-bit MSI 简体中文版</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=win&amp;lang=zh-CN">Windows 32-bit 简体中文版</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=win64-aarch64&amp;lang=zh-CN">Windows ARM64/AArch64 简体中文版</a></p>
-</li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=win&amp;lang=zh-CN">Windows 32-bit 简体中文版</a></p>
-</li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-msi-latest-ssl&amp;os=win&amp;lang=zh-CN">Windows 32-bit MSI 简体中文版</a></p>
-</li>
+<li><a target="_blank" rel="noopener" href="https://download.mozilla.org/?product=firefox-msi-latest-ssl&amp;os=win&amp;lang=zh-CN">Windows 32-bit MSI 简体中文版</a></li>
 </ul>
 </li>
 </ul>
@@ -674,6 +648,24 @@
 
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
+
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/disable-firefox-auto-update/" class="leancloud-visitors" data-flag-title="如何禁用 Firefox 自动更新 (macOS, Linux, Windows)">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
 
 
 <!-- 1. gitalk comment -->
@@ -879,7 +871,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -955,7 +947,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

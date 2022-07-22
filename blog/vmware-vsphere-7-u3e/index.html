@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> VMware vSphere 7.0 Update 3e (sysin Custom Image) - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> VMware vSphere 7.0 Update 3e (sysin Custom Image) - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" VMware vSphere 7.0 Update 3e (sysin Custom Image) - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" VMware vSphere 7.0 Update 3e (sysin Custom Image) "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/vmware-vsphere-7-u3e/">
+  <link rel="canonical" href="https://sysin.org/blog/vmware-vsphere-7-u3e/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -393,7 +396,7 @@
             <!-- WordCount start -->
             <div class="blank_box"></div>
             <span class="meta">
-              Estimated Reading Time <span class="post-count">7</span> Minutes
+              Estimated Reading Time <span class="post-count">6</span> Minutes
             </span>
             <div class="blank_box"></div>
             <span class="meta">
@@ -465,7 +468,7 @@
         
 
         <p>请访问原文链接：<a href="/blog/vmware-vsphere-7-u3/" title="VMware vSphere 7 Update 3 下载">VMware vSphere 7 Update 3 下载</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p>我们知道，VMware 早已经在 6 月 14 日发布了 ESXi 7.0U3e 的 Patch，但是官方 ISO 镜像至今不可用，似乎不准备发布了？最近总有读者在问什么时候更新 U3e，笔者也很无赖，根本没有镜像下载。今天已经是 7 月份了，就不等 VMware 了，笔者先发布了 U3e 的 ISO。并在稍后更新 SLIC 和 驱动集成版。</p>
@@ -474,9 +477,7 @@
 <p>vSphere</p>
 <p>利用行业领先的服务器虚拟化软件 VMware vSphere，为您的现代应用计算环境提供助力，以支持使用任意虚拟机、容器和 <a target="_blank" rel="noopener" href="https://www.vmware.com/cn/topics/glossary/content/server-virtualization.html">Kubernetes</a> 组合部署。</p>
 <p><img src="https://docs.vmware.com/cn/VMware-vSphere/images/GUID-5EB66614-1EE8-4F39-8C8B-1E97EEE76791-high.png" alt="说明 ESXi 主机、vCenter Server、虚拟机和 vSphere Client 之间关系的 VMware vSphere 概览图。"></p>
-<h2 id="产品概述-7">产品概述</h2>
-<h3 id="统一管理容器和虚拟机-2">统一管理容器和虚拟机</h3>
-<p>在支持基于容器的应用开发的现代 vSphere 基础架构上，像管理传统应用和虚拟机一样轻松地管理复杂的现代应用。采用原生 <a target="_blank" rel="noopener" href="https://www.vmware.com/cn/topics/glossary/content/kubernetes.html">Kubernetes</a> 重新构建，您现在可以对 vSphere 上运行的 7,000 多万个工作负载实现现代化改造 (sysin)。现在，您可以使用 <a target="_blank" rel="noopener" href="https://www.vmware.com/cn/products/vsphere/vsphere-with-tanzu.html">vSphere with Tanzu</a> 在现有基础架构上与现有的企业级应用一起运行现代的容器化应用。</p>
+<h2 id="产品概述"><a href="#产品概述" class="headerlink" title="产品概述"></a>产品概述</h2><h3 id="统一管理容器和虚拟机"><a href="#统一管理容器和虚拟机" class="headerlink" title="统一管理容器和虚拟机"></a>统一管理容器和虚拟机</h3><p>在支持基于容器的应用开发的现代 vSphere 基础架构上，像管理传统应用和虚拟机一样轻松地管理复杂的现代应用。采用原生 <a target="_blank" rel="noopener" href="https://www.vmware.com/cn/topics/glossary/content/kubernetes.html">Kubernetes</a> 重新构建，您现在可以对 vSphere 上运行的 7,000 多万个工作负载实现现代化改造 (sysin)。现在，您可以使用 <a target="_blank" rel="noopener" href="https://www.vmware.com/cn/products/vsphere/vsphere-with-tanzu.html">vSphere with Tanzu</a> 在现有基础架构上与现有的企业级应用一起运行现代的容器化应用。</p>
 <ul>
 <li>交付 AI 和开发人员就绪型基础架构</li>
 </ul>
@@ -493,8 +494,7 @@
 <li>提升基础架构和数据安全性</li>
 </ul>
 <p>利用内置的原生安全性，而非附加的事后补救针对性解决方案保护<a target="_blank" rel="noopener" href="https://www.vmware.com/topics/glossary/content/hybrid-cloud-infrastructure">混合云基础架构</a>。阻止恶意软件和勒索软件入侵。</p>
-<h3 id="应用场景-9">应用场景</h3>
-<p><img src="https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/gallery/illustrations/illu-security-higherground-whtbg.png" alt="img"></p>
+<h3 id="应用场景"><a href="#应用场景" class="headerlink" title="应用场景"></a>应用场景</h3><p><img src="https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/gallery/illustrations/illu-security-higherground-whtbg.png" alt="img"></p>
 <ul>
 <li><a target="_blank" rel="noopener" href="https://www.vmware.com/cn/products/vsphere/ai-ml.html">人工智能和机器学习</a></li>
 </ul>
@@ -515,18 +515,15 @@
 </ul>
 <p>通过按需式基础架构、集中管理、数据监管和敏感数据控制，更快地获得见解。vSphere 的横向扩展版本是使用高性能计算工作负载自定义构建的。</p>
 <p><a target="_blank" rel="noopener" href="https://www.vmware.com/cn/solutions/high-performance-computing.html">探知 HPC 虚拟化</a></p>
-<h2 id="比较各个版本-2">比较各个版本</h2>
-<ul>
-<li>
-<p>vSphere Standard</p>
+<h2 id="比较各个版本"><a href="#比较各个版本" class="headerlink" title="比较各个版本"></a>比较各个版本</h2><ul>
+<li><p>vSphere Standard</p>
 <ul>
 <li>服务器整合</li>
 <li><a target="_blank" rel="noopener" href="https://www.vmware.com/cn/topics/glossary/content/business-continuity.html">业务连续性</a></li>
 </ul>
 <p><a target="_blank" rel="noopener" href="https://store-us.vmware.com/products/data-center-virtualization-cloud-infrastructure.html">在线购买 &gt;</a></p>
 </li>
-<li>
-<p>vSphere Enterprise Plus</p>
+<li><p>vSphere Enterprise Plus</p>
 <ul>
 <li>资源管理</li>
 <li>简化生命周期管理</li>
@@ -537,144 +534,89 @@
 </li>
 </ul>
 <p><a target="_blank" rel="noopener" href="https://www.vmware.com/content/dam/digitalmarketing/vmware/zh-cn/pdf/products/vsphere/vmw-edition-comparison.pdf">查看完整功能对比 &gt;</a></p>
-<h2 id="资源-38">资源</h2>
-<p>概述</p>
+<h2 id="资源"><a href="#资源" class="headerlink" title="资源"></a>资源</h2><p>概述</p>
 <ul>
-<li>
-<p><a target="_blank" rel="noopener" href="https://www.vmware.com/content/dam/digitalmarketing/vmware/zh-cn/pdf/products/vsphere/vmw-edition-comparison.pdf">vSphere 7 版本对比</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://www.vmware.com/content/dam/digitalmarketing/vmware/zh-cn/pdf/products/vsphere/vmw-edition-comparison.pdf">vSphere 7 版本对比</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://www.vmware.com/content/dam/digitalmarketing/vmware/zh-cn/pdf/vsphere/vmw-version-comparison.pdf">vSphere 版本对比</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://www.vmware.com/content/dam/digitalmarketing/vmware/zh-cn/pdf/vsphere/vmw-version-comparison.pdf">vSphere 版本对比</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://www.vmware.com/content/dam/digitalmarketing/vmware/zh-cn/pdf/vsphere/vmw-vsphere-datasheet.pdf">vSphere 7 产品介绍</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://www.vmware.com/content/dam/digitalmarketing/vmware/zh-cn/pdf/vsphere/vmw-vsphere-datasheet.pdf">vSphere 7 产品介绍</a></p>
 </li>
 </ul>
 <p>技术文档</p>
 <ul>
-<li>
-<p><a target="_blank" rel="noopener" href="http://partnerweb.vmware.com/comp_guide2/sim/interop_matrix.php?">产品互操作性列表</a></p>
+<li><p><a target="_blank" rel="noopener" href="http://partnerweb.vmware.com/comp_guide2/sim/interop_matrix.php?">产品互操作性列表</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://www.vmware.com/resources/compatibility/search.php">硬件兼容性</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://www.vmware.com/resources/compatibility/search.php">硬件兼容性</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://docs.vmware.com/cn/VMware-vSphere/index.html">vSphere 产品文档</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://docs.vmware.com/cn/VMware-vSphere/index.html">vSphere 产品文档</a></p>
 </li>
 </ul>
 <p>试用</p>
 <ul>
-<li>
-<p><a target="_blank" rel="noopener" href="https://www.vmware.com/learn/785194_REG.html?int_cid=7012H000001lFfg">60 天免费试用</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://www.vmware.com/learn/785194_REG.html?int_cid=7012H000001lFfg">60 天免费试用</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://www.vmware.com/go/try-vsphere-hol?src=WWW_us_MY_V5R0ZFyTh7bGXrJkxdsu&amp;int_CID=7012H000001KOhO">云中动手实验</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://www.vmware.com/go/try-vsphere-hol?src=WWW_us_MY_V5R0ZFyTh7bGXrJkxdsu&amp;int_CID=7012H000001KOhO">云中动手实验</a></p>
 </li>
 </ul>
 <p>定价</p>
 <ul>
-<li>
-<p><a target="_blank" rel="noopener" href="https://www.vmware.com/content/dam/digitalmarketing/vmware/zh-cn/pdf/vsphere/vmw-vsphere-pricing-packaging-faq.pdf">vSphere 7 定价和打包常见问题解答</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://www.vmware.com/content/dam/digitalmarketing/vmware/zh-cn/pdf/vsphere/vmw-vsphere-pricing-packaging-faq.pdf">vSphere 7 定价和打包常见问题解答</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://www.vmware.com/content/dam/digitalmarketing/vmware/zh-cn/pdf/products/vsphere/vmware-vsphere-vsom-pricing-whitepaper.pdf">vSphere 许可、定价和打包白皮书</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://www.vmware.com/content/dam/digitalmarketing/vmware/zh-cn/pdf/products/vsphere/vmware-vsphere-vsom-pricing-whitepaper.pdf">vSphere 许可、定价和打包白皮书</a></p>
 </li>
 </ul>
 <p>社区</p>
 <ul>
-<li>
-<p><a target="_blank" rel="noopener" href="https://communities.vmware.com/community/vmtn/vsphere">vSphere 社区</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://communities.vmware.com/community/vmtn/vsphere">vSphere 社区</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://blogs.vmware.com/performance/">VROOM! 性能博客</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://blogs.vmware.com/performance/">VROOM! 性能博客</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://twitter.com/VMwarevSphere">微博上的 vSphere</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://twitter.com/VMwarevSphere">微博上的 vSphere</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCN8FHFshMw-15AtFKWSLczA">vSphere B 站频道</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCN8FHFshMw-15AtFKWSLczA">vSphere B 站频道</a></p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="https://blogs.vmware.com/vsphere/">vSphere 博客</a></p>
+<li><p><a target="_blank" rel="noopener" href="https://blogs.vmware.com/vsphere/">vSphere 博客</a></p>
 </li>
 </ul>
 <p>相关链接</p>
 <ul>
 <li><a target="_blank" rel="noopener" href="https://www.vmware.com/products/vsphere/upgrade-center">vSphere 升级中心</a></li>
 </ul>
-<h2 id="下载地址-368">下载地址</h2>
-<p>The VMware vSphere architecture consists of the following components:</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>The VMware vSphere architecture consists of the following components:</p>
 <ul>
 <li>A base hypervisor, <strong>vSphere ESXi Installable</strong>, that is installed on every physical server planned for hosting virtual machines</li>
 <li>One instance of a management server called <strong>VMware vCenter Server</strong> that enables centralized management of multiple vSphere hosts.</li>
 </ul>
 <p>VMware vSphere 7.0 Update 3e:</p>
 <blockquote>
-<p>VMware vSphere Hypervisor (ESXi) 7.0U3e [<a target="_blank" rel="noopener" href="https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-70u3e-release-notes.html">Release Notes]</a></p>
-<p>VMware vCenter Server 7.0U3e [<a target="_blank" rel="noopener" href="https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3e-release-notes.html">Release Notes]</a></p>
+<p>VMware vSphere Hypervisor (ESXi) 7.0U3e <a target="_blank" rel="noopener" href="https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-70u3e-release-notes.html">[Release Notes]</a></p>
+<p>VMware vCenter Server 7.0U3e <a target="_blank" rel="noopener" href="https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3e-release-notes.html">[Release Notes]</a></p>
 </blockquote>
 <ul>
-<li>
-<p>VMware vSphere Hypervisor (ESXi ISO) image<br>
-File size: 396.35 MB<br>
-File type: iso<br>
-Name: VMware-VMvisor-Installer-7.0U3e-19898904.x86_64.iso<br>
-Release Date: 2022-07-01<br>
-Build Number: 19898904<br>
-Boot your server with this image in order to install or upgrade to ESXi (ESXi requires 64-bit capable servers). This ESXi image includes VMware Tools.<br>
-SHA256SUM: 410efb7edccf1cae49c2f75e04c7e6e4e4720c4b6dbf3916f02a9a957eafe1c6</p>
+<li><p>VMware vSphere Hypervisor (ESXi ISO) image<br>File size: 396.35 MB<br>File type: iso<br>Name: VMware-VMvisor-Installer-7.0U3e-19898904.x86_64.iso<br>Release Date: 2022-07-01<br>Build Number: 19898904<br>Boot your server with this image in order to install or upgrade to ESXi (ESXi requires 64-bit capable servers). This ESXi image includes VMware Tools.<br>SHA256SUM: 410efb7edccf1cae49c2f75e04c7e6e4e4720c4b6dbf3916f02a9a957eafe1c6</p>
 </li>
-<li>
-<p>VMware vSphere Hypervisor (ESXi) Offline Bundle<br>
-File size: 377.84 MB<br>
-File type: zip<br>
-Name: VMware-ESXi-7.0U3e-19898904-depot.zip<br>
-Release Date: 2022-06-14<br>
-Build Number: 19898904<br>
-Contains VIB packages and image profiles for ESXi including VMware Tools. Use the image profiles and the VIB packages with VMware Image Builder and VMware Auto Deploy to create custom image/ISO generation for ESXi deployments.<br>
-SHA256SUM: df5e422ef49c0db6d302e85b8e06bf946409ab06f4eeb694789e08cb23ecd947</p>
+<li><p>VMware vSphere Hypervisor (ESXi) Offline Bundle<br>File size: 377.84 MB<br>File type: zip<br>Name: VMware-ESXi-7.0U3e-19898904-depot.zip<br>Release Date: 2022-06-14<br>Build Number: 19898904<br>Contains VIB packages and image profiles for ESXi including VMware Tools. Use the image profiles and the VIB packages with VMware Image Builder and VMware Auto Deploy to create custom image/ISO generation for ESXi deployments.<br>SHA256SUM: df5e422ef49c0db6d302e85b8e06bf946409ab06f4eeb694789e08cb23ecd947</p>
 </li>
-<li>
-<p>VMware vCenter Server Appliance<br>
-File size: 9.81 GB<br>
-File type: iso<br>
-Name: VMware-VCSA-all-7.0.3-19717403.iso<br>
-Release Date: 2022-05-12<br>
-Build Number: 19717403<br>
-SHA256SUM: 98aa2a7e7d446d09427cbbbaf4ce0cc2c8953adebd154a19a56e1ebe79f82d84</p>
+<li><p>VMware vCenter Server Appliance<br>File size: 9.81 GB<br>File type: iso<br>Name: VMware-VCSA-all-7.0.3-19717403.iso<br>Release Date: 2022-05-12<br>Build Number: 19717403<br>SHA256SUM: 98aa2a7e7d446d09427cbbbaf4ce0cc2c8953adebd154a19a56e1ebe79f82d84</p>
 </li>
-<li>
-<p>VMware vCenter Server Appliance Update Bundle<br>
-File size: 7.79 GB<br>
-File type: zip<br>
-Name: VMware-vCenter-Server-Appliance-7.0.3.00600-19717403-updaterepo.zip<br>
-Release Date: 2022-05-12<br>
-Build Number: 19717403<br>
-SHA256SUM: a28dd29d318af117ed5d1a2b0ec6731205aaeb82b5fa23dd3e8774555c3617ab</p>
+<li><p>VMware vCenter Server Appliance Update Bundle<br>File size: 7.79 GB<br>File type: zip<br>Name: VMware-vCenter-Server-Appliance-7.0.3.00600-19717403-updaterepo.zip<br>Release Date: 2022-05-12<br>Build Number: 19717403<br>SHA256SUM: a28dd29d318af117ed5d1a2b0ec6731205aaeb82b5fa23dd3e8774555c3617ab</p>
 </li>
-<li>
-<p>DellEMC Custom Image for ESXi 7.0 U3e Install CD, 2022.06.16</p>
+<li><p>DellEMC Custom Image for ESXi 7.0 U3e Install CD, 2022.06.16</p>
 </li>
-<li>
-<p>HPE Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
+<li><p>HPE Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
 </li>
-<li>
-<p>Inspur Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
+<li><p>Inspur Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
 </li>
-<li>
-<p>LENOVO Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
+<li><p>LENOVO Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
 </li>
-<li>
-<p>Cisco Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
+<li><p>Cisco Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
 </li>
-<li>
-<p>FUJITSU Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
+<li><p>FUJITSU Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
 </li>
-<li>
-<p>NEC Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
+<li><p>NEC Custom Image for ESXi 7.0 U3e Install CD, Update Pendding</p>
 </li>
-<li>
-<p>Hitachi Custom Image for 7.0 U3e Install CD, Update Pendding</p>
+<li><p>Hitachi Custom Image for 7.0 U3e Install CD, Update Pendding</p>
 </li>
 </ul>
 <p><strong>VMware vSphere 7.0 Update 3e</strong> download:</p>
@@ -682,14 +624,12 @@ SHA256SUM: a28dd29d318af117ed5d1a2b0ec6731205aaeb82b5fa23dd3e8774555c3617ab</p>
 <p><strong>⚠️ 警告：本站发布的 ESXi 7.0 U3e ISO 是非官方发行版，是由本站自行创建的镜像，技术上来说可能差异仅仅是一个非官方的操作了一个相同镜像制作命令，但是无任何官方技术支持，请勿用于生产环境，仅供学习和测试使用。</strong></p>
 <p>ESXi 标准版和厂商定制版 SLIC &amp; Unlocker，请访问：</p>
 <ul>
-<li>
-<a href="/blog/vmware-esxi-7-u3e-slic/" title="VMware ESXi 7.0 Update 3e SLIC 2.6 &amp; macOS Unlocker (2022.07 更新)">VMware ESXi 7.0 Update 3e SLIC 2.6 &amp; macOS Unlocker (2022.07 更新)</a>
+<li><a href="/blog/vmware-esxi-7-u3e-slic/" title="VMware ESXi 7.0 Update 3e SLIC 2.6 &amp; macOS Unlocker (2022.07 更新)">VMware ESXi 7.0 Update 3e SLIC 2.6 &amp; macOS Unlocker (2022.07 更新)</a>
 </li>
 </ul>
 <p>ESXi 集成驱动版本（SLIC &amp; Unlocker），请访问：</p>
 <ul>
-<li>
-<a href="/blog/vmware-esxi-7-u3e-nuc-usb-nvme/" title="VMware ESXi 7.0 U3e SLIC 2.6 &amp; Unlocker 集成 Intel NUC 网卡、USB 网卡和 NVMe 驱动 (2022.07 更新)">VMware ESXi 7.0 U3e SLIC 2.6 &amp; Unlocker 集成 Intel NUC 网卡、USB 网卡和 NVMe 驱动 (2022.07 更新)</a>
+<li><a href="/blog/vmware-esxi-7-u3e-nuc-usb-nvme/" title="VMware ESXi 7.0 U3e SLIC 2.6 &amp; Unlocker 集成 Intel NUC 网卡、USB 网卡和 NVMe 驱动 (2022.07 更新)">VMware ESXi 7.0 U3e SLIC 2.6 &amp; Unlocker 集成 Intel NUC 网卡、USB 网卡和 NVMe 驱动 (2022.07 更新)</a>
 </li>
 </ul>
 
@@ -778,6 +718,24 @@ SHA256SUM: a28dd29d318af117ed5d1a2b0ec6731205aaeb82b5fa23dd3e8774555c3617ab</p>
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/vmware-vsphere-7-u3e/" class="leancloud-visitors" data-flag-title="VMware vSphere 7.0 Update 3e (sysin Custom Image)">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -810,7 +768,7 @@ SHA256SUM: a28dd29d318af117ed5d1a2b0ec6731205aaeb82b5fa23dd3e8774555c3617ab</p>
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%BA%A7%E5%93%81%E6%A6%82%E8%BF%B0-7"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">产品概述</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E5%AE%B9%E5%99%A8%E5%92%8C%E8%99%9A%E6%8B%9F%E6%9C%BA-2"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">统一管理容器和虚拟机</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF-9"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">应用场景</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E6%AF%94%E8%BE%83%E5%90%84%E4%B8%AA%E7%89%88%E6%9C%AC-2"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">比较各个版本</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E8%B5%84%E6%BA%90-38"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">资源</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-368"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%BA%A7%E5%93%81%E6%A6%82%E8%BF%B0"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">产品概述</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E5%AE%B9%E5%99%A8%E5%92%8C%E8%99%9A%E6%8B%9F%E6%9C%BA"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">统一管理容器和虚拟机</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">应用场景</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E6%AF%94%E8%BE%83%E5%90%84%E4%B8%AA%E7%89%88%E6%9C%AC"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">比较各个版本</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E8%B5%84%E6%BA%90"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">资源</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -986,7 +944,7 @@ SHA256SUM: a28dd29d318af117ed5d1a2b0ec6731205aaeb82b5fa23dd3e8774555c3617ab</p>
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -1062,7 +1020,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
