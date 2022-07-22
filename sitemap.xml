@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sysin.org/blog/vmware-horizon-8-2206/</loc>
+    <loc>https://sysin.org/blog/macOS-Monterey/</loc>
     
     <lastmod>2022-07-22</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/macOS-Monterey/</loc>
+    <loc>https://sysin.org/blog/vmware-horizon-8-2206/</loc>
     
     <lastmod>2022-07-22</lastmod>
     
@@ -2324,7 +2324,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/parallel-desktop-16/</loc>
+    <loc>https://sysin.org/blog/parallel-desktop-16-m1/</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -2333,7 +2333,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/parallel-desktop-16-m1/</loc>
+    <loc>https://sysin.org/blog/parallel-desktop-16/</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -2990,7 +2990,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/run-nxos-on-linux/</loc>
+    <loc>https://sysin.org/blog/run-nxos-on-macos/</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -2999,7 +2999,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/run-nxos-on-macos/</loc>
+    <loc>https://sysin.org/blog/run-nxos-on-linux/</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -3287,6 +3287,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/blog/affinity-designer/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/affinity-photo/</loc>
     
     <lastmod>2022-05-24</lastmod>
@@ -3297,15 +3306,6 @@
   
   <url>
     <loc>https://sysin.org/blog/affinity-publisher/</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/affinity-designer/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3368,6 +3368,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/blog/apple-iwork-11/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/apple-iwork-12/</loc>
     
     <lastmod>2022-05-24</lastmod>
@@ -3386,15 +3395,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/apple-iwork-11/</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/apple-silicon-app/</loc>
     
     <lastmod>2022-05-24</lastmod>
@@ -3404,7 +3404,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/apple-silicon-universal-app/</loc>
+    <loc>https://sysin.org/blog/apple-watch-locked/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3413,7 +3413,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/apple-watch-locked/</loc>
+    <loc>https://sysin.org/blog/apple-silicon-universal-app/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3485,7 +3485,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/autodesk-maya-2022/</loc>
+    <loc>https://sysin.org/blog/baidu-netdisk-restrict/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3494,7 +3494,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/baidu-netdisk-restrict/</loc>
+    <loc>https://sysin.org/blog/autodesk-maya-2022/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3611,7 +3611,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/clear-browser-dns-cache/</loc>
+    <loc>https://sysin.org/blog/citrix-adc-13/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3620,7 +3620,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/citrix-adc-13/</loc>
+    <loc>https://sysin.org/blog/clear-browser-dns-cache/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3701,7 +3701,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/disable-chrome-auto-update/</loc>
+    <loc>https://sysin.org/blog/disable-edge-auto-update/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3710,7 +3710,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/disable-edge-auto-update/</loc>
+    <loc>https://sysin.org/blog/disable-chrome-auto-update/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3728,7 +3728,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/disable-ubuntu-auto-update/</loc>
+    <loc>https://sysin.org/blog/disable-ubuntu-cloud-init/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3737,7 +3737,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/disable-ubuntu-cloud-init/</loc>
+    <loc>https://sysin.org/blog/disable-ubuntu-auto-update/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3773,7 +3773,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/exchange-2016/</loc>
+    <loc>https://sysin.org/blog/exchange-2019/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3782,7 +3782,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/exchange-2019/</loc>
+    <loc>https://sysin.org/blog/exchange-2016/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3845,15 +3845,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-iq-8/</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/f5-big-iq-8-2/</loc>
     
     <lastmod>2022-05-24</lastmod>
@@ -3863,7 +3854,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-irule-mitigation-log4j2-vulnerability/</loc>
+    <loc>https://sysin.org/blog/f5-big-iq-8/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3872,7 +3863,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-log4j2-not-vulnerable/</loc>
+    <loc>https://sysin.org/blog/f5-irule-mitigation-log4j2-vulnerability/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3891,6 +3882,15 @@
   
   <url>
     <loc>https://sysin.org/blog/fortios-7/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/f5-log4j2-not-vulnerable/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4016,7 +4016,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-dataspell-2022/</loc>
+    <loc>https://sysin.org/blog/jb-goland-2022/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4025,7 +4025,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-goland-2022/</loc>
+    <loc>https://sysin.org/blog/jb-dataspell-2022/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4124,15 +4124,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/kali-linux-2021-3/</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/kali-linux-2021-4/</loc>
     
     <lastmod>2022-05-24</lastmod>
@@ -4143,6 +4134,15 @@
   
   <url>
     <loc>https://sysin.org/blog/kali-linux-2021/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/kali-linux-2021-3/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4754,7 +4754,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7-u2-nuc-usb-nvme/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-7-u2-nuc/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4763,7 +4763,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7-u2-nuc/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-7-u2-nuc-usb-nvme/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4781,7 +4781,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7-u2-slic/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-7-u2-usb-nic/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4790,7 +4790,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7-u2-usb-nic/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-7-u2-slic/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4826,25 +4826,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-fusion-for-apple-silicon/</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/vmware-horizon-8-2012/</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-horizon-8-2103/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4862,7 +4844,16 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-log4j2-vulnerability/</loc>
+    <loc>https://sysin.org/blog/vmware-horizon-8-2103/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-fusion-for-apple-silicon/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4872,6 +4863,15 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-nsx-alb-21/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-log4j2-vulnerability/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4934,15 +4934,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-tkg-120/</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/vmware-tkg-130/</loc>
     
     <lastmod>2022-05-24</lastmod>
@@ -4952,7 +4943,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-tkg-150/</loc>
+    <loc>https://sysin.org/blog/vmware-tkg-120/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4971,6 +4962,15 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-tkg/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-tkg-150/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -5168,7 +5168,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vrli-8/</loc>
+    <loc>https://sysin.org/blog/vrealize-2019/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -5177,7 +5177,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vrealize-2019/</loc>
+    <loc>https://sysin.org/blog/vrli-8/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -5873,14 +5873,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Free/</loc>
+    <loc>https://sysin.org/tags/kind/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/kind/</loc>
+    <loc>https://sysin.org/tags/Free/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
