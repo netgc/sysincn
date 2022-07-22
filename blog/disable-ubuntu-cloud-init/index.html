@@ -40,16 +40,18 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
+  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
+  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> 禁用或者移除 Ubuntu 中的 cloud-init - sysin | SYStem INside | 数据中心系统内幕 </title>
+  <title> 禁用或者移除 Ubuntu 中的 cloud-init - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" 禁用或者移除 Ubuntu 中的 cloud-init - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" 禁用或者移除 Ubuntu 中的 cloud-init "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.org/blog/disable-ubuntu-cloud-init/">
+  <link rel="canonical" href="https://sysin.cn/blog/disable-ubuntu-cloud-init/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -107,11 +109,6 @@
       <!-- ThemeColor end -->
     
 
-    
-      <!-- vcomments start -->
-      <script type="text/javascript" src="/js/valine.min.js"></script>
-      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
-      <!-- vcomments end -->
     
 
     
@@ -252,17 +249,6 @@
           
           
           <li>
-            <a href="/categories/">
-              
-              分类
-              
-              
-            </a>
-          </li>
-          
-          
-          
-          <li>
             <a href="/donate/">
               
               捐助
@@ -277,6 +263,17 @@
             <a href="/tags/">
               
               标签
+              
+              
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/categories/">
+              
+              分类
               
               
             </a>
@@ -464,7 +461,7 @@
         
 
         <p>请访问原文链接：<a href="/blog/disable-ubuntu-cloud-init/" title="禁用或者移除 Ubuntu 中的 cloud-init">禁用或者移除 Ubuntu 中的 cloud-init</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p><img src="https://assets.ubuntu.com/v1/15971bf5-cloud-init-primary.svg" alt="cloud-init"></p>
@@ -478,7 +475,7 @@
 <li>设置临时挂载点</li>
 </ul>
 <p><strong>适用于许多流行的操作系统：</strong></p>
-<p>虽然 cloud-init 始于 Ubuntu，但它现在可用于大多数主要的 Linux 和 FreeBSD 操作系统。对于云镜像提供商，cloud-init 会自动处理云供应商之间的许多差异 – 例如，官方的 Ubuntu 云镜像在所有公共云和私有云中都是相同的。</p>
+<p>虽然 cloud-init 始于 Ubuntu，但它现在可用于大多数主要的 Linux 和 FreeBSD 操作系统。对于云镜像提供商，cloud-init 会自动处理云供应商之间的许多差异 — 例如，官方的 Ubuntu 云镜像在所有公共云和私有云中都是相同的。</p>
 <ul>
 <li><a target="_blank" rel="noopener" href="https://launchpad.net/ubuntu/+source/cloud-init">Ubuntu, Get packages</a></li>
 <li><a target="_blank" rel="noopener" href="https://wiki.archlinux.org/index.php/Cloud-init">Arch Linux, Get packages</a></li>
@@ -490,11 +487,9 @@
 <li><a target="_blank" rel="noopener" href="https://build.opensuse.org/package/show/Cloud:Tools/cloud-init">OpenSUSE, Get packages</a></li>
 </ul>
 <p>非云环境，可以选择关闭它，或者彻底删除，方法如下：</p>
-<h2 id="方法-1-通过创建文件禁用-cloud-init">方法 1: 通过创建文件禁用 cloud-init</h2>
-<p>这是最简单最安全的方法 (sysin)，在 <code>/etc/cloud</code> 目录下创建 <code>cloud-init.disabled</code> 文件重启后生效。删除该文件就可以恢复。</p>
+<h2 id="方法-1-通过创建文件禁用-cloud-init"><a href="#方法-1-通过创建文件禁用-cloud-init" class="headerlink" title="方法 1: 通过创建文件禁用 cloud-init"></a>方法 1: 通过创建文件禁用 cloud-init</h2><p>这是最简单最安全的方法 (sysin)，在 <code>/etc/cloud</code> 目录下创建 <code>cloud-init.disabled</code> 文件重启后生效。删除该文件就可以恢复。</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">sudo touch /etc/cloud/cloud-init.disabled</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">init 6</span></span><br><span class="line">reboot</span><br></pre></td></tr></table></figure>
-<h2 id="方法-2-移除-cloud-init-软件包及文件夹">方法 2: 移除 cloud-init 软件包及文件夹</h2>
-<p>该方法彻底移除 cloud-init。</p>
+<h2 id="方法-2-移除-cloud-init-软件包及文件夹"><a href="#方法-2-移除-cloud-init-软件包及文件夹" class="headerlink" title="方法 2: 移除 cloud-init 软件包及文件夹"></a>方法 2: 移除 cloud-init 软件包及文件夹</h2><p>该方法彻底移除 cloud-init。</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">sudo apt purge cloud-init -y</span><br><span class="line"></span><br><span class="line">sudo rm -rf /etc/cloud &amp;&amp; sudo rm -rf /var/lib/cloud/</span><br><span class="line"></span><br><span class="line">reboot</span><br></pre></td></tr></table></figure>
 
 
@@ -581,24 +576,6 @@
 
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
-
-  <!-- vcomments Srtart -->
-  <div id="vcomments"></div>
-  <script>
-      new Valine({
-          el: '#vcomments',
-          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
-          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
-          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
-          requiredFields: ['nick','mail'],
-          visitor: 'true'
-      })
-  </script>
-  <div style="color:gray" align="right" id="/blog/disable-ubuntu-cloud-init/" class="leancloud-visitors" data-flag-title="禁用或者移除 Ubuntu 中的 cloud-init">
-    <em class="post-meta-item-text">visitors: </em>
-    <i class="leancloud-visitors-count">1000000</i>
-  </div>
-  <!-- vcomments End -->
 
 
 <!-- 1. gitalk comment -->
@@ -804,7 +781,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-          
+           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
       </p>
       </div>
     </div>
@@ -880,7 +857,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

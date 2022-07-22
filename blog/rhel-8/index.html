@@ -40,16 +40,18 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
+  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
+  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> Red Hat Enterprise Linux (RHEL) 8.5 GA - sysin | SYStem INside | 数据中心系统内幕 </title>
+  <title> Red Hat Enterprise Linux (RHEL) 8.5 GA - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" Red Hat Enterprise Linux (RHEL) 8.5 GA - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" Red Hat Enterprise Linux (RHEL) 8.5 GA "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.org/blog/rhel-8/">
+  <link rel="canonical" href="https://sysin.cn/blog/rhel-8/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -107,11 +109,6 @@
       <!-- ThemeColor end -->
     
 
-    
-      <!-- vcomments start -->
-      <script type="text/javascript" src="/js/valine.min.js"></script>
-      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
-      <!-- vcomments end -->
     
 
     
@@ -252,17 +249,6 @@
           
           
           <li>
-            <a href="/categories/">
-              
-              分类
-              
-              
-            </a>
-          </li>
-          
-          
-          
-          <li>
             <a href="/donate/">
               
               捐助
@@ -277,6 +263,17 @@
             <a href="/tags/">
               
               标签
+              
+              
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/categories/">
+              
+              分类
               
               
             </a>
@@ -462,21 +459,18 @@
         
 
         <p>请访问原文链接：<a href="/blog/rhel-8/" title="Red Hat Enterprise Linux (RHEL) 8.5 GA">Red Hat Enterprise Linux (RHEL) 8.5 GA</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p>2021 年 11 月 10 日，红帽企业 Linux (RHEL) 8.5 现已正式发布 (GA)，并带来了新功能和改进，以帮助简化部署、优化性能并帮助降低环境中的风险。无论您是在本地部署 RHEL，亦或在共有云上部署 RHEL，还是在边缘部署 RHEL，以上所有部署方式 (sysin)，RHEL 8.5 中都有一些改进，用户都会渴望深入研究。</p>
 <p><img src="redhat-developer-logo.svg" alt="Red Hat Developer logo"></p>
-<h2 id="RHEL-8-5-的新增功能">RHEL 8.5 的新增功能</h2>
-<h3 id="RHEL-8-5-中的-Linux-容器改进">RHEL 8.5 中的 Linux 容器改进</h3>
-<p>RHEL 8.5 延续了运行 Linux 容器的新功能和改进的传统。此版本带来的工具将增加灵活性并减少在更广泛的环境中运行 Podman 的摩擦。</p>
+<h2 id="RHEL-8-5-的新增功能"><a href="#RHEL-8-5-的新增功能" class="headerlink" title="RHEL 8.5 的新增功能"></a>RHEL 8.5 的新增功能</h2><h3 id="RHEL-8-5-中的-Linux-容器改进"><a href="#RHEL-8-5-中的-Linux-容器改进" class="headerlink" title="RHEL 8.5 中的 Linux 容器改进"></a>RHEL 8.5 中的 Linux 容器改进</h3><p>RHEL 8.5 延续了运行 Linux 容器的新功能和改进的传统。此版本带来的工具将增加灵活性并减少在更广泛的环境中运行 Podman 的摩擦。</p>
 <ul>
 <li><strong>容器化 Podman</strong> - RHEL 8 Podman 容器映像 (<a target="_blank" rel="noopener" href="https://catalog.redhat.com/software/containers/rhel8/podman/5dc383a0dd19c71643a22a37?container-tabs=overview">rhel8/podman</a>) 现已正式发布，可以帮助解锁 Podman 在云 CI/CD 系统、Windows 上的 WSL2、macOS 上的 Docker 桌面下以及（当然）在 RHEL 上的使用 6、7 和 8。您可以使用 Podman 容器镜像来帮助开发和运行其他容器镜像。</li>
 <li><strong>默认情况下验证容器镜像签名 -</strong> 在 RHEL 8.5 中，用户可以放心地拉取容器镜像。RHEL 8.5 开箱即用，将检查容器映像签名以验证它们实际上来自 Red Hat 并且未被篡改或操纵。</li>
 <li><strong>作为无根容器用户的本机 OverlayFS</strong> - RHEL 8.5 在构建和运行无根容器时提供更好的性能，并提供对 OverlayFS 的本机支持。</li>
 </ul>
-<h3 id="RHEL-8-5：更易于管理和部署">RHEL 8.5：更易于管理和部署</h3>
-<p>我们将继续专注于简化和改进管理和部署 RHEL 的方法。在 RHEL 8.5 中，我们引入了许多自动化和管理工具来自动执行手动任务、标准化大规模部署并简化其系统的日常管理。</p>
+<h3 id="RHEL-8-5：更易于管理和部署"><a href="#RHEL-8-5：更易于管理和部署" class="headerlink" title="RHEL 8.5：更易于管理和部署"></a>RHEL 8.5：更易于管理和部署</h3><p>我们将继续专注于简化和改进管理和部署 RHEL 的方法。在 RHEL 8.5 中，我们引入了许多自动化和管理工具来自动执行手动任务、标准化大规模部署并简化其系统的日常管理。</p>
 <ul>
 <li><strong>增强的 Web 控制台性能指标</strong> - 有助于识别性能问题。无论您是要确定 CPU、磁盘还是网络性能问题，RHEL 8.5 Web 控制台中提供的增强指标都可以帮助您解决问题。此外，您将能够更轻松地将指标导出到 Grafana 服务器。</li>
 <li><strong>用于硬件管理的 Ansible 模块</strong> - 使用 RHEL 8.5，您可以使用 Ansible 来管理智能平台管理接口 (IPMI) 的设置，例如系统的电源状态和设备的引导顺序。</li>
@@ -489,22 +483,19 @@
 <li><strong>增强的系统安全服务守护进程 (SSSD) 日志记录</strong> - 访问增强的 SSSD 用户身份验证日志，包括完成时间、错误、身份验证流程和配置等详细信息。此增强功能包括搜索功能，因此管理员可以更轻松地分析用户身份验证基础架构中的性能或配置问题。</li>
 <li><strong>网络时间协议 (NTP) 的网络时间安全 (NTS)</strong> - 应用 NTS 标准，该标准提供 NTP 服务器的加密身份验证。这种身份验证有助于防止可能危及关键计时服务的中间人攻击。</li>
 </ul>
-<h3 id="SQL-Server-增强功能">SQL Server 增强功能</h3>
-<p>在 RHEL 上运行 Microsoft SQL Server 的客户将看到许多增强功能，以帮助更有效地配置、管理和操作 RHEL。</p>
+<h3 id="SQL-Server-增强功能"><a href="#SQL-Server-增强功能" class="headerlink" title="SQL Server 增强功能"></a>SQL Server 增强功能</h3><p>在 RHEL 上运行 Microsoft SQL Server 的客户将看到许多增强功能，以帮助更有效地配置、管理和操作 RHEL。</p>
 <ul>
 <li><strong>Microsoft SQL Server 的 RHEL 系统角色</strong> - 可用于 RHEL 8.5。此系统角色允许 IT 管理员和 DBA 以自动化方式更快地安装、配置和调整 SQL Server。</li>
 <li><strong>用于 Red Hat Insights 的 SQL Server 评估 API</strong> - 通过提供来自 Microsoft 的 SQL Server 评估 API 的信息，帮助为系统和数据库管理员提供最佳用户体验。它有助于提供来自 Microsoft 的最佳实践来评估 SQL Server 的配置，并为用户提供针对通过 API 发现的问题的修复功能。</li>
 </ul>
-<h3 id="对于开发人员和应用程序支持">对于开发人员和应用程序支持</h3>
-<p>归根结底，RHEL 就是要运行您的应用程序和基础架构。作为构建和运行下一代应用程序的坚实基础，RHEL 8.5 支持 OpenJDK 17 和 .NET 6。</p>
+<h3 id="对于开发人员和应用程序支持"><a href="#对于开发人员和应用程序支持" class="headerlink" title="对于开发人员和应用程序支持"></a>对于开发人员和应用程序支持</h3><p>归根结底，RHEL 就是要运行您的应用程序和基础架构。作为构建和运行下一代应用程序的坚实基础，RHEL 8.5 支持 OpenJDK 17 和 .NET 6。</p>
 <p>OpenJDK 17 允许开发人员利用新的 Java 功能，同时还提高了现有应用程序环境的稳定性。OpenJDK 17 中值得注意的功能包括增强的伪随机数生成器，它是许多加密操作的通用基础，代数数据类型简化了复杂数据的建模方式，以及强制执行严格的浮点一致性以更好地预测数字敏感应用程序。</p>
 <p>OpenJDK 17 也可用作 RHEL 通用基础映像 (UBI) 容器，为开发人员团队提供了尝试和升级应用程序以及在 CI/CD 管道中使用 OpenJDK 的新方法。</p>
 <p>.NET 6 的核心是从 .NET 5 开始的 .NET 统一计划的最后部分。</p>
 <p>.NET 6 是具有多项性能改进的长期支持版本。.NET 6 中的新功能是 C# 支持以及改进的诊断和几个新的 API，包括 WebSocket 压缩和简化的加密。</p>
-<h3 id="请继续关注更多">请继续关注更多</h3>
-<p>这只是您将通过 RHEL 8.5 获得的优点的高级概述。查看 <a target="_blank" rel="noopener" href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.5_release_notes/index">RHEL 8.5 发行说明</a> 并继续关注红帽博客，深入了解 RHEL 8.5 的这些和其他重要领域。</p>
-<h2 id="下载地址-226">下载地址</h2>
-<p>Red Hat Enterprise Linux 8.5.0</p>
+<h3 id="请继续关注更多"><a href="#请继续关注更多" class="headerlink" title="请继续关注更多"></a>请继续关注更多</h3><p>这只是您将通过 RHEL 8.5 获得的优点的高级概述。查看 <a target="_blank" rel="noopener" href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.5_release_notes/index">RHEL 8.5 发行说明</a> 并继续关注红帽博客，深入了解 RHEL 8.5 的这些和其他重要领域。</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>Red Hat Enterprise Linux 8.5.0</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -546,6 +537,7 @@
 </tr>
 </tbody>
 </table>
+</div>
 <p>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1dVup1vDFLi9RFkTK2SklzA">https://pan.baidu.com/s/1dVup1vDFLi9RFkTK2SklzA</a>  提取码：ipug</p>
 
 
@@ -633,24 +625,6 @@
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
-  <!-- vcomments Srtart -->
-  <div id="vcomments"></div>
-  <script>
-      new Valine({
-          el: '#vcomments',
-          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
-          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
-          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
-          requiredFields: ['nick','mail'],
-          visitor: 'true'
-      })
-  </script>
-  <div style="color:gray" align="right" id="/blog/rhel-8/" class="leancloud-visitors" data-flag-title="Red Hat Enterprise Linux (RHEL) 8.5 GA">
-    <em class="post-meta-item-text">visitors: </em>
-    <i class="leancloud-visitors-count">1000000</i>
-  </div>
-  <!-- vcomments End -->
-
 
 <!-- 1. gitalk comment -->
 
@@ -683,7 +657,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#RHEL-8-5-%E7%9A%84%E6%96%B0%E5%A2%9E%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">RHEL 8.5 的新增功能</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#RHEL-8-5-%E4%B8%AD%E7%9A%84-Linux-%E5%AE%B9%E5%99%A8%E6%94%B9%E8%BF%9B"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">RHEL 8.5 中的 Linux 容器改进</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#RHEL-8-5%EF%BC%9A%E6%9B%B4%E6%98%93%E4%BA%8E%E7%AE%A1%E7%90%86%E5%92%8C%E9%83%A8%E7%BD%B2"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">RHEL 8.5：更易于管理和部署</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#SQL-Server-%E5%A2%9E%E5%BC%BA%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">SQL Server 增强功能</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%AF%B9%E4%BA%8E%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%92%8C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%94%AF%E6%8C%81"><span class="toc-nav-number">1.4.</span> <span class="toc-nav-text">对于开发人员和应用程序支持</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%AF%B7%E7%BB%A7%E7%BB%AD%E5%85%B3%E6%B3%A8%E6%9B%B4%E5%A4%9A"><span class="toc-nav-number">1.5.</span> <span class="toc-nav-text">请继续关注更多</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-226"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#RHEL-8-5-%E7%9A%84%E6%96%B0%E5%A2%9E%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">RHEL 8.5 的新增功能</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#RHEL-8-5-%E4%B8%AD%E7%9A%84-Linux-%E5%AE%B9%E5%99%A8%E6%94%B9%E8%BF%9B"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">RHEL 8.5 中的 Linux 容器改进</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#RHEL-8-5%EF%BC%9A%E6%9B%B4%E6%98%93%E4%BA%8E%E7%AE%A1%E7%90%86%E5%92%8C%E9%83%A8%E7%BD%B2"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">RHEL 8.5：更易于管理和部署</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#SQL-Server-%E5%A2%9E%E5%BC%BA%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">SQL Server 增强功能</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%AF%B9%E4%BA%8E%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%92%8C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%94%AF%E6%8C%81"><span class="toc-nav-number">1.4.</span> <span class="toc-nav-text">对于开发人员和应用程序支持</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%AF%B7%E7%BB%A7%E7%BB%AD%E5%85%B3%E6%B3%A8%E6%9B%B4%E5%A4%9A"><span class="toc-nav-number">1.5.</span> <span class="toc-nav-text">请继续关注更多</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -853,7 +827,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-          
+           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
       </p>
       </div>
     </div>
@@ -929,7 +903,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

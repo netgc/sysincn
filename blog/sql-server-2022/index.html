@@ -40,16 +40,18 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
+  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
+  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> SQL Server 2022 预览版发布：基于 Azure 的持续性能和安全创新 - sysin | SYStem INside | 数据中心系统内幕 </title>
+  <title> SQL Server 2022 预览版发布：基于 Azure 的持续性能和安全创新 - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" SQL Server 2022 预览版发布：基于 Azure 的持续性能和安全创新 - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" SQL Server 2022 预览版发布：基于 Azure 的持续性能和安全创新 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.org/blog/sql-server-2022/">
+  <link rel="canonical" href="https://sysin.cn/blog/sql-server-2022/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -107,11 +109,6 @@
       <!-- ThemeColor end -->
     
 
-    
-      <!-- vcomments start -->
-      <script type="text/javascript" src="/js/valine.min.js"></script>
-      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
-      <!-- vcomments end -->
     
 
     
@@ -252,17 +249,6 @@
           
           
           <li>
-            <a href="/categories/">
-              
-              分类
-              
-              
-            </a>
-          </li>
-          
-          
-          
-          <li>
             <a href="/donate/">
               
               捐助
@@ -277,6 +263,17 @@
             <a href="/tags/">
               
               标签
+              
+              
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/categories/">
+              
+              分类
               
               
             </a>
@@ -468,7 +465,7 @@
         
 
         <p>请访问原文链接：<a href="/blog/sql-server-2022/" title="SQL Server 2022 预览版发布：基于 Azure 的持续性能和安全创新">SQL Server 2022 预览版发布：基于 Azure 的持续性能和安全创新</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p><a target="_blank" rel="noopener" href="https://cloudblogs.microsoft.com/sqlserver/2021/11/02/announcing-sql-server-2022-preview-azure-enabled-with-continued-performance-and-security-innovation/">Announcing SQL Server 2022 preview: Azure-enabled with continued performance and security innovation</a></p>
@@ -483,31 +480,22 @@
 <p>为了在这种环境中为客户提供支持，Microsoft 提供了一个端到端的产品和服务数据平台，这些产品和服务共同应对这些挑战。操作数据库涵盖所有可能的部署位置，包括 SQL Server 和启用 Azure Arc 的数据服务、Azure SQL 完全托管的云数据库以及用于 IoT 设备的 Azure SQL Edge。为了实现实时洞察，Azure Synapse Analytics 将数据集成、企业数据仓库和大数据分析结合在一起 (sysin)，客户可以使用 Power BI 可视化他们的数据。客户可以使用 Azure Purview 发现、编目和管理其数据所在的任何位置。</p>
 <p>SQL Server 2022 与 Azure Synapse Link 和 Azure Purview 集成，使客户能够从其大规模数据中获得更深入的洞察、预测和治理。云集成通过到 Azure SQL 托管实例的灾难恢复 (DR) 以及到云分析的无 ETL（提取、转换和加载）连接得到增强，这使数据库管理员能够以更大的灵活性和最小的影响来管理他们的数据资产最终用户。性能和可扩展性通过内置的查询智能自动增强。跨语言和平台（包括 Linux、Windows 和 Kubernetes）有多种选择和灵活性。</p>
 <p><img src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2021/10/Picture1-1024x516.webp" alt="SQL Server 2022：性能和安全方面的行业领导者，由 Azure 提供支持"></p>
-<h2 id="启用-Azure">启用 Azure</h2>
-<h3 id="双向-HA-DR-到-Azure-SQL">双向 HA/DR 到 Azure SQL</h3>
-<p>为确保正常运行时间，SQL Server 2022 与 Azure SQL 托管实例中的新链接功能完全集成。借助 Azure SQL 托管实例的新链接功能，您现在可以获得运行适用于灾难恢复的 PaaS 环境的所有好处——即使与 IaaS 环境相比，您也可以在设置和管理上花费更少的时间。这是通过使用内置的分布式可用性组 (DAG) 将数据复制到以前部署的 Azure SQL 托管实例作为 DR 副本站点来实现的。该实例已准备就绪，可在您需要时随时等待 — 无需冗长的配置或维护。您还可以在读取横向扩展方案中使用此链接功能来卸载可能会影响数据库性能的繁重请求。我们正在努力构建更多功能来支持双向数据移动。</p>
-<h3 id="Azure-突触链接">Azure 突触链接</h3>
-<p>以前，将数据从本地数据库（如 SQL Server）移动到 Synapse 需要您使用 ETL。众所周知，设置和运行 ETL 管道需要大量工作，而且洞察力落后于任何时刻发生的事情。适用于 SQL Server 2022 的 Azure Synapse Link 提供自动更改源，可捕获 SQL Server 中的更改并将这些更改提供给 Azure Synapse Analytics。它提供近乎实时的分析以及混合事务和分析处理，对操作系统的影响最小。数据到达 Synapse 后，您可以将其与许多不同的数据源结合起来 (sysin)，无论它们的大小、规模或格式如何，并使用您选择的 Azure 机器学习、Spark 或 Power BI 对所有数据运行强大的分析。由于自动更改源只会推送新的或不同的内容，因此数据传输速度更快，现在可以实现近乎实时的洞察，同时对 SQL Server 2022 中源数据库的性能影响最小。</p>
-<h3 id="Azure-权限集成">Azure 权限集成</h3>
-<p>我们最近宣布正式推出 Azure Purview 作为统一的数据治理和管理服务。我们很高兴地强调，SQL Server 还与 Azure Purview 集成以实现更好的数据发现，从而打破数据孤岛。通过此集成，您将能够：</p>
+<h2 id="启用-Azure"><a href="#启用-Azure" class="headerlink" title="启用 Azure"></a>启用 Azure</h2><h3 id="双向-HA-DR-到-Azure-SQL"><a href="#双向-HA-DR-到-Azure-SQL" class="headerlink" title="双向 HA/DR 到 Azure SQL"></a>双向 HA/DR 到 Azure SQL</h3><p>为确保正常运行时间，SQL Server 2022 与 Azure SQL 托管实例中的新链接功能完全集成。借助 Azure SQL 托管实例的新链接功能，您现在可以获得运行适用于灾难恢复的 PaaS 环境的所有好处——即使与 IaaS 环境相比，您也可以在设置和管理上花费更少的时间。这是通过使用内置的分布式可用性组 (DAG) 将数据复制到以前部署的 Azure SQL 托管实例作为 DR 副本站点来实现的。该实例已准备就绪，可在您需要时随时等待 — 无需冗长的配置或维护。您还可以在读取横向扩展方案中使用此链接功能来卸载可能会影响数据库性能的繁重请求。我们正在努力构建更多功能来支持双向数据移动。</p>
+<h3 id="Azure-突触链接"><a href="#Azure-突触链接" class="headerlink" title="Azure 突触链接"></a>Azure 突触链接</h3><p>以前，将数据从本地数据库（如 SQL Server）移动到 Synapse 需要您使用 ETL。众所周知，设置和运行 ETL 管道需要大量工作，而且洞察力落后于任何时刻发生的事情。适用于 SQL Server 2022 的 Azure Synapse Link 提供自动更改源，可捕获 SQL Server 中的更改并将这些更改提供给 Azure Synapse Analytics。它提供近乎实时的分析以及混合事务和分析处理，对操作系统的影响最小。数据到达 Synapse 后，您可以将其与许多不同的数据源结合起来 (sysin)，无论它们的大小、规模或格式如何，并使用您选择的 Azure 机器学习、Spark 或 Power BI 对所有数据运行强大的分析。由于自动更改源只会推送新的或不同的内容，因此数据传输速度更快，现在可以实现近乎实时的洞察，同时对 SQL Server 2022 中源数据库的性能影响最小。</p>
+<h3 id="Azure-权限集成"><a href="#Azure-权限集成" class="headerlink" title="Azure 权限集成"></a>Azure 权限集成</h3><p>我们最近宣布正式推出 Azure Purview 作为统一的数据治理和管理服务。我们很高兴地强调，SQL Server 还与 Azure Purview 集成以实现更好的数据发现，从而打破数据孤岛。通过此集成，您将能够：</p>
 <ul>
 <li>免费自动扫描您的本地 SQL Server 以捕获元数据。</li>
 <li>使用内置和自定义分类器以及 Microsoft 信息保护敏感度标签对数据进行分类。</li>
 <li>设置和控制对 SQL Server 的特定访问权限。</li>
 </ul>
-<h2 id="性能、安全性和可用性的增强">性能、安全性和可用性的增强</h2>
-<h3 id="表现">表现</h3>
-<p>SQL Server 提供差异化的性能，OLTP 性能1️⃣在 1TB 上的 和非集群 DW 性能排名第一2️⃣，、3TB3️⃣、10TB4️⃣ 和 30TB5️⃣ 根据独立的事务处理性能委员会。SQL Server 2022 创新中的内置查询智能包括：</p>
+<h2 id="性能、安全性和可用性的增强"><a href="#性能、安全性和可用性的增强" class="headerlink" title="性能、安全性和可用性的增强"></a>性能、安全性和可用性的增强</h2><h3 id="表现"><a href="#表现" class="headerlink" title="表现"></a>表现</h3><p>SQL Server 提供差异化的性能，OLTP 性能1️⃣在 1TB 上的 和非集群 DW 性能排名第一2️⃣，、3TB3️⃣、10TB4️⃣ 和 30TB5️⃣ 根据独立的事务处理性能委员会。SQL Server 2022 创新中的内置查询智能包括：</p>
 <ul>
 <li>对于查询存储，我们正在添加对只读副本的支持并启用查询提示以提高性能并快速缓解问题，而无需更改源 T-SQL。</li>
 <li>对于智能查询处理，我们正在根据常见的客户问题扩展更多场景。例如，“参数敏感计划” 问题指的是这样一种情况，即参数化查询的单个缓存计划对于所有可能的传入参数值并不是最佳的。借助 SQL Server 2022 的参数敏感计划优化功能，我们可以为单个参数化语句自动启用多个活动缓存计划的生成。这些缓存的执行计划将根据提供的运行时参数值容纳不同的数据大小。</li>
 </ul>
-<h3 id="安全-5">安全</h3>
-<p>在过去十年中，SQL Server 的漏洞比竞争对手少。6️⃣ 在此基础上，新的分类账功能创建了一个不可变的数据修改跟踪记录。这可以防止数据被恶意行为者篡改，并且有利于内部和外部审计等场景。</p>
-<h3 id="可用性">可用性</h3>
-<p>随着员工和客户向更全球化分布的转变，许多组织正在转向多写入环境，该环境允许对本地数据库进行更改并以双向更新流推送到其他副本。但是，如果多人更改了数据库中的同一行，并且不同的写副本中包含不同的信息，那么以前这种对等副本冲突将导致整个操作停滞，直到它被解决。使用 SQL Server 2022，我们正在自动执行最后写入者获胜规则。现在，当检测到冲突时，将选择最近的修改时间在所有副本上持久化。这有助于保持您的多写场景平稳运行。</p>
-<h2 id="了解更多信息并立即申请预览">了解更多信息并立即申请预览</h2>
-<p>目前，我们正在为有限数量的客户和合作伙伴加入我们的 SQL Server 2022 预览版，在来年的公共预览版和全面上市之前。</p>
+<h3 id="安全"><a href="#安全" class="headerlink" title="安全"></a>安全</h3><p>在过去十年中，SQL Server 的漏洞比竞争对手少。6️⃣ 在此基础上，新的分类账功能创建了一个不可变的数据修改跟踪记录。这可以防止数据被恶意行为者篡改，并且有利于内部和外部审计等场景。</p>
+<h3 id="可用性"><a href="#可用性" class="headerlink" title="可用性"></a>可用性</h3><p>随着员工和客户向更全球化分布的转变，许多组织正在转向多写入环境，该环境允许对本地数据库进行更改并以双向更新流推送到其他副本。但是，如果多人更改了数据库中的同一行，并且不同的写副本中包含不同的信息，那么以前这种对等副本冲突将导致整个操作停滞，直到它被解决。使用 SQL Server 2022，我们正在自动执行最后写入者获胜规则。现在，当检测到冲突时，将选择最近的修改时间在所有副本上持久化。这有助于保持您的多写场景平稳运行。</p>
+<h2 id="了解更多信息并立即申请预览"><a href="#了解更多信息并立即申请预览" class="headerlink" title="了解更多信息并立即申请预览"></a>了解更多信息并立即申请预览</h2><p>目前，我们正在为有限数量的客户和合作伙伴加入我们的 SQL Server 2022 预览版，在来年的公共预览版和全面上市之前。</p>
 <p>在我们的 讨论，了解有关 SQL Server 2022 版本的更多信息 <a target="_blank" rel="noopener" href="https://aka.ms/sqlserver2022">网页上</a> 以及通过在 观看深入 <a target="_blank" rel="noopener" href="https://myignite.microsoft.com/sessions/88fb4748-e5a9-4fc2-8ddb-68366473a8bd?source=sessions">Microsoft Ignite</a>、 <a target="_blank" rel="noopener" href="https://aka.ms/sqlserver2022mechanics">Microsoft Mechanics</a> 和即将举行的免费虚拟 <a target="_blank" rel="noopener" href="https://passdatacommunitysummit.com/">PASS 数据社区峰会上</a>。</p>
 <p><a target="_blank" rel="noopener" href="https://aka.ms/EAPSignup">立即注册</a> 以申请 SQL Server 2022 预览版并随时了解 SQL Server 2022 更新。</p>
 <p><a target="_blank" rel="noopener" href="https://aka.ms/sqlserver2022mechanics"><img src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2021/11/SQL22-azure-enabled-thumbnail-with-play-button.webp" alt="观看视频以了解有关内容的更多信息"></a></p>
@@ -519,8 +507,7 @@
 <p><em>4️⃣</em> <a target="_blank" rel="noopener" href="http://www.tpc.org/3362">http://www.tpc.org/3362</a></p>
 <p><em>5️⃣</em> <a target="_blank" rel="noopener" href="http://www.tpc.org/3364">http://www.tpc.org/3364</a></p>
 <p><em>6️⃣</em> <a target="_blank" rel="noopener" href="https://nvd.nist.gov">美国国家标准与技术研究院综合漏洞数据库</a></p>
-<h2 id="下载地址-257">下载地址</h2>
-<p>暂无，将在可用时发布。</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>暂无，将在可用时发布。</p>
 <p>申请获得早期版本：<a target="_blank" rel="noopener" href="https://aka.ms/EAPSignup">Join the SQL Server 2022 Early Adoption Program</a></p>
 
 
@@ -608,24 +595,6 @@
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
-  <!-- vcomments Srtart -->
-  <div id="vcomments"></div>
-  <script>
-      new Valine({
-          el: '#vcomments',
-          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
-          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
-          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
-          requiredFields: ['nick','mail'],
-          visitor: 'true'
-      })
-  </script>
-  <div style="color:gray" align="right" id="/blog/sql-server-2022/" class="leancloud-visitors" data-flag-title="SQL Server 2022 预览版发布：基于 Azure 的持续性能和安全创新">
-    <em class="post-meta-item-text">visitors: </em>
-    <i class="leancloud-visitors-count">1000000</i>
-  </div>
-  <!-- vcomments End -->
-
 
 <!-- 1. gitalk comment -->
 
@@ -658,7 +627,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%90%AF%E7%94%A8-Azure"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">启用 Azure</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%8F%8C%E5%90%91-HA-DR-%E5%88%B0-Azure-SQL"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">双向 HA&#x2F;DR 到 Azure SQL</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Azure-%E7%AA%81%E8%A7%A6%E9%93%BE%E6%8E%A5"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">Azure 突触链接</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Azure-%E6%9D%83%E9%99%90%E9%9B%86%E6%88%90"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">Azure 权限集成</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E6%80%A7%E8%83%BD%E3%80%81%E5%AE%89%E5%85%A8%E6%80%A7%E5%92%8C%E5%8F%AF%E7%94%A8%E6%80%A7%E7%9A%84%E5%A2%9E%E5%BC%BA"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">性能、安全性和可用性的增强</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%A1%A8%E7%8E%B0"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">表现</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%AE%89%E5%85%A8-5"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">安全</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%8F%AF%E7%94%A8%E6%80%A7"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">可用性</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%BA%86%E8%A7%A3%E6%9B%B4%E5%A4%9A%E4%BF%A1%E6%81%AF%E5%B9%B6%E7%AB%8B%E5%8D%B3%E7%94%B3%E8%AF%B7%E9%A2%84%E8%A7%88"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">了解更多信息并立即申请预览</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-257"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%90%AF%E7%94%A8-Azure"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">启用 Azure</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%8F%8C%E5%90%91-HA-DR-%E5%88%B0-Azure-SQL"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">双向 HA&#x2F;DR 到 Azure SQL</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Azure-%E7%AA%81%E8%A7%A6%E9%93%BE%E6%8E%A5"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">Azure 突触链接</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Azure-%E6%9D%83%E9%99%90%E9%9B%86%E6%88%90"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">Azure 权限集成</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E6%80%A7%E8%83%BD%E3%80%81%E5%AE%89%E5%85%A8%E6%80%A7%E5%92%8C%E5%8F%AF%E7%94%A8%E6%80%A7%E7%9A%84%E5%A2%9E%E5%BC%BA"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">性能、安全性和可用性的增强</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%A1%A8%E7%8E%B0"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">表现</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%AE%89%E5%85%A8"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">安全</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%8F%AF%E7%94%A8%E6%80%A7"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">可用性</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%BA%86%E8%A7%A3%E6%9B%B4%E5%A4%9A%E4%BF%A1%E6%81%AF%E5%B9%B6%E7%AB%8B%E5%8D%B3%E7%94%B3%E8%AF%B7%E9%A2%84%E8%A7%88"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">了解更多信息并立即申请预览</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -834,7 +803,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-          
+           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
       </p>
       </div>
     </div>
@@ -910,7 +879,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

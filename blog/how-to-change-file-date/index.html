@@ -40,16 +40,18 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
+  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
+  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> 如何修改文件的 “创建时间” 和 “修改时间” (macOS, Linux, Windows) - sysin | SYStem INside | 数据中心系统内幕 </title>
+  <title> 如何修改文件的 “创建时间” 和 “修改时间” (macOS, Linux, Windows) - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" 如何修改文件的 “创建时间” 和 “修改时间” (macOS, Linux, Windows) - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" 如何修改文件的 “创建时间” 和 “修改时间” (macOS, Linux, Windows) "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.org/blog/how-to-change-file-date/">
+  <link rel="canonical" href="https://sysin.cn/blog/how-to-change-file-date/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -107,11 +109,6 @@
       <!-- ThemeColor end -->
     
 
-    
-      <!-- vcomments start -->
-      <script type="text/javascript" src="/js/valine.min.js"></script>
-      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
-      <!-- vcomments end -->
     
 
     
@@ -252,17 +249,6 @@
           
           
           <li>
-            <a href="/categories/">
-              
-              分类
-              
-              
-            </a>
-          </li>
-          
-          
-          
-          <li>
             <a href="/donate/">
               
               捐助
@@ -277,6 +263,17 @@
             <a href="/tags/">
               
               标签
+              
+              
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/categories/">
+              
+              分类
               
               
             </a>
@@ -466,19 +463,16 @@
         
 
         <p>请访问原文链接：<a href="/blog/how-to-change-file-date/" title="如何修改文件的 “创建时间” 和 “修改时间” (macOS, Linux, Windows)">如何修改文件的 “创建时间” 和 “修改时间” (macOS, Linux, Windows)</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
-<h2 id="1-macOS（创建时间，修改时间）">1. macOS（创建时间，修改时间）</h2>
-<h3 id="GUI">GUI</h3>
-<p>在 macOS 中，点击文件右键 “显示简介”，显示 “创建时间” 和 “修改时间”。</p>
+<h2 id="1-macOS（创建时间，修改时间）"><a href="#1-macOS（创建时间，修改时间）" class="headerlink" title="1. macOS（创建时间，修改时间）"></a>1. macOS（创建时间，修改时间）</h2><h3 id="GUI"><a href="#GUI" class="headerlink" title="GUI"></a>GUI</h3><p>在 macOS 中，点击文件右键 “显示简介”，显示 “创建时间” 和 “修改时间”。</p>
 <p><img src="macos-file-time.webp" alt="macOS 显示简介"></p>
 <p>在 Finder（访达）中，除了上述两个时间，同时会有 “上次打开日期” 和 “添加日期” 这两个特殊的文件属性。“上次打开日期” 记录了上次打开这个文件的最后时间，无论是否编辑和更改文件内容。“添加日期” 记录了文件在当前位置产生的时间，比如是新创建的一个文件，该时间等于创建时间，如果是复制的文件，或者通过网络下载的文件，该时间只是在当前位置产生的时间，与创建时间无关。这两个特殊的文件属性默认无法修改。</p>
 <p><strong>修改 “创建时间” 和 “修改时间”：</strong></p>
 <p>可以使用这个 App：<a target="_blank" rel="noopener" href="https://www.publicspace.net/ABetterFinderAttributes/index.html">A Better Finder Attributes</a>（商业）</p>
 <p><img src="abfa.webp" alt="A Better Finder Attributes"></p>
-<h3 id="Terminal">Terminal</h3>
-<p>在 Darwin 系统部分（Darwin 一般是指 macOS 的命令行部分），类似于 Linux 有 atime、mtime 和 ctime，但是还多了 birthtime 即创建时间。</p>
+<h3 id="Terminal"><a href="#Terminal" class="headerlink" title="Terminal"></a>Terminal</h3><p>在 Darwin 系统部分（Darwin 一般是指 macOS 的命令行部分），类似于 Linux 有 atime、mtime 和 ctime，但是还多了 birthtime 即创建时间。</p>
 <p>直接使用 stat 命令可以查看文件时间属性，可以看到有 4 个时间，但是不友好，没法直接辨别。其实分别是：Access、Modify、Change 和 Creation。</p>
 <p>但作为正统 Unix 系统，Darwin 的 stat 命令有额外的参数：</p>
 <p>加上 -x 参数可以看到 Access、Modify 和 Change 三个时间，类似 Linux 中直接执行 stat 的效果。</p>
@@ -488,12 +482,11 @@
 <p>touch（同 Linux，修改时间和访问时间）</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">修改 “修改时间”</span></span><br><span class="line">touch -m -t YYYYMMDDhhmm filename</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">修改 “访问时间和修改时间”</span></span><br><span class="line">touch -t YYYYMMDDhhmm filename</span><br><span class="line"></span><br><span class="line">YYYY  年 - 四位数</span><br><span class="line">MM    月 - 两位数</span><br><span class="line">DD    日 - 两位数</span><br><span class="line">hh    小时 - 两位数</span><br><span class="line">mm    分钟 - 两位数</span><br><span class="line"></span><br><span class="line">touch -mt 202005181505 sysin.txt</span><br><span class="line">touch -t 202005191505 sysin.txt</span><br></pre></td></tr></table></figure>
 <p>setfile（创建时间和修改时间）</p>
-<p>需要安装 Xcode command line tools（命令：xcode-select --install）</p>
+<p>需要安装 Xcode command line tools（命令：xcode-select —install）</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">setfile</span><br><span class="line">Usage: SetFile [option...] file...</span><br><span class="line">    -a attributes     # attributes (lowercase = 0, uppercase = 1)*</span><br><span class="line">    -c creator        # file creator</span><br><span class="line">    -d date           # creation date (mm/dd/[yy]yy [hh:mm[:ss] [AM | PM]])*</span><br><span class="line">    -m date           # modification date (mm/dd/[yy]yy [hh:mm[:ss] [AM | PM]])*</span><br><span class="line">    -P                # perform action on symlink instead of following it</span><br><span class="line">    -t type           # file type</span><br></pre></td></tr></table></figure>
 <p>示例：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">#</span><span class="language-bash"><span class="comment"># 修改创建日期：setfile -d mm/dd/yy hh:mm:ss filename</span></span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash"><span class="comment"># 修改修改日期：setfile -m mm/dd/yy hh:mm:ss filename</span></span></span><br><span class="line"></span><br><span class="line">setfile -d &#x27;1/1/2021 18:18:0&#x27; sysin.txt</span><br><span class="line">setfile -m &#x27;1/1/2021 18:18:0&#x27; sysin.txt</span><br></pre></td></tr></table></figure>
-<h2 id="2-Linux（修改时间，访问时间）">2. Linux（修改时间，访问时间）</h2>
-<p><strong>注意：Linux（包括传统 Unix）中没有 “创建（creation）” 时间的概念</strong>（除非使用 <a target="_blank" rel="noopener" href="https://linoxide.com/file-system/find-linux-file-creation-time-using-debugfs/">debugfs</a>）</p>
+<h2 id="2-Linux（修改时间，访问时间）"><a href="#2-Linux（修改时间，访问时间）" class="headerlink" title="2. Linux（修改时间，访问时间）"></a>2. Linux（修改时间，访问时间）</h2><p><strong>注意：Linux（包括传统 Unix）中没有 “创建（creation）” 时间的概念</strong>（除非使用 <a target="_blank" rel="noopener" href="https://linoxide.com/file-system/find-linux-file-creation-time-using-debugfs/">debugfs</a>）</p>
 <p>查看文件时间信息（stat 命令）</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">创建一个测试文件</span></span><br><span class="line"><span class="meta prompt_">$ </span><span class="language-bash"><span class="built_in">touch</span> sysin.txt</span></span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">使用 <span class="built_in">stat</span> 命令查看文件时间信息</span></span><br><span class="line"><span class="meta prompt_">$ </span><span class="language-bash"><span class="built_in">stat</span> sysin.txt</span></span><br><span class="line">  File: sysin.txt</span><br><span class="line">  Size: 0               Blocks: 0          IO Block: 4096   regular empty file</span><br><span class="line">Device: fd01h/64769d    Inode: 405343      Links: 1</span><br><span class="line">Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)</span><br><span class="line">Access: 2021-01-08 13:22:44.792348339 +0800</span><br><span class="line">Modify: 2021-01-08 13:22:44.792348339 +0800</span><br><span class="line">Change: 2021-01-08 13:22:44.792348339 +0800</span><br><span class="line"> Birth: -</span><br></pre></td></tr></table></figure>
 <p>有如下三种时间</p>
@@ -512,9 +505,7 @@
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">NOW=$(date) &amp;&amp; date -s &quot;2021-09-05 08:00:00&quot; &amp;&amp; touch file.txt &amp;&amp; date -s &quot;$NOW&quot;</span><br></pre></td></tr></table></figure>
 <p><strong>示例，修改当前目录下所有文件和目录的三个时间为指定时间：</strong></p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">NOW=$(date) &amp;&amp; date -s &quot;2021-09-05 08:00:00&quot; &amp;&amp; touch * &amp;&amp; date -s &quot;$NOW&quot;</span><br></pre></td></tr></table></figure>
-<h2 id="3-Windows（创建时间，修改时间，访问时间）">3. Windows（创建时间，修改时间，访问时间）</h2>
-<h3 id="图形界面">图形界面</h3>
-<p>点击一个文件右键 “属性” 即可查看文件的时间属性，可以看到有 “创建时间”、“修改时间” 和 “访问时间” 三个属性。</p>
+<h2 id="3-Windows（创建时间，修改时间，访问时间）"><a href="#3-Windows（创建时间，修改时间，访问时间）" class="headerlink" title="3. Windows（创建时间，修改时间，访问时间）"></a>3. Windows（创建时间，修改时间，访问时间）</h2><h3 id="图形界面"><a href="#图形界面" class="headerlink" title="图形界面"></a>图形界面</h3><p>点击一个文件右键 “属性” 即可查看文件的时间属性，可以看到有 “创建时间”、“修改时间” 和 “访问时间” 三个属性。</p>
 <p><img src="windows-file-time.webp" alt="Windows 文件属性"></p>
 <ul>
 <li>创建时间：该文件在本载体本地址上创建的时间</li>
@@ -530,8 +521,7 @@
 </ul>
 <p>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1753tq2vPgHdZ7SfPXQGPLg">https://pan.baidu.com/s/1753tq2vPgHdZ7SfPXQGPLg</a>  提取码：phrb</p>
 <p><img src="attribute-changer.webp" alt="Attribute Changer 10"></p>
-<h3 id="命令行修改">命令行修改</h3>
-<p><strong>CMD：</strong></p>
+<h3 id="命令行修改"><a href="#命令行修改" class="headerlink" title="命令行修改"></a>命令行修改</h3><p><strong>CMD：</strong></p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">#</span><span class="language-bash">修改当前系统时间</span></span><br><span class="line">date 2021/01/01</span><br><span class="line">time 10:59:30</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">修改时间，注意是连续两个英文逗号</span></span><br><span class="line">copy 文件名 +,,</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">修改时间和访问时间，注意是连续两个英文句号</span></span><br><span class="line">copy 文件名 +..</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">注意修改完毕需要将系统时间修改过来（或者等待 NTP 同步）</span></span><br></pre></td></tr></table></figure>
 <p>小技巧：在文件夹上添加 “命令提示符” 右键快捷访问菜单</p>
 <figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">reg add &quot;HKEY_CLASSES_ROOT\Folder\shell\CmdPrompt&quot; /v &quot;&quot;/t REG_SZ /d&quot;Command Prompt&quot; /f</span><br><span class="line">reg add &quot;HKEY_CLASSES_ROOT\Folder\shell\CmdPrompt\command&quot; /v &quot;&quot;/t REG_SZ /d&quot;<span class="built_in">cmd</span>.exe /k <span class="built_in">cd</span> %l&quot; /f</span><br></pre></td></tr></table></figure>
@@ -624,24 +614,6 @@
 
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
-
-  <!-- vcomments Srtart -->
-  <div id="vcomments"></div>
-  <script>
-      new Valine({
-          el: '#vcomments',
-          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
-          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
-          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
-          requiredFields: ['nick','mail'],
-          visitor: 'true'
-      })
-  </script>
-  <div style="color:gray" align="right" id="/blog/how-to-change-file-date/" class="leancloud-visitors" data-flag-title="如何修改文件的 “创建时间” 和 “修改时间” (macOS, Linux, Windows)">
-    <em class="post-meta-item-text">visitors: </em>
-    <i class="leancloud-visitors-count">1000000</i>
-  </div>
-  <!-- vcomments End -->
 
 
 <!-- 1. gitalk comment -->
@@ -849,7 +821,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-          
+           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
       </p>
       </div>
     </div>
@@ -925,7 +897,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
