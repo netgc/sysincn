@@ -40,16 +40,18 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
+  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
+  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> DNSSEC 实战 - sysin | SYStem INside | 数据中心系统内幕 </title>
+  <title> DNSSEC 实战 - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" DNSSEC 实战 - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" DNSSEC 实战 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.org/blog/dnssec/">
+  <link rel="canonical" href="https://sysin.cn/blog/dnssec/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -107,11 +109,6 @@
       <!-- ThemeColor end -->
     
 
-    
-      <!-- vcomments start -->
-      <script type="text/javascript" src="/js/valine.min.js"></script>
-      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
-      <!-- vcomments end -->
     
 
     
@@ -464,7 +461,7 @@
         
 
         <p>请访问原文链接：<a href="/blog/dnssec/" title="DNSSEC 实战">DNSSEC 实战</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <h2 id="1-DNS-欺骗和缓存污染"><a href="#1-DNS-欺骗和缓存污染" class="headerlink" title="1. DNS 欺骗和缓存污染"></a>1. DNS 欺骗和缓存污染</h2><p>客户端（PC 等）发起域名请求的时候（例如访问：www.baidu.com），如果在本地缓存没有的情况下，会往递归服务器发送域名查询请求（我们也称之为 localdns），递归服务器再一层层递归从 . 到 com. 再到 baidu.com.（即到 . 的权威服务器 —&gt; com. 的权威服务器 —&gt; baidu.com. 的权威服务器)，最终取到 www.baidu.com. 对应的解析 A 记录返回给客户端。在整个查询过程中，攻击者可以假冒任何一个应答方：递归服务器 —&gt; . 的权威服务器 —&gt; com. 的权威服务器 —&gt; baidu.com. 的权威服务器，给请求方发送一个伪造的响应（UDP 包极其容易伪造），其中响应的解析记录给了一个错误的 IP 地址或者其他类型的解析记录（比如 NXDomain、ServFail 或者 cname 到错误的域名地址去等）。客户端或者是解析服务器在没有经过数据来源正确性校验的情况下接受了伪造的应答，直接将导致客户端无法正常访问网站或者其他资源或者客户端请求重定向到了伪造的网站上去 (sysin)。另外由于 DNS 当中存在着缓存，这种错误的记录将随着攻击者设定的 TTL 进行存活缓存，如果是递归服务器受到 DNS 欺骗那将会导致自身以及大面积的客户端缓存了错误的解析记录（可以通过清除缓存解决）。</p>
@@ -618,24 +615,6 @@
 
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
-
-  <!-- vcomments Srtart -->
-  <div id="vcomments"></div>
-  <script>
-      new Valine({
-          el: '#vcomments',
-          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
-          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
-          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
-          requiredFields: ['nick','mail'],
-          visitor: 'true'
-      })
-  </script>
-  <div style="color:gray" align="right" id="/blog/dnssec/" class="leancloud-visitors" data-flag-title="DNSSEC 实战">
-    <em class="post-meta-item-text">visitors: </em>
-    <i class="leancloud-visitors-count">1000000</i>
-  </div>
-  <!-- vcomments End -->
 
 
 <!-- 1. gitalk comment -->
@@ -841,7 +820,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-          
+           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
       </p>
       </div>
     </div>
@@ -917,7 +896,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
