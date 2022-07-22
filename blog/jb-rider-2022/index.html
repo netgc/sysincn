@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> JetBrains Rider 2022.1 (macOS, Linux, Windows) - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> JetBrains Rider 2022.1 (macOS, Linux, Windows) - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" JetBrains Rider 2022.1 (macOS, Linux, Windows) - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" JetBrains Rider 2022.1 (macOS, Linux, Windows) "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/jb-rider-2022/">
+  <link rel="canonical" href="https://sysin.org/blog/jb-rider-2022/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -467,41 +470,58 @@
         
 
         <p>请访问原文链接：<a href="/blog/jb-rider-2022/" title="JetBrains Rider 2022.1 (macOS, Linux, Windows)">JetBrains Rider 2022.1 (macOS, Linux, Windows)</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
-<p>JetBrains Rider — 快速且强大的跨平台 .NET IDE</p>
-<h2 id="Rider-是什么？"><a href="#Rider-是什么？" class="headerlink" title="Rider 是什么？"></a>Rider 是什么？</h2><p>JetBrains Rider 是一款基于 IntelliJ 平台和 ReSharper 的跨平台 .NET IDE。</p>
-<h3 id="支持多种-NET-项目类型"><a href="#支持多种-NET-项目类型" class="headerlink" title="支持多种 .NET 项目类型"></a>支持多种 .NET 项目类型</h3><p>Rider 支持 .NET 框架、<a target="_blank" rel="noopener" href="https://www.microsoft.com/net/core/platform?utm_source=jetbrains&amp;utm_medium=web&amp;utm_campaign=rider">新的跨平台框架 .NET Core</a> 和基于 Mono 的项目。这使您可以开发广泛的应用程序，包括：.NET 桌面应用程序、服务和库、Unity 游戏、Xamarin 应用、ASP.NET 和 ASP.NET Core web 应用程序。</p>
-<h3 id="功能丰富速度快"><a href="#功能丰富速度快" class="headerlink" title="功能丰富速度快"></a>功能丰富速度快</h3><p>Rider 提供 2200 多种活跃代码检查，数百种来自 ReSharper 的上下文操作和重构，并与 IntelliJ 平台可靠的 IDE 功能相结合。除了丰富的功能集，Rider 的设计宗旨是轻量级、响应式。</p>
-<h3 id="跨平台"><a href="#跨平台" class="headerlink" title="跨平台"></a>跨平台</h3><p>除了运行和调试多个运行时之外，Rider 本身还可以在多个平台上运行：Windows、macOS 和 Linux。</p>
-<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><p><img src="https://www.jetbrains.com/rider/img/features/rider_code_analysis.png" alt="代码分析"></p>
-<h3 id="代码分析"><a href="#代码分析" class="headerlink" title="代码分析"></a>代码分析</h3><p>Rider 提供了 2,200 多个实时代码检查，以及自动快速修复，可以单独或批量解决检测到的问题。对整个解决方案的错误分析将监控代码问题，使您知道任何可能的错误，即使未打开的文件也不会错过。</p>
+<p>JetBrains Rider – 快速且强大的跨平台 .NET IDE</p>
+<h2 id="Rider-是什么？">Rider 是什么？</h2>
+<p>JetBrains Rider 是一款基于 IntelliJ 平台和 ReSharper 的跨平台 .NET IDE。</p>
+<h3 id="支持多种-NET-项目类型">支持多种 .NET 项目类型</h3>
+<p>Rider 支持 .NET 框架、<a target="_blank" rel="noopener" href="https://www.microsoft.com/net/core/platform?utm_source=jetbrains&amp;utm_medium=web&amp;utm_campaign=rider">新的跨平台框架 .NET Core</a> 和基于 Mono 的项目。这使您可以开发广泛的应用程序，包括：.NET 桌面应用程序、服务和库、Unity 游戏、Xamarin 应用、<a target="_blank" rel="noopener" href="http://ASP.NET">ASP.NET</a> 和 <a target="_blank" rel="noopener" href="http://ASP.NET">ASP.NET</a> Core web 应用程序。</p>
+<h3 id="功能丰富速度快">功能丰富速度快</h3>
+<p>Rider 提供 2200 多种活跃代码检查，数百种来自 ReSharper 的上下文操作和重构，并与 IntelliJ 平台可靠的 IDE 功能相结合。除了丰富的功能集，Rider 的设计宗旨是轻量级、响应式。</p>
+<h3 id="跨平台">跨平台</h3>
+<p>除了运行和调试多个运行时之外，Rider 本身还可以在多个平台上运行：Windows、macOS 和 Linux。</p>
+<h2 id="功能-3">功能</h2>
+<p><img src="https://www.jetbrains.com/rider/img/features/rider_code_analysis.png" alt="代码分析"></p>
+<h3 id="代码分析">代码分析</h3>
+<p>Rider 提供了 2,200 多个实时代码检查，以及自动快速修复，可以单独或批量解决检测到的问题。对整个解决方案的错误分析将监控代码问题，使您知道任何可能的错误，即使未打开的文件也不会错过。</p>
 <p><img src="https://www.jetbrains.com/rider/img/features/rider_code_editing.png" alt="代码编辑"></p>
-<h3 id="代码编辑"><a href="#代码编辑" class="headerlink" title="代码编辑"></a>代码编辑</h3><p>Rider 的编辑器功能强大丰富，包括：不同种类的代码补全和代码模板，自动插入匹配的大括号和 import 指令，用于继承导航的快速信息工具提示和间距图标，上下文操作等。</p>
+<h3 id="代码编辑">代码编辑</h3>
+<p>Rider 的编辑器功能强大丰富，包括：不同种类的代码补全和代码模板，自动插入匹配的大括号和 import 指令，用于继承导航的快速信息工具提示和间距图标，上下文操作等。</p>
 <p><img src="https://www.jetbrains.com/rider/img/features/rider_refactorings.png" alt="重构"></p>
-<h3 id="重构"><a href="#重构" class="headerlink" title="重构"></a>重构</h3><p>ReSharper 60 多个重构中的大多数都可以在 Rider 中使用，其超过 450 个上下文操作也已登陆 Rider。重命名、提取方法、接口和类、移动和复制类型、使用替代语法，还有更多！</p>
+<h3 id="重构-2">重构</h3>
+<p>ReSharper 60 多个重构中的大多数都可以在 Rider 中使用，其超过 450 个上下文操作也已登陆 Rider。重命名、提取方法、接口和类、移动和复制类型、使用替代语法，还有更多！</p>
 <p><img src="https://www.jetbrains.com/rider/img/features/rider_unit_test.png" alt="单元测试运行程序"></p>
-<h3 id="单元测试运行程序"><a href="#单元测试运行程序" class="headerlink" title="单元测试运行程序"></a>单元测试运行程序</h3><p>Rider 帮助您基于 NUnit、xUnit.net 或 MSTest 运行和调试单元测试。您可以浏览测试，按照不同的方式为测试分组，将测试细分为各个会话，查看测试输出以及从堆栈跟踪导航到源代码。</p>
+<h3 id="单元测试运行程序">单元测试运行程序</h3>
+<p>Rider 帮助您基于 NUnit、<a target="_blank" rel="noopener" href="http://xUnit.net">xUnit.net</a> 或 MSTest 运行和调试单元测试。您可以浏览测试，按照不同的方式为测试分组，将测试细分为各个会话，查看测试输出以及从堆栈跟踪导航到源代码。</p>
 <p><img src="https://www.jetbrains.com/rider/img/features/rider_debugger.png" alt="调试器"></p>
-<h3 id="调试器和更多工具"><a href="#调试器和更多工具" class="headerlink" title="调试器和更多工具"></a>调试器和更多工具</h3><p>Rider 包含的调试器适用于 .NET 框架、Mono 和 .NET Core 应用程序，可以执行单步执行、监视、评估和运行到光标操作。其他工具包括：堆栈跟踪浏览器、NuGet 浏览器、VCS，并且支持数据库。</p>
+<h3 id="调试器和更多工具">调试器和更多工具</h3>
+<p>Rider 包含的调试器适用于 .NET 框架、Mono 和 .NET Core 应用程序，可以执行单步执行、监视、评估和运行到光标操作。其他工具包括：堆栈跟踪浏览器、NuGet 浏览器、VCS，并且支持数据库。</p>
 <p><img src="https://www.jetbrains.com/rider/img/features/db_dark.png" alt="数据库和 SQL"></p>
-<h3 id="数据库和-SQL"><a href="#数据库和-SQL" class="headerlink" title="数据库和 SQL"></a>数据库和 SQL</h3><p>不用离开 Rider 即可使用 SQL 和数据库。连接到数据库，编辑架构和表格数据，运行查询，甚至利用 UML 图表分析架构。</p>
+<h3 id="数据库和-SQL">数据库和 SQL</h3>
+<p>不用离开 Rider 即可使用 SQL 和数据库。连接到数据库，编辑架构和表格数据，运行查询，甚至利用 UML 图表分析架构。</p>
 <p><img src="https://www.jetbrains.com/rider/img/features/navigation.png" alt="导航和搜索"></p>
-<h3 id="导航和搜索"><a href="#导航和搜索" class="headerlink" title="导航和搜索"></a>导航和搜索</h3><p>立刻跳到代码库中的任何文件、类型或成员，以及快速查找设置和操作。查找任何符号的用途，或从符号导航到基本或派生符号、扩展方法或实现。</p>
+<h3 id="导航和搜索-2">导航和搜索</h3>
+<p>立刻跳到代码库中的任何文件、类型或成员，以及快速查找设置和操作。查找任何符号的用途，或从符号导航到基本或派生符号、扩展方法或实现。</p>
 <p><img src="https://www.jetbrains.com/rider/img/features/rider_js.png" alt="前端开发技术"></p>
-<h3 id="前端开发技术"><a href="#前端开发技术" class="headerlink" title="前端开发技术"></a>前端开发技术</h3><p>Rider 内置支持 JavaScript、TypeScript、HTML、CSS 和 Sass。利用 WebStorm 内含的重构、调试和单元测试功能。</p>
+<h3 id="前端开发技术">前端开发技术</h3>
+<p>Rider 内置支持 JavaScript、TypeScript、HTML、CSS 和 Sass。利用 WebStorm 内含的重构、调试和单元测试功能。</p>
 <p><img src="https://www.jetbrains.com/rider/img/features/plugins.png" alt="可扩展性"></p>
-<h3 id="可扩展性"><a href="#可扩展性" class="headerlink" title="可扩展性"></a>可扩展性</h3><p>忠实于自己的出身，Rider 支持为 ReSharper 和 IntelliJ Platform 开发的各种插件。除了捆绑的插件外 (比如那些支持 VCS、F# 和 Unity 的)，还有支持 Markdown、<code>.gitignore</code> 文件和 Python 脚本的插件。</p>
+<h3 id="可扩展性-2">可扩展性</h3>
+<p>忠实于自己的出身，Rider 支持为 ReSharper 和 IntelliJ Platform 开发的各种插件。除了捆绑的插件外 (比如那些支持 VCS、F# 和 Unity 的)，还有支持 Markdown、<code>.gitignore</code> 文件和 Python 脚本的插件。</p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/rider/features/">查看所有功能</a></p>
-<h2 id="Rider-的多面性"><a href="#Rider-的多面性" class="headerlink" title="Rider 的多面性"></a>Rider 的多面性</h2><p>Rider 让您可以高效地开发广泛的应用程序，包括：.NET 桌面应用程序、服务和库、Unity 和 Unreal Engine 游戏、Xamarin 应用、ASP.NET 和 ASP.NET Core web 应用程序。</p>
+<h2 id="Rider-的多面性">Rider 的多面性</h2>
+<p>Rider 让您可以高效地开发广泛的应用程序，包括：.NET 桌面应用程序、服务和库、Unity 和 Unreal Engine 游戏、Xamarin 应用、<a target="_blank" rel="noopener" href="http://ASP.NET">ASP.NET</a> 和 <a target="_blank" rel="noopener" href="http://ASP.NET">ASP.NET</a> Core web 应用程序。</p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/dotnet/promo/unity/">Rider for Unity 更聪明地使用 C# 开发 Unity</a></p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/lp/rider-unreal/">Rider for Unreal Engine 智能 C++ 和蓝图支持，助力制作最出色的游戏</a></p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/lp/dotnet-aws/">Rider for AWS 在 Rider 中使用 C# 进行 AWS 开发</a></p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/lp/rider-xamarin/">Rider for Xamarin 面向 Xamarin 开发者的专业 IDE</a></p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/dotnet/guide/technologies/asp.net/">Rider for Web 适用于跨平台 ASP.NET 开发的绝佳工具</a></p>
-<h2 id="Rider-最新变化"><a href="#Rider-最新变化" class="headerlink" title="Rider 最新变化"></a>Rider 最新变化</h2><p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/rider/whatsnew/">了解详情</a></p>
-<h2 id="dotUltimate：一个许可证提供-JetBrains-Rider、ReSharper-C-和强大的-NET-工具"><a href="#dotUltimate：一个许可证提供-JetBrains-Rider、ReSharper-C-和强大的-NET-工具" class="headerlink" title="dotUltimate：一个许可证提供 JetBrains Rider、ReSharper C++ 和强大的 .NET 工具"></a>dotUltimate：一个许可证提供 JetBrains Rider、ReSharper C++ 和强大的 .NET 工具</h2><p>希望借助可以检测性能瓶颈和分析单元测试覆盖率的工具提升您在 Rider 中的 .NET 开发体验？ 详细了解 dotUltimate，这种许可证包含集成到 Rider 中的 dotCover 与 dotTrace 插件，以及其他 JetBrains 产品：</p>
+<h2 id="Rider-最新变化">Rider 最新变化</h2>
+<p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/rider/whatsnew/">了解详情</a></p>
+<h2 id="dotUltimate：一个许可证提供-JetBrains-Rider、ReSharper-C-和强大的-NET-工具">dotUltimate：一个许可证提供 JetBrains Rider、ReSharper C++ 和强大的 .NET 工具</h2>
+<p>希望借助可以检测性能瓶颈和分析单元测试覆盖率的工具提升您在 Rider 中的 .NET 开发体验？ 详细了解 dotUltimate，这种许可证包含集成到 Rider 中的 dotCover 与 dotTrace 插件，以及其他 JetBrains 产品：</p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/rider">Rider 快速的跨平台 .NET IDE</a></p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/resharper">ReSharper 适用于 .NET 开发者的 Visual Studio 扩展</a></p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/resharper-cpp">ReSharper C++ 适用于 C++ 开发者的 Visual Studio 扩展</a></p>
@@ -509,7 +529,8 @@
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/dottrace">dotTrace . 适用于 Rider 的 .NET 性能分析插件</a><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/dotmemory">dotMemory .NET 内存分析器</a></p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/dotpeek">dotPeek .NET 反编译器和程序集浏览器（免费）</a></p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/dotnet">了解详情</a></p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/18q9ha5Cx1-4TtvN-CPiyDQ">https://pan.baidu.com/s/18q9ha5Cx1-4TtvN-CPiyDQ</a>  提取码：lew9</p>
+<h2 id="下载地址-173">下载地址</h2>
+<p>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/18q9ha5Cx1-4TtvN-CPiyDQ">https://pan.baidu.com/s/18q9ha5Cx1-4TtvN-CPiyDQ</a>  提取码：lew9</p>
 
 
         <hr>
@@ -596,6 +617,24 @@
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/jb-rider-2022/" class="leancloud-visitors" data-flag-title="JetBrains Rider 2022.1 (macOS, Linux, Windows)">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -628,7 +667,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Rider-%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">Rider 是什么？</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%94%AF%E6%8C%81%E5%A4%9A%E7%A7%8D-NET-%E9%A1%B9%E7%9B%AE%E7%B1%BB%E5%9E%8B"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">支持多种 .NET 项目类型</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%8A%9F%E8%83%BD%E4%B8%B0%E5%AF%8C%E9%80%9F%E5%BA%A6%E5%BF%AB"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">功能丰富速度快</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%B7%A8%E5%B9%B3%E5%8F%B0"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">跨平台</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">功能</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">代码分析</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">代码编辑</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%87%8D%E6%9E%84"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">重构</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C%E7%A8%8B%E5%BA%8F"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">单元测试运行程序</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%B0%83%E8%AF%95%E5%99%A8%E5%92%8C%E6%9B%B4%E5%A4%9A%E5%B7%A5%E5%85%B7"><span class="toc-nav-number">2.5.</span> <span class="toc-nav-text">调试器和更多工具</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C-SQL"><span class="toc-nav-number">2.6.</span> <span class="toc-nav-text">数据库和 SQL</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%AF%BC%E8%88%AA%E5%92%8C%E6%90%9C%E7%B4%A2"><span class="toc-nav-number">2.7.</span> <span class="toc-nav-text">导航和搜索</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF"><span class="toc-nav-number">2.8.</span> <span class="toc-nav-text">前端开发技术</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%8F%AF%E6%89%A9%E5%B1%95%E6%80%A7"><span class="toc-nav-number">2.9.</span> <span class="toc-nav-text">可扩展性</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Rider-%E7%9A%84%E5%A4%9A%E9%9D%A2%E6%80%A7"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">Rider 的多面性</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Rider-%E6%9C%80%E6%96%B0%E5%8F%98%E5%8C%96"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">Rider 最新变化</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#dotUltimate%EF%BC%9A%E4%B8%80%E4%B8%AA%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%8F%90%E4%BE%9B-JetBrains-Rider%E3%80%81ReSharper-C-%E5%92%8C%E5%BC%BA%E5%A4%A7%E7%9A%84-NET-%E5%B7%A5%E5%85%B7"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">dotUltimate：一个许可证提供 JetBrains Rider、ReSharper C++ 和强大的 .NET 工具</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">6.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Rider-%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">Rider 是什么？</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%94%AF%E6%8C%81%E5%A4%9A%E7%A7%8D-NET-%E9%A1%B9%E7%9B%AE%E7%B1%BB%E5%9E%8B"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">支持多种 .NET 项目类型</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%8A%9F%E8%83%BD%E4%B8%B0%E5%AF%8C%E9%80%9F%E5%BA%A6%E5%BF%AB"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">功能丰富速度快</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%B7%A8%E5%B9%B3%E5%8F%B0"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">跨平台</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%8A%9F%E8%83%BD-3"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">功能</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">代码分析</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">代码编辑</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%87%8D%E6%9E%84-2"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">重构</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C%E7%A8%8B%E5%BA%8F"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">单元测试运行程序</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%B0%83%E8%AF%95%E5%99%A8%E5%92%8C%E6%9B%B4%E5%A4%9A%E5%B7%A5%E5%85%B7"><span class="toc-nav-number">2.5.</span> <span class="toc-nav-text">调试器和更多工具</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C-SQL"><span class="toc-nav-number">2.6.</span> <span class="toc-nav-text">数据库和 SQL</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%AF%BC%E8%88%AA%E5%92%8C%E6%90%9C%E7%B4%A2-2"><span class="toc-nav-number">2.7.</span> <span class="toc-nav-text">导航和搜索</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF"><span class="toc-nav-number">2.8.</span> <span class="toc-nav-text">前端开发技术</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%8F%AF%E6%89%A9%E5%B1%95%E6%80%A7-2"><span class="toc-nav-number">2.9.</span> <span class="toc-nav-text">可扩展性</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Rider-%E7%9A%84%E5%A4%9A%E9%9D%A2%E6%80%A7"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">Rider 的多面性</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Rider-%E6%9C%80%E6%96%B0%E5%8F%98%E5%8C%96"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">Rider 最新变化</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#dotUltimate%EF%BC%9A%E4%B8%80%E4%B8%AA%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%8F%90%E4%BE%9B-JetBrains-Rider%E3%80%81ReSharper-C-%E5%92%8C%E5%BC%BA%E5%A4%A7%E7%9A%84-NET-%E5%B7%A5%E5%85%B7"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">dotUltimate：一个许可证提供 JetBrains Rider、ReSharper C++ 和强大的 .NET 工具</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-173"><span class="toc-nav-number">6.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -806,7 +845,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -882,7 +921,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

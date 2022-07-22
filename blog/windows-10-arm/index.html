@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> Windows 10 on ARM, version 21H2 (updated Mar 2022) ARM64 简体中文版、英文版下载 - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> Windows 10 on ARM, version 21H2 (updated Mar 2022) ARM64 简体中文版、英文版下载 - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" Windows 10 on ARM, version 21H2 (updated Mar 2022) ARM64 简体中文版、英文版下载 - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" Windows 10 on ARM, version 21H2 (updated Mar 2022) ARM64 简体中文版、英文版下载 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/windows-10-arm/">
+  <link rel="canonical" href="https://sysin.org/blog/windows-10-arm/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -389,7 +392,7 @@
             <!-- WordCount start -->
             <div class="blank_box"></div>
             <span class="meta">
-              Estimated Reading Time <span class="post-count">5</span> Minutes
+              Estimated Reading Time <span class="post-count">6</span> Minutes
             </span>
             <div class="blank_box"></div>
             <span class="meta">
@@ -461,53 +464,89 @@
         
 
         <p>请访问原文链接：<a href="/blog/windows-10-arm/" title="Windows 10 on ARM, version 21H2 (updated Mar 2022) ARM64 简体中文版、英文版下载">Windows 10 on ARM, version 21H2 (updated Mar 2022) ARM64 简体中文版、英文版下载</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p>Windows 10, version 21H2 (released Nov 2021) ARM64 Chinese Simplified</p>
 <p>Windows 10, version 21H2 (released Nov 2021) ARM64 English</p>
 <p><img src="https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2019/10/597d12de5f1604078c51be9c3b365e60.jpg" alt="A collection of Microsoft devices on display"></p>
-<h2 id="基于-ARM-的-Windows-10"><a href="#基于-ARM-的-Windows-10" class="headerlink" title="基于 ARM 的 Windows 10"></a>基于 ARM 的 Windows 10</h2><p>起初，Windows 10（与 Windows 10 移动版不同）只能在采用 x86 和 x64 处理器的电脑上运行。现在，Windows 10 桌面可以在使用秋季创建者更新或更新版本的 ARM64 处理器的计算机上运行。ARM CPU 体系结构的省电特性使这些电脑拥有全天的电池使用时间，并且支持移动数据网络 (sysin)。这些电脑将提供出色的应用程序兼容性，让你在不进行任何修改的情况下运行现有的 x86 win32 应用程序。有关详细信息或演示，请查看 “始终连接的 PC” 的第 <a target="_blank" rel="noopener" href="https://channel9.msdn.com/Events/Build/2017/P4171">9 频道视频</a>。</p>
+<h2 id="基于-ARM-的-Windows-10-2">基于 ARM 的 Windows 10</h2>
+<p>起初，Windows 10（与 Windows 10 移动版不同）只能在采用 x86 和 x64 处理器的电脑上运行。现在，Windows 10 桌面可以在使用秋季创建者更新或更新版本的 ARM64 处理器的计算机上运行。ARM CPU 体系结构的省电特性使这些电脑拥有全天的电池使用时间，并且支持移动数据网络 (sysin)。这些电脑将提供出色的应用程序兼容性，让你在不进行任何修改的情况下运行现有的 x86 win32 应用程序。有关详细信息或演示，请查看 “始终连接的 PC” 的第 <a target="_blank" rel="noopener" href="https://channel9.msdn.com/Events/Build/2017/P4171">9 频道视频</a>。</p>
 <p>在本文中，我们使用术语 <em>ARM</em> 作为在 ARM64（通常也称为 <em>AArch64</em>）处理器上运行 Windows 10 桌面版的电脑的简写，使用术语 <em>ARM32</em>（在其他文档中通常称为 <em>ARM</em>）作为 32 位 ARM 体系结构的简写。</p>
-<h2 id="ARM-上的应用和体验"><a href="#ARM-上的应用和体验" class="headerlink" title="ARM 上的应用和体验"></a>ARM 上的应用和体验</h2><h3 id="内置-Windows-10-体验、应用和驱动程序"><a href="#内置-Windows-10-体验、应用和驱动程序" class="headerlink" title="内置 Windows 10 体验、应用和驱动程序"></a>内置 Windows 10 体验、应用和驱动程序</h3><p>Windows 10 的内置体验（例如，Edge、Cortana、开始菜单和资源管理器）都是本机的，并作为 ARM64 运行。这还包括所有设备驱动程序，如图形、网络或硬盘。这可确保你获得最佳用户体验，并以 Qualcomm Snapdragon 处理器的完全本机速度运行设备中的电池寿命。</p>
-<h3 id="通用-Windows-平台-UWP-应用"><a href="#通用-Windows-平台-UWP-应用" class="headerlink" title="通用 Windows 平台 (UWP) 应用"></a>通用 Windows 平台 (UWP) 应用</h3><p>ARM 上的 Windows 10 从 Microsoft Store 运行所有 x86、ARM32 和 ARM64 <a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/uwp/get-started/universal-application-platform-guide">UWP 应用</a> 。ARM32 和 ARM64 应用在无需任何模拟的情况下运行，而 x86 应用在仿真下运行。如果你是 UWP 开发人员，请确保为你的应用提交 ARM 包，因为这将为设备提供最佳的用户体验。有关详细信息，请参阅<a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/msix/package/device-architecture">应用包体系结构</a>。</p>
+<h2 id="ARM-上的应用和体验-2">ARM 上的应用和体验</h2>
+<h3 id="内置-Windows-10-体验、应用和驱动程序-2">内置 Windows 10 体验、应用和驱动程序</h3>
+<p>Windows 10 的内置体验（例如，Edge、Cortana、开始菜单和资源管理器）都是本机的，并作为 ARM64 运行。这还包括所有设备驱动程序，如图形、网络或硬盘。这可确保你获得最佳用户体验，并以 Qualcomm Snapdragon 处理器的完全本机速度运行设备中的电池寿命。</p>
+<h3 id="通用-Windows-平台-UWP-应用-2">通用 Windows 平台 (UWP) 应用</h3>
+<p>ARM 上的 Windows 10 从 Microsoft Store 运行所有 x86、ARM32 和 ARM64 <a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/uwp/get-started/universal-application-platform-guide">UWP 应用</a> 。ARM32 和 ARM64 应用在无需任何模拟的情况下运行，而 x86 应用在仿真下运行。如果你是 UWP 开发人员，请确保为你的应用提交 ARM 包，因为这将为设备提供最佳的用户体验。有关详细信息，请参阅<a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/msix/package/device-architecture">应用包体系结构</a>。</p>
 <blockquote>
 <p>备注</p>
 <p>若要生成 UWP 应用程序以本机方式面向 ARM64 平台，你必须安装有 Visual Studio 2017 版本15.9 或更高版本或 Visual Studio 2019。有关详细信息，请参阅<a target="_blank" rel="noopener" href="https://blogs.windows.com/buildingapps/2018/11/15/official-support-for-windows-10-on-arm-development">此博客文章</a>。</p>
 <p>重要</p>
 <p>ARM 上的 Windows 10 支持从存储在 ARM64 设备上的 x86、ARM32 和 ARM64 UWP 应用。当用户在 ARM64 设备上下载 UWP 应用时，操作系统将自动安装可用应用的最佳版本。如果向应用商店提交应用的 x86、ARM32 和 ARM64 版本，操作系统会自动安装 ARM64 版本的应用。如果只提交应用的 x86 和 ARM32 版本，操作系统将安装 ARM32 版本。如果只提交 x86 版本的应用，操作系统会安装该版本并在仿真下运行它。有关体系结构的详细信息，请参阅<a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/msix/package/device-architecture">应用包体系结构</a>。</p>
 </blockquote>
-<h3 id="Win32-应用"><a href="#Win32-应用" class="headerlink" title="Win32 应用"></a>Win32 应用</h3><p>除了 UWP 应用之外，ARM 上的 Windows 10 还可以运行未修改的 x86 Win32 应用，并具有良好的性能和无缝的用户体验，就像任何 PC 一样。这些 x86 Win32 应用无需重新编译 ARM，甚至不能意识到它们是在 ARM 处理器上运行的。</p>
-<h3 id="x86-64-应用"><a href="#x86-64-应用" class="headerlink" title="x86-64 应用"></a>x86-64 应用</h3><p>在版本21277中添加了对 x86 64 应用程序的初始支持，当前正在进一步开发。如果某个应用的 x64 Win32 版本不起作用，则大多数应用还提供 x86 版本 (sysin)。如果选择应用程序体系结构，只需选择32位 x86 版本即可在 ARM PC 上的 Windows 10 上运行应用的32位版本。</p>
-<h2 id="x86-仿真在-ARM-上的工作原理"><a href="#x86-仿真在-ARM-上的工作原理" class="headerlink" title="x86 仿真在 ARM 上的工作原理"></a>x86 仿真在 ARM 上的工作原理</h2><p>x86 应用的模拟使得在 ARM 中可以使用丰富的 Win32 应用生态系统。这使得用户无需对应用进行任何修改，便可获得运行现有 x86 win32 应用的神奇体验。该应用甚至不知道它在基于 ARM 的 Windows 电脑上运行，除非它调用特定 API (<a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/desktop/api/wow64apiset/nf-wow64apiset-iswow64process2">IsWoW64Process2</a>)。</p>
+<h3 id="Win32-应用-2">Win32 应用</h3>
+<p>除了 UWP 应用之外，ARM 上的 Windows 10 还可以运行未修改的 x86 Win32 应用，并具有良好的性能和无缝的用户体验，就像任何 PC 一样。这些 x86 Win32 应用无需重新编译 ARM，甚至不能意识到它们是在 ARM 处理器上运行的。</p>
+<h3 id="x86-64-应用-2">x86-64 应用</h3>
+<p>在版本21277中添加了对 x86 64 应用程序的初始支持，当前正在进一步开发。如果某个应用的 x64 Win32 版本不起作用，则大多数应用还提供 x86 版本 (sysin)。如果选择应用程序体系结构，只需选择32位 x86 版本即可在 ARM PC 上的 Windows 10 上运行应用的32位版本。</p>
+<h2 id="x86-仿真在-ARM-上的工作原理-2">x86 仿真在 ARM 上的工作原理</h2>
+<p>x86 应用的模拟使得在 ARM 中可以使用丰富的 Win32 应用生态系统。这使得用户无需对应用进行任何修改，便可获得运行现有 x86 win32 应用的神奇体验。该应用甚至不知道它在基于 ARM 的 Windows 电脑上运行，除非它调用特定 API (<a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/desktop/api/wow64apiset/nf-wow64apiset-iswow64process2">IsWoW64Process2</a>)。</p>
 <p>Windows 10 的 <a target="_blank" rel="noopener" href="https://docs.microsoft.com/zh-cn/windows/desktop/WinProg64/running-32-bit-applications">WOW64</a> 层允许 x86 代码在 ARM64 版本的 Windows 10 上运行。x86 模拟的工作原理是将 x86 指令块编译为 ARM64 指令，并通过优化来提高性能。服务会缓存这些已转换的代码块，从而减少指令转换开销，并可在代码再次运行时实现优化。将为每个模块生成缓存，以便于其他应用在初次启动时使用这些缓存。</p>
 <p>有关这些技术的更多详细信息，请参阅<a target="_blank" rel="noopener" href="https://channel9.msdn.com/Events/Build/2017/P4171">基于 ARM 的 Windows 10</a> Channel9 视频。</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><strong>Windows 10 Enterprise（教育版、企业版、专业版、专业教育版、专业工作站版） (released Nov 2021) ：</strong><br>  百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1bKTR6XIWnndh_WbF01s42A">https://pan.baidu.com/s/1bKTR6XIWnndh_WbF01s42A</a>  提取码：kkq8</p>
+<h2 id="下载地址-387">下载地址</h2>
+<p><strong>Windows 10 Enterprise（教育版、企业版、专业版、专业教育版、专业工作站版） (released Nov 2021) ：</strong><br>
+百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1bKTR6XIWnndh_WbF01s42A">https://pan.baidu.com/s/1bKTR6XIWnndh_WbF01s42A</a>  提取码：kkq8</p>
 <ul>
-<li><p>Windows 10, version 21H2 (released Nov 2021) ARM64 Chinese Simplified<br>4928 MB, ISO<br>SW_DVD9_Win_Pro_10_21H2_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X22-83582.ISO<br>SHA256SUM：20CF331BEBE2F99DE0F0CAFA62242CB2BB4EA8757C26CB6855D894738EA5C687</p>
+<li>
+<p>Windows 10, version 21H2 (released Nov 2021) ARM64 Chinese Simplified<br>
+4928 MB, ISO<br>
+SW_DVD9_Win_Pro_10_21H2_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X22-83582.ISO<br>
+SHA256SUM：20CF331BEBE2F99DE0F0CAFA62242CB2BB4EA8757C26CB6855D894738EA5C687</p>
 </li>
-<li><p>Windows 10, version 21H2 (released Nov 2021) ARM64 English<br>4694 MB, ISO<br>SW_DVD9_Win_Pro_10_21H2_64ARM_English_Pro_Ent_EDU_N_MLF_X22-83671.ISO<br>SHA256SUM：76F5501BE29CC3F95FD65E1FAC7EB36ABB6B9A7EA92D4797DE78914B9DB6A602</p>
+<li>
+<p>Windows 10, version 21H2 (released Nov 2021) ARM64 English<br>
+4694 MB, ISO<br>
+SW_DVD9_Win_Pro_10_21H2_64ARM_English_Pro_Ent_EDU_N_MLF_X22-83671.ISO<br>
+SHA256SUM：76F5501BE29CC3F95FD65E1FAC7EB36ABB6B9A7EA92D4797DE78914B9DB6A602</p>
 </li>
 </ul>
-<p><strong>Window 10 Enterprise（教育版、企业版、专业版、专业教育版、专业工作站版） (updated Jan 2022) ：</strong><br>  百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1zio2lIUojEiBRm_oTBt9ng">https://pan.baidu.com/s/1zio2lIUojEiBRm_oTBt9ng</a>  提取码：jrkn</p>
+<p><strong>Window 10 Enterprise（教育版、企业版、专业版、专业教育版、专业工作站版） (updated Jan 2022) ：</strong><br>
+百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1zio2lIUojEiBRm_oTBt9ng">https://pan.baidu.com/s/1zio2lIUojEiBRm_oTBt9ng</a>  提取码：jrkn</p>
 <ul>
-<li><p>Windows 10, version 21H2 (updated Jan 2022) ARM64 Chinese Simplified<br>SHA256SUM：0BC152FE0E53CE9CCCF819CD3799ED9ADFA6635D1526C5DE43CED095F0028F7B</p>
+<li>
+<p>Windows 10, version 21H2 (updated Jan 2022) ARM64 Chinese Simplified<br>
+SHA256SUM：0BC152FE0E53CE9CCCF819CD3799ED9ADFA6635D1526C5DE43CED095F0028F7B</p>
 </li>
-<li><p>Windows 10, version 21H2 (updated Jan 2022) ARM64 English<br>SHA256SUM：EEE4658924102E56658C1F6284B53E962AF088FF71A12ACADF0E790412C8C566</p>
+<li>
+<p>Windows 10, version 21H2 (updated Jan 2022) ARM64 English<br>
+SHA256SUM：EEE4658924102E56658C1F6284B53E962AF088FF71A12ACADF0E790412C8C566</p>
 </li>
 </ul>
-<p><strong>Windows 10 Enterprise（教育版、企业版、专业版、专业教育版、专业工作站版） (updated Feb 2022) ：</strong><br>  百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1NcDl2PlF40A79ucHVrUm1w">https://pan.baidu.com/s/1NcDl2PlF40A79ucHVrUm1w</a>  提取码：bfo6</p>
+<p><strong>Windows 10 Enterprise（教育版、企业版、专业版、专业教育版、专业工作站版） (updated Feb 2022) ：</strong><br>
+百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1NcDl2PlF40A79ucHVrUm1w">https://pan.baidu.com/s/1NcDl2PlF40A79ucHVrUm1w</a>  提取码：bfo6</p>
 <ul>
-<li><p>Windows 10, version 21H2 (updated Feb 2022) ARM64 Chinese Simplified<br>4982 MB, ISO<br>SHA256SUM：16353E7779453686278DFE79953D8DC4E76EEF902A83AF946158F1D4F6BE17AD</p>
+<li>
+<p>Windows 10, version 21H2 (updated Feb 2022) ARM64 Chinese Simplified<br>
+4982 MB, ISO<br>
+SHA256SUM：16353E7779453686278DFE79953D8DC4E76EEF902A83AF946158F1D4F6BE17AD</p>
 </li>
-<li><p>Windows 10, version 21H2 (updated Feb 2022) ARM64 English<br>4745 MB, ISO<br>SHA256SUM：59D1BDBC447DFE2794735A879C12D7AD18C11C03BB9EF296213C7951C77AC275</p>
+<li>
+<p>Windows 10, version 21H2 (updated Feb 2022) ARM64 English<br>
+4745 MB, ISO<br>
+SHA256SUM：59D1BDBC447DFE2794735A879C12D7AD18C11C03BB9EF296213C7951C77AC275</p>
 </li>
 </ul>
-<p><strong>Windows 10 Enterprise（教育版、企业版、专业版、专业教育版、专业工作站版） (updated Mar 2022) ：</strong><br>  百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1CEuKhEJCEDix9Hqs7UfPhg">https://pan.baidu.com/s/1CEuKhEJCEDix9Hqs7UfPhg</a>  提取码：4waa</p>
+<p><strong>Windows 10 Enterprise（教育版、企业版、专业版、专业教育版、专业工作站版） (updated Mar 2022) ：</strong><br>
+百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1CEuKhEJCEDix9Hqs7UfPhg">https://pan.baidu.com/s/1CEuKhEJCEDix9Hqs7UfPhg</a>  提取码：4waa</p>
 <ul>
-<li><p>Windows 10, version 21H2 (updated Mar 2022) ARM64 Chinese Simplified<br>4938 MB, ISO<br>SHA256SUM：36C6995DD3E465757D4C3948173533BB9830710670ADFCCD462067F59E657CF1</p>
+<li>
+<p>Windows 10, version 21H2 (updated Mar 2022) ARM64 Chinese Simplified<br>
+4938 MB, ISO<br>
+SHA256SUM：36C6995DD3E465757D4C3948173533BB9830710670ADFCCD462067F59E657CF1</p>
 </li>
-<li><p>Windows 10, version 21H2 (updated Mar 2022) ARM64 English<br>4703 MB, ISO<br>SHA256SUM：3577D6F98D612DD5D570C26017F5C82F671530199D3BAEA7666C3D4202681EA0</p>
+<li>
+<p>Windows 10, version 21H2 (updated Mar 2022) ARM64 English<br>
+4703 MB, ISO<br>
+SHA256SUM：3577D6F98D612DD5D570C26017F5C82F671530199D3BAEA7666C3D4202681EA0</p>
 </li>
 </ul>
 <blockquote>
@@ -600,6 +639,24 @@
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/windows-10-arm/" class="leancloud-visitors" data-flag-title="Windows 10 on ARM, version 21H2 (updated Mar 2022) ARM64 简体中文版、英文版下载">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -632,7 +689,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%9F%BA%E4%BA%8E-ARM-%E7%9A%84-Windows-10"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">基于 ARM 的 Windows 10</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#ARM-%E4%B8%8A%E7%9A%84%E5%BA%94%E7%94%A8%E5%92%8C%E4%BD%93%E9%AA%8C"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">ARM 上的应用和体验</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%86%85%E7%BD%AE-Windows-10-%E4%BD%93%E9%AA%8C%E3%80%81%E5%BA%94%E7%94%A8%E5%92%8C%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">内置 Windows 10 体验、应用和驱动程序</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%80%9A%E7%94%A8-Windows-%E5%B9%B3%E5%8F%B0-UWP-%E5%BA%94%E7%94%A8"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">通用 Windows 平台 (UWP) 应用</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Win32-%E5%BA%94%E7%94%A8"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">Win32 应用</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#x86-64-%E5%BA%94%E7%94%A8"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">x86-64 应用</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#x86-%E4%BB%BF%E7%9C%9F%E5%9C%A8-ARM-%E4%B8%8A%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">x86 仿真在 ARM 上的工作原理</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%9F%BA%E4%BA%8E-ARM-%E7%9A%84-Windows-10-2"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">基于 ARM 的 Windows 10</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#ARM-%E4%B8%8A%E7%9A%84%E5%BA%94%E7%94%A8%E5%92%8C%E4%BD%93%E9%AA%8C-2"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">ARM 上的应用和体验</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%86%85%E7%BD%AE-Windows-10-%E4%BD%93%E9%AA%8C%E3%80%81%E5%BA%94%E7%94%A8%E5%92%8C%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F-2"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">内置 Windows 10 体验、应用和驱动程序</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%80%9A%E7%94%A8-Windows-%E5%B9%B3%E5%8F%B0-UWP-%E5%BA%94%E7%94%A8-2"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">通用 Windows 平台 (UWP) 应用</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Win32-%E5%BA%94%E7%94%A8-2"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">Win32 应用</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#x86-64-%E5%BA%94%E7%94%A8-2"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">x86-64 应用</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#x86-%E4%BB%BF%E7%9C%9F%E5%9C%A8-ARM-%E4%B8%8A%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86-2"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">x86 仿真在 ARM 上的工作原理</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-387"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -804,7 +861,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -880,7 +937,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

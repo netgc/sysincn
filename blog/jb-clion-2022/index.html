@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> JetBrains CLion 2022.1 (macOS, Linux, Windows) - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> JetBrains CLion 2022.1 (macOS, Linux, Windows) - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" JetBrains CLion 2022.1 (macOS, Linux, Windows) - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" JetBrains CLion 2022.1 (macOS, Linux, Windows) "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/jb-clion-2022/">
+  <link rel="canonical" href="https://sysin.org/blog/jb-clion-2022/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -467,44 +470,62 @@
         
 
         <p>请访问原文链接：<a href="/blog/jb-clion-2022/" title="JetBrains CLion 2022.1 (macOS, Linux, Windows)">JetBrains CLion 2022.1 (macOS, Linux, Windows)</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
-<p>JetBrains CLion — C 和 C++ 跨平台 IDE</p>
+<p>JetBrains CLion – C 和 C++ 跨平台 IDE</p>
 <p>CLion 2022.1 现已发布。查看 <a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/clion/whatsnew">最新变化</a></p>
-<h2 id="用于强大语言的强大工具"><a href="#用于强大语言的强大工具" class="headerlink" title="用于强大语言的强大工具"></a>用于强大语言的强大工具</h2><p>当 IDE 帮助处理种种单调的开发任务时，相信所有开发者都会希望脑海中的想法能够在转瞬间变为代码。但对于像 C++ 这样使用其现代标准和大量模板化库的棘手语言，这种愿望真的能实现吗？ 有何不可？ 了解后，便会相信。</p>
-<h2 id="智能的-C-和-C-编辑器"><a href="#智能的-C-和-C-编辑器" class="headerlink" title="智能的 C 和 C++ 编辑器"></a>智能的 C 和 C++ 编辑器</h2><h3 id="代码辅助"><a href="#代码辅助" class="headerlink" title="代码辅助"></a>代码辅助</h3><p>使用对 C 和 C++ 有深刻理解的编辑器，您便可以高效地读写代码。可在智能补全功能中按类型筛选出补全结果。使用路径导航来跟踪您在范围层次结构内的位置。借助参数名称提示，深入了解函数调用。查找符号的上下文用法，或通过键入其名称直接跳转到该符号。CLion 甚至可以确保您的代码符合编码指南，包括格式、命名等要求。</p>
+<h2 id="用于强大语言的强大工具">用于强大语言的强大工具</h2>
+<p>当 IDE 帮助处理种种单调的开发任务时，相信所有开发者都会希望脑海中的想法能够在转瞬间变为代码。但对于像 C++ 这样使用其现代标准和大量模板化库的棘手语言，这种愿望真的能实现吗？ 有何不可？ 了解后，便会相信。</p>
+<h2 id="智能的-C-和-C-编辑器">智能的 C 和 C++ 编辑器</h2>
+<h3 id="代码辅助">代码辅助</h3>
+<p>使用对 C 和 C++ 有深刻理解的编辑器，您便可以高效地读写代码。可在智能补全功能中按类型筛选出补全结果。使用路径导航来跟踪您在范围层次结构内的位置。借助参数名称提示，深入了解函数调用。查找符号的上下文用法，或通过键入其名称直接跳转到该符号。CLion 甚至可以确保您的代码符合编码指南，包括格式、命名等要求。</p>
 <p><img src="https://www.jetbrains.com/clion/img/screens/overview_code_assistance.png" alt="编码辅助屏幕截图"></p>
-<h3 id="代码生成"><a href="#代码生成" class="headerlink" title="代码生成"></a>代码生成</h3><p>立即生成大量样板代码。使用简单的快捷键重写和实现函数。生成构造函数和析构函数、getter 和 setter  以及相等、相关和流输出运算符。使用语句包装代码块，或者从用法生成声明。创建自定义活动模板以在整个代码库中重用典型代码块，从而节省时间并使样式保持一致。</p>
+<h3 id="代码生成">代码生成</h3>
+<p>立即生成大量样板代码。使用简单的快捷键重写和实现函数。生成构造函数和析构函数、getter 和 setter  以及相等、相关和流输出运算符。使用语句包装代码块，或者从用法生成声明。创建自定义活动模板以在整个代码库中重用典型代码块，从而节省时间并使样式保持一致。</p>
 <p><img src="https://www.jetbrains.com/clion/img/screens/overview_code_generation.png" alt="代码生成屏幕截图"></p>
-<h3 id="安全重构"><a href="#安全重构" class="headerlink" title="安全重构"></a>安全重构</h3><p>重命名符号，内联函数、变量或宏(sysin)，在层次结构中移动成员，更改函数签名，以及提取函数、变量、参数或 typedef。无论您使用哪种自动重构，都请放心，CLion 能够安全地在整个代码中传播相关变更。</p>
+<h3 id="安全重构">安全重构</h3>
+<p>重命名符号，内联函数、变量或宏(sysin)，在层次结构中移动成员，更改函数签名，以及提取函数、变量、参数或 typedef。无论您使用哪种自动重构，都请放心，CLion 能够安全地在整个代码中传播相关变更。</p>
 <p><img src="https://www.jetbrains.com/clion/img/screens/overview_refactoring.png" alt="安全重构屏幕截图"></p>
-<h3 id="快速文档"><a href="#快速文档" class="headerlink" title="快速文档"></a>快速文档</h3><p>检查脱字符号下的代码即可了解任何信息：函数签名详细信息、审查注释、预览 Doxygen 样式文档、检查针对缺少显式类型的符号推断出的类型，以及查看正确格式化的最终宏替换。</p>
+<h3 id="快速文档">快速文档</h3>
+<p>检查脱字符号下的代码即可了解任何信息：函数签名详细信息、审查注释、预览 Doxygen 样式文档、检查针对缺少显式类型的符号推断出的类型，以及查看正确格式化的最终宏替换。</p>
 <p><img src="https://www.jetbrains.com/clion/img/screens/overview_quickdoc.png" alt="快速文档屏幕截图"></p>
 <p><a target="_blank" rel="noopener" href="https://www.youtube.com/playlist?list=PLQ176FUIyIUZtuh8zmT0lmcjsImnrDSmG">观看 CLion 提示和技巧</a></p>
-<h2 id="实时代码分析"><a href="#实时代码分析" class="headerlink" title="实时代码分析"></a>实时代码分析</h2><p><img src="https://www.jetbrains.com/clion/img/screens/overview_code-analysis-1.png" alt="代码分析屏幕截图"></p>
+<h2 id="实时代码分析">实时代码分析</h2>
+<p><img src="https://www.jetbrains.com/clion/img/screens/overview_code-analysis-1.png" alt="代码分析屏幕截图"></p>
 <p>创建美观而正确的代码。使用 CLion，您在键入时会立即检测出潜在的代码问题。</p>
 <p><img src="https://www.jetbrains.com/clion/img/screens/overview_code-analysis-2.png" alt="代码分析屏幕截图"></p>
 <p>… 并且只需按一下按钮即可修复该问题，而 IDE 可以正确地处理变更。</p>
 <p><img src="https://www.jetbrains.com/clion/img/screens/overview_code-analysis-3.png" alt="代码分析屏幕截图"></p>
 <p>CLion 会运行其代码分析、数据流分析、其他基于 Clangd 的检查以及 Clang-Tidy，以检测未使用和不可到达的代码、悬空指针、缺少的类型转换、没有匹配的函数重载以及许多其他问题。</p>
-<h2 id="集成的调试器"><a href="#集成的调试器" class="headerlink" title="集成的调试器"></a>集成的调试器</h2><p><img src="https://www.jetbrains.com/clion/img/screens/overview_debug.png" alt="调试器屏幕截图"></p>
+<h2 id="集成的调试器">集成的调试器</h2>
+<p><img src="https://www.jetbrains.com/clion/img/screens/overview_debug.png" alt="调试器屏幕截图"></p>
 <p>通过 CLion 友好的调试器，以及 GDB 或 LLDB 作为后端，轻松调查和解决问题。</p>
 <p>附加到本地进程或远程调试。对于嵌入式开发，依靠 OpenOCD 和嵌入式 GDB 服务器配置来使用 CLion 进行片上调试。</p>
 <p>通过反汇编和内存视图以及外设视图深入了解嵌入式设备。</p>
-<h3 id="设置断点"><a href="#设置断点" class="headerlink" title="设置断点"></a>设置断点</h3><p>使用行、符号、异常和条件断点来检查代码执行情况。记录事件，命中后移除断点，或在命中其他断点前关闭断点。所有选项都可以在专用的对话框中进行配置。</p>
-<h3 id="评估表达式"><a href="#评估表达式" class="headerlink" title="评估表达式"></a>评估表达式</h3><p>在某个执行点停止时，可利用 Watches 和 Variables 视图，或者评估函数调用或某些复杂表达式的结果。</p>
-<h3 id="查看内联值"><a href="#查看内联值" class="headerlink" title="查看内联值"></a>查看内联值</h3><p>您在调试时，编辑器中会直接显示变量的值，而无需切换到 Debug 工具窗口中的 Variables 选项卡，这使您能够方便而全面地了解项目情况！</p>
+<h3 id="设置断点">设置断点</h3>
+<p>使用行、符号、异常和条件断点来检查代码执行情况。记录事件，命中后移除断点，或在命中其他断点前关闭断点。所有选项都可以在专用的对话框中进行配置。</p>
+<h3 id="评估表达式">评估表达式</h3>
+<p>在某个执行点停止时，可利用 Watches 和 Variables 视图，或者评估函数调用或某些复杂表达式的结果。</p>
+<h3 id="查看内联值">查看内联值</h3>
+<p>您在调试时，编辑器中会直接显示变量的值，而无需切换到 Debug 工具窗口中的 Variables 选项卡，这使您能够方便而全面地了解项目情况！</p>
 <p><a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=5wGsRdumueU">观看演示</a></p>
-<h2 id="完全集成的-C-C-开发环境"><a href="#完全集成的-C-C-开发环境" class="headerlink" title="完全集成的 C/C++ 开发环境"></a>完全集成的 C/C++ 开发环境</h2><h3 id="项目模型"><a href="#项目模型" class="headerlink" title="项目模型"></a>项目模型</h3><p>CLion 使用项目模型在编辑器中提供其编码辅助、重构、编码样式一致性和其他智能操作的信息。支持的格式包括 CMake、Makefile、Gradle 和编译数据库。</p>
-<h3 id="以键盘为中心的方法"><a href="#以键盘为中心的方法" class="headerlink" title="以键盘为中心的方法"></a>以键盘为中心的方法</h3><p>为了帮助您专注于代码并提高工作效率，CLion 几乎为所有功能、操作和命令都提供了便利的键盘快捷键。</p>
+<h2 id="完全集成的-C-C-开发环境">完全集成的 C/C++ 开发环境</h2>
+<h3 id="项目模型">项目模型</h3>
+<p>CLion 使用项目模型在编辑器中提供其编码辅助、重构、编码样式一致性和其他智能操作的信息。支持的格式包括 CMake、Makefile、Gradle 和编译数据库。</p>
+<h3 id="以键盘为中心的方法">以键盘为中心的方法</h3>
+<p>为了帮助您专注于代码并提高工作效率，CLion 几乎为所有功能、操作和命令都提供了便利的键盘快捷键。</p>
 <p>欢迎 Vim 粉丝安装 <a target="_blank" rel="noopener" href="https://plugins.jetbrains.com/plugin/164-ideavim">Vim - 仿真插件</a>。</p>
-<h3 id="远程和协作工作"><a href="#远程和协作工作" class="headerlink" title="远程和协作工作"></a>远程和协作工作</h3><p>在本地编辑代码后，在本地、远程或片上构建、运行或调试应用程序或单元测试。</p>
+<h3 id="远程和协作工作">远程和协作工作</h3>
+<p>在本地编辑代码后，在本地、远程或片上构建、运行或调试应用程序或单元测试。</p>
 <p>升级您的协作工作并与您的同事实时处理 CLion 项目。</p>
-<h3 id="您需要的一切都在一个地方"><a href="#您需要的一切都在一个地方" class="headerlink" title="您需要的一切都在一个地方"></a>您需要的一切都在一个地方</h3><p>CLion 包含日常开发中的所有基本工具：VCS（SVN、Git、GitHub、Mercurial、Perforce）、Google Test、Catch 和 Boost。单元测试框架、Doxygen、数据库工具和 Markdown 支持。</p>
+<h3 id="您需要的一切都在一个地方">您需要的一切都在一个地方</h3>
+<p>CLion 包含日常开发中的所有基本工具：VCS（SVN、Git、GitHub、Mercurial、Perforce）、Google Test、Catch 和 Boost。单元测试框架、Doxygen、数据库工具和 Markdown 支持。</p>
 <p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/clion/features/">发现所有功能</a></p>
-<h2 id="CLion-2022-1-最新变化"><a href="#CLion-2022-1-最新变化" class="headerlink" title="CLion 2022.1 最新变化"></a>CLion 2022.1 最新变化</h2><p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/clion/whatsnew">查看最新变化</a></p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1XtHdaiW1sFSPEFfB9lp5xg">https://pan.baidu.com/s/1XtHdaiW1sFSPEFfB9lp5xg</a>  提取码：bee3</p>
+<h2 id="CLion-2022-1-最新变化">CLion 2022.1 最新变化</h2>
+<p><a target="_blank" rel="noopener" href="https://www.jetbrains.com/zh-cn/clion/whatsnew">查看最新变化</a></p>
+<h2 id="下载地址-166">下载地址</h2>
+<p>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1XtHdaiW1sFSPEFfB9lp5xg">https://pan.baidu.com/s/1XtHdaiW1sFSPEFfB9lp5xg</a>  提取码：bee3</p>
 
 
         <hr>
@@ -591,6 +612,24 @@
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/jb-clion-2022/" class="leancloud-visitors" data-flag-title="JetBrains CLion 2022.1 (macOS, Linux, Windows)">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -623,7 +662,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E7%94%A8%E4%BA%8E%E5%BC%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E7%9A%84%E5%BC%BA%E5%A4%A7%E5%B7%A5%E5%85%B7"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">用于强大语言的强大工具</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E6%99%BA%E8%83%BD%E7%9A%84-C-%E5%92%8C-C-%E7%BC%96%E8%BE%91%E5%99%A8"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">智能的 C 和 C++ 编辑器</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%A3%E7%A0%81%E8%BE%85%E5%8A%A9"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">代码辅助</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">代码生成</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%AE%89%E5%85%A8%E9%87%8D%E6%9E%84"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">安全重构</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%BF%AB%E9%80%9F%E6%96%87%E6%A1%A3"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">快速文档</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%AE%9E%E6%97%B6%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">实时代码分析</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%9B%86%E6%88%90%E7%9A%84%E8%B0%83%E8%AF%95%E5%99%A8"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">集成的调试器</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%AE%BE%E7%BD%AE%E6%96%AD%E7%82%B9"><span class="toc-nav-number">4.1.</span> <span class="toc-nav-text">设置断点</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%AF%84%E4%BC%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F"><span class="toc-nav-number">4.2.</span> <span class="toc-nav-text">评估表达式</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%9F%A5%E7%9C%8B%E5%86%85%E8%81%94%E5%80%BC"><span class="toc-nav-number">4.3.</span> <span class="toc-nav-text">查看内联值</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%AE%8C%E5%85%A8%E9%9B%86%E6%88%90%E7%9A%84-C-C-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">完全集成的 C&#x2F;C++ 开发环境</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%A1%B9%E7%9B%AE%E6%A8%A1%E5%9E%8B"><span class="toc-nav-number">5.1.</span> <span class="toc-nav-text">项目模型</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%A5%E9%94%AE%E7%9B%98%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E6%96%B9%E6%B3%95"><span class="toc-nav-number">5.2.</span> <span class="toc-nav-text">以键盘为中心的方法</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%BF%9C%E7%A8%8B%E5%92%8C%E5%8D%8F%E4%BD%9C%E5%B7%A5%E4%BD%9C"><span class="toc-nav-number">5.3.</span> <span class="toc-nav-text">远程和协作工作</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%82%A8%E9%9C%80%E8%A6%81%E7%9A%84%E4%B8%80%E5%88%87%E9%83%BD%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%9C%B0%E6%96%B9"><span class="toc-nav-number">5.4.</span> <span class="toc-nav-text">您需要的一切都在一个地方</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#CLion-2022-1-%E6%9C%80%E6%96%B0%E5%8F%98%E5%8C%96"><span class="toc-nav-number">6.</span> <span class="toc-nav-text">CLion 2022.1 最新变化</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">7.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E7%94%A8%E4%BA%8E%E5%BC%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E7%9A%84%E5%BC%BA%E5%A4%A7%E5%B7%A5%E5%85%B7"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">用于强大语言的强大工具</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E6%99%BA%E8%83%BD%E7%9A%84-C-%E5%92%8C-C-%E7%BC%96%E8%BE%91%E5%99%A8"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">智能的 C 和 C++ 编辑器</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%A3%E7%A0%81%E8%BE%85%E5%8A%A9"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">代码辅助</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">代码生成</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%AE%89%E5%85%A8%E9%87%8D%E6%9E%84"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">安全重构</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%BF%AB%E9%80%9F%E6%96%87%E6%A1%A3"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">快速文档</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%AE%9E%E6%97%B6%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">实时代码分析</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%9B%86%E6%88%90%E7%9A%84%E8%B0%83%E8%AF%95%E5%99%A8"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">集成的调试器</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%AE%BE%E7%BD%AE%E6%96%AD%E7%82%B9"><span class="toc-nav-number">4.1.</span> <span class="toc-nav-text">设置断点</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%AF%84%E4%BC%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F"><span class="toc-nav-number">4.2.</span> <span class="toc-nav-text">评估表达式</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%9F%A5%E7%9C%8B%E5%86%85%E8%81%94%E5%80%BC"><span class="toc-nav-number">4.3.</span> <span class="toc-nav-text">查看内联值</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%AE%8C%E5%85%A8%E9%9B%86%E6%88%90%E7%9A%84-C-C-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">完全集成的 C&#x2F;C++ 开发环境</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%A1%B9%E7%9B%AE%E6%A8%A1%E5%9E%8B"><span class="toc-nav-number">5.1.</span> <span class="toc-nav-text">项目模型</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%A5%E9%94%AE%E7%9B%98%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E6%96%B9%E6%B3%95"><span class="toc-nav-number">5.2.</span> <span class="toc-nav-text">以键盘为中心的方法</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%BF%9C%E7%A8%8B%E5%92%8C%E5%8D%8F%E4%BD%9C%E5%B7%A5%E4%BD%9C"><span class="toc-nav-number">5.3.</span> <span class="toc-nav-text">远程和协作工作</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%82%A8%E9%9C%80%E8%A6%81%E7%9A%84%E4%B8%80%E5%88%87%E9%83%BD%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%9C%B0%E6%96%B9"><span class="toc-nav-number">5.4.</span> <span class="toc-nav-text">您需要的一切都在一个地方</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#CLion-2022-1-%E6%9C%80%E6%96%B0%E5%8F%98%E5%8C%96"><span class="toc-nav-number">6.</span> <span class="toc-nav-text">CLion 2022.1 最新变化</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-166"><span class="toc-nav-number">7.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -801,7 +840,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -877,7 +916,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
