@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> Kubernetes v1.18 编译 kubeadmin 修改证书有效期到 100 年 - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> Kubernetes v1.18 编译 kubeadmin 修改证书有效期到 100 年 - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" Kubernetes v1.18 编译 kubeadmin 修改证书有效期到 100 年 - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" Kubernetes v1.18 编译 kubeadmin 修改证书有效期到 100 年 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/kubernetes-kubeadmin-cert-100y-1-18/">
+  <link rel="canonical" href="https://sysin.org/blog/kubernetes-kubeadmin-cert-100y-1-18/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -249,6 +252,17 @@
           
           
           <li>
+            <a href="/categories/">
+              
+              分类
+              
+              
+            </a>
+          </li>
+          
+          
+          
+          <li>
             <a href="/donate/">
               
               捐助
@@ -263,17 +277,6 @@
             <a href="/tags/">
               
               标签
-              
-              
-            </a>
-          </li>
-          
-          
-          
-          <li>
-            <a href="/categories/">
-              
-              分类
               
               
             </a>
@@ -461,45 +464,54 @@
         
 
         <p>请访问原文链接：<a href="/blog/kubernetes-kubeadmin-cert-100y/" title="Kubernetes v1.23 编译 kubeadmin 修改证书有效期到 100 年">Kubernetes v1.23 编译 kubeadmin 修改证书有效期到 100 年</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p><strong>kubeadm 默认证书为一年，一年过期后，会导致api service不可用，使用过程中会出现：x509: certificate has expired or is not yet valid.</strong></p>
 <p>Google 建议通过不停更新版本来自动更新证书，太坑^_^</p>
 <p><strong>可以在初始化群集之前重新编译kubeadm，证书有效期自动为100年。</strong></p>
-<h2 id="1-获取源码"><a href="#1-获取源码" class="headerlink" title="1. 获取源码"></a>1. 获取源码</h2><p>访问：<a target="_blank" rel="noopener" href="https://github.com/kubernetes/kubernetes/releases">https://github.com/kubernetes/kubernetes/releases</a>，下载特定版本源码</p>
+<h2 id="1-获取源码">1. 获取源码</h2>
+<p>访问：<a target="_blank" rel="noopener" href="https://github.com/kubernetes/kubernetes/releases">https://github.com/kubernetes/kubernetes/releases</a>，下载特定版本源码</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">wget https://github.com/kubernetes/kubernetes/archive/v1.18.0.tar.gz</span><br><span class="line">tar -zxvf v1.18.0.tar.gz</span><br><span class="line">mv kubernetes-1.18.0 kubernetes</span><br><span class="line">cd kubernetes</span><br></pre></td></tr></table></figure>
 <p>或者使用 git 获取</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">yum install git</span></span><br><span class="line">git clone https://github.com/kubernetes/kubernetes.git</span><br><span class="line">cd kubernetes</span><br><span class="line">git checkout -b remotes/origin/release-1.18 v1.18.0</span><br></pre></td></tr></table></figure>
-<h2 id="2-修改证书有效期"><a href="#2-修改证书有效期" class="headerlink" title="2. 修改证书有效期"></a>2. 修改证书有效期</h2><p>查看网上的资料主要有两个地方需要修改</p>
-<h3 id="修改-CA-有效期为-100-年（默认为-10-年）"><a href="#修改-CA-有效期为-100-年（默认为-10-年）" class="headerlink" title="修改 CA 有效期为 100 年（默认为 10 年）"></a>修改 CA 有效期为 100 年（默认为 10 年）</h3><p>vim ./staging/src/k8s.io/client-go/util/cert/cert.go</p>
+<h2 id="2-修改证书有效期">2. 修改证书有效期</h2>
+<p>查看网上的资料主要有两个地方需要修改</p>
+<h3 id="修改-CA-有效期为-100-年（默认为-10-年）">修改 CA 有效期为 100 年（默认为 10 年）</h3>
+<p>vim ./staging/src/k8s.io/client-go/util/cert/cert.go</p>
 <figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 这个方法里面NotAfter:              now.Add(duration365d * 10).UTC()</span></span><br><span class="line"><span class="comment">// 默认有效期就是10年，改成100年 (sysin)</span></span><br><span class="line"><span class="comment">// 按/NotAfter查找</span></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">NewSelfSignedCACert</span><span class="params">(cfg Config, key crypto.Signer)</span></span> (*x509.Certificate, <span class="type">error</span>) &#123;</span><br><span class="line">        now := time.Now()</span><br><span class="line">        tmpl := x509.Certificate&#123;</span><br><span class="line">                SerialNumber: <span class="built_in">new</span>(big.Int).SetInt64(<span class="number">0</span>),</span><br><span class="line">                Subject: pkix.Name&#123;</span><br><span class="line">                        CommonName:   cfg.CommonName,</span><br><span class="line">                        Organization: cfg.Organization,</span><br><span class="line">                &#125;,</span><br><span class="line">                NotBefore:             now.UTC(),</span><br><span class="line">                <span class="comment">// NotAfter:              now.Add(duration365d * 10).UTC(),</span></span><br><span class="line">                NotAfter:              now.Add(duration365d * <span class="number">100</span>).UTC(),</span><br><span class="line">                KeyUsage:              x509.KeyUsageKeyEncipherment | x509.KeyUsageDigitalSignature | x509.KeyUsageCertSign,</span><br><span class="line">                BasicConstraintsValid: <span class="literal">true</span>,</span><br><span class="line">                IsCA:                  <span class="literal">true</span>,</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        certDERBytes, err := x509.CreateCertificate(cryptorand.Reader, &amp;tmpl, &amp;tmpl, key.Public(), key)</span><br><span class="line">        <span class="keyword">if</span> err != <span class="literal">nil</span> &#123;</span><br><span class="line">                <span class="keyword">return</span> <span class="literal">nil</span>, err</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> x509.ParseCertificate(certDERBytes)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h3 id="修改证书有效期为-100-年（默认为-1-年）"><a href="#修改证书有效期为-100-年（默认为-1-年）" class="headerlink" title="修改证书有效期为 100 年（默认为 1 年）"></a>修改证书有效期为 100 年（默认为 1 年）</h3><p>vim ./cmd/kubeadm/app/constants/constants.go</p>
+<h3 id="修改证书有效期为-100-年（默认为-1-年）">修改证书有效期为 100 年（默认为 1 年）</h3>
+<p>vim ./cmd/kubeadm/app/constants/constants.go</p>
 <figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 就是这个常量定义CertificateValidity，改成*100年 (sysin)</span></span><br><span class="line"><span class="keyword">const</span> (</span><br><span class="line">        <span class="comment">// KubernetesDir is the directory Kubernetes owns for storing various configuration files</span></span><br><span class="line">        KubernetesDir = <span class="string">&quot;/etc/kubernetes&quot;</span></span><br><span class="line">        <span class="comment">// ManifestsSubDirName defines directory name to store manifests</span></span><br><span class="line">        ManifestsSubDirName = <span class="string">&quot;manifests&quot;</span></span><br><span class="line">        <span class="comment">// TempDirForKubeadm defines temporary directory for kubeadm</span></span><br><span class="line">        <span class="comment">// should be joined with KubernetesDir.</span></span><br><span class="line">        TempDirForKubeadm = <span class="string">&quot;tmp&quot;</span></span><br><span class="line"></span><br><span class="line">        <span class="comment">// CertificateValidity defines the validity for all the signed certificates generated by kubeadm</span></span><br><span class="line">        <span class="comment">// CertificateValidity = time.Hour * 24 * 365</span></span><br><span class="line">        CertificateValidity = time.Hour * <span class="number">24</span> * <span class="number">365</span> * <span class="number">100</span></span><br><span class="line"></span><br><span class="line">        <span class="comment">// CACertAndKeyBaseName defines certificate authority base name</span></span><br><span class="line">        CACertAndKeyBaseName = <span class="string">&quot;ca&quot;</span></span><br><span class="line">        <span class="comment">// CACertName defines certificate name</span></span><br><span class="line">        CACertName = <span class="string">&quot;ca.crt&quot;</span></span><br><span class="line">        <span class="comment">// CAKeyName defines certificate name</span></span><br><span class="line">        CAKeyName = <span class="string">&quot;ca.key&quot;</span></span><br></pre></td></tr></table></figure>
 <p>git验证，修改的内容如下：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line">git diff</span><br><span class="line"></span><br><span class="line">diff --git a/cmd/kubeadm/app/constants/constants.go b/cmd/kubeadm/app/constants/constants.go</span><br><span class="line">index 75adf43..54f25fa 100644</span><br><span class="line">--- a/cmd/kubeadm/app/constants/constants.go</span><br><span class="line">+++ b/cmd/kubeadm/app/constants/constants.go</span><br><span class="line">@@ -44,7 +44,7 @@ const (</span><br><span class="line">        TempDirForKubeadm = &quot;tmp&quot;</span><br><span class="line"></span><br><span class="line">        // CertificateValidity defines the validity for all the signed certificates generated by kubeadm</span><br><span class="line">-       CertificateValidity = time.Hour * 24 * 365</span><br><span class="line">+       CertificateValidity = time.Hour * 24 * 365 * 100</span><br><span class="line"></span><br><span class="line">        // CACertAndKeyBaseName defines certificate authority base name</span><br><span class="line">        CACertAndKeyBaseName = &quot;ca&quot;</span><br><span class="line">diff --git a/staging/src/k8s.io/client-go/util/cert/cert.go b/staging/src/k8s.io/client-go/util/cert/cert.go</span><br><span class="line">index 9fd097a..865d6bb 100644</span><br><span class="line">--- a/staging/src/k8s.io/client-go/util/cert/cert.go</span><br><span class="line">+++ b/staging/src/k8s.io/client-go/util/cert/cert.go</span><br><span class="line">@@ -63,7 +63,7 @@ func NewSelfSignedCACert(cfg Config, key crypto.Signer) (*x509.Certificate, erro</span><br><span class="line">                        Organization: cfg.Organization,</span><br><span class="line">                &#125;,</span><br><span class="line">                NotBefore:             now.UTC(),</span><br><span class="line">-               NotAfter:              now.Add(duration365d * 10).UTC(),</span><br><span class="line">+               NotAfter:              now.Add(duration365d * 100).UTC(),</span><br><span class="line">                KeyUsage:              x509.KeyUsageKeyEncipherment | x509.KeyUsageDigitalSignature | x509.KeyUsageCertSign,</span><br><span class="line">                BasicConstraintsValid: true,</span><br><span class="line">                IsCA:                  true,</span><br></pre></td></tr></table></figure>
 <p>源代码改好了，接下来就是编译kubeadm了</p>
-<h2 id="3-编译"><a href="#3-编译" class="headerlink" title="3. 编译"></a>3. 编译</h2><h3 id="3-1-Docker镜像编译（推荐）"><a href="#3-1-Docker镜像编译（推荐）" class="headerlink" title="3.1 Docker镜像编译（推荐）"></a>3.1 Docker镜像编译（推荐）</h3><ul>
+<h2 id="3-编译">3. 编译</h2>
+<h3 id="3-1-Docker镜像编译（推荐）">3.1 Docker镜像编译（推荐）</h3>
+<ul>
 <li>查看 kube-cross 的 TAG 版本号</li>
 </ul>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">cat ./build/build-image/cross/VERSION</span><br><span class="line"></span><br><span class="line">v1.13.8-1</span><br></pre></td></tr></table></figure>
-<p>这里我们可以使用官方容器对代码进行编译：k8s.gcr.io/kube-cross:v1.13.6-1（当前只有1.13.6而不是1.13.8，未知）</p>
+<p>这里我们可以使用官方容器对代码进行编译：<a target="_blank" rel="noopener" href="http://k8s.gcr.io/kube-cross:v1.13.6-1%EF%BC%88%E5%BD%93%E5%89%8D%E5%8F%AA%E6%9C%891.13.6%E8%80%8C%E4%B8%8D%E6%98%AF1.13.8%EF%BC%8C%E6%9C%AA%E7%9F%A5%EF%BC%89">k8s.gcr.io/kube-cross:v1.13.6-1（当前只有1.13.6而不是1.13.8，未知）</a></p>
 <ul>
 <li>拉取镜像</li>
 </ul>
 <p>无法翻墙可以用下面的替代镜像：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker pull gcrcontainer/kube-cross:v1.13.6-1</span><br></pre></td></tr></table></figure>
-<p>或者：’docker pull registry.aliyuncs.com/google_containers/kube-cross:v1.13.6-1’</p>
+<p>或者：‘docker pull <a target="_blank" rel="noopener" href="http://registry.aliyuncs.com/google_containers/kube-cross:v1.13.6-1">registry.aliyuncs.com/google_containers/kube-cross:v1.13.6-1</a>’</p>
 <ul>
 <li>编译</li>
 </ul>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">docker run --<span class="built_in">rm</span> -v &lt;你修改后的代码目录&gt;:/go/src/k8s.io/kubernetes -it gcrcontainer/kube-cross bash</span></span><br><span class="line">docker run --rm -v /root/kubernetes:/go/src/k8s.io/kubernetes -it gcrcontainer/kube-cross:v1.13.6-1 bash</span><br><span class="line"></span><br><span class="line">cd /go/src/k8s.io/kubernetes</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">编译kubeadm, 这里主要编译kubeadm 即可</span></span><br><span class="line">make all WHAT=cmd/kubeadm GOFLAGS=-v</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">编译kubelet</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">make all WHAT=cmd/kubelet GOFLAGS=-v</span></span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">编译kubectl</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">make all WHAT=cmd/kubectl GOFLAGS=-v</span></span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">退出容器</span></span><br><span class="line">exit</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">编译完产物在 _output/bin/kubeadm 目录下，</span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">其中bin是使用了软连接</span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">真实路径是_output/local/bin/linux/amd64/kubeadm</span></span><br><span class="line">mv /usr/bin/kubeadm /usr/bin/kubeadm_backup</span><br><span class="line">cp _output/local/bin/linux/amd64/kubeadm /usr/bin/kubeadm</span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash"><span class="built_in">chmod</span> +x /usr/bin/kubeadm</span></span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">验证版本</span></span><br><span class="line">kubeadm version</span><br></pre></td></tr></table></figure>
-<h3 id="3-2-本机编"><a href="#3-2-本机编" class="headerlink" title="3.2 本机编"></a>3.2 本机编</h3><p>环境需求参看<a target="_blank" rel="noopener" href="https://github.com/kubernetes/community/blob/master/contributors/devel/development.md">官方文档</a>。</p>
-<h4 id="3-2-1-软件包准备"><a href="#3-2-1-软件包准备" class="headerlink" title="3.2.1 软件包准备"></a>3.2.1 软件包准备</h4><p>CentOS：</p>
+<h3 id="3-2-本机编">3.2 本机编</h3>
+<p>环境需求参看<a target="_blank" rel="noopener" href="https://github.com/kubernetes/community/blob/master/contributors/devel/development.md">官方文档</a>。</p>
+<h4 id="3-2-1-软件包准备">3.2.1 软件包准备</h4>
+<p>CentOS：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">yum install gcc make -y</span><br><span class="line">yum install rsync jq -y</span><br></pre></td></tr></table></figure>
 <p>Ubuntu：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sudo apt install build-essential #(Following command will install essential commands like gcc, make etc.)</span><br><span class="line">sudo apt install rsync jq -y</span><br></pre></td></tr></table></figure>
-<h4 id="3-2-2-GoLang-环境"><a href="#3-2-2-GoLang-环境" class="headerlink" title="3.2.2 GoLang 环境"></a>3.2.2 GoLang 环境</h4><p>查看 kube-cross 的 TAG 版本号</p>
+<h4 id="3-2-2-GoLang-环境">3.2.2 GoLang 环境</h4>
+<p>查看 kube-cross 的 TAG 版本号</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash"><span class="built_in">cat</span> ./build/build-image/cross/VERSION</span></span><br><span class="line"></span><br><span class="line">v1.13.8-1</span><br></pre></td></tr></table></figure>
 <ul>
 <li>安装Go环境：</li>
@@ -513,7 +525,8 @@
 <li>编译：</li>
 </ul>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">编译kubeadm, 这里主要编译kubeadm 即可</span></span><br><span class="line">make all WHAT=cmd/kubeadm GOFLAGS=-v</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">编译kubelet</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">make all WHAT=cmd/kubelet GOFLAGS=-v</span></span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">编译kubectl</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">make all WHAT=cmd/kubectl GOFLAGS=-v</span></span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">编译完产物在 _output/bin/kubeadm 目录下，</span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">其中bin是使用了软连接</span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">真实路径是_output/local/bin/linux/amd64/kubeadm</span></span><br><span class="line">mv /usr/bin/kubeadm /usr/bin/kubeadm_backup</span><br><span class="line">cp _output/local/bin/linux/amd64/kubeadm /usr/bin/kubeadm</span><br><span class="line">chmod +x /usr/bin/kubeadm</span><br></pre></td></tr></table></figure>
-<h2 id="4-执行命令更新证书"><a href="#4-执行命令更新证书" class="headerlink" title="4. 执行命令更新证书"></a>4. 执行命令更新证书</h2><p>可以先备份证书，证书在/etc/kubernetes/pki</p>
+<h2 id="4-执行命令更新证书">4. 执行命令更新证书</h2>
+<p>可以先备份证书，证书在/etc/kubernetes/pki</p>
 <ul>
 <li>检查证书到期时间</li>
 </ul>
@@ -530,8 +543,9 @@
 <li>再次查看证书有效期，全部都100年了</li>
 </ul>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubeadm alpha certs check-expiration</span><br></pre></td></tr></table></figure>
-<h2 id="5-下载"><a href="#5-下载" class="headerlink" title="5. 下载"></a>5. 下载</h2><p>已经修改好的 kubeadm 下载（1.17.0、1.18.0、1.19.0，1.20.0, 持续更新中）：</p>
-<p>百度网盘链接：<a target="_blank" rel="noopener" href="https://sysin.org/blog/kubernetes-kubeadmin-cert-100y/">https://sysin.org/blog/kubernetes-kubeadmin-cert-100y/</a></p>
+<h2 id="5-下载">5. 下载</h2>
+<p>已经修改好的 kubeadm 下载（1.17.0、1.18.0、1.19.0，1.20.0, 持续更新中）：</p>
+<p>百度网盘链接：<a href="https://sysin.org/blog/kubernetes-kubeadmin-cert-100y/">https://sysin.org/blog/kubernetes-kubeadmin-cert-100y/</a></p>
 
 
         <hr>
@@ -617,6 +631,24 @@
 
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
+
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/kubernetes-kubeadmin-cert-100y-1-18/" class="leancloud-visitors" data-flag-title="Kubernetes v1.18 编译 kubeadmin 修改证书有效期到 100 年">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
 
 
 <!-- 1. gitalk comment -->
@@ -822,7 +854,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -898,7 +930,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
