@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/disable-macos-monterey-update/</loc>
+    
+    <lastmod>2022-07-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/macos-createinstallmedia/</loc>
+    
+    <lastmod>2022-07-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/fusion-18/</loc>
     
     <lastmod>2022-07-24</lastmod>
@@ -246,15 +264,6 @@
   
   <url>
     <loc>https://sysin.org/blog/install-macos-13-on-unsupported-mac/</loc>
-    
-    <lastmod>2022-07-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/disable-macos-monterey-update/</loc>
     
     <lastmod>2022-07-21</lastmod>
     
@@ -848,7 +857,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/Gartner-Magic-Quadrant-Networking-2020/</loc>
+    <loc>https://sysin.org/blog/Gartner-Magic-Quadrant-OPDBMS-2019/</loc>
     
     <lastmod>2022-07-11</lastmod>
     
@@ -857,7 +866,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/Gartner-Magic-Quadrant-OPDBMS-2019/</loc>
+    <loc>https://sysin.org/blog/Gartner-Magic-Quadrant-Networking-2020/</loc>
     
     <lastmod>2022-07-11</lastmod>
     
@@ -2063,15 +2072,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/macos-createinstallmedia/</loc>
-    
-    <lastmod>2022-06-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/install-macos-12-on-unsupported-mac-mini-monterey-patcher/</loc>
     
     <lastmod>2022-06-24</lastmod>
@@ -2369,7 +2369,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-ios-xr-7/</loc>
+    <loc>https://sysin.org/blog/cisco-ios-xr-7-5/</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -2378,7 +2378,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-ios-xr-7-5/</loc>
+    <loc>https://sysin.org/blog/cisco-ios-xr-7/</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -2414,7 +2414,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/parallel-desktop-16-m1/</loc>
+    <loc>https://sysin.org/blog/parallel-desktop-16/</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -2423,7 +2423,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/parallel-desktop-16/</loc>
+    <loc>https://sysin.org/blog/parallel-desktop-16-m1/</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -3026,7 +3026,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/linux-boot-partition/</loc>
+    <loc>https://sysin.org/blog/linux-partition-expansion/</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -3035,7 +3035,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/linux-partition-expansion/</loc>
+    <loc>https://sysin.org/blog/linux-boot-partition/</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -3656,7 +3656,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/comment-error/</loc>
+    <loc>https://sysin.org/blog/clear-browser-dns-cache/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3665,7 +3665,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/clear-browser-dns-cache/</loc>
+    <loc>https://sysin.org/blog/comment-error/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3800,7 +3800,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/euleros/</loc>
+    <loc>https://sysin.org/blog/exchange-2016/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -3809,7 +3809,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/exchange-2016/</loc>
+    <loc>https://sysin.org/blog/euleros/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4349,7 +4349,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/netapp-ontap-select-9/</loc>
+    <loc>https://sysin.org/blog/office-2019-iso/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4358,7 +4358,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/office-2019-iso/</loc>
+    <loc>https://sysin.org/blog/netapp-ontap-select-9/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4457,7 +4457,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/proxmox-ve-7/</loc>
+    <loc>https://sysin.org/blog/proxmox-ve-7-2/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4466,7 +4466,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/proxmox-ve-7-2/</loc>
+    <loc>https://sysin.org/blog/proxmox-ve-7/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4574,7 +4574,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/splunk-8-win/</loc>
+    <loc>https://sysin.org/blog/splunk-8/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4583,7 +4583,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/splunk-8/</loc>
+    <loc>https://sysin.org/blog/splunk-8-win/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4646,15 +4646,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/ubuntu-2104/</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/ubuntu-2110/</loc>
     
     <lastmod>2022-05-24</lastmod>
@@ -4665,6 +4656,15 @@
   
   <url>
     <loc>https://sysin.org/blog/ubuntu-2204/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/ubuntu-2104/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4979,7 +4979,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-tkg-150/</loc>
+    <loc>https://sysin.org/blog/vmware-tkg-130/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -4997,7 +4997,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-tkg-130/</loc>
+    <loc>https://sysin.org/blog/vmware-tkg-150/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -5051,15 +5051,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcenter-7-u3c/</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/vmware-vcenter-7-u2/</loc>
     
     <lastmod>2022-05-24</lastmod>
@@ -5069,7 +5060,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcenter-7-u3e/</loc>
+    <loc>https://sysin.org/blog/vmware-vcenter-7-u3/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -5078,7 +5069,16 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcenter-7-u3/</loc>
+    <loc>https://sysin.org/blog/vmware-vcenter-7-u3c/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-vcenter-7-u3e/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -5150,7 +5150,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-4-5/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-3/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -5159,7 +5159,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-3/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-4-5/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -5231,6 +5231,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/blog/windows-10-21h1/</loc>
+    
+    <lastmod>2022-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/windows-10-arm-21h1/</loc>
     
     <lastmod>2022-05-24</lastmod>
@@ -5241,15 +5250,6 @@
   
   <url>
     <loc>https://sysin.org/blog/windows-10-arm/</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/windows-10-21h1/</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -5401,14 +5401,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Cisco/</loc>
+    <loc>https://sysin.org/tags/SQL/</loc>
     <lastmod>2022-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/SQL/</loc>
+    <loc>https://sysin.org/tags/Cisco/</loc>
     <lastmod>2022-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
