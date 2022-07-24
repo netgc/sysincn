@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> VMware Integrated OpenStack 7.0 - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> VMware Integrated OpenStack 7.0 - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" VMware Integrated OpenStack 7.0 - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" VMware Integrated OpenStack 7.0 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/vmware-vio-7/">
+  <link rel="canonical" href="https://sysin.org/blog/vmware-vio-7/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -249,6 +252,17 @@
           
           
           <li>
+            <a href="/categories/">
+              
+              分类
+              
+              
+            </a>
+          </li>
+          
+          
+          
+          <li>
             <a href="/donate/">
               
               捐助
@@ -263,17 +277,6 @@
             <a href="/tags/">
               
               标签
-              
-              
-            </a>
-          </li>
-          
-          
-          
-          <li>
-            <a href="/categories/">
-              
-              分类
               
               
             </a>
@@ -393,7 +396,7 @@
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">2.3k</span> In Total
+              Words <span class="post-count">2.4k</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -461,23 +464,39 @@
         
 
         <p>请访问原文链接：<a href="/blog/vmware-vio-7/" title="VMware Integrated OpenStack 7.0">VMware Integrated OpenStack 7.0</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p>VMware Integrated OpenStack 7.0 | 2020 年 6 月 4 日| 内部版本 16227912</p>
-<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>VMware Integrated OpenStack 是一款 VMware 支持的 OpenStack 发行版软件，可方便用户基于 VMware 虚拟化技术轻松运行企业级 OpenStack 云环境。VMware Integrated OpenStack 非常适合许多不同的使用情形，包括构建 IaaS 平台、为开发人员提供标准 OpenStack API 访问、利用边缘计算 (sysin)，以及在 OpenStack 上部署 NFV 服务。</p>
-<h2 id="使用情形"><a href="#使用情形" class="headerlink" title="使用情形"></a>使用情形</h2><h3 id="企业-IaaS-平台-开发人员云环境"><a href="#企业-IaaS-平台-开发人员云环境" class="headerlink" title="企业 IaaS 平台/开发人员云环境"></a>企业 IaaS 平台/开发人员云环境</h3><p>通过标准 OpenStack API 提供基础架构资源的自服务和可编程调配，可提高开发人员的工作效率。借助 VMware Integrated OpenStack，开发人员可获得两全其美的解决方案 - 公有云式用户体验以及他们在最成熟的基础架构上所需的 API。</p>
-<h3 id="从数据中心到边缘"><a href="#从数据中心到边缘" class="headerlink" title="从数据中心到边缘"></a>从数据中心到边缘</h3><p>利用边缘计算进行实时数据收集和分析。通过基于 VMware Integrated OpenStack 和自定义应用在远程位置构建微型数据中心，组织可以实时了解相关情况并采取相应的行动 (sysin)，从而减少需要传输到集中式数据中心的数据量。</p>
-<h3 id="通过-VMware-NSX-实现的高级网络虚拟化"><a href="#通过-VMware-NSX-实现的高级网络虚拟化" class="headerlink" title="通过 VMware NSX 实现的高级网络虚拟化"></a>通过 VMware NSX 实现的高级网络虚拟化</h3><p>使用 VMware NSX 部署 VMware Integrated OpenStack，可提供高级安全和网络虚拟化功能，例如适用于您的关键业务工作负载的防火墙和微分段。</p>
-<h3 id="面向-CSP-的-NFV-云"><a href="#面向-CSP-的-NFV-云" class="headerlink" title="面向 CSP 的 NFV 云"></a>面向 CSP 的 NFV 云</h3><p>借助 VMware Integrated OpenStack 构建基于 OpenStack 的网络虚拟化功能 (NFV)。对于希望构建具备 NFV 客户所需的特定功能和关键功能的 NFV 云的通信服务提供商 (CSP) 而言，VMware Integrated OpenStack 可谓是理想的平台。单击<a target="_blank" rel="noopener" href="https://www.vmware.com/cn/products/network-functions-virtualization/integrated-openstack-carrier-edition.html">此处</a>了解更多信息。</p>
-<h2 id="功能特性"><a href="#功能特性" class="headerlink" title="功能特性"></a>功能特性</h2><h3 id="基于-OpenStack-的-Train-版本"><a href="#基于-OpenStack-的-Train-版本" class="headerlink" title="基于 OpenStack 的 Train 版本"></a>基于 OpenStack 的 Train 版本</h3><p>使用最新的 OpenStack 版本可充分利用最新的上游功能。</p>
-<h3 id="精简-OpenStack-部署"><a href="#精简-OpenStack-部署" class="headerlink" title="精简 OpenStack 部署"></a>精简 OpenStack 部署</h3><p>基于 VMware SDDC，20 分钟内即可完成标准 OpenStack 云环境的部署。使用 VMware vSphere Web Client，只需一个 OVA 文件即可轻松部署 VMware Integrated OpenStack。在几乎不中断的情况下执行修补和升级。</p>
-<h3 id="一流基础架构"><a href="#一流基础架构" class="headerlink" title="一流基础架构"></a>一流基础架构</h3><p>借助 VMware SDCC，可充分利用 VMware vSphere、VMware NSX 和 VMware vSAN 提供的高级企业和生产就绪特性及功能。亲自体验各种优势，例如改进的安全性、高可用性、简化的维护和灾难恢复。</p>
-<h3 id="集成式运维和管理"><a href="#集成式运维和管理" class="headerlink" title="集成式运维和管理"></a>集成式运维和管理</h3><p>即时可用的 vRealize Operations、vRealize Log Insight 和 vRealize Automation 集成可精简诸如运行状况检查、故障排除和容量管理等运维，还可监管和控制用户管理、基于角色的访问控制 (RBAC)、配额等。</p>
-<h3 id="VMware-Integrated-OpenStack“全包式”"><a href="#VMware-Integrated-OpenStack“全包式”" class="headerlink" title="VMware Integrated OpenStack“全包式”"></a>VMware Integrated OpenStack“全包式”</h3><p>基于 VMware Integrated OpenStack 和您的应用构建占用空间较小、恢复能力极强的微型数据中心，并将其发送到远程位置以进行实时数据收集和分析。客户将通过自动化、API 驱动的编排和生命周期管理完全控制这些微型数据中心和应用。通过利用边缘计算中的虚拟 GPU 功能获得竞争优势，以应对各种使用情形，如公用事业、石油和天然气钻井平台、销售点、安保摄像头、制造工厂和面向电信的使用情形。</p>
-<h3 id="集成式容器编排和管理支持"><a href="#集成式容器编排和管理支持" class="headerlink" title="集成式容器编排和管理支持"></a>集成式容器编排和管理支持</h3><p>基于 OpenStack，使用多租户和持久性卷在生产环境中运行容器化应用。</p>
-<h3 id="高级-NFV-功能"><a href="#高级-NFV-功能" class="headerlink" title="高级 NFV 功能"></a>高级 NFV 功能</h3><p>面向希望基于 <a target="_blank" rel="noopener" href="https://www.vmware.com/cn/products/network-functions-virtualization/integrated-openstack-carrier-edition.html">Integrated OpenStack Carrier Edition</a> 构建 NFV 云的通信服务提供商提供的高级特性与功能。</p>
-<h2 id="技术规格"><a href="#技术规格" class="headerlink" title="技术规格"></a>技术规格</h2><h3 id="NSX-V-组件"><a href="#NSX-V-组件" class="headerlink" title="NSX-V 组件"></a>NSX-V 组件</h3><p>如果使用 Integrated OpenStack 部署 NSX-V 组件，则这些组件需要更多的 CPU、RAM 和磁盘空间。</p>
+<h2 id="简介-16">简介</h2>
+<p>VMware Integrated OpenStack 是一款 VMware 支持的 OpenStack 发行版软件，可方便用户基于 VMware 虚拟化技术轻松运行企业级 OpenStack 云环境。VMware Integrated OpenStack 非常适合许多不同的使用情形，包括构建 IaaS 平台、为开发人员提供标准 OpenStack API 访问、利用边缘计算 (sysin)，以及在 OpenStack 上部署 NFV 服务。</p>
+<h2 id="使用情形">使用情形</h2>
+<h3 id="企业-IaaS-平台-开发人员云环境">企业 IaaS 平台/开发人员云环境</h3>
+<p>通过标准 OpenStack API 提供基础架构资源的自服务和可编程调配，可提高开发人员的工作效率。借助 VMware Integrated OpenStack，开发人员可获得两全其美的解决方案 - 公有云式用户体验以及他们在最成熟的基础架构上所需的 API。</p>
+<h3 id="从数据中心到边缘">从数据中心到边缘</h3>
+<p>利用边缘计算进行实时数据收集和分析。通过基于 VMware Integrated OpenStack 和自定义应用在远程位置构建微型数据中心，组织可以实时了解相关情况并采取相应的行动 (sysin)，从而减少需要传输到集中式数据中心的数据量。</p>
+<h3 id="通过-VMware-NSX-实现的高级网络虚拟化">通过 VMware NSX 实现的高级网络虚拟化</h3>
+<p>使用 VMware NSX 部署 VMware Integrated OpenStack，可提供高级安全和网络虚拟化功能，例如适用于您的关键业务工作负载的防火墙和微分段。</p>
+<h3 id="面向-CSP-的-NFV-云">面向 CSP 的 NFV 云</h3>
+<p>借助 VMware Integrated OpenStack 构建基于 OpenStack 的网络虚拟化功能 (NFV)。对于希望构建具备 NFV 客户所需的特定功能和关键功能的 NFV 云的通信服务提供商 (CSP) 而言，VMware Integrated OpenStack 可谓是理想的平台。单击<a target="_blank" rel="noopener" href="https://www.vmware.com/cn/products/network-functions-virtualization/integrated-openstack-carrier-edition.html">此处</a>了解更多信息。</p>
+<h2 id="功能特性-12">功能特性</h2>
+<h3 id="基于-OpenStack-的-Train-版本">基于 OpenStack 的 Train 版本</h3>
+<p>使用最新的 OpenStack 版本可充分利用最新的上游功能。</p>
+<h3 id="精简-OpenStack-部署">精简 OpenStack 部署</h3>
+<p>基于 VMware SDDC，20 分钟内即可完成标准 OpenStack 云环境的部署。使用 VMware vSphere Web Client，只需一个 OVA 文件即可轻松部署 VMware Integrated OpenStack。在几乎不中断的情况下执行修补和升级。</p>
+<h3 id="一流基础架构">一流基础架构</h3>
+<p>借助 VMware SDCC，可充分利用 VMware vSphere、VMware NSX 和 VMware vSAN 提供的高级企业和生产就绪特性及功能。亲自体验各种优势，例如改进的安全性、高可用性、简化的维护和灾难恢复。</p>
+<h3 id="集成式运维和管理">集成式运维和管理</h3>
+<p>即时可用的 vRealize Operations、vRealize Log Insight 和 vRealize Automation 集成可精简诸如运行状况检查、故障排除和容量管理等运维，还可监管和控制用户管理、基于角色的访问控制 (RBAC)、配额等。</p>
+<h3 id="VMware-Integrated-OpenStack“全包式”">VMware Integrated OpenStack“全包式”</h3>
+<p>基于 VMware Integrated OpenStack 和您的应用构建占用空间较小、恢复能力极强的微型数据中心，并将其发送到远程位置以进行实时数据收集和分析。客户将通过自动化、API 驱动的编排和生命周期管理完全控制这些微型数据中心和应用。通过利用边缘计算中的虚拟 GPU 功能获得竞争优势，以应对各种使用情形，如公用事业、石油和天然气钻井平台、销售点、安保摄像头、制造工厂和面向电信的使用情形。</p>
+<h3 id="集成式容器编排和管理支持">集成式容器编排和管理支持</h3>
+<p>基于 OpenStack，使用多租户和持久性卷在生产环境中运行容器化应用。</p>
+<h3 id="高级-NFV-功能">高级 NFV 功能</h3>
+<p>面向希望基于 <a target="_blank" rel="noopener" href="https://www.vmware.com/cn/products/network-functions-virtualization/integrated-openstack-carrier-edition.html">Integrated OpenStack Carrier Edition</a> 构建 NFV 云的通信服务提供商提供的高级特性与功能。</p>
+<h2 id="技术规格-2">技术规格</h2>
+<h3 id="NSX-V-组件">NSX-V 组件</h3>
+<p>如果使用 Integrated OpenStack 部署 NSX-V 组件，则这些组件需要更多的 CPU、RAM 和磁盘空间。</p>
 <ul>
 <li>虚拟机：4 个</li>
 <li>CPU：16 个</li>
@@ -485,7 +504,8 @@
 <li>磁盘空间：120 GB</li>
 </ul>
 <p>（注意：不包括可选的 Edge 要求。）</p>
-<h3 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h3><p>对于 NSX-V 部署：</p>
+<h3 id="软件-9">软件</h3>
+<p>对于 NSX-V 部署：</p>
 <ul>
 <li>vSphere VC 6.0 Enterprise Plus 或更高版本</li>
 <li>ESXi 主机版本 5.5 Update 2 及更高版本</li>
@@ -495,17 +515,25 @@
 <li>vSphere VC 6.5 U1 及更高版本</li>
 <li>ESXi 主机版本 6.5 U1 及更高版本</li>
 </ul>
-<h3 id="部署模式"><a href="#部署模式" class="headerlink" title="部署模式"></a>部署模式</h3><p>VMware Integrated OpenStack 提供三种部署模式。高可用性 (HA) 模式、紧凑模式和 VIO-in-a-Box。请参考 <a target="_blank" rel="noopener" href="https://docs.vmware.com/cn/VMware-Integrated-OpenStack/index.html#com.vmware.openstack.install.doc/GUID-80CBC1EF-9F12-451B-9FB5-F5DFA072DE28.html">VMware Integrated OpenStack 安装指南</a>，了解每个部署选项的规模设定详情。</p>
-<h2 id="如何购买"><a href="#如何购买" class="headerlink" title="如何购买"></a>如何购买</h2><p>VMware Integrated OpenStack 可单独提供。许可基于 CPU 数量，vRealize Suite 客户享有优惠。</p>
+<h3 id="部署模式">部署模式</h3>
+<p>VMware Integrated OpenStack 提供三种部署模式。高可用性 (HA) 模式、紧凑模式和 VIO-in-a-Box。请参考 <a target="_blank" rel="noopener" href="https://docs.vmware.com/cn/VMware-Integrated-OpenStack/index.html#com.vmware.openstack.install.doc/GUID-80CBC1EF-9F12-451B-9FB5-F5DFA072DE28.html">VMware Integrated OpenStack 安装指南</a>，了解每个部署选项的规模设定详情。</p>
+<h2 id="如何购买">如何购买</h2>
+<p>VMware Integrated OpenStack 可单独提供。许可基于 CPU 数量，vRealize Suite 客户享有优惠。</p>
 <p>是否有疑问？请拨打电话 010-59934306 与 vRealize 销售专家联系，或者<a target="_blank" rel="noopener" href="https://www.vmware.com/cn/company/contact_sales.html">与销售部门联系</a>。使用<a target="_blank" rel="noopener" href="https://partnerlocator.vmware.com/?lang=cn">合作伙伴查找工具</a>查找附近的代理商。</p>
-<h2 id="发行说明"><a href="#发行说明" class="headerlink" title="发行说明"></a>发行说明</h2><p>VMware Integrated OpenStack 7.0 | 2020 年 6 月 4 日| 内部版本 16227912 请查看发行说明以了解新增内容及更新。</p>
-<h3 id="关于-VMware-Integrated-OpenStack"><a href="#关于-VMware-Integrated-OpenStack" class="headerlink" title="关于 VMware Integrated OpenStack"></a>关于 VMware Integrated OpenStack</h3><p>VMware Integrated OpenStack 通过简化集成过程，极大地精简了 OpenStack 云基础架构部署。VMware Integrated OpenStack 通过在 vCenter Server 中作为虚拟设备运行的部署管理器提供即时可用的 OpenStack 功能和简单的配置工作流。</p>
-<h3 id="新增功能"><a href="#新增功能" class="headerlink" title="新增功能"></a>新增功能</h3><ul>
-<li><p><strong>OpenStack Train：</strong>VMware Integrated OpenStack 7.0 基于 OpenStack 的 Train 版本</p>
+<h2 id="发行说明-6">发行说明</h2>
+<p>VMware Integrated OpenStack 7.0 | 2020 年 6 月 4 日| 内部版本 16227912 请查看发行说明以了解新增内容及更新。</p>
+<h3 id="关于-VMware-Integrated-OpenStack">关于 VMware Integrated OpenStack</h3>
+<p>VMware Integrated OpenStack 通过简化集成过程，极大地精简了 OpenStack 云基础架构部署。VMware Integrated OpenStack 通过在 vCenter Server 中作为虚拟设备运行的部署管理器提供即时可用的 OpenStack 功能和简单的配置工作流。</p>
+<h3 id="新增功能-13">新增功能</h3>
+<ul>
+<li>
+<p>**OpenStack Train：**VMware Integrated OpenStack 7.0 基于 OpenStack 的 Train 版本</p>
 </li>
-<li><p><strong>支持最新版本的 VMware 产品：</strong>VMware Integrated OpenStack 7.0 支持且完全兼容 VMware vSphere 7.0 和 NSX-T Data Center 3.0。</p>
+<li>
+<p>**支持最新版本的 VMware 产品：**VMware Integrated OpenStack 7.0 支持且完全兼容 VMware vSphere 7.0 和 NSX-T Data Center 3.0。</p>
 </li>
-<li><p>OpenStack 功能：</p>
+<li>
+<p>OpenStack 功能：</p>
 <ul>
 <li>对 Nova 服务器实例支持有选择性地固定 vCPU。可以将一部分 vCPU 固定到物理 CPU 内核。此功能需要 vSphere 7.0 或更高版本。</li>
 <li>支持 SR-IOV 网卡冗余，可实现网络连接 HA，从而允许从不同的 pNIC 调度 vNIC 置备。</li>
@@ -516,7 +544,8 @@
 <li>在 VDS 7.0 上支持 NSX-T，此功能需要 vSphere 7.0 或更高版本以及 NSX-T 3.0 或更高版本。要了解部署建议和已知限制，请参见 <a target="_blank" rel="noopener" href="https://docs.vmware.com/cn/VMware-NSX-T-Data-Center/3.0/rn/VMware-NSX-T-Data-Center-30-Release-Notes.html">NSX-T 3.0 发行说明</a>中的“新增功能”部分。</li>
 </ul>
 </li>
-<li><p>控制层面增强功能：</p>
+<li>
+<p>控制层面增强功能：</p>
 <ul>
 <li>修补程序管理：内置修补功能，无需使用蓝/绿升级过程</li>
 <li>公共 API：用于管理 VMware Integrated OpenStack 7.0 部署的 API</li>
@@ -525,19 +554,24 @@
 <li>稳定性和性能改进</li>
 </ul>
 </li>
-<li><p>许可模式：</p>
+<li>
+<p>许可模式：</p>
 <ul>
 <li>在 VIO 7.0 中，Data Center Edition 已与 Carrier Edition 合并。Carrier Edition 可以购买，且包括所有功能。Data Center Edition 不再上市出售。对升级到 VIO 7.0 没有任何影响。有关详细信息，请参阅 <a target="_blank" rel="noopener" href="https://kb.vmware.com/s/article/79285">KB79285</a>。</li>
 </ul>
 </li>
 </ul>
-<h2 id="安装与升级"><a href="#安装与升级" class="headerlink" title="安装与升级"></a>安装与升级</h2><ul>
-<li>安装：<ul>
+<h2 id="安装与升级">安装与升级</h2>
+<ul>
+<li>安装：
+<ul>
 <li>VIO 7.0 的全新部署仅支持具有 DVS 和 NSX-T Policy API 的 Neutron 插件</li>
 </ul>
 </li>
-<li>升级：<ul>
-<li>支持的 VIO 升级途径：<ul>
+<li>升级：
+<ul>
+<li>支持的 VIO 升级途径：
+<ul>
 <li>VIO 5.1 升级到 VIO 7.0</li>
 <li>VIO 6.0 升级到 VIO 7.0</li>
 </ul>
@@ -547,30 +581,56 @@
 </ul>
 </li>
 </ul>
-<h2 id="兼容性"><a href="#兼容性" class="headerlink" title="兼容性"></a>兼容性</h2><ul>
+<h2 id="兼容性">兼容性</h2>
+<ul>
 <li>有关 VMware Integrated OpenStack 与所有 VMware 产品的兼容性的详细信息，请参阅 <a target="_blank" rel="noopener" href="https://www.vmware.com/resources/compatibility/sim/interop_matrix.php">VMware 产品互操作性列表</a>。</li>
 </ul>
-<h2 id="弃用通知"><a href="#弃用通知" class="headerlink" title="弃用通知"></a>弃用通知</h2><ul>
+<h2 id="弃用通知">弃用通知</h2>
+<ul>
 <li>在此版本中，Neutron LBaaS 已弃用并替换为 OpenStack Octavia 项目。</li>
 <li>在此版本中，Neutron FWaaS v1 已弃用并替换为 FWaaS v2。</li>
-<li>以下网络连接功能已弃用，将不包含在未来版本中：<ul>
+<li>以下网络连接功能已弃用，将不包含在未来版本中：
+<ul>
 <li>适用于 Neutron 的 NSX Data Center for vSphere 驱动程序。</li>
 <li>适用于 Neutron 的 NSX-T 管理插件。将来，将使用 NSX-T Policy 插件。</li>
 <li>TVD 插件，该插件支持单个 VMware Integrated OpenStack 部署使用 NSX Data Center for vSphere 后端和 NSX-T Data Center 后端。</li>
 </ul>
 </li>
 </ul>
-<h2 id="国际化"><a href="#国际化" class="headerlink" title="国际化"></a>国际化</h2><p>VMware Integrated OpenStack 7.0 提供英文版以及另外七种语言版本：简体中文、繁体中文、日语、韩语、法语、德语和西班牙语。</p>
+<h2 id="国际化">国际化</h2>
+<p>VMware Integrated OpenStack 7.0 提供英文版以及另外七种语言版本：简体中文、繁体中文、日语、韩语、法语、德语和西班牙语。</p>
 <p>以下项目必须仅包含 ASCII 字符。</p>
 <ul>
 <li>OpenStack 资源（如项目、用户和映像）的名称</li>
 <li>基础架构组件（如 ESXi 主机、端口组、数据中心和数据存储）的名称</li>
 <li>LDAP 和 Active Directory 属性</li>
 </ul>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><ul>
-<li><p>VMware Integrated OpenStack Virtual Appliance 7.0.0<br>File size: 5.78 GB<br>File type: ova<br>Name: VIO-Appliance-7.0.0.0-16227912_OVF10.ova<br>Release Date:  2020-06-04<br>Build Number:  16227912<br>VMware Integrated OpenStack Virtual Appliance 7.0.0<br>VMware Integrated OpenStack is VMware’s OpenStack distribution that is optimized and tested to run on VMware SDDC, providing API access to best of breed infrastructure. It quickly deploys on top of VMware SDDC for an OpenStack experience familiar to VMware administrators.<br>MD5SUM: 8e17b61b4994f5014c0685e788f48c88<br>SHA1SUM:  4677159ecd679a3a322438d126b4908805f6d862<br>SHA256SUM:  7db572624b7c4716297f031af0d5fd25427fab7979f23b9c21281c2156cde12d</p>
+<h2 id="下载地址-349">下载地址</h2>
+<ul>
+<li>
+<p>VMware Integrated OpenStack Virtual Appliance 7.0.0<br>
+File size: 5.78 GB<br>
+File type: ova<br>
+Name: VIO-Appliance-7.0.0.0-16227912_OVF10.ova<br>
+Release Date:  2020-06-04<br>
+Build Number:  16227912<br>
+VMware Integrated OpenStack Virtual Appliance 7.0.0<br>
+VMware Integrated OpenStack is VMware’s OpenStack distribution that is optimized and tested to run on VMware SDDC, providing API access to best of breed infrastructure. It quickly deploys on top of VMware SDDC for an OpenStack experience familiar to VMware administrators.<br>
+MD5SUM: 8e17b61b4994f5014c0685e788f48c88<br>
+SHA1SUM:  4677159ecd679a3a322438d126b4908805f6d862<br>
+SHA256SUM:  7db572624b7c4716297f031af0d5fd25427fab7979f23b9c21281c2156cde12d</p>
 </li>
-<li><p>VMware Integrated OpenStack 7.0.0 Upgrade<br>File size: 9.72 MB<br>File type: tar.gz<br>Name: vio-upgrade-7.0-16227912.tar.gz<br>Release Date:  2020-06-04<br>Build Number:  16227912<br>VMware Integrated OpenStack 7.0.0 Upgrade<br>MD5SUM: b415b10db022ae0d35796e637f388322<br>SHA1SUM:  fc8d6fa98aa1220c9335c6dad3ef21750f052ad2<br>SHA256SUM:  0042bb24b84c8334553385ab480fac8695be7ecf9af74211abdd80d65765f2ce</p>
+<li>
+<p>VMware Integrated OpenStack 7.0.0 Upgrade<br>
+File size: 9.72 MB<br>
+File type: tar.gz<br>
+Name: vio-upgrade-7.0-16227912.tar.gz<br>
+Release Date:  2020-06-04<br>
+Build Number:  16227912<br>
+VMware Integrated OpenStack 7.0.0 Upgrade<br>
+MD5SUM: b415b10db022ae0d35796e637f388322<br>
+SHA1SUM:  fc8d6fa98aa1220c9335c6dad3ef21750f052ad2<br>
+SHA256SUM:  0042bb24b84c8334553385ab480fac8695be7ecf9af74211abdd80d65765f2ce</p>
 </li>
 </ul>
 <p>官网下载:</p>
@@ -662,6 +722,24 @@
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/vmware-vio-7/" class="leancloud-visitors" data-flag-title="VMware Integrated OpenStack 7.0">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -694,7 +772,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E7%AE%80%E4%BB%8B"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">简介</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%BD%BF%E7%94%A8%E6%83%85%E5%BD%A2"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">使用情形</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BC%81%E4%B8%9A-IaaS-%E5%B9%B3%E5%8F%B0-%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E4%BA%91%E7%8E%AF%E5%A2%83"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">企业 IaaS 平台&#x2F;开发人员云环境</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%8E%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%88%B0%E8%BE%B9%E7%BC%98"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">从数据中心到边缘</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%80%9A%E8%BF%87-VMware-NSX-%E5%AE%9E%E7%8E%B0%E7%9A%84%E9%AB%98%E7%BA%A7%E7%BD%91%E7%BB%9C%E8%99%9A%E6%8B%9F%E5%8C%96"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">通过 VMware NSX 实现的高级网络虚拟化</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%9D%A2%E5%90%91-CSP-%E7%9A%84-NFV-%E4%BA%91"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">面向 CSP 的 NFV 云</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%8A%9F%E8%83%BD%E7%89%B9%E6%80%A7"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">功能特性</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%9F%BA%E4%BA%8E-OpenStack-%E7%9A%84-Train-%E7%89%88%E6%9C%AC"><span class="toc-nav-number">3.1.</span> <span class="toc-nav-text">基于 OpenStack 的 Train 版本</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E7%B2%BE%E7%AE%80-OpenStack-%E9%83%A8%E7%BD%B2"><span class="toc-nav-number">3.2.</span> <span class="toc-nav-text">精简 OpenStack 部署</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%B8%80%E6%B5%81%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84"><span class="toc-nav-number">3.3.</span> <span class="toc-nav-text">一流基础架构</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%9B%86%E6%88%90%E5%BC%8F%E8%BF%90%E7%BB%B4%E5%92%8C%E7%AE%A1%E7%90%86"><span class="toc-nav-number">3.4.</span> <span class="toc-nav-text">集成式运维和管理</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#VMware-Integrated-OpenStack%E2%80%9C%E5%85%A8%E5%8C%85%E5%BC%8F%E2%80%9D"><span class="toc-nav-number">3.5.</span> <span class="toc-nav-text">VMware Integrated OpenStack“全包式”</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%9B%86%E6%88%90%E5%BC%8F%E5%AE%B9%E5%99%A8%E7%BC%96%E6%8E%92%E5%92%8C%E7%AE%A1%E7%90%86%E6%94%AF%E6%8C%81"><span class="toc-nav-number">3.6.</span> <span class="toc-nav-text">集成式容器编排和管理支持</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%AB%98%E7%BA%A7-NFV-%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">3.7.</span> <span class="toc-nav-text">高级 NFV 功能</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E6%8A%80%E6%9C%AF%E8%A7%84%E6%A0%BC"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">技术规格</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#NSX-V-%E7%BB%84%E4%BB%B6"><span class="toc-nav-number">4.1.</span> <span class="toc-nav-text">NSX-V 组件</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%BD%AF%E4%BB%B6"><span class="toc-nav-number">4.2.</span> <span class="toc-nav-text">软件</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%83%A8%E7%BD%B2%E6%A8%A1%E5%BC%8F"><span class="toc-nav-number">4.3.</span> <span class="toc-nav-text">部署模式</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">如何购买</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%8F%91%E8%A1%8C%E8%AF%B4%E6%98%8E"><span class="toc-nav-number">6.</span> <span class="toc-nav-text">发行说明</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%85%B3%E4%BA%8E-VMware-Integrated-OpenStack"><span class="toc-nav-number">6.1.</span> <span class="toc-nav-text">关于 VMware Integrated OpenStack</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%96%B0%E5%A2%9E%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">6.2.</span> <span class="toc-nav-text">新增功能</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%AE%89%E8%A3%85%E4%B8%8E%E5%8D%87%E7%BA%A7"><span class="toc-nav-number">7.</span> <span class="toc-nav-text">安装与升级</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%85%BC%E5%AE%B9%E6%80%A7"><span class="toc-nav-number">8.</span> <span class="toc-nav-text">兼容性</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%BC%83%E7%94%A8%E9%80%9A%E7%9F%A5"><span class="toc-nav-number">9.</span> <span class="toc-nav-text">弃用通知</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%9B%BD%E9%99%85%E5%8C%96"><span class="toc-nav-number">10.</span> <span class="toc-nav-text">国际化</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">11.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E7%AE%80%E4%BB%8B-16"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">简介</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%BD%BF%E7%94%A8%E6%83%85%E5%BD%A2"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">使用情形</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BC%81%E4%B8%9A-IaaS-%E5%B9%B3%E5%8F%B0-%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E4%BA%91%E7%8E%AF%E5%A2%83"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">企业 IaaS 平台&#x2F;开发人员云环境</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%BB%8E%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%88%B0%E8%BE%B9%E7%BC%98"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">从数据中心到边缘</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%80%9A%E8%BF%87-VMware-NSX-%E5%AE%9E%E7%8E%B0%E7%9A%84%E9%AB%98%E7%BA%A7%E7%BD%91%E7%BB%9C%E8%99%9A%E6%8B%9F%E5%8C%96"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">通过 VMware NSX 实现的高级网络虚拟化</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%9D%A2%E5%90%91-CSP-%E7%9A%84-NFV-%E4%BA%91"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">面向 CSP 的 NFV 云</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%8A%9F%E8%83%BD%E7%89%B9%E6%80%A7-12"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">功能特性</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%9F%BA%E4%BA%8E-OpenStack-%E7%9A%84-Train-%E7%89%88%E6%9C%AC"><span class="toc-nav-number">3.1.</span> <span class="toc-nav-text">基于 OpenStack 的 Train 版本</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E7%B2%BE%E7%AE%80-OpenStack-%E9%83%A8%E7%BD%B2"><span class="toc-nav-number">3.2.</span> <span class="toc-nav-text">精简 OpenStack 部署</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E4%B8%80%E6%B5%81%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84"><span class="toc-nav-number">3.3.</span> <span class="toc-nav-text">一流基础架构</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%9B%86%E6%88%90%E5%BC%8F%E8%BF%90%E7%BB%B4%E5%92%8C%E7%AE%A1%E7%90%86"><span class="toc-nav-number">3.4.</span> <span class="toc-nav-text">集成式运维和管理</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#VMware-Integrated-OpenStack%E2%80%9C%E5%85%A8%E5%8C%85%E5%BC%8F%E2%80%9D"><span class="toc-nav-number">3.5.</span> <span class="toc-nav-text">VMware Integrated OpenStack“全包式”</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%9B%86%E6%88%90%E5%BC%8F%E5%AE%B9%E5%99%A8%E7%BC%96%E6%8E%92%E5%92%8C%E7%AE%A1%E7%90%86%E6%94%AF%E6%8C%81"><span class="toc-nav-number">3.6.</span> <span class="toc-nav-text">集成式容器编排和管理支持</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%AB%98%E7%BA%A7-NFV-%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">3.7.</span> <span class="toc-nav-text">高级 NFV 功能</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E6%8A%80%E6%9C%AF%E8%A7%84%E6%A0%BC-2"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">技术规格</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#NSX-V-%E7%BB%84%E4%BB%B6"><span class="toc-nav-number">4.1.</span> <span class="toc-nav-text">NSX-V 组件</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E8%BD%AF%E4%BB%B6-9"><span class="toc-nav-number">4.2.</span> <span class="toc-nav-text">软件</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%83%A8%E7%BD%B2%E6%A8%A1%E5%BC%8F"><span class="toc-nav-number">4.3.</span> <span class="toc-nav-text">部署模式</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">如何购买</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%8F%91%E8%A1%8C%E8%AF%B4%E6%98%8E-6"><span class="toc-nav-number">6.</span> <span class="toc-nav-text">发行说明</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%85%B3%E4%BA%8E-VMware-Integrated-OpenStack"><span class="toc-nav-number">6.1.</span> <span class="toc-nav-text">关于 VMware Integrated OpenStack</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%96%B0%E5%A2%9E%E5%8A%9F%E8%83%BD-13"><span class="toc-nav-number">6.2.</span> <span class="toc-nav-text">新增功能</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%AE%89%E8%A3%85%E4%B8%8E%E5%8D%87%E7%BA%A7"><span class="toc-nav-number">7.</span> <span class="toc-nav-text">安装与升级</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%85%BC%E5%AE%B9%E6%80%A7"><span class="toc-nav-number">8.</span> <span class="toc-nav-text">兼容性</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%BC%83%E7%94%A8%E9%80%9A%E7%9F%A5"><span class="toc-nav-number">9.</span> <span class="toc-nav-text">弃用通知</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%9B%BD%E9%99%85%E5%8C%96"><span class="toc-nav-number">10.</span> <span class="toc-nav-text">国际化</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-349"><span class="toc-nav-number">11.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -866,7 +944,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -942,7 +1020,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

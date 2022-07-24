@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> ALPN (Application-Layer Protocol Negotiation)  - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> ALPN (Application-Layer Protocol Negotiation)  - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" ALPN (Application-Layer Protocol Negotiation)  - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" ALPN (Application-Layer Protocol Negotiation)  "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/alpn/">
+  <link rel="canonical" href="https://sysin.org/blog/alpn/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -249,6 +252,17 @@
           
           
           <li>
+            <a href="/categories/">
+              
+              分类
+              
+              
+            </a>
+          </li>
+          
+          
+          
+          <li>
             <a href="/donate/">
               
               捐助
@@ -263,17 +277,6 @@
             <a href="/tags/">
               
               标签
-              
-              
-            </a>
-          </li>
-          
-          
-          
-          <li>
-            <a href="/categories/">
-              
-              分类
               
               
             </a>
@@ -391,7 +394,7 @@
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">534</span> In Total
+              Words <span class="post-count">536</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -459,13 +462,13 @@
         
 
         <p>请访问原文链接：<a href="/blog/alpn/" title="ALPN (Application-Layer Protocol Negotiation) ">ALPN (Application-Layer Protocol Negotiation) </a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p>ALPN (Application Layer Protocol Negotiation)是 TLS 的扩展，允许在安全连接的基础上进行应用层协议的协商。ALPN 支持任意应用层协议的协商，目前应用最多是 HTTP/2 的协商。当前主流浏览器，都只支持基于 HTTPS 部署的 HTTP/2，因为浏览器是基于 ALPN 协议来判断服务器是否支持 HTTP/2 协议。</p>
-<h2 id="About"><a href="#About" class="headerlink" title="About"></a>About</h2><p><a target="_blank" rel="noopener" href="https://developer.mozilla.org/en-US/docs/Glossary">See MDN Web Docs Glossary: Definitions of Web-related terms</a><a target="_blank" rel="noopener" href="https://developer.mozilla.org/en-US/docs/Glossary/ALPN">ALPN</a></p>
+<h2 id="About">About</h2>
+<p><a target="_blank" rel="noopener" href="https://developer.mozilla.org/en-US/docs/Glossary">See MDN Web Docs Glossary: Definitions of Web-related terms</a><a target="_blank" rel="noopener" href="https://developer.mozilla.org/en-US/docs/Glossary/ALPN">ALPN</a></p>
 <p><strong>Application-Layer <a target="_blank" rel="noopener" href="https://developer.mozilla.org/en-US/docs/Glossary/Protocol">Protocol</a> Negotiation</strong> (<strong>ALPN</strong>) is a <a target="_blank" rel="noopener" href="https://developer.mozilla.org/en-US/docs/Glossary/TLS">TLS</a> extension which indicates what application layer protocol is negotiating the encryped connection without requiring additional round trips (sysin).</p>
-<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -488,8 +491,7 @@
 </tr>
 </tbody>
 </table>
-</div>
-<h2 id="Specifications"><a href="#Specifications" class="headerlink" title="Specifications"></a>Specifications</h2><div class="table-container">
+<h2 id="Specifications">Specifications</h2>
 <table>
 <thead>
 <tr>
@@ -506,8 +508,8 @@
 </tr>
 </tbody>
 </table>
-</div>
-<h2 id="Support"><a href="#Support" class="headerlink" title="Support"></a>Support</h2><p><strong>浏览器和服务端都支持ALPN 协商，是用上 HTTP/2 的大前提。</strong></p>
+<h2 id="Support">Support</h2>
+<p><strong>浏览器和服务端都支持ALPN 协商，是用上 HTTP/2 的大前提。</strong></p>
 <ul>
 <li>关于浏览器支持</li>
 </ul>
@@ -515,17 +517,26 @@
 <p>In May 2016, Google released Chrome build 51, eliminating support for SPDY and NPN in favor of HTTP/2 and ALPN. Although concern was expressed <a target="_blank" rel="noopener" href="https://ma.ttias.be/day-google-chrome-disables-http2-nearly-everyone-may-31st-2016/">publicly</a> and privately about the negative consequences before the change was made, Google went ahead (sysin), providing a <a target="_blank" rel="noopener" href="https://bugs.chromium.org/p/chromium/issues/detail?id=527066">brief explanation</a> of its reasons for dropping NPN.</p>
 <p>At that time Chrome was the only major browser that didn’t support NPN, so users could regain HTTP/2 access by switching to another browser. However, by mid‑2017 all of the <a target="_blank" rel="noopener" href="https://www.w3counter.com/globalstats.php">most popular browser vendors</a> except Safari (version 10) had dropped support for NPN, starting with the following versions (see the <strong>Protocol Details</strong> section on the page for each browser at <a target="_blank" rel="noopener" href="https://www.ssllabs.com/ssltest/clients.html">Qualys SSL Labs</a>):</p>
 <ul>
-<li>Chrome 51</li>
-<li>Edge 12</li>
-<li>Firefox 53</li>
-<li>Internet Explorer 11</li>
-<li><p>Opera 38</p>
+<li>
+<p>Chrome 51</p>
 </li>
-<li><p>大部分 Web Server 都依赖 OpenSSL 库提供 https服务，是否支持 ALPN 完全取决于使用的 OpenSSL 版本，<strong>OpenSSL 1.0.2 版本才开始支持 ALPN。</strong></p>
+<li>
+<p>Edge 12</p>
+</li>
+<li>
+<p>Firefox 53</p>
+</li>
+<li>
+<p>Internet Explorer 11</p>
+</li>
+<li>
+<p>Opera 38</p>
+</li>
+<li>
+<p>大部分 Web Server 都依赖 OpenSSL 库提供 https服务，是否支持 ALPN 完全取决于使用的 OpenSSL 版本，<strong>OpenSSL 1.0.2 版本才开始支持 ALPN。</strong></p>
 </li>
 </ul>
 <p>The table summarizes Linux operating system support for ALPN and NPN as of September 2017.</p>
-<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -577,8 +588,8 @@
 </tr>
 </tbody>
 </table>
-</div>
-<h2 id="检测工具"><a href="#检测工具" class="headerlink" title="检测工具"></a>检测工具</h2><p><a target="_blank" rel="noopener" href="https://http2.pro/">https://http2.pro/</a></p>
+<h2 id="检测工具">检测工具</h2>
+<p><a target="_blank" rel="noopener" href="https://http2.pro/">https://http2.pro/</a></p>
 
 
         <hr>
@@ -664,6 +675,24 @@
 
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
+
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/alpn/" class="leancloud-visitors" data-flag-title="ALPN (Application-Layer Protocol Negotiation) ">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
 
 
 <!-- 1. gitalk comment -->
@@ -867,7 +896,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -943,7 +972,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

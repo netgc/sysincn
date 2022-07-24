@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> 如何清除 DNS 缓存（macOS、FreeBSD、Ubuntu、CentOS、Windows） - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> 如何清除 DNS 缓存（macOS、FreeBSD、Ubuntu、CentOS、Windows） - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" 如何清除 DNS 缓存（macOS、FreeBSD、Ubuntu、CentOS、Windows） - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" 如何清除 DNS 缓存（macOS、FreeBSD、Ubuntu、CentOS、Windows） "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/how-to-flush-dns-cache/">
+  <link rel="canonical" href="https://sysin.org/blog/how-to-flush-dns-cache/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -249,6 +252,17 @@
           
           
           <li>
+            <a href="/categories/">
+              
+              分类
+              
+              
+            </a>
+          </li>
+          
+          
+          
+          <li>
             <a href="/donate/">
               
               捐助
@@ -263,17 +277,6 @@
             <a href="/tags/">
               
               标签
-              
-              
-            </a>
-          </li>
-          
-          
-          
-          <li>
-            <a href="/categories/">
-              
-              分类
               
               
             </a>
@@ -397,7 +400,7 @@
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">543</span> In Total
+              Words <span class="post-count">546</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -465,24 +468,28 @@
         
 
         <p>请访问原文链接：<a href="/blog/how-to-flush-dns-cache/" title="如何清除 DNS 缓存（macOS、FreeBSD、Ubuntu、CentOS、Windows）">如何清除 DNS 缓存（macOS、FreeBSD、Ubuntu、CentOS、Windows）</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p><img src="flush-dns-cache-on-ubuntu.webp" alt="Flush DNS Cache on Ubuntu"></p>
-<h2 id="1-Apple-macOS"><a href="#1-Apple-macOS" class="headerlink" title="1. Apple macOS"></a>1. Apple macOS</h2><p>打开终端，输入如下命令:</p>
+<h2 id="1-Apple-macOS">1. Apple macOS</h2>
+<p>打开终端，输入如下命令:</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo killall -HUP mDNSResponder; sudo dscacheutil -flushcache</span><br></pre></td></tr></table></figure>
 <p>参考：<a target="_blank" rel="noopener" href="https://support.apple.com/en-us/HT202516">Reset the DNS cache in OS X</a></p>
-<h2 id="2-FreeBSD"><a href="#2-FreeBSD" class="headerlink" title="2. FreeBSD"></a>2. FreeBSD</h2><p>FreeBSB 自带 nscd（Name Service Cache Daemon），默认没有启用。</p>
+<h2 id="2-FreeBSD">2. FreeBSD</h2>
+<p>FreeBSB 自带 nscd（Name Service Cache Daemon），默认没有启用。</p>
 <p>运行如下命令启动 nscd 并设置为开机自动运行 (sysin)：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo service nscd enable &amp;&amp; sudo service nscd start</span><br></pre></td></tr></table></figure>
 <p>清除缓存即重启 nscd 服务：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo service nscd restart</span><br></pre></td></tr></table></figure>
-<h2 id="3-Ubuntu"><a href="#3-Ubuntu" class="headerlink" title="3. Ubuntu"></a>3. Ubuntu</h2><p>Ubuntu 默认运行 systemd-resolve daemon 用于名称服务缓存。</p>
+<h2 id="3-Ubuntu">3. Ubuntu</h2>
+<p>Ubuntu 默认运行 systemd-resolve daemon 用于名称服务缓存。</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Step 1. 查看 DNS 缓存状况</span></span><br><span class="line">sudo systemd-resolve --statistics</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Step 2. 清除 DNS 缓存，systemd-resolve daemon 默认在所有的 Ubuntu 系统上运行</span></span><br><span class="line">sudo systemd-resolve --flush-caches</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Step 3. 正在查看验证结果 (sysin)</span></span><br><span class="line">sudo systemd-resolve --statistics</span><br></pre></td></tr></table></figure>
 <blockquote>
 <p>备注：Ubuntu 也可以配置使用 nscd。</p>
 </blockquote>
-<h2 id="4-CentOS"><a href="#4-CentOS" class="headerlink" title="4. CentOS"></a>4. CentOS</h2><p>CentOS 默认不存在 Client 端的 DNS 缓存。</p>
+<h2 id="4-CentOS">4. CentOS</h2>
+<p>CentOS 默认不存在 Client 端的 DNS 缓存。</p>
 <p>参看：</p>
 <p><a target="_blank" rel="noopener" href="https://forums.centos.org/viewtopic.php?f=47&amp;t=60900">flush client dns cache</a></p>
 <p><a target="_blank" rel="noopener" href="https://forums.centos.org/viewtopic.php?f=47&amp;t=60089">flush dns cache</a></p>
@@ -490,18 +497,23 @@
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">yum -y install nscd</span><br><span class="line">systemctl enable --now nscd</span><br></pre></td></tr></table></figure>
 <p>清除缓存即重启 nscd 服务：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">systemctl restart nscd</span><br></pre></td></tr></table></figure>
-<h2 id="5-Microsoft-Windows"><a href="#5-Microsoft-Windows" class="headerlink" title="5. Microsoft Windows"></a>5. Microsoft Windows</h2><p>清除 dns 缓存内容：</p>
+<h2 id="5-Microsoft-Windows">5. Microsoft Windows</h2>
+<p>清除 dns 缓存内容：</p>
 <figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">ipconfig</span>/flushdns</span><br></pre></td></tr></table></figure>
 <p>查看 dns 缓存内容：</p>
 <figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">ipconfig</span>/displaydns</span><br></pre></td></tr></table></figure>
 <p>Windows 下的 DNS Cache 是由 DNS Client 后台进程控制的，你可以在 “服务” 中将其关闭，这样 windows 就不会进行 DNS 缓存，每次都将直接查询 DNS Server。</p>
-<h2 id="附录：Linux-清除-DNS-缓存方法参考"><a href="#附录：Linux-清除-DNS-缓存方法参考" class="headerlink" title="附录：Linux 清除 DNS 缓存方法参考"></a>附录：Linux 清除 DNS 缓存方法参考</h2><p>Linux 可以运行 nscd 或者 BIND 或者 dnsmasq 作为名称服务缓存守护进程。</p>
-<h3 id="nscd"><a href="#nscd" class="headerlink" title="nscd"></a>nscd</h3><p>如果是清除 nscd 上的 Cache，可重新启动 nscd 服务来达成清除 DNS Cache 的效果：</p>
+<h2 id="附录：Linux-清除-DNS-缓存方法参考">附录：Linux 清除 DNS 缓存方法参考</h2>
+<p>Linux 可以运行 nscd 或者 BIND 或者 dnsmasq 作为名称服务缓存守护进程。</p>
+<h3 id="nscd">nscd</h3>
+<p>如果是清除 nscd 上的 Cache，可重新启动 nscd 服务来达成清除 DNS Cache 的效果：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">service nscd restart</span><br><span class="line">或是</span><br><span class="line">service nscd reload</span><br></pre></td></tr></table></figure>
 <p>如果 nscd 无法执行，先安装 nscd，命令如下：<code>sudo yum install nscd</code> 或者 <code>sudo apt-get install nscd</code></p>
-<h3 id="BIND"><a href="#BIND" class="headerlink" title="BIND"></a>BIND</h3><p>如果是清除 BIND 服务器上的 CACHE，用这个命令:</p>
+<h3 id="BIND">BIND</h3>
+<p>如果是清除 BIND 服务器上的 CACHE，用这个命令:</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rndc flush</span><br></pre></td></tr></table></figure>
-<h3 id="dnsmasq"><a href="#dnsmasq" class="headerlink" title="dnsmasq"></a>dnsmasq</h3><p>如果你的 DNS 服务器是用 dnsmasq 实现的，用下面这个命令:</p>
+<h3 id="dnsmasq">dnsmasq</h3>
+<p>如果你的 DNS 服务器是用 dnsmasq 实现的，用下面这个命令:</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">service dnsmasq restart</span><br></pre></td></tr></table></figure>
 <p>注：DNSmasq 是一个轻巧的，容易使用的 DNS 服务工具，它可以应用在内部网和 Internet 连接的时候的 IP 地址 NAT 转换，也可以用做小型网络的 DNS 服务。</p>
 
@@ -589,6 +601,24 @@
 
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
+
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/how-to-flush-dns-cache/" class="leancloud-visitors" data-flag-title="如何清除 DNS 缓存（macOS、FreeBSD、Ubuntu、CentOS、Windows）">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
 
 
 <!-- 1. gitalk comment -->
@@ -798,7 +828,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -874,7 +904,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
