@@ -40,16 +40,18 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
+  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
+  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> 在不受支持的 Mac 上安装 macOS Monterey（Mini Monterey Patcher） - sysin | SYStem INside | 数据中心系统内幕 </title>
+  <title> 在不受支持的 Mac 上安装 macOS Monterey（Mini Monterey Patcher） - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" 在不受支持的 Mac 上安装 macOS Monterey（Mini Monterey Patcher） - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" 在不受支持的 Mac 上安装 macOS Monterey（Mini Monterey Patcher） "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.org/blog/install-macos-12-on-unsupported-mac-mini-monterey-patcher/">
+  <link rel="canonical" href="https://sysin.cn/blog/install-macos-12-on-unsupported-mac-mini-monterey-patcher/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -107,11 +109,6 @@
       <!-- ThemeColor end -->
     
 
-    
-      <!-- vcomments start -->
-      <script type="text/javascript" src="/js/valine.min.js"></script>
-      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
-      <!-- vcomments end -->
     
 
     
@@ -252,17 +249,6 @@
           
           
           <li>
-            <a href="/categories/">
-              
-              分类
-              
-              
-            </a>
-          </li>
-          
-          
-          
-          <li>
             <a href="/donate/">
               
               捐助
@@ -277,6 +263,17 @@
             <a href="/tags/">
               
               标签
+              
+              
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/categories/">
+              
+              分类
               
               
             </a>
@@ -466,10 +463,10 @@
         <p>感谢读者的反馈！已更新：<a href="/blog/install-macos-12-on-unsupported-mac/" title="在不受支持的 Mac 上安装 macOS Big Sur、Monterey、Ventura (OpenCore Legacy Patcher)">在不受支持的 Mac 上安装 macOS Big Sur、Monterey、Ventura (OpenCore Legacy Patcher)</a></p>
 <p><strong>注意：本文涉及的项目已经下线，开发者已经跑路，本文已经标记为 “过时”、“不可用”。本文已经更新重写。</strong></p>
 <p>请访问原文链接：<a href="/blog/install-macos-12-on-unsupported-mac/" title="在不受支持的 Mac 上安装 macOS Big Sur、Monterey、Ventura (OpenCore Legacy Patcher)">在不受支持的 Mac 上安装 macOS Big Sur、Monterey、Ventura (OpenCore Legacy Patcher)</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
-<p>随着 <a href="https://sysin.org/blog/macOS-Big-Sur/">macOS Big Sur 11.5</a> 的发布，macOS Big Sur 可靠性和性能已经大幅提升，Big Sur 更新的使命已经基本完成。是时候体验和准备迎接 macOS Monterey 了！</p>
+<p>随着 <a target="_blank" rel="noopener" href="https://sysin.org/blog/macOS-Big-Sur/">macOS Big Sur 11.5</a> 的发布，macOS Big Sur 可靠性和性能已经大幅提升，Big Sur 更新的使命已经基本完成。是时候体验和准备迎接 macOS Monterey 了！</p>
 <h2 id="1-macOS-Monterey-简介"><a href="#1-macOS-Monterey-简介" class="headerlink" title="1. macOS Monterey 简介"></a>1. macOS Monterey 简介</h2><p>2021 年 6 月 8 日，在今天凌晨举行的 Apple WWDC 2021 大会上，苹果公司正式发布了 macOS Monterey。新版操作系统新功能及特性如下：</p>
 <p><img src="https://sysin.org/blog/macOS-Monterey/macOS-Monterey-bg.webp" alt="macOS-Monterey-bg"></p>
 <ul>
@@ -554,12 +551,12 @@
 </table>
 </div>
 <h3 id="2-Early-2012-to-Early-2013：可以运行，蓝牙不可用"><a href="#2-Early-2012-to-Early-2013：可以运行，蓝牙不可用" class="headerlink" title="(2) Early 2012 to Early 2013：可以运行，蓝牙不可用"></a>(2) Early 2012 to Early 2013：可以运行，蓝牙不可用</h3><p>这些 Mac 需要修补 kexts（使用 PatchSystem.sh 很简单）才能获得 WiFi、图形加速和睡眠/唤醒。但是，即使您修补 kexts，蓝牙也不起作用（因此 “<a target="_blank" rel="noopener" href="https://support.apple.com/zh-cn/HT204681">连续互通</a>” 将不起作用）。这是一个相当大的妥协，因此请确保在升级到 Monterey 之前了解这一点 (sysin)。以后可能会改变，暂时就是这样。</p>
-<p><strong>蓝牙不工作，Apple <a target="_blank" rel="noopener" href="https://support.apple.com/en-us/HT204681">Continuity</a> 即 <a target="_blank" rel="noopener" href="https://support.apple.com/zh-cn/HT204681">连续互通</a> 将不可用，安装 Monterey 没有意义，建议继续 Big Sur，如果是不受支持的机型，参看文章：<a href="https://sysin.org/blog/install-macos-11-on-unsupported-mac/">在不受支持的 Mac 上安装 macOS Big Sur 11</a>。</strong></p>
+<p><strong>蓝牙不工作，Apple <a target="_blank" rel="noopener" href="https://support.apple.com/en-us/HT204681">Continuity</a> 即 <a target="_blank" rel="noopener" href="https://support.apple.com/zh-cn/HT204681">连续互通</a> 将不可用，安装 Monterey 没有意义，建议继续 Big Sur，如果是不受支持的机型，参看文章：<a target="_blank" rel="noopener" href="https://sysin.org/blog/install-macos-11-on-unsupported-mac/">在不受支持的 Mac 上安装 macOS Big Sur 11</a>。</strong></p>
 <h3 id="3-Late-2011-and-Below：不用考虑"><a href="#3-Late-2011-and-Below：不用考虑" class="headerlink" title="(3) Late 2011 and Below：不用考虑"></a>(3) Late 2011 and Below：不用考虑</h3><p>这些 Mac 目前不受支持，因为它们需要使用 OpenGL 的传统图形加速，而不是 Metal，这将是一段时间以后的事情。没有图形加速，它们会像蜗牛一样运行（想象一下等待 14 秒才能将 Safari 关闭）。</p>
 <h2 id="4-安装准备"><a href="#4-安装准备" class="headerlink" title="4. 安装准备"></a>4. 安装准备</h2><p>(1) 下载最新的 <a target="_blank" rel="noopener" href="https://github.com/Ursinia/Mini-Monterey-Patcher/releases">Mini Monterey Patcher</a>（已经 404），替代：<a target="_blank" rel="noopener" href="https://github.com/netgc/Mini-Monterey-Patcher">netgc/Mini-Monterey-Patcher</a></p>
 <p>备用：<br>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1DDKFQDlGMoECRh6DI6yCAg">https://pan.baidu.com/s/1DDKFQDlGMoECRh6DI6yCAg</a>  提取码：rud6</p>
 <p>下载的文件解压备用。</p>
-<p>(2) 下载 <a href="https://sysin.org/blog/macOS-Monterey/">macOS Monterey 镜像</a></p>
+<p>(2) 下载 <a target="_blank" rel="noopener" href="https://sysin.org/blog/macOS-Monterey/">macOS Monterey 镜像</a></p>
 <p>下载后打开镜像，将 “安装 macOS Monterey” App 拖拽到 Applications（应用程序）下。</p>
 <p>(3) USB 存储设备 16G 及以上</p>
 <p>可以是 U 盘，也可以是 SD 卡，当然最好是 SSD 的移动硬盘，容量 16G 及以上。</p>
@@ -689,24 +686,6 @@
 
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
-
-  <!-- vcomments Srtart -->
-  <div id="vcomments"></div>
-  <script>
-      new Valine({
-          el: '#vcomments',
-          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
-          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
-          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
-          requiredFields: ['nick','mail'],
-          visitor: 'true'
-      })
-  </script>
-  <div style="color:gray" align="right" id="/blog/install-macos-12-on-unsupported-mac-mini-monterey-patcher/" class="leancloud-visitors" data-flag-title="在不受支持的 Mac 上安装 macOS Monterey（Mini Monterey Patcher）">
-    <em class="post-meta-item-text">visitors: </em>
-    <i class="leancloud-visitors-count">1000000</i>
-  </div>
-  <!-- vcomments End -->
 
 
 <!-- 1. gitalk comment -->
@@ -912,7 +891,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-          
+           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
       </p>
       </div>
     </div>
@@ -988,7 +967,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
