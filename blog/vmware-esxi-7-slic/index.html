@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> VMware ESXi 7.0 SLIC 2.5 &amp; macOS Unlocker - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> VMware ESXi 7.0 SLIC 2.5 &amp; macOS Unlocker - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" VMware ESXi 7.0 SLIC 2.5 &amp; macOS Unlocker - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" VMware ESXi 7.0 SLIC 2.5 &amp; macOS Unlocker "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/vmware-esxi-7-slic/">
+  <link rel="canonical" href="https://sysin.org/blog/vmware-esxi-7-slic/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -399,7 +402,7 @@
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">599</span> In Total
+              Words <span class="post-count">598</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -467,51 +470,69 @@
         
 
         <p>请访问原文链接：<a href="/blog/vmware-esxi-7-slic/" title="VMware ESXi 7.0 SLIC 2.5 &amp; macOS Unlocker">VMware ESXi 7.0 SLIC 2.5 &amp; macOS Unlocker</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p>新版本已经发布：</p>
 <ul>
-<li><a href="/blog/vmware-esxi-7-u3-slic/" title="VMware ESXi 7.0 Update 3d SLIC 2.6 &amp; macOS Unlocker">VMware ESXi 7.0 Update 3d SLIC 2.6 &amp; macOS Unlocker</a>
+<li>
+<a href="/blog/vmware-esxi-7-u3-slic/" title="VMware ESXi 7.0 Update 3d SLIC 2.6 &amp; macOS Unlocker">VMware ESXi 7.0 Update 3d SLIC 2.6 &amp; macOS Unlocker</a>
 </li>
-<li><a href="/blog/vmware-esxi-7-u2-slic/" title="VMware ESXi 7.0 Update 2 SLIC 2.6 &amp; Unlocker (updated Sept 2021)">VMware ESXi 7.0 Update 2 SLIC 2.6 &amp; Unlocker (updated Sept 2021)</a>
+<li>
+<a href="/blog/vmware-esxi-7-u2-slic/" title="VMware ESXi 7.0 Update 2 SLIC 2.6 &amp; Unlocker (updated Sept 2021)">VMware ESXi 7.0 Update 2 SLIC 2.6 &amp; Unlocker (updated Sept 2021)</a>
 </li>
-<li><a href="/blog/vmware-esxi-7-u1-slic/" title="VMware ESXi 7.0 Update 1 SLIC 2.5 &amp; macOS Unlocker">VMware ESXi 7.0 Update 1 SLIC 2.5 &amp; macOS Unlocker</a>
+<li>
+<a href="/blog/vmware-esxi-7-u1-slic/" title="VMware ESXi 7.0 Update 1 SLIC 2.5 &amp; macOS Unlocker">VMware ESXi 7.0 Update 1 SLIC 2.5 &amp; macOS Unlocker</a>
 </li>
 </ul>
 <blockquote>
 <p>2021.01.06 更新：修复了使用 UEFI 固件无法启动的问题。</p>
 </blockquote>
 <p><strong>申明：底层组件来自网络论坛或开源社区的分享，本站所有软件免费分享，仅供学习和测试使用，严禁用于任何商业用途！！！</strong></p>
-<h2 id="特性概览"><a href="#特性概览" class="headerlink" title="特性概览"></a>特性概览</h2><p>该版本在官方原版基础上新增以下特性：</p>
+<h2 id="特性概览-3">特性概览</h2>
+<p>该版本在官方原版基础上新增以下特性：</p>
 <ul>
-<li><p>SLIC 2.5：使用 OEM SLP 支持 Windows Server 2019</p>
+<li>
+<p>SLIC 2.5：使用 OEM SLP 支持 Windows Server 2019</p>
 </li>
-<li><p>macOS Unlocker：直接运行 macOS Catalina 10.15</p>
+<li>
+<p>macOS Unlocker：直接运行 macOS Catalina 10.15</p>
 </li>
-<li><p>LegacyCPU support，允许在不受支持的 CPU 上安装 ESXi 7.0</p>
+<li>
+<p>LegacyCPU support，允许在不受支持的 CPU 上安装 ESXi 7.0</p>
 </li>
 </ul>
-<h3 id="VMware-Dell-2-5-BIOS-EFI-Mod"><a href="#VMware-Dell-2-5-BIOS-EFI-Mod" class="headerlink" title="VMware_Dell_2.5_BIOS-EFI_Mod"></a>VMware_Dell_2.5_BIOS-EFI_Mod</h3><p><strong>SLP 2.5</strong> (BIOS.440 &amp; EFIs - Dell 2.5 SLIC) - NT 6.0  (Vista/Server 2008), NT 6.1 (7/Server 2008 R2), NT 6.2 (Server 2012), NT 6.3 (Server 2012 R2), NT 10.0 (Server 2016/Server 2019)</p>
+<h3 id="VMware-Dell-2-5-BIOS-EFI-Mod">VMware_Dell_2.5_BIOS-EFI_Mod</h3>
+<p><strong>SLP 2.5</strong> (BIOS.440 &amp; EFIs - Dell 2.5 SLIC) - NT 6.0  (Vista/Server 2008), NT 6.1 (7/Server 2008 R2), NT 6.2 (Server 2012), NT 6.3 (Server 2012 R2), NT 10.0 (Server 2016/Server 2019)</p>
 <p>截图：<img src="windows-2019-slic.webp" alt="windows-2019-slic"></p>
-<p><a target="_blank" rel="noopener" href="https://sysin.org/blog/windows-server-2019-ovf/">Windows Server 2019 OVF 模板下载</a></p>
-<h3 id="支持-macOS-Catalina"><a href="#支持-macOS-Catalina" class="headerlink" title="支持 macOS Catalina"></a>支持 macOS Catalina</h3><p>在 VMware 中直接新建虚机 (sysin)，操作系统选择 “Apple macOS 10.15 (64-bit)”，即可安装和正常启动。</p>
+<p><a href="https://sysin.org/blog/windows-server-2019-ovf/">Windows Server 2019 OVF 模板下载</a></p>
+<h3 id="支持-macOS-Catalina">支持 macOS Catalina</h3>
+<p>在 VMware 中直接新建虚机 (sysin)，操作系统选择 “Apple macOS 10.15 (64-bit)”，即可安装和正常启动。</p>
 <p>截图：<img src="macos-catalina-in-vm.webp" alt="macos-catalina-in-vm"></p>
-<p><a target="_blank" rel="noopener" href="https://sysin.org/blog/macOS-Catalina-boot-iso/">用于 VMware 的 macOS 10.15.5 安装映像 iso 下载</a></p>
-<h3 id="支持非官方支持的-CPU"><a href="#支持非官方支持的-CPU" class="headerlink" title="支持非官方支持的 CPU"></a>支持非官方支持的 CPU</h3><p>修改启动参数，在官方不受支持的 CPU 的服务器上可以正常安装。</p>
+<p><a href="https://sysin.org/blog/macOS-Catalina-boot-iso/">用于 VMware 的 macOS 10.15.5 安装映像 iso 下载</a></p>
+<h3 id="支持非官方支持的-CPU">支持非官方支持的 CPU</h3>
+<p>修改启动参数，在官方不受支持的 CPU 的服务器上可以正常安装。</p>
 <p>根据 <a target="_blank" rel="noopener" href="https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-vcenter-server-70-release-notes.html#upgrades-and-installations-disallowed-for-unsupported-cpus-15">VMware vSphere 7.0 Release Notes</a>，以下 CPU 已经不受支持（无法安装或者升级 ESXi 7.0）</p>
 <p>Comparing the processors supported by vSphere 6.7, vSphere 7.0 no longer supports the following processors:</p>
 <ul>
 <li>Intel Family 6, Model = 2C (Westmere-EP)</li>
 <li>Intel Family 6, Model = 2F (Westmere-EX)</li>
 </ul>
-<p>笔者在一台 2010 年发布的服务器上安装运行良好 (sysin)：HP DL 380 G7，Intel(R) Xeon(R) CPU E5606</p>
+<p>笔者在一台 2010 年发布的服务器上安装运行良好 (sysin)：HP DL 380 G7，Intel® Xeon® CPU E5606</p>
 <p>截图：<img src="ESXi7-on-LegacyCPU.webp" alt="ESXi7-on-LegacyCPU"></p>
-<h3 id="提供-Dell、HPE-定制版-iso-集成"><a href="#提供-Dell、HPE-定制版-iso-集成" class="headerlink" title="提供 Dell、HPE 定制版 iso 集成"></a>提供 Dell、HPE 定制版 iso 集成</h3><p>提供标准版、Dell 定制版和 HPE 定制版三个 iso 文件。</p>
-<p>名称: VMware-VMvisor-Installer-7.0.0-15843807.x86_64-sysin.org-20210106.iso<br>大小: 370384896 字节 (353 MiB)<br>SHA256: 8C087F75E6CF1647752E2D041A0174241F6954A83E5A0DF463BCC36C0CBD6717</p>
-<p>名称: VMware-VMvisor-Installer-7.0.0-15843807.x86_64-DellEMC_Customized-A00-sysin.org-20210106.iso<br>大小: 370421760 字节 (353 MiB)<br>SHA256: BB790FD793799DBDD6424C382B033AC2CA731FEDC0898B42677F62C6CDCCF01E</p>
-<p>名称: VMware_ESXi_7.0.0_15843807_HPE_700.0.0.10.5.0.108_April2020-sysin.org-20210106.iso<br>大小: 411840512 字节 (392 MiB)<br>SHA256: 161428BD0E0B21001FC42E066A8C35CD0286AD96441ABCA3E9231F10A15831EB</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1-fjtDCj3bFXgTjZyJBpTIA">https://pan.baidu.com/s/1-fjtDCj3bFXgTjZyJBpTIA</a>  提取码：4sv7</p>
+<h3 id="提供-Dell、HPE-定制版-iso-集成">提供 Dell、HPE 定制版 iso 集成</h3>
+<p>提供标准版、Dell 定制版和 HPE 定制版三个 iso 文件。</p>
+<p>名称: VMware-VMvisor-Installer-7.0.0-15843807.x86_64-sysin.org-20210106.iso<br>
+大小: 370384896 字节 (353 MiB)<br>
+SHA256: 8C087F75E6CF1647752E2D041A0174241F6954A83E5A0DF463BCC36C0CBD6717</p>
+<p>名称: VMware-VMvisor-Installer-7.0.0-15843807.x86_64-DellEMC_Customized-A00-sysin.org-20210106.iso<br>
+大小: 370421760 字节 (353 MiB)<br>
+SHA256: BB790FD793799DBDD6424C382B033AC2CA731FEDC0898B42677F62C6CDCCF01E</p>
+<p>名称: VMware_ESXi_7.0.0_15843807_HPE_700.0.0.10.5.0.108_April2020-sysin.org-20210106.iso<br>
+大小: 411840512 字节 (392 MiB)<br>
+SHA256: 161428BD0E0B21001FC42E066A8C35CD0286AD96441ABCA3E9231F10A15831EB</p>
+<h2 id="下载地址-293">下载地址</h2>
+<p>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1-fjtDCj3bFXgTjZyJBpTIA">https://pan.baidu.com/s/1-fjtDCj3bFXgTjZyJBpTIA</a>  提取码：4sv7</p>
 <p>新版本已经发布：<a href="/blog/vmware-esxi-7-u3-slic/" title="VMware ESXi 7.0 Update 3d SLIC 2.6 &amp; macOS Unlocker">VMware ESXi 7.0 Update 3d SLIC 2.6 &amp; macOS Unlocker</a></p>
 
 
@@ -599,6 +620,24 @@
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/vmware-esxi-7-slic/" class="leancloud-visitors" data-flag-title="VMware ESXi 7.0 SLIC 2.5 &amp; macOS Unlocker">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -631,7 +670,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E7%89%B9%E6%80%A7%E6%A6%82%E8%A7%88"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">特性概览</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#VMware-Dell-2-5-BIOS-EFI-Mod"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">VMware_Dell_2.5_BIOS-EFI_Mod</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%94%AF%E6%8C%81-macOS-Catalina"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">支持 macOS Catalina</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%94%AF%E6%8C%81%E9%9D%9E%E5%AE%98%E6%96%B9%E6%94%AF%E6%8C%81%E7%9A%84-CPU"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">支持非官方支持的 CPU</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%8F%90%E4%BE%9B-Dell%E3%80%81HPE-%E5%AE%9A%E5%88%B6%E7%89%88-iso-%E9%9B%86%E6%88%90"><span class="toc-nav-number">1.4.</span> <span class="toc-nav-text">提供 Dell、HPE 定制版 iso 集成</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E7%89%B9%E6%80%A7%E6%A6%82%E8%A7%88-3"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">特性概览</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#VMware-Dell-2-5-BIOS-EFI-Mod"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">VMware_Dell_2.5_BIOS-EFI_Mod</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%94%AF%E6%8C%81-macOS-Catalina"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">支持 macOS Catalina</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%94%AF%E6%8C%81%E9%9D%9E%E5%AE%98%E6%96%B9%E6%94%AF%E6%8C%81%E7%9A%84-CPU"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">支持非官方支持的 CPU</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%8F%90%E4%BE%9B-Dell%E3%80%81HPE-%E5%AE%9A%E5%88%B6%E7%89%88-iso-%E9%9B%86%E6%88%90"><span class="toc-nav-number">1.4.</span> <span class="toc-nav-text">提供 Dell、HPE 定制版 iso 集成</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-293"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -809,7 +848,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -885,7 +924,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
