@@ -263,9 +263,9 @@
           
           
           <li>
-            <a href="/donate/">
+            <a href="/tags/">
               
-              捐助
+              标签
               
               
             </a>
@@ -274,9 +274,9 @@
           
           
           <li>
-            <a href="/tags/">
+            <a href="/donate/">
               
-              标签
+              捐助
               
               
             </a>
@@ -475,33 +475,27 @@
 <p>“macOS Ventura 带来强大功能与锐意创新，让 Mac 体验更胜以往。台前调度等新工具让用户专注投入任务，并能更加简捷地在各类 app 与窗口之间切换；连续互通相机为所有 Mac 机型带来全新视频会议功能，包括桌面视图、摄影室灯光等等。”Apple 软件工程高级副总裁  Craig Federighi 表示，“凭借信息 app 的实用新功能，邮件 app 的先进搜索技术，以及聚焦搜索的最新设计，Ventura  潜力无穷，将可极大地丰富用户使用 Mac 的方式。”</p>
 <p><strong>推出时间:</strong></p>
 <p>macOS Ventura 开发者测试版将于今日起在 <a target="_blank" rel="noopener" href="https://developer.apple.com/cn/">developer.apple.com/cn</a> 面向 Apple Developer Program 会员提供。Public Beta 版本将于下月在 <a target="_blank" rel="noopener" href="https://beta.apple.com/sp/zh/betaprogram/">beta.apple.com</a> 面向 Mac 用户推出。macOS Ventura 将在今年秋天作为免费软件更新推出。如需了解更多信息，包括兼容的 Mac 机型，请访问 <a target="_blank" rel="noopener" href="https://www.apple.com.cn/macos/macos-ventura-preview/">macos-ventura-preview</a>。功能可能会有所差异。某些功能仅适用于部分地区、语言或设备。</p>
-<h2 id="应用场景-3">应用场景</h2>
-<p>macOS Ventura 13 可启动 ISO 镜像，基于 Apple 原版 App 制作，可以用于虚机安装，可以拖拽到 Applications（应用程序）下直接双击安装，也可以制作启动 U 盘安装。</p>
+<h2 id="应用场景"><a href="#应用场景" class="headerlink" title="应用场景"></a>应用场景</h2><p>macOS Ventura 13 可启动 ISO 镜像，基于 Apple 原版 App 制作，可以用于虚机安装，可以拖拽到 Applications（应用程序）下直接双击安装，也可以制作启动 U 盘安装。</p>
 <p><img src="macos-ventura-in-vm.webp" alt="macos-ventura-in-vm"></p>
-<h2 id="适用的-VMware-软件下载链接-2">适用的 VMware 软件下载链接</h2>
-<ul>
+<h2 id="适用的-VMware-软件下载链接"><a href="#适用的-VMware-软件下载链接" class="headerlink" title="适用的 VMware 软件下载链接"></a>适用的 VMware 软件下载链接</h2><ul>
 <li>Server：VMware <a href="https://sysin.org/blog/vmware-esxi-7-u3-slic/">ESXi 7.0</a> &amp; <a href="https://sysin.org/blog/vmware-vcenter-7-u3/">vCenter Server 7.0</a></li>
 <li>macOS：<a href="https://sysin.org/blog/vmware-fusion-12-slic/">VMware Fusion 12</a></li>
 <li>Linux：<a href="https://sysin.org/blog/vmware-workstation-16-linux-slic/">VMware Workstation 16 for Linux</a></li>
 <li>Windows：<a href="https://sysin.org/blog/vmware-workstation-16-windows-slic/">VMware Workstation 16 for Windows</a></li>
 </ul>
-<h2 id="macOS-Ventura-安装注意事项">macOS Ventura 安装注意事项</h2>
-<p><strong>beta 3 Update (22A5295i) 现已修复，请忽略！</strong></p>
+<h2 id="macOS-Ventura-安装注意事项"><a href="#macOS-Ventura-安装注意事项" class="headerlink" title="macOS Ventura 安装注意事项"></a>macOS Ventura 安装注意事项</h2><p><strong>beta 3 Update (22A5295i) 现已修复，请忽略！</strong></p>
 <p>如果您下载首个 beta 版进行安装，与以前的版本一样，没有额外注意事项。然后检查软件更新，更新到最新版本即可。</p>
 <blockquote>
-<p>笔者不主张正式版在线更新，但是当前是测试版，仅供 Mac 爱好者和开发者试用，就不停的更新吧…</p>
+<p>笔者不主张正式版在线更新，但是当前是测试版，仅供 Mac 爱好者和开发者试用，就不停的更新吧……</p>
 </blockquote>
 <p>如果您直接安装 beta 2，则会提示输入用户名和密码，就是磁盘上已经安装的 macOS 系统凭据。这样默认是升级安装。如果需要全新安装，请在安装开始后立刻中止安装，此时退回到安装画面，打开磁盘工具抹掉磁盘，再次开始安装，重新输入之前的用户名和密码，即可开始全新安装。</p>
 <p>如果你的磁盘上没有 macOS 系统，比如磁盘已经格式化，或者虚拟化环境新建的空白磁盘，请按如下步骤操作（也适用于已经有 macOS 安装的上一种情形，该方法更加明晰）：</p>
 <ul>
-<li>
-<p>启动到安装画面，<strong>不要点击</strong> “Install macOS Vertura Beta”</p>
+<li><p>启动到安装画面，<strong>不要点击</strong> “Install macOS Vertura Beta”</p>
 </li>
-<li>
-<p>打开磁盘工具（Disk Utility）抹掉整个磁盘，名称：sysin，格式：APFS，方案：GUID 分区图</p>
+<li><p>打开磁盘工具（Disk Utility）抹掉整个磁盘，名称：sysin，格式：APFS，方案：GUID 分区图</p>
 </li>
-<li>
-<p>退出磁盘工具，点击实用工具（Utilites）菜单，打开终端（Terminal），执行如下命令：</p>
+<li><p>退出磁盘工具，点击实用工具（Utilites）菜单，打开终端（Terminal），执行如下命令：</p>
 <p><code>/Volumes/Image\ Volume/Install\ macOS\ Ventura\ beta.app/Contents/Resources/startosinstall --volume /Volumes/sysin/</code></p>
 <p>注意：</p>
 <ul>
@@ -509,50 +503,36 @@
 <li>sysin 是磁盘名称，默认为 Macintosh HD，如果修改了名称则命令相应修改</li>
 </ul>
 </li>
-<li>
-<p>根据提示输入 A，按回车键开始安装，安装完成会自动重启到系统初始化界面</p>
+<li><p>根据提示输入 A，按回车键开始安装，安装完成会自动重启到系统初始化界面</p>
 </li>
 </ul>
-<h2 id="ISO-镜像的优势-3">ISO 镜像的优势</h2>
-<p>相对于官方发布 pkg 镜像（另有 ipsw 镜像，但仅适用于 Apple 芯片），以及第三方制作的 dmg 镜像，ISO 格式具有以下优势：</p>
+<h2 id="ISO-镜像的优势"><a href="#ISO-镜像的优势" class="headerlink" title="ISO 镜像的优势"></a>ISO 镜像的优势</h2><p>相对于官方发布 pkg 镜像（另有 ipsw 镜像，但仅适用于 Apple 芯片），以及第三方制作的 dmg 镜像，ISO 格式具有以下优势：</p>
 <ul>
 <li>可以直接拖拽到 Applications（应用程序）目录下，进行升级安装，无需管理员权限</li>
 <li>可以直接双击挂载，执行命令写入 USB 存储设备或者其他卷，然后启动全新安装（无需拖拽到“应用程序”目录下）</li>
 <li>可以直接启动虚拟机安装，介质本身为可引导镜像</li>
 </ul>
-<h2 id="下载-macOS-Ventura-2">下载 macOS Ventura</h2>
-<a href="/blog/shasum/" title="如何校验本站下载的文件的完整性">如何校验本站下载的文件的完整性</a>
+<h2 id="下载-macOS-Ventura"><a href="#下载-macOS-Ventura" class="headerlink" title="下载 macOS Ventura"></a>下载 macOS Ventura</h2><a href="/blog/shasum/" title="如何校验本站下载的文件的完整性">如何校验本站下载的文件的完整性</a>
 <p><img src="https://developer.apple.com/download/images/macos-13-128x128_2x.png" alt="macos-13"></p>
 <p>这里列出 ISO 启动镜像下载链接，更多格式请访问以下地址：</p>
 <ul>
-<li>
-<a href="/blog/macOS-Ventura/" title="macOS Ventura 13 beta 3 Update (22A5295i) ISO、IPSW、PKG 下载">macOS Ventura 13 beta 3 Update (22A5295i) ISO、IPSW、PKG 下载</a>
+<li><a href="/blog/macOS-Ventura/" title="macOS Ventura 13 beta 3 Update (22A5295i) ISO、IPSW、PKG 下载">macOS Ventura 13 beta 3 Update (22A5295i) ISO、IPSW、PKG 下载</a>
 </li>
 </ul>
 <blockquote>
 <p>可引导镜像，可以直接安装或者升级，也可以启动虚机安装。</p>
 </blockquote>
-<p><img src="https://sysin.org/blog/macOS-Ventura/macOS-Ventura-InstallAssistant.webp" alt="macOS-Ventura-InstallAssistant"></p>
+<p>  <img src="https://sysin.org/blog/macOS-Ventura/macOS-Ventura-InstallAssistant.webp" alt="macOS-Ventura-InstallAssistant"></p>
 <ul>
-<li>
-<p>macOS 13 beta 3 Update (22A5295i) 今日凌晨发布，更新了漂亮的安装图标，修复了 beta 2 需要输入密码的问题<br>
-百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1oJBDe6lZxvEwW2puwi8Dxw">https://pan.baidu.com/s/1oJBDe6lZxvEwW2puwi8Dxw</a>  提取码：oh1c<br>
-SHA256SUM：6c21c5a789fd6bd84301cf0c373d3db80e5ff7118fa1890da23fed06818a15d1</p>
+<li><p>macOS 13 beta 3 Update (22A5295i) 今日凌晨发布，更新了漂亮的安装图标，修复了 beta 2 需要输入密码的问题<br>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1oJBDe6lZxvEwW2puwi8Dxw">https://pan.baidu.com/s/1oJBDe6lZxvEwW2puwi8Dxw</a>  提取码：oh1c<br>SHA256SUM：6c21c5a789fd6bd84301cf0c373d3db80e5ff7118fa1890da23fed06818a15d1</p>
 </li>
-<li>
-<p>macOS 13 beta 2 (22A5286j)<br>
-百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1Q6xsD2fiN8Oa8MosIV1FKQ">https://pan.baidu.com/s/1Q6xsD2fiN8Oa8MosIV1FKQ</a>  提取码：jn3p<br>
-SHA256SUM：c0e87d979467f2ac07be9e1869f395d7efad321af46d072597a1d9a8cb64e95c</p>
+<li><p>macOS 13 beta 2 (22A5286j)<br>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1Q6xsD2fiN8Oa8MosIV1FKQ">https://pan.baidu.com/s/1Q6xsD2fiN8Oa8MosIV1FKQ</a>  提取码：jn3p<br>SHA256SUM：c0e87d979467f2ac07be9e1869f395d7efad321af46d072597a1d9a8cb64e95c</p>
 </li>
-<li>
-<p>macOS 13 beta (22A5266r)<br>
-百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1r6ASNaUDzy3rFkktEJ8ejA">https://pan.baidu.com/s/1r6ASNaUDzy3rFkktEJ8ejA</a>  提取码：574r<br>
-SHA256SUM：6d53148c397d83599c202a209b42c78ab041c3e446debeda4d17294424dba6de</p>
+<li><p>macOS 13 beta (22A5266r)<br>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1r6ASNaUDzy3rFkktEJ8ejA">https://pan.baidu.com/s/1r6ASNaUDzy3rFkktEJ8ejA</a>  提取码：574r<br>SHA256SUM：6d53148c397d83599c202a209b42c78ab041c3e446debeda4d17294424dba6de</p>
 </li>
 </ul>
 <p>参看：<a href="/blog/how-to-install-macos/" title="如何在 Mac 和虚拟机上安装 macOS Big Sur、Monterey 和 Ventura">如何在 Mac 和虚拟机上安装 macOS Big Sur、Monterey 和 Ventura</a></p>
-<h2 id="如何创建可引导的-macOS-安装器-7">如何创建可引导的 macOS 安装器</h2>
-<p>参看：<a href="/blog/macos-createinstallmedia/" title="一个命令创建可引导的 macOS 安装介质">一个命令创建可引导的 macOS 安装介质</a></p>
+<h2 id="如何创建可引导的-macOS-安装器"><a href="#如何创建可引导的-macOS-安装器" class="headerlink" title="如何创建可引导的 macOS 安装器"></a>如何创建可引导的 macOS 安装器</h2><p>参看：<a href="/blog/macos-createinstallmedia/" title="一个命令创建可引导的 macOS 安装介质">一个命令创建可引导的 macOS 安装介质</a></p>
 <p>更多：<a href="/blog/macOS/" title="macOS 下载汇总（系统、应用和文档）">macOS 下载汇总（系统、应用和文档）</a></p>
 
 
@@ -690,7 +670,7 @@ SHA256SUM：6d53148c397d83599c202a209b42c78ab041c3e446debeda4d17294424dba6de</p>
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF-3"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">应用场景</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%80%82%E7%94%A8%E7%9A%84-VMware-%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5-2"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">适用的 VMware 软件下载链接</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#macOS-Ventura-%E5%AE%89%E8%A3%85%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">macOS Ventura 安装注意事项</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#ISO-%E9%95%9C%E5%83%8F%E7%9A%84%E4%BC%98%E5%8A%BF-3"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">ISO 镜像的优势</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD-macOS-Ventura-2"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">下载 macOS Ventura</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E5%8F%AF%E5%BC%95%E5%AF%BC%E7%9A%84-macOS-%E5%AE%89%E8%A3%85%E5%99%A8-7"><span class="toc-nav-number">6.</span> <span class="toc-nav-text">如何创建可引导的 macOS 安装器</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">应用场景</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%80%82%E7%94%A8%E7%9A%84-VMware-%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">适用的 VMware 软件下载链接</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#macOS-Ventura-%E5%AE%89%E8%A3%85%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">macOS Ventura 安装注意事项</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#ISO-%E9%95%9C%E5%83%8F%E7%9A%84%E4%BC%98%E5%8A%BF"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">ISO 镜像的优势</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD-macOS-Ventura"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">下载 macOS Ventura</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E5%8F%AF%E5%BC%95%E5%AF%BC%E7%9A%84-macOS-%E5%AE%89%E8%A3%85%E5%99%A8"><span class="toc-nav-number">6.</span> <span class="toc-nav-text">如何创建可引导的 macOS 安装器</span></a></li></ol>
         
         </div>
       </aside>
