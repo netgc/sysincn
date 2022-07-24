@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SYStem INside</title>
   <icon>https://www.gravatar.com/avatar/ba4a4c9ed2a98e1ba0d030ca3449d4a5</icon>
-  <subtitle>Data Center: System, Platform &amp; Application Delivery</subtitle>
-  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <subtitle>数据中心系统内幕</subtitle>
+  <link href="https://sysin.cn/atom.xml" rel="self"/>
   
-  <link href="https://sysin.org/"/>
+  <link href="https://sysin.cn/"/>
   <updated>2022-07-24T00:21:33.482Z</updated>
-  <id>https://sysin.org/</id>
+  <id>https://sysin.cn/</id>
   
   <author>
     <name>sysin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>DaVinci Resolve Studio 18 -- 剪辑、调色、特效和音频后期制作</title>
-    <link href="https://sysin.org/blog/davinci-resolve-18/"/>
-    <id>https://sysin.org/blog/davinci-resolve-18/</id>
+    <link href="https://sysin.cn/blog/davinci-resolve-18/"/>
+    <id>https://sysin.cn/blog/davinci-resolve-18/</id>
     <published>2022-07-23T23:30:26.000Z</published>
     <updated>2022-07-24T00:21:33.482Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="Download" scheme="https://sysin.org/categories/Download/"/>
+    <category term="Download" scheme="https://sysin.cn/categories/Download/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
   </entry>
   
   <entry>
     <title>VMware Workstation Pro 16.2 (Windows, Linux)</title>
-    <link href="https://sysin.org/blog/vmware-workstation-16/"/>
-    <id>https://sysin.org/blog/vmware-workstation-16/</id>
+    <link href="https://sysin.cn/blog/vmware-workstation-16/"/>
+    <id>https://sysin.cn/blog/vmware-workstation-16/</id>
     <published>2022-07-22T13:10:00.000Z</published>
     <updated>2022-07-23T01:55:51.728Z</updated>
     
@@ -57,23 +57,23 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Fusion 12.2 for Intel-based Macs</title>
-    <link href="https://sysin.org/blog/vmware-fusion-12/"/>
-    <id>https://sysin.org/blog/vmware-fusion-12/</id>
+    <link href="https://sysin.cn/blog/vmware-fusion-12/"/>
+    <id>https://sysin.cn/blog/vmware-fusion-12/</id>
     <published>2022-07-22T12:15:00.000Z</published>
     <updated>2022-07-23T02:53:31.246Z</updated>
     
@@ -87,19 +87,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Horizon 8 2206 -- 用于管理虚拟桌面 (VDI)、应用和在线服务的领先平台</title>
-    <link href="https://sysin.org/blog/vmware-horizon-8-2206/"/>
-    <id>https://sysin.org/blog/vmware-horizon-8-2206/</id>
+    <link href="https://sysin.cn/blog/vmware-horizon-8-2206/"/>
+    <id>https://sysin.cn/blog/vmware-horizon-8-2206/</id>
     <published>2022-07-22T04:25:00.000Z</published>
     <updated>2022-07-22T15:19:47.020Z</updated>
     
@@ -113,19 +113,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="Horizon" scheme="https://sysin.org/tags/Horizon/"/>
+    <category term="Horizon" scheme="https://sysin.cn/tags/Horizon/"/>
     
   </entry>
   
   <entry>
     <title>在不受支持的 Mac 上安装 macOS Big Sur、Monterey、Ventura (OpenCore Legacy Patcher)</title>
-    <link href="https://sysin.org/blog/install-macos-12-on-unsupported-mac/"/>
-    <id>https://sysin.org/blog/install-macos-12-on-unsupported-mac/</id>
+    <link href="https://sysin.cn/blog/install-macos-12-on-unsupported-mac/"/>
+    <id>https://sysin.cn/blog/install-macos-12-on-unsupported-mac/</id>
     <published>2022-07-21T02:20:20.000Z</published>
     <updated>2022-07-21T04:42:42.000Z</updated>
     
@@ -139,19 +139,19 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
   </entry>
   
   <entry>
     <title>macOS Monterey 12.5 (21G72) Boot ISO 原版可引导镜像</title>
-    <link href="https://sysin.org/blog/macOS-Monterey-boot-iso/"/>
-    <id>https://sysin.org/blog/macOS-Monterey-boot-iso/</id>
+    <link href="https://sysin.cn/blog/macOS-Monterey-boot-iso/"/>
+    <id>https://sysin.cn/blog/macOS-Monterey-boot-iso/</id>
     <published>2022-07-21T02:00:16.000Z</published>
     <updated>2022-07-21T03:12:50.000Z</updated>
     
@@ -165,21 +165,21 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>macOS Monterey 12.5 (21G72) 正式版 ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.org/blog/macOS-Monterey/"/>
-    <id>https://sysin.org/blog/macOS-Monterey/</id>
+    <link href="https://sysin.cn/blog/macOS-Monterey/"/>
+    <id>https://sysin.cn/blog/macOS-Monterey/</id>
     <published>2022-07-21T00:00:00.000Z</published>
     <updated>2022-07-22T12:35:41.994Z</updated>
     
@@ -193,21 +193,21 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>macOS Big Sur 11.6.8 (20G730) Boot ISO 原版可引导镜像</title>
-    <link href="https://sysin.org/blog/macOS-Big-Sur-boot-iso/"/>
-    <id>https://sysin.org/blog/macOS-Big-Sur-boot-iso/</id>
+    <link href="https://sysin.cn/blog/macOS-Big-Sur-boot-iso/"/>
+    <id>https://sysin.cn/blog/macOS-Big-Sur-boot-iso/</id>
     <published>2022-07-20T23:55:00.000Z</published>
     <updated>2022-07-21T03:14:04.000Z</updated>
     
@@ -221,21 +221,21 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>macOS Big Sur 11.6.8 (20G730) 正式版 ISO、PKG、DMG、IPSW 下载</title>
-    <link href="https://sysin.org/blog/macOS-Big-Sur/"/>
-    <id>https://sysin.org/blog/macOS-Big-Sur/</id>
+    <link href="https://sysin.cn/blog/macOS-Big-Sur/"/>
+    <id>https://sysin.cn/blog/macOS-Big-Sur/</id>
     <published>2022-07-20T23:50:00.000Z</published>
     <updated>2022-07-21T05:11:47.000Z</updated>
     
@@ -249,19 +249,19 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
   </entry>
   
   <entry>
     <title>如何彻底禁止 macOS Monterey 自动更新，去除更新标记和通知</title>
-    <link href="https://sysin.org/blog/disable-macos-monterey-update/"/>
-    <id>https://sysin.org/blog/disable-macos-monterey-update/</id>
+    <link href="https://sysin.cn/blog/disable-macos-monterey-update/"/>
+    <id>https://sysin.cn/blog/disable-macos-monterey-update/</id>
     <published>2022-07-20T23:45:22.000Z</published>
     <updated>2022-07-21T02:53:38.000Z</updated>
     
@@ -276,25 +276,25 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
-    <category term="AutoUpdate" scheme="https://sysin.org/tags/AutoUpdate/"/>
+    <category term="AutoUpdate" scheme="https://sysin.cn/tags/AutoUpdate/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ACI Simulator 6.0(1g) - ACI 模拟器</title>
-    <link href="https://sysin.org/blog/cisco-acisim-6/"/>
-    <id>https://sysin.org/blog/cisco-acisim-6/</id>
+    <link href="https://sysin.cn/blog/cisco-acisim-6/"/>
+    <id>https://sysin.cn/blog/cisco-acisim-6/</id>
     <published>2022-07-17T05:10:06.000Z</published>
     <updated>2022-07-18T00:51:59.000Z</updated>
     
-    <content type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/cisco-acisim-6/" title="Cisco ACI Simulator 6.0(1g) - ACI 模拟器">Cisco ACI Simulator 6.0(1g) - ACI 模拟器</a>，查看最新版。原创作品，转载请保留出处。</p><p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p><p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p><hr><h2 id="ACI-Simulator-2">ACI Simulator</h2><h3 id="介绍-2">介绍</h3><p>思科以应用为中心的基础设施 (ACI) 被概念化为一个分布式、可扩展、多租户的基础设施，具有通过以应用为中心的策略进行控制和分组的外部端点连接。思科应用策略基础设施控制器 (APIC) 是关键的架构组件，它是思科 ACI 的自动化、管理、监控和可编程性的统一点。Cisco APIC 支持在任何地方部署、管理和监控任何应用程序，并为基础设施的物理和虚拟组件提供统一的操作模型。Cisco APIC 根据应用要求和策略以编程方式自动执行网络配置和控制。它是更广泛的云网络的中央控制引擎，简化了管理，同时在应用程序网络的定义和自动化方式以及提供北向 REST API 方面提供了极大的灵活性。Cisco APIC 是一个分布式系统，实现为许多控制器实例的集群。</p><p>文档提供了在测试此 Cisco ACI 模拟器设备版本时验证的兼容性信息、使用指南和比例值。将此文档与“相关文档”部分中列出的文档结合使用。</p><p>注意：Cisco ACI Simulator 设备服务器在 2019 年 6 月 20 日之后不再销售，如<a href="https://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/application-policy-infrastructure-controller-apic/eos-eol-notice-c51-742143.html">此处</a>所示。对于最近和未来的版本，您可以下载 Cisco ACI Simulator VM，这是一个 OVA 文件，可以安装在任何满足安装要求的服务器上的虚拟机 (VM) 中。</p><p>思科 ACI 模拟器设备 6.0(1) 版本包含与思科应用策略基础设施控制器 (APIC) 6.0(1) 版本相同的功能。有关该功能的信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-apic-release-notes-601.html">思科应用策略基础设施控制器版本说明，版本 6.0(1)</a>。</p><p>有关此产品的更多信息，请参阅“相关内容”。</p><p>注意：本产品的文档集力求使用无偏见的语言。为本文档集的目的，无偏见定义为不暗示基于年龄、残疾、性别、种族认同、民族认同、性取向、社会经济地位和交叉性的歧视的语言。由于产品软件的用户界面中硬编码的语言、基于 RFP 文档使用的语言或引用的第三方产品使用的语言，文档中可能存在例外情况。</p><table><thead><tr><th>日期</th><th>描述</th></tr></thead><tbody><tr><td>2022 年 7 月 13 日</td><td>版本 6.0(1g) 可用。</td></tr></tbody></table><h3 id="思科-ACI-模拟器设备-2">思科 ACI 模拟器设备</h3><p>Cisco ACI Simulator 设备的目的是在一台物理服务器中提供真正的、功能齐全的 Cisco APIC 软件，以及叶交换机和主干交换机的模拟结构基础设施。您可以使用 Cisco ACI Simulator 设备了解功能、练习 API 并启动与第三方编排系统和应用程序的集成。Cisco APIC 的本机 GUI 和 CLI 使用发布给第三方的相同 API。</p><p>Cisco ACI Simulator 设备包含模拟交换机，因此您无法验证数据路径。但是，一些模拟交换机端口已映射到前面板服务器端口，这允许您连接外部管理实体，例如 ESX 服务器、vCenter、vShield、裸机服务器、第 4 层到第 7 层服务、AAA 系统、和其他物理或虚拟服务设备。此外，Cisco ACI Simulator 设备允许模拟故障和警报，以促进测试和演示功能。</p><p>每台服务器设备将提供一个生产 Cisco APIC 实例。相比之下，Cisco ACI Simulator 设备在单个服务器中包含三个实际 Cisco APIC 实例和两个模拟叶交换机和两个模拟主干交换机。因此，Cisco ACI Simulator 设备的性能将低于实际硬件上的部署。您可以使用以下任何功能接口对模拟结构执行操作：</p><ul><li><p>图形用户界面 (GUI)</p></li><li><p>命令行界面 (CLI)</p></li><li><p>应用程序编程接口（API）</p></li></ul><p>图 1 显示了在模拟器服务器中模拟的组件和连接。</p><p>图 1 Cisco ACI Simulator 设备服务器中的模拟组件和连接</p><p><a href="https://www.cisco.com/c/dam/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-simulator-release-notes-601.docx/_jcr_content/renditions/cisco-aci-simulator-release-notes-601_0.jpg"><img src="https://www.cisco.com/c/dam/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-simulator-release-notes-601.docx/_jcr_content/renditions/cisco-aci-simulator-release-notes-601_0.jpg" alt="相关图片、图表或屏幕截图"></a></p><h3 id="软件功能-2">软件功能</h3><p>本部分列出了此版本中可用的 Cisco ACI Simulator 设备的主要软件功能。</p><ul><li><p>以应用为中心的网络策略</p></li><li><p>基于数据模型的声明性供应</p></li><li><p>应用、拓扑监控和故障排除</p></li><li><p>第三方集成（第 4 层到第 7 层服务、WAN、vCenter、vShield）</p></li><li><p>物理基础设施政策（脊和叶）</p></li><li><p>思科 ACI 库存和配置</p></li><li><p>在跨设备集群的分布式框架上实现</p></li><li><p>关键托管对象（租户、应用程序配置文件、交换机等）的运行状况评分</p></li><li><p>故障、事件和性能管理</p></li></ul><h3 id="安装说明-2">安装说明</h3><p>Cisco ACI Simulator 软件预装在 Cisco ACI Simulator 设备上。首次启动 Cisco ACI Simulator 设备时，Cisco APIC 控制台会显示一系列初始设置选项。请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/3-x/simulator/install_vm/b_Cisco_ACI_Simulator_VM_Install_Guide.html">Cisco ACI Simulator VM 安装指南</a>。</p><p>不支持 ISO 映像。您必须使用 OVA 图像。</p><p>兼容性信息</p><p>此版本的 Cisco ACI Simulator 设备支持以下软件：</p><ul><li><p>有关受支持的 VMware vCenter 和 vShield 版本，请参阅 <a href="https://www.cisco.com/c/dam/en/us/td/docs/Website/datacenter/aci/virtualization/matrix/virtmatrix.html">ACI 虚拟化兼容性</a>。</p></li><li><p>Cisco ACI Simulator 设备 GUI 的 Web 浏览器：</p><ul><li>Mac 和 Windows 上的 Chrome 版本 35（至少）。</li><li>Mac 和 Windows 上的 Firefox 版本 26（至少）。</li></ul></li><li><p>Cisco ACI Simulator 设备不支持智能许可。</p></li></ul><h2 id="下载地址-84">下载地址</h2><p>Application Centric Infrastructure (ACI) Simulator Software - 6.0(1g)</p><table><thead><tr><th><strong>Image</strong></th><th><strong>FileName</strong></th><th><strong>Release Date</strong></th><th><strong>Size</strong></th></tr></thead><tbody><tr><td>Simulator OVA Image for 6.0(1g) Release - part 1</td><td>acisim-6.0-1g_part1.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 2</td><td>acisim-6.0-1g_part2.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 3</td><td>acisim-6.0-1g_part3.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 4</td><td>acisim-6.0-1g_part4.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 5</td><td>acisim-6.0-1g_part5.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 6</td><td>acisim-6.0-1g_part6.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 7</td><td>acisim-6.0-1g_part7.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 8</td><td>acisim-6.0-1g_part8.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr></tbody></table><p>百度网盘链接：<a href="https://pan.baidu.com/s/1Sh3ZssZ3pVRhSBeKae9WNw">https://pan.baidu.com/s/1Sh3ZssZ3pVRhSBeKae9WNw</a>  提取码：2ah5<br>&lt;尚未更新，链接是预留，请稍后&gt;</p>]]></content>
+    <content type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/cisco-acisim-6/" title="Cisco ACI Simulator 6.0(1g) - ACI 模拟器">Cisco ACI Simulator 6.0(1g) - ACI 模拟器</a>，查看最新版。原创作品，转载请保留出处。</p><p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p><p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p><hr><h2 id="ACI-Simulator-2">ACI Simulator</h2><h3 id="介绍-2">介绍</h3><p>思科以应用为中心的基础设施 (ACI) 被概念化为一个分布式、可扩展、多租户的基础设施，具有通过以应用为中心的策略进行控制和分组的外部端点连接。思科应用策略基础设施控制器 (APIC) 是关键的架构组件，它是思科 ACI 的自动化、管理、监控和可编程性的统一点。Cisco APIC 支持在任何地方部署、管理和监控任何应用程序，并为基础设施的物理和虚拟组件提供统一的操作模型。Cisco APIC 根据应用要求和策略以编程方式自动执行网络配置和控制。它是更广泛的云网络的中央控制引擎，简化了管理，同时在应用程序网络的定义和自动化方式以及提供北向 REST API 方面提供了极大的灵活性。Cisco APIC 是一个分布式系统，实现为许多控制器实例的集群。</p><p>文档提供了在测试此 Cisco ACI 模拟器设备版本时验证的兼容性信息、使用指南和比例值。将此文档与“相关文档”部分中列出的文档结合使用。</p><p>注意：Cisco ACI Simulator 设备服务器在 2019 年 6 月 20 日之后不再销售，如<a href="https://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/application-policy-infrastructure-controller-apic/eos-eol-notice-c51-742143.html">此处</a>所示。对于最近和未来的版本，您可以下载 Cisco ACI Simulator VM，这是一个 OVA 文件，可以安装在任何满足安装要求的服务器上的虚拟机 (VM) 中。</p><p>思科 ACI 模拟器设备 6.0(1) 版本包含与思科应用策略基础设施控制器 (APIC) 6.0(1) 版本相同的功能。有关该功能的信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-apic-release-notes-601.html">思科应用策略基础设施控制器版本说明，版本 6.0(1)</a>。</p><p>有关此产品的更多信息，请参阅“相关内容”。</p><p>注意：本产品的文档集力求使用无偏见的语言。为本文档集的目的，无偏见定义为不暗示基于年龄、残疾、性别、种族认同、民族认同、性取向、社会经济地位和交叉性的歧视的语言。由于产品软件的用户界面中硬编码的语言、基于 RFP 文档使用的语言或引用的第三方产品使用的语言，文档中可能存在例外情况。</p><table><thead><tr><th>日期</th><th>描述</th></tr></thead><tbody><tr><td>2022 年 7 月 13 日</td><td>版本 6.0(1g) 可用。</td></tr></tbody></table><h3 id="思科-ACI-模拟器设备-2">思科 ACI 模拟器设备</h3><p>Cisco ACI Simulator 设备的目的是在一台物理服务器中提供真正的、功能齐全的 Cisco APIC 软件，以及叶交换机和主干交换机的模拟结构基础设施。您可以使用 Cisco ACI Simulator 设备了解功能、练习 API 并启动与第三方编排系统和应用程序的集成。Cisco APIC 的本机 GUI 和 CLI 使用发布给第三方的相同 API。</p><p>Cisco ACI Simulator 设备包含模拟交换机，因此您无法验证数据路径。但是，一些模拟交换机端口已映射到前面板服务器端口，这允许您连接外部管理实体，例如 ESX 服务器、vCenter、vShield、裸机服务器、第 4 层到第 7 层服务、AAA 系统、和其他物理或虚拟服务设备。此外，Cisco ACI Simulator 设备允许模拟故障和警报，以促进测试和演示功能。</p><p>每台服务器设备将提供一个生产 Cisco APIC 实例。相比之下，Cisco ACI Simulator 设备在单个服务器中包含三个实际 Cisco APIC 实例和两个模拟叶交换机和两个模拟主干交换机。因此，Cisco ACI Simulator 设备的性能将低于实际硬件上的部署。您可以使用以下任何功能接口对模拟结构执行操作：</p><ul><li><p>图形用户界面 (GUI)</p></li><li><p>命令行界面 (CLI)</p></li><li><p>应用程序编程接口（API）</p></li></ul><p>图 1 显示了在模拟器服务器中模拟的组件和连接。</p><p>图 1 Cisco ACI Simulator 设备服务器中的模拟组件和连接</p><p><a href="https://www.cisco.com/c/dam/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-simulator-release-notes-601.docx/_jcr_content/renditions/cisco-aci-simulator-release-notes-601_0.jpg"><img src="https://www.cisco.com/c/dam/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-simulator-release-notes-601.docx/_jcr_content/renditions/cisco-aci-simulator-release-notes-601_0.jpg" alt="相关图片、图表或屏幕截图"></a></p><h3 id="软件功能-2">软件功能</h3><p>本部分列出了此版本中可用的 Cisco ACI Simulator 设备的主要软件功能。</p><ul><li><p>以应用为中心的网络策略</p></li><li><p>基于数据模型的声明性供应</p></li><li><p>应用、拓扑监控和故障排除</p></li><li><p>第三方集成（第 4 层到第 7 层服务、WAN、vCenter、vShield）</p></li><li><p>物理基础设施政策（脊和叶）</p></li><li><p>思科 ACI 库存和配置</p></li><li><p>在跨设备集群的分布式框架上实现</p></li><li><p>关键托管对象（租户、应用程序配置文件、交换机等）的运行状况评分</p></li><li><p>故障、事件和性能管理</p></li></ul><h3 id="安装说明-2">安装说明</h3><p>Cisco ACI Simulator 软件预装在 Cisco ACI Simulator 设备上。首次启动 Cisco ACI Simulator 设备时，Cisco APIC 控制台会显示一系列初始设置选项。请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/3-x/simulator/install_vm/b_Cisco_ACI_Simulator_VM_Install_Guide.html">Cisco ACI Simulator VM 安装指南</a>。</p><p>不支持 ISO 映像。您必须使用 OVA 图像。</p><p>兼容性信息</p><p>此版本的 Cisco ACI Simulator 设备支持以下软件：</p><ul><li><p>有关受支持的 VMware vCenter 和 vShield 版本，请参阅 <a href="https://www.cisco.com/c/dam/en/us/td/docs/Website/datacenter/aci/virtualization/matrix/virtmatrix.html">ACI 虚拟化兼容性</a>。</p></li><li><p>Cisco ACI Simulator 设备 GUI 的 Web 浏览器：</p><ul><li>Mac 和 Windows 上的 Chrome 版本 35（至少）。</li><li>Mac 和 Windows 上的 Firefox 版本 26（至少）。</li></ul></li><li><p>Cisco ACI Simulator 设备不支持智能许可。</p></li></ul><h2 id="下载地址-85">下载地址</h2><p>Application Centric Infrastructure (ACI) Simulator Software - 6.0(1g)</p><table><thead><tr><th><strong>Image</strong></th><th><strong>FileName</strong></th><th><strong>Release Date</strong></th><th><strong>Size</strong></th></tr></thead><tbody><tr><td>Simulator OVA Image for 6.0(1g) Release - part 1</td><td>acisim-6.0-1g_part1.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 2</td><td>acisim-6.0-1g_part2.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 3</td><td>acisim-6.0-1g_part3.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 4</td><td>acisim-6.0-1g_part4.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 5</td><td>acisim-6.0-1g_part5.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 6</td><td>acisim-6.0-1g_part6.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 7</td><td>acisim-6.0-1g_part7.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 6.0(1g) Release - part 8</td><td>acisim-6.0-1g_part8.ova</td><td>14-Jul-2022</td><td>12167.64 MB</td></tr></tbody></table><p>百度网盘链接：<a href="https://pan.baidu.com/s/1Sh3ZssZ3pVRhSBeKae9WNw">https://pan.baidu.com/s/1Sh3ZssZ3pVRhSBeKae9WNw</a>  提取码：2ah5<br>&lt;尚未更新，链接是预留，请稍后&gt;</p>]]></content>
     
     
       
@@ -304,27 +304,27 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
+    <category term="NX-OS" scheme="https://sysin.cn/tags/NX-OS/"/>
     
   </entry>
   
   <entry>
     <title>Cisco APIC 6.0(1g) - 应用策略基础设施控制器</title>
-    <link href="https://sysin.org/blog/cisco-apic-6/"/>
-    <id>https://sysin.org/blog/cisco-apic-6/</id>
+    <link href="https://sysin.cn/blog/cisco-apic-6/"/>
+    <id>https://sysin.cn/blog/cisco-apic-6/</id>
     <published>2022-07-17T04:39:04.000Z</published>
     <updated>2022-07-17T09:26:05.000Z</updated>
     
-    <content type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/cisco-apic-6/" title="Cisco APIC 6.0(1g) - 应用策略基础设施控制器">Cisco APIC 6.0(1g) - 应用策略基础设施控制器</a>，查看最新版。原创作品，转载请保留出处。</p><p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p><p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p><hr><p>思科应用策略基础设施控制器 (APIC)</p><h2 id="Cisco-NX-OS-网络操作系统软件-2">Cisco NX-OS 网络操作系统软件</h2><p>Cisco NX-OS 操作系统助力网络紧跟业务发展步伐。</p><p>NX-OS 网络操作系统为现代数据中心提供支持。</p><ul><li><p><a href="https://blogs.cisco.com/datacenter/cisco-nx-os-vxlan-innovations-part-1-inter-vni-communication-using-downstream-vni">架构灵活性</a></p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents/tile_662c.img.png/1618919982170.png" alt="架构灵活性"></p><p>NX-OS 助力数据中心随工作负载和应用的发展而不断扩展。</p><ul><li>借助 VXLAN EVPN 为可扩展工作负载提供支持</li><li>通过多租户有效利用网络资源 (sysin)</li><li>自由选用支持分段路由和 VXLAN 的 Overlay 网络技术</li><li>借助 VXLAN 多站点实现灾难恢复和业务连续性</li></ul></li><li><p>操作简便性</p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents1/tile_cf8d.img.png/1618920085677.png" alt="操作简便性"></p><p>NX-OS 具备可编程性，可将调配时间从几天缩短到几分钟，从而简化部署。</p><ul><li>与 Cisco DCNM 完全集成，实现全面管理</li><li>通过行业标准 API 实现轻松配置</li><li>与 DevOps 自动化工具完全集成</li><li>支持原生 Docker 的简化工具</li></ul></li><li><p><a href="https://blogs.cisco.com/datacenter/cisco-nx-os-and-telegraf-for-pervasive-network-visibility">端到端可视性</a></p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents2/tile_5b16.img.png/1618920143484.png" alt="端到端可视性"></p><p>数据和控制平面具有深度可视性，有助于保护数据中心，并针对问题快速进行补救。</p><ul><li><p>借助精细流和 ASIC 遥测，优化网络 (sysin)</p></li><li><p>利用控制平面可视性和模型驱动的遥测，预防网络故障</p></li><li><p>通过 MACSEC 加密，防御监听和网络攻击</p></li><li><p>借助 802.1X 验证，保护终端和工作负载</p></li><li><p><a href="https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/nx-os-software/data_sheet_c78-652063.html">查看产品手册</a></p></li></ul></li></ul><p>借助 Cisco NX-OS 管理您的数据中心网络</p><ul><li><p>遥测技术助力网络运维</p><p>建立可靠的数据中心网络 (sysin)，防止停机并快速解决网络问题。</p></li><li><p><a href="https://blogs.cisco.com/datacenter/cisco-introduces-segment-routing-v6-on-nexus-9000-gx-series-platforms">分段路由</a></p><p>使用 SRv6 架构构建可扩展的网络，从而降低网络运维的复杂性，并实现与核心/WAN 的数据中心互联 (DCI)</p></li><li><p><a href="https://developer.cisco.com/site/nx-os/">自由定制、安全可靠</a></p><p>灵活、安全地管理工作负载。NX-OS 支持您根据业务需求定制网络，让 DevOps 在创新时只需几分钟即可打开交换矩阵。</p></li><li><p><a href="https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/nx-os-software/data_sheet_c78-652063.html">轻松扩展</a></p><p>为媒体构建具有成本效益且易于扩展的生产应用和网络。</p></li></ul><h2 id="思科应用策略基础设施控制器-APIC">思科应用策略基础设施控制器 (APIC)</h2><p><img src="https://www.cisco.com/content/dam/assets/swa/img/600/apic-600x400.jpg" alt="思科应用策略基础设施控制器 (APIC)"></p><p>实现多云数据中心网络调配自动化</p><p>思科应用策略基础设施控制器（思科 APIC）是思科 ACI 解决方案的主要架构组件。它可以统一对思科 ACI 交换矩阵、策略实施和运行状况监控进行自动化操作和管理。此控制器可优化性能，管理并操作可扩展的多租户思科 ACI 交换矩阵。</p><p>特性和功能</p><p>面向物理、虚拟和云基础设施的集中式应用级策略引擎。</p><ul><li><p>按应用和租户显示的详细可视性、遥测和健康评分</p></li><li><p>围绕开放标准和开放式 API 设计 (sysin)</p></li><li><p>实施强大的多租户安全、服务质量 (QoS) 和高可用性</p></li><li><p>与 VMware、Microsoft 和 OpenStack 等管理系统集成</p></li><li><p>面向思科云 ACI 部署公共云环境的云 APIC 设备</p><p>思科 APIC 专为实现自动化、可编程性和集中式管理而设计，它通过 XML 和 JSON 提供北向 API。它提供命令行界面 (CLI) 和 GUI，这两个界面都使用 API 来全面管理交换矩阵。</p></li></ul><p><img src="https://www.cisco.com/c/zh_cn/products/cloud-systems-management/application-policy-infrastructure-controller-apic/index/jcr:content/Grid/products/layout-products/widenarrow/WN-Wide-1/spotlight_2/image.img.jpg/1550749714351.jpg" alt="ACI 信息图"></p><p>ACI 信息图</p><p>了解 ACI 如何使应用部署更简单、更快捷、更高效 (sysin)。</p><p><a href="https://www.cisco.com/c/dam/en/us/products/collateral/cloud-systems-management/application-policy-infrastructure-controller-apic/aci_infographic.pdf">放大图形</a></p><p>思科以应用为中心的基础设施 (ACI) 是一种架构，允许应用以编程方式定义网络要求。这种架构简化、优化和加速了整个应用程序部署生命周期。思科应用策略基础设施控制器 (APIC) 是充当控制器的软件或操作系统。</p><p><a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-apic-release-notes-601.html">Release Notes for 6.0(1g)</a> 文档描述了 Cisco APIC 软件的功能、问题和限制。有关 Cisco Nexus 9000 系列交换机的 Cisco NX-OS 软件的功能、问题和限制，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-nx-os-release-notes-1601.html">Cisco Nexus 9000 ACI 模式交换机版本说明，版本 16.0(1)</a>。</p><table><thead><tr><th>日期</th><th>描述</th></tr></thead><tbody><tr><td>2022 年 7 月 13 日</td><td>版本 6.0(1g) 可用。</td></tr></tbody></table><p>新软件功能</p><table><thead><tr><th>特征</th><th>描述</th></tr></thead><tbody><tr><td>Cisco N9K-C93600CD-GX 和 N9K-C9316D-GX 交换机支持分支端口</td><td>Cisco N9K-C93600CD-GX 和 N9K-C9316D-GX 交换机现在支持动态和自动分支端口。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/layer-2-configuration/cisco-apic-layer-2-networking-configuration-guide-60x.html">Cisco APIC 第 2 层网络配置指南，版本 6.0(x)</a>。</td></tr><tr><td>Cisco Nexus 9000 交换机安全擦除</td><td>Cisco Nexus 9000 交换机利用持久存储来维护系统软件映像、交换机配置、软件日志和操作历史记录。这些区域中的每一个都可以包含特定于用户的信息，例如有关网络架构和设计的详细信息，以及潜在攻击者的潜在目标向量。安全擦除功能使您能够全面擦除此信息，您可以在使用退货授权 (RMA) 退回交换机、升级或更换交换机或停用已达到其使用寿命的系统时执行此操作。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/getting-started/cisco-apic-getting-started-guide-60x.html">Cisco APIC 入门指南，版本 6.0(x)</a>。</td></tr><tr><td>在辅助 IPv4/IPv6 子网上支持 BFD</td><td>对于使用在路由接口上配置的辅助 IPv4/IPv6 子网可到达的静态路由，现在支持双向转发检测 (BFD)。此功能最初是在 5.2(4) 版本中引入的，现在在 6.0 版本中可用。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/l3-configuration/cisco-apic-layer-3-networking-configuration-guide-60x.html">Cisco APIC 第 3 层网络配置指南，版本 6.0(x)</a>。</td></tr><tr><td>在远程叶交换机对等链路和 vPC 上支持 PTP G.8275.1</td><td>您现在可以在虚拟端口通道 (vPC) 和远程叶交换机对等链路上使用 PTP 电信配置文件 (G.8275.1)。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/system-management-configuration/cisco-apic-system-management-configuration-guide-60x.html">Cisco APIC 系统管理配置指南，版本 6.0(x)</a>。</td></tr><tr><td>在 vPC 和远程叶交换机对等链路上支持 SyncE</td><td>您现在可以在 vPC 和远程叶交换机对等链路上使用 SyncE。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/system-management-configuration/cisco-apic-system-management-configuration-guide-60x.html">Cisco APIC 系统管理配置指南，版本 6.0(x)</a>。</td></tr><tr><td>传输层安全版本 1.3 支持</td><td>现在支持传输层安全 (TLS) 版本 1.3。此功能最初是在 5.2(5) 版本中引入的，现在在 6.0 版本中可用。</td></tr><tr><td>基于权重的对称基于策略的重定向 (PBR)</td><td>在基于权重的对称策略路由中，可以根据服务节点的容量为策略路由的目的端（服务节点）设置权重，并根据设置的权重对流量进行负载分担。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/layer-4-to-layer-7-services-configuration/cisco-apic-layer-4-to-layer-7-services-deployment-guide-60x.html">Cisco APIC 第 4 层到第 7 层服务部署指南，版本 6.0(x)</a>。</td></tr><tr><td>支持 SAML 和 OAuth 2 的用户组映射规则</td><td>除了标准的基于 CiscoAVpair 的身份验证外，外部服务器对 SAML 和 OAuth 2 的身份验证还基于用户组映射规则信息。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/security-configuration/cisco-apic-security-configuration-guide-release-60x.html">Cisco APIC 安全配置指南，版本 6.0(x)</a>。</td></tr><tr><td>BGP 自治系统 (AS) 增强功能</td><td>Cisco APIC 现在支持删除私有 AS 选项以从 eBGP 路由中的 AS_path 中删除私有自治系统编号，并在创建 BGP 每对等路由映射时支持 AS-Path 匹配子句。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/l3-configuration/cisco-apic-layer-3-networking-configuration-guide-60x.html">Cisco APIC 第 3 层网络配置指南，版本 6.0(x)</a>。</td></tr><tr><td>扩展过滤器条目</td><td>在 SPAN 会话中，您现在可以使用 APIC GUI、NX-OS 风格的 CLI 或 REST API 为过滤器组配置扩展过滤器条目。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/l3-configuration/cisco-apic-layer-3-networking-configuration-guide-60x.html">Cisco APIC 第 3 层网络配置指南，版本 6.0(x)</a>。</td></tr><tr><td>支持子网掩码最高为 /28 的远程池</td><td>远程叶交换机现在支持子网掩码最高为 /28 的远程池。在以前的版本中，远程叶交换机支持子网掩码最高为 /24 的远程池。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/l3-configuration/cisco-apic-layer-3-networking-configuration-guide-60x.html">Cisco APIC 基本配置指南，版本 6.0(x)</a>。</td></tr></tbody></table><p>新硬件功能</p><p>有关新硬件功能，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-nx-os-release-notes-1601.html">Cisco Nexus 9000 ACI 模式交换机版本说明，版本 16.0(1)</a>。</p><h2 id="下载地址-86">下载地址</h2><p>Cisco Application Policy Infrastructure Controller (APIC) Release 6.0(1g)</p><ul><li><a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-apic-release-notes-601.html">Release Notes for 6.0(1g)</a></li></ul><table><thead><tr><th><strong>Image</strong></th><th><strong>FileName</strong></th><th><strong>Release Date</strong></th><th><strong>Size</strong></th></tr></thead><tbody><tr><td>APIC Image for 6.0(1g) Release</td><td>aci-apic-dk9.6.0.1g.iso</td><td>14-Jul-2022</td><td>7293.73 MB</td></tr><tr><td>Vapic Image for 6.0(1g) Release</td><td>aci-apic-dk9.6.0.1g.ova</td><td>14-Jul-2022</td><td>7106.67 MB</td></tr><tr><td>VRA Image for 6.0(1g) Release</td><td>apic-vrealize-6.0.1g.tgz</td><td>14-Jul-2022</td><td>4.85 MB</td></tr><tr><td>VCenter Image for 6.0(1g) Release</td><td>vcenter-plugin-6.0.1g.tgz</td><td>14-Jul-2022</td><td>72.67 MB</td></tr></tbody></table><p>百度网盘链接：<a href="https://pan.baidu.com/s/1ERitM_wtiC3aG0dhcLJgYg">https://pan.baidu.com/s/1ERitM_wtiC3aG0dhcLJgYg</a>  提取码：2e0m</p>]]></content>
+    <content type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/cisco-apic-6/" title="Cisco APIC 6.0(1g) - 应用策略基础设施控制器">Cisco APIC 6.0(1g) - 应用策略基础设施控制器</a>，查看最新版。原创作品，转载请保留出处。</p><p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p><p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p><hr><p>思科应用策略基础设施控制器 (APIC)</p><h2 id="Cisco-NX-OS-网络操作系统软件-2">Cisco NX-OS 网络操作系统软件</h2><p>Cisco NX-OS 操作系统助力网络紧跟业务发展步伐。</p><p>NX-OS 网络操作系统为现代数据中心提供支持。</p><ul><li><p><a href="https://blogs.cisco.com/datacenter/cisco-nx-os-vxlan-innovations-part-1-inter-vni-communication-using-downstream-vni">架构灵活性</a></p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents/tile_662c.img.png/1618919982170.png" alt="架构灵活性"></p><p>NX-OS 助力数据中心随工作负载和应用的发展而不断扩展。</p><ul><li>借助 VXLAN EVPN 为可扩展工作负载提供支持</li><li>通过多租户有效利用网络资源 (sysin)</li><li>自由选用支持分段路由和 VXLAN 的 Overlay 网络技术</li><li>借助 VXLAN 多站点实现灾难恢复和业务连续性</li></ul></li><li><p>操作简便性</p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents1/tile_cf8d.img.png/1618920085677.png" alt="操作简便性"></p><p>NX-OS 具备可编程性，可将调配时间从几天缩短到几分钟，从而简化部署。</p><ul><li>与 Cisco DCNM 完全集成，实现全面管理</li><li>通过行业标准 API 实现轻松配置</li><li>与 DevOps 自动化工具完全集成</li><li>支持原生 Docker 的简化工具</li></ul></li><li><p><a href="https://blogs.cisco.com/datacenter/cisco-nx-os-and-telegraf-for-pervasive-network-visibility">端到端可视性</a></p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents2/tile_5b16.img.png/1618920143484.png" alt="端到端可视性"></p><p>数据和控制平面具有深度可视性，有助于保护数据中心，并针对问题快速进行补救。</p><ul><li><p>借助精细流和 ASIC 遥测，优化网络 (sysin)</p></li><li><p>利用控制平面可视性和模型驱动的遥测，预防网络故障</p></li><li><p>通过 MACSEC 加密，防御监听和网络攻击</p></li><li><p>借助 802.1X 验证，保护终端和工作负载</p></li><li><p><a href="https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/nx-os-software/data_sheet_c78-652063.html">查看产品手册</a></p></li></ul></li></ul><p>借助 Cisco NX-OS 管理您的数据中心网络</p><ul><li><p>遥测技术助力网络运维</p><p>建立可靠的数据中心网络 (sysin)，防止停机并快速解决网络问题。</p></li><li><p><a href="https://blogs.cisco.com/datacenter/cisco-introduces-segment-routing-v6-on-nexus-9000-gx-series-platforms">分段路由</a></p><p>使用 SRv6 架构构建可扩展的网络，从而降低网络运维的复杂性，并实现与核心/WAN 的数据中心互联 (DCI)</p></li><li><p><a href="https://developer.cisco.com/site/nx-os/">自由定制、安全可靠</a></p><p>灵活、安全地管理工作负载。NX-OS 支持您根据业务需求定制网络，让 DevOps 在创新时只需几分钟即可打开交换矩阵。</p></li><li><p><a href="https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/nx-os-software/data_sheet_c78-652063.html">轻松扩展</a></p><p>为媒体构建具有成本效益且易于扩展的生产应用和网络。</p></li></ul><h2 id="思科应用策略基础设施控制器-APIC">思科应用策略基础设施控制器 (APIC)</h2><p><img src="https://www.cisco.com/content/dam/assets/swa/img/600/apic-600x400.jpg" alt="思科应用策略基础设施控制器 (APIC)"></p><p>实现多云数据中心网络调配自动化</p><p>思科应用策略基础设施控制器（思科 APIC）是思科 ACI 解决方案的主要架构组件。它可以统一对思科 ACI 交换矩阵、策略实施和运行状况监控进行自动化操作和管理。此控制器可优化性能，管理并操作可扩展的多租户思科 ACI 交换矩阵。</p><p>特性和功能</p><p>面向物理、虚拟和云基础设施的集中式应用级策略引擎。</p><ul><li><p>按应用和租户显示的详细可视性、遥测和健康评分</p></li><li><p>围绕开放标准和开放式 API 设计 (sysin)</p></li><li><p>实施强大的多租户安全、服务质量 (QoS) 和高可用性</p></li><li><p>与 VMware、Microsoft 和 OpenStack 等管理系统集成</p></li><li><p>面向思科云 ACI 部署公共云环境的云 APIC 设备</p><p>思科 APIC 专为实现自动化、可编程性和集中式管理而设计，它通过 XML 和 JSON 提供北向 API。它提供命令行界面 (CLI) 和 GUI，这两个界面都使用 API 来全面管理交换矩阵。</p></li></ul><p><img src="https://www.cisco.com/c/zh_cn/products/cloud-systems-management/application-policy-infrastructure-controller-apic/index/jcr:content/Grid/products/layout-products/widenarrow/WN-Wide-1/spotlight_2/image.img.jpg/1550749714351.jpg" alt="ACI 信息图"></p><p>ACI 信息图</p><p>了解 ACI 如何使应用部署更简单、更快捷、更高效 (sysin)。</p><p><a href="https://www.cisco.com/c/dam/en/us/products/collateral/cloud-systems-management/application-policy-infrastructure-controller-apic/aci_infographic.pdf">放大图形</a></p><p>思科以应用为中心的基础设施 (ACI) 是一种架构，允许应用以编程方式定义网络要求。这种架构简化、优化和加速了整个应用程序部署生命周期。思科应用策略基础设施控制器 (APIC) 是充当控制器的软件或操作系统。</p><p><a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-apic-release-notes-601.html">Release Notes for 6.0(1g)</a> 文档描述了 Cisco APIC 软件的功能、问题和限制。有关 Cisco Nexus 9000 系列交换机的 Cisco NX-OS 软件的功能、问题和限制，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-nx-os-release-notes-1601.html">Cisco Nexus 9000 ACI 模式交换机版本说明，版本 16.0(1)</a>。</p><table><thead><tr><th>日期</th><th>描述</th></tr></thead><tbody><tr><td>2022 年 7 月 13 日</td><td>版本 6.0(1g) 可用。</td></tr></tbody></table><p>新软件功能</p><table><thead><tr><th>特征</th><th>描述</th></tr></thead><tbody><tr><td>Cisco N9K-C93600CD-GX 和 N9K-C9316D-GX 交换机支持分支端口</td><td>Cisco N9K-C93600CD-GX 和 N9K-C9316D-GX 交换机现在支持动态和自动分支端口。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/layer-2-configuration/cisco-apic-layer-2-networking-configuration-guide-60x.html">Cisco APIC 第 2 层网络配置指南，版本 6.0(x)</a>。</td></tr><tr><td>Cisco Nexus 9000 交换机安全擦除</td><td>Cisco Nexus 9000 交换机利用持久存储来维护系统软件映像、交换机配置、软件日志和操作历史记录。这些区域中的每一个都可以包含特定于用户的信息，例如有关网络架构和设计的详细信息，以及潜在攻击者的潜在目标向量。安全擦除功能使您能够全面擦除此信息，您可以在使用退货授权 (RMA) 退回交换机、升级或更换交换机或停用已达到其使用寿命的系统时执行此操作。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/getting-started/cisco-apic-getting-started-guide-60x.html">Cisco APIC 入门指南，版本 6.0(x)</a>。</td></tr><tr><td>在辅助 IPv4/IPv6 子网上支持 BFD</td><td>对于使用在路由接口上配置的辅助 IPv4/IPv6 子网可到达的静态路由，现在支持双向转发检测 (BFD)。此功能最初是在 5.2(4) 版本中引入的，现在在 6.0 版本中可用。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/l3-configuration/cisco-apic-layer-3-networking-configuration-guide-60x.html">Cisco APIC 第 3 层网络配置指南，版本 6.0(x)</a>。</td></tr><tr><td>在远程叶交换机对等链路和 vPC 上支持 PTP G.8275.1</td><td>您现在可以在虚拟端口通道 (vPC) 和远程叶交换机对等链路上使用 PTP 电信配置文件 (G.8275.1)。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/system-management-configuration/cisco-apic-system-management-configuration-guide-60x.html">Cisco APIC 系统管理配置指南，版本 6.0(x)</a>。</td></tr><tr><td>在 vPC 和远程叶交换机对等链路上支持 SyncE</td><td>您现在可以在 vPC 和远程叶交换机对等链路上使用 SyncE。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/system-management-configuration/cisco-apic-system-management-configuration-guide-60x.html">Cisco APIC 系统管理配置指南，版本 6.0(x)</a>。</td></tr><tr><td>传输层安全版本 1.3 支持</td><td>现在支持传输层安全 (TLS) 版本 1.3。此功能最初是在 5.2(5) 版本中引入的，现在在 6.0 版本中可用。</td></tr><tr><td>基于权重的对称基于策略的重定向 (PBR)</td><td>在基于权重的对称策略路由中，可以根据服务节点的容量为策略路由的目的端（服务节点）设置权重，并根据设置的权重对流量进行负载分担。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/layer-4-to-layer-7-services-configuration/cisco-apic-layer-4-to-layer-7-services-deployment-guide-60x.html">Cisco APIC 第 4 层到第 7 层服务部署指南，版本 6.0(x)</a>。</td></tr><tr><td>支持 SAML 和 OAuth 2 的用户组映射规则</td><td>除了标准的基于 CiscoAVpair 的身份验证外，外部服务器对 SAML 和 OAuth 2 的身份验证还基于用户组映射规则信息。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/security-configuration/cisco-apic-security-configuration-guide-release-60x.html">Cisco APIC 安全配置指南，版本 6.0(x)</a>。</td></tr><tr><td>BGP 自治系统 (AS) 增强功能</td><td>Cisco APIC 现在支持删除私有 AS 选项以从 eBGP 路由中的 AS_path 中删除私有自治系统编号，并在创建 BGP 每对等路由映射时支持 AS-Path 匹配子句。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/l3-configuration/cisco-apic-layer-3-networking-configuration-guide-60x.html">Cisco APIC 第 3 层网络配置指南，版本 6.0(x)</a>。</td></tr><tr><td>扩展过滤器条目</td><td>在 SPAN 会话中，您现在可以使用 APIC GUI、NX-OS 风格的 CLI 或 REST API 为过滤器组配置扩展过滤器条目。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/l3-configuration/cisco-apic-layer-3-networking-configuration-guide-60x.html">Cisco APIC 第 3 层网络配置指南，版本 6.0(x)</a>。</td></tr><tr><td>支持子网掩码最高为 /28 的远程池</td><td>远程叶交换机现在支持子网掩码最高为 /28 的远程池。在以前的版本中，远程叶交换机支持子网掩码最高为 /24 的远程池。有关详细信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/l3-configuration/cisco-apic-layer-3-networking-configuration-guide-60x.html">Cisco APIC 基本配置指南，版本 6.0(x)</a>。</td></tr></tbody></table><p>新硬件功能</p><p>有关新硬件功能，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-nx-os-release-notes-1601.html">Cisco Nexus 9000 ACI 模式交换机版本说明，版本 16.0(1)</a>。</p><h2 id="下载地址-87">下载地址</h2><p>Cisco Application Policy Infrastructure Controller (APIC) Release 6.0(1g)</p><ul><li><a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-apic-release-notes-601.html">Release Notes for 6.0(1g)</a></li></ul><table><thead><tr><th><strong>Image</strong></th><th><strong>FileName</strong></th><th><strong>Release Date</strong></th><th><strong>Size</strong></th></tr></thead><tbody><tr><td>APIC Image for 6.0(1g) Release</td><td>aci-apic-dk9.6.0.1g.iso</td><td>14-Jul-2022</td><td>7293.73 MB</td></tr><tr><td>Vapic Image for 6.0(1g) Release</td><td>aci-apic-dk9.6.0.1g.ova</td><td>14-Jul-2022</td><td>7106.67 MB</td></tr><tr><td>VRA Image for 6.0(1g) Release</td><td>apic-vrealize-6.0.1g.tgz</td><td>14-Jul-2022</td><td>4.85 MB</td></tr><tr><td>VCenter Image for 6.0(1g) Release</td><td>vcenter-plugin-6.0.1g.tgz</td><td>14-Jul-2022</td><td>72.67 MB</td></tr></tbody></table><p>百度网盘链接：<a href="https://pan.baidu.com/s/1ERitM_wtiC3aG0dhcLJgYg">https://pan.baidu.com/s/1ERitM_wtiC3aG0dhcLJgYg</a>  提取码：2e0m</p>]]></content>
     
     
       
@@ -334,27 +334,27 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
+    <category term="NX-OS" scheme="https://sysin.cn/tags/NX-OS/"/>
     
   </entry>
   
   <entry>
     <title>Cisco NX-OS System Software - ACI 16.0(1g)</title>
-    <link href="https://sysin.org/blog/cisco-aci-16/"/>
-    <id>https://sysin.org/blog/cisco-aci-16/</id>
+    <link href="https://sysin.cn/blog/cisco-aci-16/"/>
+    <id>https://sysin.cn/blog/cisco-aci-16/</id>
     <published>2022-07-17T04:38:54.000Z</published>
     <updated>2022-07-17T09:25:15.000Z</updated>
     
-    <content type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/cisco-aci-16/" title="Cisco NX-OS System Software - ACI 16.0(1g)">Cisco NX-OS System Software - ACI 16.0(1g)</a>，查看最新版。原创作品，转载请保留出处。</p><p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p><p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p><hr><h2 id="Cisco-NX-OS-网络操作系统软件">Cisco NX-OS 网络操作系统软件</h2><p>Cisco NX-OS 操作系统助力网络紧跟业务发展步伐。</p><p>NX-OS 网络操作系统为现代数据中心提供支持。</p><ul><li><p><a href="https://blogs.cisco.com/datacenter/cisco-nx-os-vxlan-innovations-part-1-inter-vni-communication-using-downstream-vni">架构灵活性</a></p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents/tile_662c.img.png/1618919982170.png" alt="架构灵活性"></p><p>NX-OS 助力数据中心随工作负载和应用的发展而不断扩展。</p><ul><li>借助 VXLAN EVPN 为可扩展工作负载提供支持</li><li>通过多租户有效利用网络资源 (sysin)</li><li>自由选用支持分段路由和 VXLAN 的 Overlay 网络技术</li><li>借助 VXLAN 多站点实现灾难恢复和业务连续性</li></ul></li><li><p>操作简便性</p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents1/tile_cf8d.img.png/1618920085677.png" alt="操作简便性"></p><p>NX-OS 具备可编程性，可将调配时间从几天缩短到几分钟，从而简化部署。</p><ul><li>与 Cisco DCNM 完全集成，实现全面管理</li><li>通过行业标准 API 实现轻松配置</li><li>与 DevOps 自动化工具完全集成</li><li>支持原生 Docker 的简化工具</li></ul></li><li><p><a href="https://blogs.cisco.com/datacenter/cisco-nx-os-and-telegraf-for-pervasive-network-visibility">端到端可视性</a></p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents2/tile_5b16.img.png/1618920143484.png" alt="端到端可视性"></p><p>数据和控制平面具有深度可视性，有助于保护数据中心，并针对问题快速进行补救。</p><ul><li><p>借助精细流和 ASIC 遥测，优化网络 (sysin)</p></li><li><p>利用控制平面可视性和模型驱动的遥测，预防网络故障</p></li><li><p>通过 MACSEC 加密，防御监听和网络攻击</p></li><li><p>借助 802.1X 验证，保护终端和工作负载</p></li><li><p><a href="https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/nx-os-software/data_sheet_c78-652063.html">查看产品手册</a></p></li></ul></li></ul><p>借助 Cisco NX-OS 管理您的数据中心网络</p><ul><li><p>遥测技术助力网络运维</p><p>建立可靠的数据中心网络 (sysin)，防止停机并快速解决网络问题。</p></li><li><p><a href="https://blogs.cisco.com/datacenter/cisco-introduces-segment-routing-v6-on-nexus-9000-gx-series-platforms">分段路由</a></p><p>使用 SRv6 架构构建可扩展的网络，从而降低网络运维的复杂性，并实现与核心/WAN 的数据中心互联 (DCI)</p></li><li><p><a href="https://developer.cisco.com/site/nx-os/">自由定制、安全可靠</a></p><p>灵活、安全地管理工作负载。NX-OS 支持您根据业务需求定制网络，让 DevOps 在创新时只需几分钟即可打开交换矩阵。</p></li><li><p><a href="https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/nx-os-software/data_sheet_c78-652063.html">轻松扩展</a></p><p>为媒体构建具有成本效益且易于扩展的生产应用和网络。</p></li></ul><h2 id="NX-OS-System-Software-ACI">NX-OS System Software ACI</h2><p>用于 Cisco Nexus 9000 系列交换机的 Cisco NX-OS 软件是一种数据中心专用操作系统 (sysin)，其设计以性能、弹性、可扩展性、可管理性和可编程性为基础。它提供了强大而全面的功能集，可满足数据中心虚拟化和自动化的要求。</p><p>此版本仅适用于 ACI 模式下的 Cisco Nexus 9000 系列交换机。</p><p><a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-nx-os-release-notes-1601.html">Release 16.0(1)</a> 文档介绍了 Cisco NX-OS 软件的功能、问题和限制。有关思科应用策略基础设施控制器 (APIC) 的功能、问题和限制，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-apic-release-notes-601.html">思科应用策略基础设施控制器版本说明，版本 6.0(1)</a>。</p><p>新硬件功能</p><ul><li>Cisco Nexus 9336C-FX2-E 交换机 (N9K-C9336C-FX2-E) 是一款 1 机架单元 (RU)、固定端口交换机，专为数据中心的脊叶 APIC 部署而设计。</li></ul><p>新软件功能</p><ul><li>有关新的软件功能，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-apic-release-notes-601.html">思科应用策略基础设施控制器版本说明，版本 6.0(1)</a>。</li></ul><h2 id="下载地址-82">下载地址</h2><p>Cisco Nexus 9000 Series ACI Mode Switch Software <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-nx-os-release-notes-1601.html">Release 16.0(1)</a></p><table><thead><tr><th><strong>Image</strong></th><th><strong>FileName</strong></th><th><strong>Release Date</strong></th><th><strong>Size</strong></th></tr></thead><tbody><tr><td>Cisco Nexus 9000 Series ACI Mode Switch Software Release 16.0(1g)</td><td>aci-n9000-dk9.16.0.1g.bin</td><td>14-Jul-2022</td><td>1998.26 MB</td></tr></tbody></table><p>百度网盘链接：<a href="https://pan.baidu.com/s/1em5b8TU5S49Em-ar4W5gug">https://pan.baidu.com/s/1em5b8TU5S49Em-ar4W5gug</a>  提取码：gdcq</p><p>Related Software: APIC Image for 6.0(1g) Release</p><ul><li><a href="/blog/cisco-apic-6/" title="Cisco APIC 6.0(1g) - 应用策略基础设施控制器">Cisco APIC 6.0(1g) - 应用策略基础设施控制器</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/cisco-aci-16/" title="Cisco NX-OS System Software - ACI 16.0(1g)">Cisco NX-OS System Software - ACI 16.0(1g)</a>，查看最新版。原创作品，转载请保留出处。</p><p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p><p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p><hr><h2 id="Cisco-NX-OS-网络操作系统软件">Cisco NX-OS 网络操作系统软件</h2><p>Cisco NX-OS 操作系统助力网络紧跟业务发展步伐。</p><p>NX-OS 网络操作系统为现代数据中心提供支持。</p><ul><li><p><a href="https://blogs.cisco.com/datacenter/cisco-nx-os-vxlan-innovations-part-1-inter-vni-communication-using-downstream-vni">架构灵活性</a></p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents/tile_662c.img.png/1618919982170.png" alt="架构灵活性"></p><p>NX-OS 助力数据中心随工作负载和应用的发展而不断扩展。</p><ul><li>借助 VXLAN EVPN 为可扩展工作负载提供支持</li><li>通过多租户有效利用网络资源 (sysin)</li><li>自由选用支持分段路由和 VXLAN 的 Overlay 网络技术</li><li>借助 VXLAN 多站点实现灾难恢复和业务连续性</li></ul></li><li><p>操作简便性</p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents1/tile_cf8d.img.png/1618920085677.png" alt="操作简便性"></p><p>NX-OS 具备可编程性，可将调配时间从几天缩短到几分钟，从而简化部署。</p><ul><li>与 Cisco DCNM 完全集成，实现全面管理</li><li>通过行业标准 API 实现轻松配置</li><li>与 DevOps 自动化工具完全集成</li><li>支持原生 Docker 的简化工具</li></ul></li><li><p><a href="https://blogs.cisco.com/datacenter/cisco-nx-os-and-telegraf-for-pervasive-network-visibility">端到端可视性</a></p><p><img src="https://www.cisco.com/c/zh_cn/products/ios-nx-os-software/nx-os/index/jcr:content/Grid/category_atl_e68d/layout-category-atl/blade_7306/bladeContents2/tile_5b16.img.png/1618920143484.png" alt="端到端可视性"></p><p>数据和控制平面具有深度可视性，有助于保护数据中心，并针对问题快速进行补救。</p><ul><li><p>借助精细流和 ASIC 遥测，优化网络 (sysin)</p></li><li><p>利用控制平面可视性和模型驱动的遥测，预防网络故障</p></li><li><p>通过 MACSEC 加密，防御监听和网络攻击</p></li><li><p>借助 802.1X 验证，保护终端和工作负载</p></li><li><p><a href="https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/nx-os-software/data_sheet_c78-652063.html">查看产品手册</a></p></li></ul></li></ul><p>借助 Cisco NX-OS 管理您的数据中心网络</p><ul><li><p>遥测技术助力网络运维</p><p>建立可靠的数据中心网络 (sysin)，防止停机并快速解决网络问题。</p></li><li><p><a href="https://blogs.cisco.com/datacenter/cisco-introduces-segment-routing-v6-on-nexus-9000-gx-series-platforms">分段路由</a></p><p>使用 SRv6 架构构建可扩展的网络，从而降低网络运维的复杂性，并实现与核心/WAN 的数据中心互联 (DCI)</p></li><li><p><a href="https://developer.cisco.com/site/nx-os/">自由定制、安全可靠</a></p><p>灵活、安全地管理工作负载。NX-OS 支持您根据业务需求定制网络，让 DevOps 在创新时只需几分钟即可打开交换矩阵。</p></li><li><p><a href="https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/nx-os-software/data_sheet_c78-652063.html">轻松扩展</a></p><p>为媒体构建具有成本效益且易于扩展的生产应用和网络。</p></li></ul><h2 id="NX-OS-System-Software-ACI">NX-OS System Software ACI</h2><p>用于 Cisco Nexus 9000 系列交换机的 Cisco NX-OS 软件是一种数据中心专用操作系统 (sysin)，其设计以性能、弹性、可扩展性、可管理性和可编程性为基础。它提供了强大而全面的功能集，可满足数据中心虚拟化和自动化的要求。</p><p>此版本仅适用于 ACI 模式下的 Cisco Nexus 9000 系列交换机。</p><p><a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-nx-os-release-notes-1601.html">Release 16.0(1)</a> 文档介绍了 Cisco NX-OS 软件的功能、问题和限制。有关思科应用策略基础设施控制器 (APIC) 的功能、问题和限制，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-apic-release-notes-601.html">思科应用策略基础设施控制器版本说明，版本 6.0(1)</a>。</p><p>新硬件功能</p><ul><li>Cisco Nexus 9336C-FX2-E 交换机 (N9K-C9336C-FX2-E) 是一款 1 机架单元 (RU)、固定端口交换机，专为数据中心的脊叶 APIC 部署而设计。</li></ul><p>新软件功能</p><ul><li>有关新的软件功能，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-apic-release-notes-601.html">思科应用策略基础设施控制器版本说明，版本 6.0(1)</a>。</li></ul><h2 id="下载地址-83">下载地址</h2><p>Cisco Nexus 9000 Series ACI Mode Switch Software <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/6x/release-notes/cisco-aci-nx-os-release-notes-1601.html">Release 16.0(1)</a></p><table><thead><tr><th><strong>Image</strong></th><th><strong>FileName</strong></th><th><strong>Release Date</strong></th><th><strong>Size</strong></th></tr></thead><tbody><tr><td>Cisco Nexus 9000 Series ACI Mode Switch Software Release 16.0(1g)</td><td>aci-n9000-dk9.16.0.1g.bin</td><td>14-Jul-2022</td><td>1998.26 MB</td></tr></tbody></table><p>百度网盘链接：<a href="https://pan.baidu.com/s/1em5b8TU5S49Em-ar4W5gug">https://pan.baidu.com/s/1em5b8TU5S49Em-ar4W5gug</a>  提取码：gdcq</p><p>Related Software: APIC Image for 6.0(1g) Release</p><ul><li><a href="/blog/cisco-apic-6/" title="Cisco APIC 6.0(1g) - 应用策略基础设施控制器">Cisco APIC 6.0(1g) - 应用策略基础设施控制器</a></li></ul>]]></content>
     
     
       
@@ -364,25 +364,25 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
+    <category term="NX-OS" scheme="https://sysin.cn/tags/NX-OS/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ACI Simulator 5.2(5c) - ACI 模拟器</title>
-    <link href="https://sysin.org/blog/cisco-acisim-5/"/>
-    <id>https://sysin.org/blog/cisco-acisim-5/</id>
+    <link href="https://sysin.cn/blog/cisco-acisim-5/"/>
+    <id>https://sysin.cn/blog/cisco-acisim-5/</id>
     <published>2022-07-17T04:30:35.000Z</published>
     <updated>2022-07-22T15:11:45.685Z</updated>
     
-    <content type="html"><![CDATA[<p>请访问原文链接：<a href="#">Post not found: tcisco-acisim-5itle</a>，查看最新版。原创作品，转载请保留出处。</p><p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p><p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p><hr><h2 id="ACI-Simulator">ACI Simulator</h2><h3 id="介绍">介绍</h3><p>思科以应用为中心的基础设施 (ACI) 被概念化为一个分布式、可扩展、多租户的基础设施，具有通过以应用为中心的策略进行控制和分组的外部端点连接。思科应用策略基础设施控制器 (APIC) 是关键的架构组件，它是思科 ACI 的自动化、管理、监控和可编程性的统一点。Cisco APIC 支持在任何地方部署、管理和监控任何应用程序，并为基础设施的物理和虚拟组件提供统一的操作模型。Cisco APIC 根据应用要求和策略以编程方式自动执行网络配置和控制。它是更广泛的云网络的中央控制引擎，简化了管理，同时在应用程序网络的定义和自动化方式以及提供北向 REST API 方面提供了极大的灵活性。Cisco APIC 是一个分布式系统，实现为许多控制器实例的集群。</p><p>文档提供了在测试此 Cisco ACI 模拟器设备版本时验证的兼容性信息、使用指南和比例值。将此文档与“相关文档”部分中列出的文档结合使用。</p><p>注意：Cisco ACI Simulator 设备服务器在 2019 年 6 月 20 日之后不再销售，如<a href="https://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/application-policy-infrastructure-controller-apic/eos-eol-notice-c51-742143.html">此处</a>所示。对于最近和未来的版本，您可以下载 Cisco ACI Simulator VM，这是一个 OVA 文件，可以安装在任何满足安装要求的服务器上的虚拟机 (VM) 中。</p><p>思科 ACI 模拟器设备 5.2(5) 版本包含与思科应用策略基础设施控制器 (APIC) 5.2(5) 版本相同的功能。有关该功能的信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/5x/release-notes/cisco-apic-release-notes-525.html">思科应用策略基础设施控制器版本说明，版本 5.2(5)</a>。</p><p>有关此产品的更多信息，请参阅“相关内容”。</p><p>注意：本产品的文档集力求使用无偏见的语言。为本文档集的目的，无偏见定义为不暗示基于年龄、残疾、性别、种族认同、民族认同、性取向、社会经济地位和交叉性的歧视的语言。由于产品软件的用户界面中硬编码的语言、基于 RFP 文档使用的语言或引用的第三方产品使用的语言，文档中可能存在例外情况。</p><table><thead><tr><th>日期</th><th>描述</th></tr></thead><tbody><tr><td>2022 年 6 月 28 日</td><td>版本 5.2(5c) 可用。</td></tr></tbody></table><h3 id="思科-ACI-模拟器设备">思科 ACI 模拟器设备</h3><p>Cisco ACI Simulator 设备的目的是在一台物理服务器中提供真正的、功能齐全的 Cisco APIC 软件，以及叶交换机和主干交换机的模拟结构基础设施。您可以使用 Cisco ACI Simulator 设备了解功能、练习 API 并启动与第三方编排系统和应用程序的集成。Cisco APIC 的本机 GUI 和 CLI 使用发布给第三方的相同 API。</p><p>Cisco ACI Simulator 设备包含模拟交换机，因此您无法验证数据路径。但是，一些模拟交换机端口已映射到前面板服务器端口，这允许您连接外部管理实体，例如 ESX 服务器、vCenter、vShield、裸机服务器、第 4 层到第 7 层服务、AAA 系统、和其他物理或虚拟服务设备。此外，Cisco ACI Simulator 设备允许模拟故障和警报，以促进测试和演示功能。</p><p>每台服务器设备将提供一个生产 Cisco APIC 实例。相比之下，Cisco ACI Simulator 设备在单个服务器中包含三个实际 Cisco APIC 实例和两个模拟叶交换机和两个模拟主干交换机。因此，Cisco ACI Simulator 设备的性能将低于实际硬件上的部署。您可以使用以下任何功能接口对模拟结构执行操作：</p><ul><li><p>图形用户界面 (GUI)</p></li><li><p>命令行界面 (CLI)</p></li><li><p>应用程序编程接口（API）</p></li></ul><p>图 1 显示了在模拟器服务器中模拟的组件和连接。</p><p>图 1 Cisco ACI Simulator 设备服务器中的模拟组件和连接</p><p><a href="https://www.cisco.com/c/dam/en/us/td/docs/dcn/aci/apic/5x/release-notes/cisco-aci-simulator-release-notes-525.docx/_jcr_content/renditions/cisco-aci-simulator-release-notes-525_0.jpg"><img src="https://www.cisco.com/c/dam/en/us/td/docs/dcn/aci/apic/5x/release-notes/cisco-aci-simulator-release-notes-525.docx/_jcr_content/renditions/cisco-aci-simulator-release-notes-525_0.jpg" alt="相关图片、图表或屏幕截图"></a></p><h3 id="软件功能">软件功能</h3><p>本部分列出了此版本中可用的 Cisco ACI Simulator 设备的主要软件功能。</p><ul><li><p>以应用为中心的网络策略</p></li><li><p>基于数据模型的声明性供应</p></li><li><p>应用、拓扑监控和故障排除</p></li><li><p>第三方集成（第 4 层到第 7 层服务、WAN、vCenter、vShield）</p></li><li><p>物理基础设施政策（脊和叶）</p></li><li><p>思科 ACI 库存和配置</p></li><li><p>在跨设备集群的分布式框架上实现</p></li><li><p>关键托管对象（租户、应用程序配置文件、交换机等）的运行状况评分</p></li><li><p>故障、事件和性能管理</p></li></ul><h3 id="安装说明">安装说明</h3><p>Cisco ACI Simulator 软件预装在 Cisco ACI Simulator 设备上。首次启动 Cisco ACI Simulator 设备时，Cisco APIC 控制台会显示一系列初始设置选项。请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/3-x/simulator/install_vm/b_Cisco_ACI_Simulator_VM_Install_Guide.html">Cisco ACI Simulator VM 安装指南</a>。</p><p>不支持 ISO 映像。您必须使用 OVA 图像。</p><h3 id="兼容性信息">兼容性信息</h3><p>此版本的 Cisco ACI Simulator 设备支持以下软件：</p><ul><li>有关受支持的 VMware vCenter 和 vShield 版本，请参阅 <a href="https://www.cisco.com/c/dam/en/us/td/docs/Website/datacenter/aci/virtualization/matrix/virtmatrix.html">ACI 虚拟化兼容性</a>。</li><li>Cisco ACI Simulator 设备 GUI 的 Web 浏览器：<ul><li>Mac 和 Windows 上的 Chrome 版本 35（至少）。</li><li>Mac 和 Windows 上的 Firefox 版本 26（至少）。</li></ul></li><li>Cisco ACI Simulator 设备不支持智能许可。</li></ul><h2 id="下载地址-83">下载地址</h2><p>Application Centric Infrastructure Simulator Release 5.2(1g)</p><ul><li>百度网盘链接：<a href="https://pan.baidu.com/s/1m95ut_xxXNfSwF9NSQqh5w">https://pan.baidu.com/s/1m95ut_xxXNfSwF9NSQqh5w</a>  提取码：qdm8</li></ul><p>Application Centric Infrastructure Simulator Release 5.2(5c)</p><ul><li><a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/5x/release-notes/cisco-aci-simulator-release-notes-525.html">Release Notes for 5.2(5c)</a></li></ul><table><thead><tr><th><strong>Image</strong></th><th><strong>FileName</strong></th><th><strong>Release Date</strong></th><th><strong>Size</strong></th></tr></thead><tbody><tr><td>Simulator OVA Image for 5.2(5c) Release - part 1</td><td>acisim-5.2-5c_part1.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 2</td><td>acisim-5.2-5c_part2.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 3</td><td>acisim-5.2-5c_part3.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 4</td><td>acisim-5.2-5c_part4.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 5</td><td>acisim-5.2-5c_part5.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 6</td><td>acisim-5.2-5c_part6.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 7</td><td>acisim-5.2-5c_part7.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 8</td><td>acisim-5.2-5c_part8.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr></tbody></table><ul><li>百度网盘链接：<a href="https://pan.baidu.com/s/1gXINIBY-XVXqgCH3KJGmKg">https://pan.baidu.com/s/1gXINIBY-XVXqgCH3KJGmKg</a>  提取码：tn8v<br>&lt;现已更新完毕&gt;</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>请访问原文链接：<a href="#">Post not found: tcisco-acisim-5itle</a>，查看最新版。原创作品，转载请保留出处。</p><p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p><p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p><hr><h2 id="ACI-Simulator">ACI Simulator</h2><h3 id="介绍">介绍</h3><p>思科以应用为中心的基础设施 (ACI) 被概念化为一个分布式、可扩展、多租户的基础设施，具有通过以应用为中心的策略进行控制和分组的外部端点连接。思科应用策略基础设施控制器 (APIC) 是关键的架构组件，它是思科 ACI 的自动化、管理、监控和可编程性的统一点。Cisco APIC 支持在任何地方部署、管理和监控任何应用程序，并为基础设施的物理和虚拟组件提供统一的操作模型。Cisco APIC 根据应用要求和策略以编程方式自动执行网络配置和控制。它是更广泛的云网络的中央控制引擎，简化了管理，同时在应用程序网络的定义和自动化方式以及提供北向 REST API 方面提供了极大的灵活性。Cisco APIC 是一个分布式系统，实现为许多控制器实例的集群。</p><p>文档提供了在测试此 Cisco ACI 模拟器设备版本时验证的兼容性信息、使用指南和比例值。将此文档与“相关文档”部分中列出的文档结合使用。</p><p>注意：Cisco ACI Simulator 设备服务器在 2019 年 6 月 20 日之后不再销售，如<a href="https://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/application-policy-infrastructure-controller-apic/eos-eol-notice-c51-742143.html">此处</a>所示。对于最近和未来的版本，您可以下载 Cisco ACI Simulator VM，这是一个 OVA 文件，可以安装在任何满足安装要求的服务器上的虚拟机 (VM) 中。</p><p>思科 ACI 模拟器设备 5.2(5) 版本包含与思科应用策略基础设施控制器 (APIC) 5.2(5) 版本相同的功能。有关该功能的信息，请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/5x/release-notes/cisco-apic-release-notes-525.html">思科应用策略基础设施控制器版本说明，版本 5.2(5)</a>。</p><p>有关此产品的更多信息，请参阅“相关内容”。</p><p>注意：本产品的文档集力求使用无偏见的语言。为本文档集的目的，无偏见定义为不暗示基于年龄、残疾、性别、种族认同、民族认同、性取向、社会经济地位和交叉性的歧视的语言。由于产品软件的用户界面中硬编码的语言、基于 RFP 文档使用的语言或引用的第三方产品使用的语言，文档中可能存在例外情况。</p><table><thead><tr><th>日期</th><th>描述</th></tr></thead><tbody><tr><td>2022 年 6 月 28 日</td><td>版本 5.2(5c) 可用。</td></tr></tbody></table><h3 id="思科-ACI-模拟器设备">思科 ACI 模拟器设备</h3><p>Cisco ACI Simulator 设备的目的是在一台物理服务器中提供真正的、功能齐全的 Cisco APIC 软件，以及叶交换机和主干交换机的模拟结构基础设施。您可以使用 Cisco ACI Simulator 设备了解功能、练习 API 并启动与第三方编排系统和应用程序的集成。Cisco APIC 的本机 GUI 和 CLI 使用发布给第三方的相同 API。</p><p>Cisco ACI Simulator 设备包含模拟交换机，因此您无法验证数据路径。但是，一些模拟交换机端口已映射到前面板服务器端口，这允许您连接外部管理实体，例如 ESX 服务器、vCenter、vShield、裸机服务器、第 4 层到第 7 层服务、AAA 系统、和其他物理或虚拟服务设备。此外，Cisco ACI Simulator 设备允许模拟故障和警报，以促进测试和演示功能。</p><p>每台服务器设备将提供一个生产 Cisco APIC 实例。相比之下，Cisco ACI Simulator 设备在单个服务器中包含三个实际 Cisco APIC 实例和两个模拟叶交换机和两个模拟主干交换机。因此，Cisco ACI Simulator 设备的性能将低于实际硬件上的部署。您可以使用以下任何功能接口对模拟结构执行操作：</p><ul><li><p>图形用户界面 (GUI)</p></li><li><p>命令行界面 (CLI)</p></li><li><p>应用程序编程接口（API）</p></li></ul><p>图 1 显示了在模拟器服务器中模拟的组件和连接。</p><p>图 1 Cisco ACI Simulator 设备服务器中的模拟组件和连接</p><p><a href="https://www.cisco.com/c/dam/en/us/td/docs/dcn/aci/apic/5x/release-notes/cisco-aci-simulator-release-notes-525.docx/_jcr_content/renditions/cisco-aci-simulator-release-notes-525_0.jpg"><img src="https://www.cisco.com/c/dam/en/us/td/docs/dcn/aci/apic/5x/release-notes/cisco-aci-simulator-release-notes-525.docx/_jcr_content/renditions/cisco-aci-simulator-release-notes-525_0.jpg" alt="相关图片、图表或屏幕截图"></a></p><h3 id="软件功能">软件功能</h3><p>本部分列出了此版本中可用的 Cisco ACI Simulator 设备的主要软件功能。</p><ul><li><p>以应用为中心的网络策略</p></li><li><p>基于数据模型的声明性供应</p></li><li><p>应用、拓扑监控和故障排除</p></li><li><p>第三方集成（第 4 层到第 7 层服务、WAN、vCenter、vShield）</p></li><li><p>物理基础设施政策（脊和叶）</p></li><li><p>思科 ACI 库存和配置</p></li><li><p>在跨设备集群的分布式框架上实现</p></li><li><p>关键托管对象（租户、应用程序配置文件、交换机等）的运行状况评分</p></li><li><p>故障、事件和性能管理</p></li></ul><h3 id="安装说明">安装说明</h3><p>Cisco ACI Simulator 软件预装在 Cisco ACI Simulator 设备上。首次启动 Cisco ACI Simulator 设备时，Cisco APIC 控制台会显示一系列初始设置选项。请参阅 <a href="https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/3-x/simulator/install_vm/b_Cisco_ACI_Simulator_VM_Install_Guide.html">Cisco ACI Simulator VM 安装指南</a>。</p><p>不支持 ISO 映像。您必须使用 OVA 图像。</p><h3 id="兼容性信息">兼容性信息</h3><p>此版本的 Cisco ACI Simulator 设备支持以下软件：</p><ul><li>有关受支持的 VMware vCenter 和 vShield 版本，请参阅 <a href="https://www.cisco.com/c/dam/en/us/td/docs/Website/datacenter/aci/virtualization/matrix/virtmatrix.html">ACI 虚拟化兼容性</a>。</li><li>Cisco ACI Simulator 设备 GUI 的 Web 浏览器：<ul><li>Mac 和 Windows 上的 Chrome 版本 35（至少）。</li><li>Mac 和 Windows 上的 Firefox 版本 26（至少）。</li></ul></li><li>Cisco ACI Simulator 设备不支持智能许可。</li></ul><h2 id="下载地址-84">下载地址</h2><p>Application Centric Infrastructure Simulator Release 5.2(1g)</p><ul><li>百度网盘链接：<a href="https://pan.baidu.com/s/1m95ut_xxXNfSwF9NSQqh5w">https://pan.baidu.com/s/1m95ut_xxXNfSwF9NSQqh5w</a>  提取码：qdm8</li></ul><p>Application Centric Infrastructure Simulator Release 5.2(5c)</p><ul><li><a href="https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/5x/release-notes/cisco-aci-simulator-release-notes-525.html">Release Notes for 5.2(5c)</a></li></ul><table><thead><tr><th><strong>Image</strong></th><th><strong>FileName</strong></th><th><strong>Release Date</strong></th><th><strong>Size</strong></th></tr></thead><tbody><tr><td>Simulator OVA Image for 5.2(5c) Release - part 1</td><td>acisim-5.2-5c_part1.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 2</td><td>acisim-5.2-5c_part2.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 3</td><td>acisim-5.2-5c_part3.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 4</td><td>acisim-5.2-5c_part4.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 5</td><td>acisim-5.2-5c_part5.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 6</td><td>acisim-5.2-5c_part6.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 7</td><td>acisim-5.2-5c_part7.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr><tr><td>Simulator OVA Image for 5.2(5c) Release - part 8</td><td>acisim-5.2-5c_part8.ova</td><td>22-Jun-2022</td><td>12167.64 MB</td></tr></tbody></table><ul><li>百度网盘链接：<a href="https://pan.baidu.com/s/1gXINIBY-XVXqgCH3KJGmKg">https://pan.baidu.com/s/1gXINIBY-XVXqgCH3KJGmKg</a>  提取码：tn8v<br>&lt;现已更新完毕&gt;</li></ul>]]></content>
     
     
       
@@ -393,23 +393,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
+    <category term="NX-OS" scheme="https://sysin.cn/tags/NX-OS/"/>
     
   </entry>
   
   <entry>
     <title>VMware Cloud Director 10.4 - 云计算调配和管理平台</title>
-    <link href="https://sysin.org/blog/vmware-cloud-director-10/"/>
-    <id>https://sysin.org/blog/vmware-cloud-director-10/</id>
+    <link href="https://sysin.cn/blog/vmware-cloud-director-10/"/>
+    <id>https://sysin.cn/blog/vmware-cloud-director-10/</id>
     <published>2022-07-15T23:00:18.000Z</published>
     <updated>2022-07-16T00:16:58.000Z</updated>
     
@@ -423,19 +423,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="Cloud" scheme="https://sysin.org/tags/Cloud/"/>
+    <category term="Cloud" scheme="https://sysin.cn/tags/Cloud/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware vRealize Suite 8 - 多云环境的云计算管理解决方案</title>
-    <link href="https://sysin.org/blog/vmware-vrealize-8/"/>
-    <id>https://sysin.org/blog/vmware-vrealize-8/</id>
+    <link href="https://sysin.cn/blog/vmware-vrealize-8/"/>
+    <id>https://sysin.cn/blog/vmware-vrealize-8/</id>
     <published>2022-07-15T22:35:30.000Z</published>
     <updated>2022-07-18T15:14:06.000Z</updated>
     
@@ -449,19 +449,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vRealize" scheme="https://sysin.org/tags/vRealize/"/>
+    <category term="vRealize" scheme="https://sysin.cn/tags/vRealize/"/>
     
   </entry>
   
   <entry>
     <title>vRealize Automation SaltStack Config 8.8 - vRealize Automation 的软件配置管理与安全性</title>
-    <link href="https://sysin.org/blog/vmware-vra-ssc-8-8/"/>
-    <id>https://sysin.org/blog/vmware-vra-ssc-8-8/</id>
+    <link href="https://sysin.cn/blog/vmware-vra-ssc-8-8/"/>
+    <id>https://sysin.cn/blog/vmware-vra-ssc-8-8/</id>
     <published>2022-07-15T11:30:03.000Z</published>
     <updated>2022-07-18T15:15:51.000Z</updated>
     
@@ -475,19 +475,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vRealize" scheme="https://sysin.org/tags/vRealize/"/>
+    <category term="vRealize" scheme="https://sysin.cn/tags/vRealize/"/>
     
   </entry>
   
   <entry>
     <title>VMware vRealize Automation 8.8 - 现代基础架构自动化</title>
-    <link href="https://sysin.org/blog/vmware-vra-8-8/"/>
-    <id>https://sysin.org/blog/vmware-vra-8-8/</id>
+    <link href="https://sysin.cn/blog/vmware-vra-8-8/"/>
+    <id>https://sysin.cn/blog/vmware-vra-8-8/</id>
     <published>2022-07-15T07:36:09.000Z</published>
     <updated>2022-07-18T15:16:10.000Z</updated>
     
@@ -501,19 +501,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vRealize" scheme="https://sysin.org/tags/vRealize/"/>
+    <category term="vRealize" scheme="https://sysin.cn/tags/vRealize/"/>
     
   </entry>
   
   <entry>
     <title>Rocky Linux 9 (x86_64, aarch64, ppc64le, s390x) - RHEL 下游免费发行版</title>
-    <link href="https://sysin.org/blog/rocky-linux-9/"/>
-    <id>https://sysin.org/blog/rocky-linux-9/</id>
+    <link href="https://sysin.cn/blog/rocky-linux-9/"/>
+    <id>https://sysin.cn/blog/rocky-linux-9/</id>
     <published>2022-07-15T01:05:00.000Z</published>
     <updated>2022-07-15T03:27:32.000Z</updated>
     
@@ -527,27 +527,27 @@
     
     
     
-    <category term="Linux" scheme="https://sysin.org/categories/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="CentOS" scheme="https://sysin.org/tags/CentOS/"/>
+    <category term="CentOS" scheme="https://sysin.cn/tags/CentOS/"/>
     
-    <category term="RHEL" scheme="https://sysin.org/tags/RHEL/"/>
+    <category term="RHEL" scheme="https://sysin.cn/tags/RHEL/"/>
     
-    <category term="RockyLinux" scheme="https://sysin.org/tags/RockyLinux/"/>
+    <category term="RockyLinux" scheme="https://sysin.cn/tags/RockyLinux/"/>
     
   </entry>
   
   <entry>
     <title>Zerto 9.5 U1 过渡到 Linux 以减少攻击面</title>
-    <link href="https://sysin.org/blog/zerto-9/"/>
-    <id>https://sysin.org/blog/zerto-9/</id>
+    <link href="https://sysin.cn/blog/zerto-9/"/>
+    <id>https://sysin.cn/blog/zerto-9/</id>
     <published>2022-07-14T07:06:00.000Z</published>
     <updated>2022-07-14T08:49:12.000Z</updated>
     
-    <content type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/zerto-9/" title="Zerto 9.5 U1 过渡到 Linux 以减少攻击面">Zerto 9.5 U1 过渡到 Linux 以减少攻击面</a>，查看最新版。原创作品，转载请保留出处。</p><p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p><p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p><hr><p><img src="https://www.zerto.com/wp-content/uploads/2021/09/HPEZerto_Logo_100x50.svg" alt="Zerto Logo"></p><p>最新版本的 Zerto 9.5 U1 开始向更安全的 Linux 设备过渡。在第一个版本中过渡尚未完成，因此已经在使用 Zerto 的客户还不能迁移到 Linux。从 Windows 迁移将在即将发布的版本中提供。</p><p>这个新版本还为客户门户网站、MyZerto 和 Zerto Analytics 带来了新的基于角色的访问控制 (RBAC) 和多因素身份验证 (MFA)，以及复制设备更新和对组件之间 SSH 通信的更精细控制。</p><p>Zerto 的复制和备份解决方案与其他备份供应商有很大不同。它 <strong>不使用管理程序的快照</strong> 进行备份或复制。</p><p><strong>Zerto 的设备 (VRA) 能够利用虚拟机的 IO 流，与传统的管理程序快照相比，不会导致开销或性能问题</strong>。它从特定 VM 捕获 IO 并将其复制到远程站点，日志系统将这些数据排序最多 30 天。</p><p>Zerto 使用 Elastic Journal 允许您短期和长期保留您的虚拟机。弹性日志是一个连续的恢复点流，可从 7 秒到多年的任何时间点跨数据、文件或虚拟机进行搜索和恢复。</p><h2 id="Zerto-9-5-U1-有什么新功能？">Zerto 9.5 U1 有什么新功能？</h2><p>Zerto 是一款功能强大的 DR 解决方案，易于设置、测试和使用。您还可以使用 Zerto 在数据中心和云提供商之间迁移我们的虚拟机。</p><p>免费保护 10 台虚拟机 – <strong><a href="https://www.zerto.com/page/get-out-of-ransomware-jail">链接</a></strong>。</p><ul><li><p>数据保护——本地持续备份和长期保留</p><p><strong>增强的文件级还原体验</strong> ——您现在可以选择您的来源（期刊或存储库），选择一个时间点和要还原的虚拟机，然后浏览要还原的文件和文件夹，所有这些都来自一个统一的简化还原向导。</p><p>适用于 Linux 的即时文件还原 – 您现在可以将 Linux 文件执行文件级还原到运行 Linux 的生产 VM。以前仅支持 Windows 文件和 VM 将文件还原到生产 VM。</p><p>从复制中排除磁盘 – 现在可以通过 Zerto 连续数据保护将虚拟机磁盘卷从复制中排除。</p></li><li><p>长期保留 - 存储库</p><p>可以通过 REST API 创建和管理长期保留存储库。</p><p><strong>新的不变性选项</strong> ——Microsoft Azure Blob 存储现在是用户直接从 Zerto 界面创建和管理不可变数据副本的目的地，以增加对修改或删除的保护。</p><p>Zerto 正在扩展对第三方 S3 兼容存储的不变性的支持和管理。</p><p><strong>Scratch Journal 设置</strong> - 由于 Journal 和 Scratch Journal 用于不同的目的并且有不同的要求，因此它们现在具有独立的设置。您现在可以选择专用数据存储并为暂存日志设置硬限制。</p><p><strong>Zerto 登录横幅</strong> - 引入了自定义登录横幅，为组织提供可自定义的安全通知，以便在访问受限系统时提供指导。</p><p><strong>恢复 VRA 弹性</strong> ——提高了在包含 VRA 的 ESXi 主机上发生硬件故障时的弹性，可以重新配置 Zerto 以继续在集群中幸存的 ESXi 主机上执行复制和数据保护任务。</p><p><strong>Linux 网络管理器对 Re-IP 的</strong> 支持——为使用 bash 和网络管理器的较新版本的 Linux 添加了对 Re-IP 的支持，包括 Ubuntu、RedHat、CentOS、Debian、Suse 和 Oracle。</p><p><strong>虚拟复制设备</strong> ——在 Debian 9 上运行的虚拟复制设备已升级到 Debian 11，其中包括安全合规性所需的安全补丁。</p></li></ul><h2 id="Linux-设备常见问题解答">Linux 设备常见问题解答</h2><p>由于 Linux 设备非常新，这里是 Zerto 网站的常见问题解答。</p><ul><li><p>它是什么/正在发射什么？</p><p>Zerto 正在启动一个 Zerto 虚拟管理器，它在安全的 Linux 操作系统而不是 Windows 上运行。</p></li><li><p>我为什么在乎？</p><p>Linux ZVM 允许客户最小化与 Zerto 相关的攻击面。该设备不运行其他服务，只需要公开 Zerto Web 界面。</p></li><li><p>我该如何开始？</p><p>如果您是 Zerto 的新客户，您只需下载 OVF 模板文件并通过 VMware 进行部署。对于现有客户，从 Windows 迁移到 Linux 上的 ZVM 将在即将发布的版本中提供。</p></li><li><p>我是否需要熟悉 Linux 才能使用 Linux ZVM？</p><p>Linux ZVM 不需要比 Linux vCenter Server Appliance 更多的工作。如果您熟悉 vCenter，您将能够管理 Linux ZVM。所有日常 Zerto 管理功能都通过 Web 界面实现。</p></li><li><p>是否支持 Hyper-V？</p><p>Linux ZVM 仅支持 VMware vSphere 7.0 和更新的环境。</p></li><li><p>我可以将 Linux ZVM 与 Windows ZVM 或 Cloud ZCA 配对吗？</p><p>目前不支持异构配对，但将在 Zerto 的未来版本中添加。Linux ZVM 9.5 U1 版本仅支持 Linux ZVM 到 Linux ZVM 站点配对。</p></li><li><p>Linux ZVM 是否具有与 Windows ZVM 相同的功能？</p><p>Linux ZVM 9.5 U1 版本具有部分功能。请参阅 <a href="https://help.zerto.com/bundle/Linux.ZVM.HTML/page/Content/Intro/Book_in_Portal_-_Prerequisite_for_ZVM_Linux.htm">Linux 上的 ZVM：要求、支持的功能和配置</a>。</p></li></ul><p>ESX 虚拟化博客上有关 Zerto 的更多信息</p><ul><li><a href="https://www.vladan.fr/zerto-virtual-replication-9-adds-immutability-and-instant-restore-from-long-term-retention-repository/">Zerto Virtual Replication 9 增加了从长期保留存储库中的不变性和即时还原</a></li><li><a href="https://www.vladan.fr/zerto-7-5-with-elastic-journal-and-long-term-retention-restore-a-vm-20-years-old/">Zerto Elastic Journal 和长期保留 – 恢复 20 年前的虚拟机？</a></li><li><a href="https://www.vladan.fr/zerto-8-5-new-release-with-kubernetes-support/">支持 Kubernetes 的 Zerto 8.5 新版本</a></li><li><a href="https://www.vladan.fr/what-is-zerto-elastic-journal/">什么是 Zerto 弹性期刊？</a></li><li><a href="https://www.vladan.fr/zerto-7-intelligent-index-and-search-capabilities/">Zerto 智能索引和搜索功能</a></li></ul><h2 id="保护您的所有数据。所有的时间">保护您的所有数据。所有的时间</h2><p>一种针对本地和云的灾难恢复、备份和数据移动性的持续软件体验</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-b51815179901fa171de88358f004fb98-105x38x0x0x105x38x1612401744.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-8eef796a6507608bddfe31644612ab56-120x34x0x0x120x34x1612401744.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-232677f43bea7a9b74be1826011892a3-123x27x0x0x123x27x1612401744.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-bf05083bf746226b9e718b95c8a9233d-112x22x0x0x112x22x1612401744.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-be71de9ab7c161745858e776bf37b5a4-113x36x0x0x113x36x1612401745.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-39e9cff03350c3437a7fe2a0f72a9c3c-132x24x0x0x131x24x1612401745.png" alt="img"></p><ul><li>Zerto 在行动：用于 DR 和迁移的 CDP 技术概述</li></ul><p>在这个点播会议中， 深入了解 Zerto 的工作原理及其独特的功能，例如 CDP、日志技术等等！</p><ul><li>ESG：勒索软件防范的漫漫长路</li></ul><p>了解公司需要如何超越预防技术并着眼于更全面的备份保护。</p><ul><li>Zerto 发布：多云世界中的勒索软件恢复</li></ul><p><strong>新的！</strong> Zerto 通过恢复、安全和多平台支持的关键增强功能，将勒索软件的弹性提升到一个新的水平。在几分钟内大规模恢复。</p><h2 id="让-IT-生活更轻松">让 IT 生活更轻松</h2><p>自动化灾难恢复、备份和数据移动性，帮助您实现 IT 目标。</p><ul><li><p>停机会给您造成多少损失？</p></li><li><p>你能省多少钱？</p></li></ul><p>时间</p><p><strong>消除</strong> 恢复、迁移、故障转移和测试的手动流程。<strong>加快</strong> 您的 IT 计划并专注于业务需求。</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-91432d2b0c7145fea62f5946a31cc16c-339x62x0x0x339x62x1612401746.png" alt="img"></p><p>资源</p><p><strong>自动化</strong> 和 <strong>简化</strong> 备份、灾难恢复和迁移操作， <strong>腾出时间</strong> 专注于组织的下一步工作。</p><p>成本</p><p><strong>整合</strong> 使用单一的纯软件平台 <strong>节省</strong> 高达 50% 的 TCO，最大限度地减少对硬件的需求，并轻松采用经济高效的云。</p><h2 id="Zerto-平台：消除数据丢失和停机时间">Zerto 平台：消除数据丢失和停机时间</h2><p>持续大规模地保护、移动和恢复企业应用程序和数据到任何云、从任何云中迁移和恢复。</p><ul><li><p>持续数据保护</p><p>最快的 RPO 和 RTO，具有永远在线的复制、应用程序恢复和基于日志的恢复。没有更多的快照。</p></li><li><p>编排与自动化</p><p>只需单击几下即可进行故障转移、移动和测试，而不会影响生产。自动化测试和合规性报告，并执行无缝迁移。</p></li><li><p>分析</p><p>为工作负载规划获得强大的监控和可见性。自信地监控恢复 SLA，同时预测未来对另一个站点或云的基础架构需求。</p></li></ul><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/HP_Homepage_GUI-920x940x0x0x920x940x1627922157.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/Pills-easy-setup-252x47x0x1x252x46x1621258264.png" alt="img"></p><h2 id="大规模的简单性">大规模的简单性</h2><p>通过跨本地和云的一种体验和界面轻松实施、部署和管理数千个虚拟机。</p><p>与关键平台集成</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-93c599a1cc35ed10ce7ac13d6cd3e469-347x161x0x1x347x158x1612401750.png" alt="img"></p><ul><li>与您现有的基础设施轻松集成</li></ul><p>灵活地适应任何基础设施 <strong>纯软件方法</strong>。没有 <strong>供应商锁定</strong>，也不需要额外的硬件或设备。</p><ul><li>自动化、无中断</li></ul><p><strong>无中断</strong> DR 测试，并提供现成的 <strong>合规性</strong> 报告。</p><ul><li>私有云、混合云和多云</li></ul><p><strong>扩展</strong> 构建的 <strong>企业</strong> 架构具有无缝的基础架构移动性和自动化配置，旨在 <strong>最大限度地提高可用性</strong> 并最大限度地减少数据丢失。</p><p>一个平台，多个用例</p><p>灾难恢复、备份、数据移动和迁移。此外，Zerto 的平台在数据中心整合、云迁移和通过按需测试和开发沙箱重用数据方面是一流的。</p><p>98%</p><p>恢复时间的改善</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-05f08883610465f0e425329c736e1d09-126x38x0x0x126x38x1612401752.png" alt="img"></p><p>5分钟</p><p>全面系统恢复</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/Grey-County-111x49x0x0x111x49x1614048524.png" alt="img"></p><p>50%</p><p>节约成本</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/MicrosoftTeams-image-56-170x42x0x0x170x41x1629757573.png" alt="img"></p><p>50%</p><p>减少 DR 测试的时间</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-bf05083bf746226b9e718b95c8a9233d-139x27x1x0x137x27x1612401744.png" alt="img"></p><h2 id="下载地址-398">下载地址</h2><blockquote><p>官网当前提供的下载仍然是 Windows 解决方案，我们期待 Zerto 10 的发布，彻底抛弃巨硬。</p></blockquote><p>Zerto 9.5</p><p>百度网盘链接：<a href="https://pan.baidu.com/s/1LnFZKwK-nWFSY7EtiZRmgQ">https://pan.baidu.com/s/1LnFZKwK-nWFSY7EtiZRmgQ</a>  提取码：6tph</p>]]></content>
+    <content type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/zerto-9/" title="Zerto 9.5 U1 过渡到 Linux 以减少攻击面">Zerto 9.5 U1 过渡到 Linux 以减少攻击面</a>，查看最新版。原创作品，转载请保留出处。</p><p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p><p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p><hr><p><img src="https://www.zerto.com/wp-content/uploads/2021/09/HPEZerto_Logo_100x50.svg" alt="Zerto Logo"></p><p>最新版本的 Zerto 9.5 U1 开始向更安全的 Linux 设备过渡。在第一个版本中过渡尚未完成，因此已经在使用 Zerto 的客户还不能迁移到 Linux。从 Windows 迁移将在即将发布的版本中提供。</p><p>这个新版本还为客户门户网站、MyZerto 和 Zerto Analytics 带来了新的基于角色的访问控制 (RBAC) 和多因素身份验证 (MFA)，以及复制设备更新和对组件之间 SSH 通信的更精细控制。</p><p>Zerto 的复制和备份解决方案与其他备份供应商有很大不同。它 <strong>不使用管理程序的快照</strong> 进行备份或复制。</p><p><strong>Zerto 的设备 (VRA) 能够利用虚拟机的 IO 流，与传统的管理程序快照相比，不会导致开销或性能问题</strong>。它从特定 VM 捕获 IO 并将其复制到远程站点，日志系统将这些数据排序最多 30 天。</p><p>Zerto 使用 Elastic Journal 允许您短期和长期保留您的虚拟机。弹性日志是一个连续的恢复点流，可从 7 秒到多年的任何时间点跨数据、文件或虚拟机进行搜索和恢复。</p><h2 id="Zerto-9-5-U1-有什么新功能？">Zerto 9.5 U1 有什么新功能？</h2><p>Zerto 是一款功能强大的 DR 解决方案，易于设置、测试和使用。您还可以使用 Zerto 在数据中心和云提供商之间迁移我们的虚拟机。</p><p>免费保护 10 台虚拟机 – <strong><a href="https://www.zerto.com/page/get-out-of-ransomware-jail">链接</a></strong>。</p><ul><li><p>数据保护——本地持续备份和长期保留</p><p><strong>增强的文件级还原体验</strong> ——您现在可以选择您的来源（期刊或存储库），选择一个时间点和要还原的虚拟机，然后浏览要还原的文件和文件夹，所有这些都来自一个统一的简化还原向导。</p><p>适用于 Linux 的即时文件还原 – 您现在可以将 Linux 文件执行文件级还原到运行 Linux 的生产 VM。以前仅支持 Windows 文件和 VM 将文件还原到生产 VM。</p><p>从复制中排除磁盘 – 现在可以通过 Zerto 连续数据保护将虚拟机磁盘卷从复制中排除。</p></li><li><p>长期保留 - 存储库</p><p>可以通过 REST API 创建和管理长期保留存储库。</p><p><strong>新的不变性选项</strong> ——Microsoft Azure Blob 存储现在是用户直接从 Zerto 界面创建和管理不可变数据副本的目的地，以增加对修改或删除的保护。</p><p>Zerto 正在扩展对第三方 S3 兼容存储的不变性的支持和管理。</p><p><strong>Scratch Journal 设置</strong> - 由于 Journal 和 Scratch Journal 用于不同的目的并且有不同的要求，因此它们现在具有独立的设置。您现在可以选择专用数据存储并为暂存日志设置硬限制。</p><p><strong>Zerto 登录横幅</strong> - 引入了自定义登录横幅，为组织提供可自定义的安全通知，以便在访问受限系统时提供指导。</p><p><strong>恢复 VRA 弹性</strong> ——提高了在包含 VRA 的 ESXi 主机上发生硬件故障时的弹性，可以重新配置 Zerto 以继续在集群中幸存的 ESXi 主机上执行复制和数据保护任务。</p><p><strong>Linux 网络管理器对 Re-IP 的</strong> 支持——为使用 bash 和网络管理器的较新版本的 Linux 添加了对 Re-IP 的支持，包括 Ubuntu、RedHat、CentOS、Debian、Suse 和 Oracle。</p><p><strong>虚拟复制设备</strong> ——在 Debian 9 上运行的虚拟复制设备已升级到 Debian 11，其中包括安全合规性所需的安全补丁。</p></li></ul><h2 id="Linux-设备常见问题解答">Linux 设备常见问题解答</h2><p>由于 Linux 设备非常新，这里是 Zerto 网站的常见问题解答。</p><ul><li><p>它是什么/正在发射什么？</p><p>Zerto 正在启动一个 Zerto 虚拟管理器，它在安全的 Linux 操作系统而不是 Windows 上运行。</p></li><li><p>我为什么在乎？</p><p>Linux ZVM 允许客户最小化与 Zerto 相关的攻击面。该设备不运行其他服务，只需要公开 Zerto Web 界面。</p></li><li><p>我该如何开始？</p><p>如果您是 Zerto 的新客户，您只需下载 OVF 模板文件并通过 VMware 进行部署。对于现有客户，从 Windows 迁移到 Linux 上的 ZVM 将在即将发布的版本中提供。</p></li><li><p>我是否需要熟悉 Linux 才能使用 Linux ZVM？</p><p>Linux ZVM 不需要比 Linux vCenter Server Appliance 更多的工作。如果您熟悉 vCenter，您将能够管理 Linux ZVM。所有日常 Zerto 管理功能都通过 Web 界面实现。</p></li><li><p>是否支持 Hyper-V？</p><p>Linux ZVM 仅支持 VMware vSphere 7.0 和更新的环境。</p></li><li><p>我可以将 Linux ZVM 与 Windows ZVM 或 Cloud ZCA 配对吗？</p><p>目前不支持异构配对，但将在 Zerto 的未来版本中添加。Linux ZVM 9.5 U1 版本仅支持 Linux ZVM 到 Linux ZVM 站点配对。</p></li><li><p>Linux ZVM 是否具有与 Windows ZVM 相同的功能？</p><p>Linux ZVM 9.5 U1 版本具有部分功能。请参阅 <a href="https://help.zerto.com/bundle/Linux.ZVM.HTML/page/Content/Intro/Book_in_Portal_-_Prerequisite_for_ZVM_Linux.htm">Linux 上的 ZVM：要求、支持的功能和配置</a>。</p></li></ul><p>ESX 虚拟化博客上有关 Zerto 的更多信息</p><ul><li><a href="https://www.vladan.fr/zerto-virtual-replication-9-adds-immutability-and-instant-restore-from-long-term-retention-repository/">Zerto Virtual Replication 9 增加了从长期保留存储库中的不变性和即时还原</a></li><li><a href="https://www.vladan.fr/zerto-7-5-with-elastic-journal-and-long-term-retention-restore-a-vm-20-years-old/">Zerto Elastic Journal 和长期保留 – 恢复 20 年前的虚拟机？</a></li><li><a href="https://www.vladan.fr/zerto-8-5-new-release-with-kubernetes-support/">支持 Kubernetes 的 Zerto 8.5 新版本</a></li><li><a href="https://www.vladan.fr/what-is-zerto-elastic-journal/">什么是 Zerto 弹性期刊？</a></li><li><a href="https://www.vladan.fr/zerto-7-intelligent-index-and-search-capabilities/">Zerto 智能索引和搜索功能</a></li></ul><h2 id="保护您的所有数据。所有的时间">保护您的所有数据。所有的时间</h2><p>一种针对本地和云的灾难恢复、备份和数据移动性的持续软件体验</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-b51815179901fa171de88358f004fb98-105x38x0x0x105x38x1612401744.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-8eef796a6507608bddfe31644612ab56-120x34x0x0x120x34x1612401744.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-232677f43bea7a9b74be1826011892a3-123x27x0x0x123x27x1612401744.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-bf05083bf746226b9e718b95c8a9233d-112x22x0x0x112x22x1612401744.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-be71de9ab7c161745858e776bf37b5a4-113x36x0x0x113x36x1612401745.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-39e9cff03350c3437a7fe2a0f72a9c3c-132x24x0x0x131x24x1612401745.png" alt="img"></p><ul><li>Zerto 在行动：用于 DR 和迁移的 CDP 技术概述</li></ul><p>在这个点播会议中， 深入了解 Zerto 的工作原理及其独特的功能，例如 CDP、日志技术等等！</p><ul><li>ESG：勒索软件防范的漫漫长路</li></ul><p>了解公司需要如何超越预防技术并着眼于更全面的备份保护。</p><ul><li>Zerto 发布：多云世界中的勒索软件恢复</li></ul><p><strong>新的！</strong> Zerto 通过恢复、安全和多平台支持的关键增强功能，将勒索软件的弹性提升到一个新的水平。在几分钟内大规模恢复。</p><h2 id="让-IT-生活更轻松">让 IT 生活更轻松</h2><p>自动化灾难恢复、备份和数据移动性，帮助您实现 IT 目标。</p><ul><li><p>停机会给您造成多少损失？</p></li><li><p>你能省多少钱？</p></li></ul><p>时间</p><p><strong>消除</strong> 恢复、迁移、故障转移和测试的手动流程。<strong>加快</strong> 您的 IT 计划并专注于业务需求。</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-91432d2b0c7145fea62f5946a31cc16c-339x62x0x0x339x62x1612401746.png" alt="img"></p><p>资源</p><p><strong>自动化</strong> 和 <strong>简化</strong> 备份、灾难恢复和迁移操作， <strong>腾出时间</strong> 专注于组织的下一步工作。</p><p>成本</p><p><strong>整合</strong> 使用单一的纯软件平台 <strong>节省</strong> 高达 50% 的 TCO，最大限度地减少对硬件的需求，并轻松采用经济高效的云。</p><h2 id="Zerto-平台：消除数据丢失和停机时间">Zerto 平台：消除数据丢失和停机时间</h2><p>持续大规模地保护、移动和恢复企业应用程序和数据到任何云、从任何云中迁移和恢复。</p><ul><li><p>持续数据保护</p><p>最快的 RPO 和 RTO，具有永远在线的复制、应用程序恢复和基于日志的恢复。没有更多的快照。</p></li><li><p>编排与自动化</p><p>只需单击几下即可进行故障转移、移动和测试，而不会影响生产。自动化测试和合规性报告，并执行无缝迁移。</p></li><li><p>分析</p><p>为工作负载规划获得强大的监控和可见性。自信地监控恢复 SLA，同时预测未来对另一个站点或云的基础架构需求。</p></li></ul><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/HP_Homepage_GUI-920x940x0x0x920x940x1627922157.png" alt="img"></p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/Pills-easy-setup-252x47x0x1x252x46x1621258264.png" alt="img"></p><h2 id="大规模的简单性">大规模的简单性</h2><p>通过跨本地和云的一种体验和界面轻松实施、部署和管理数千个虚拟机。</p><p>与关键平台集成</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-93c599a1cc35ed10ce7ac13d6cd3e469-347x161x0x1x347x158x1612401750.png" alt="img"></p><ul><li>与您现有的基础设施轻松集成</li></ul><p>灵活地适应任何基础设施 <strong>纯软件方法</strong>。没有 <strong>供应商锁定</strong>，也不需要额外的硬件或设备。</p><ul><li>自动化、无中断</li></ul><p><strong>无中断</strong> DR 测试，并提供现成的 <strong>合规性</strong> 报告。</p><ul><li>私有云、混合云和多云</li></ul><p><strong>扩展</strong> 构建的 <strong>企业</strong> 架构具有无缝的基础架构移动性和自动化配置，旨在 <strong>最大限度地提高可用性</strong> 并最大限度地减少数据丢失。</p><p>一个平台，多个用例</p><p>灾难恢复、备份、数据移动和迁移。此外，Zerto 的平台在数据中心整合、云迁移和通过按需测试和开发沙箱重用数据方面是一流的。</p><p>98%</p><p>恢复时间的改善</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-05f08883610465f0e425329c736e1d09-126x38x0x0x126x38x1612401752.png" alt="img"></p><p>5分钟</p><p>全面系统恢复</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/Grey-County-111x49x0x0x111x49x1614048524.png" alt="img"></p><p>50%</p><p>节约成本</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/MicrosoftTeams-image-56-170x42x0x0x170x41x1629757573.png" alt="img"></p><p>50%</p><p>减少 DR 测试的时间</p><p><img src="https://www.zerto.com/wp-content/uploads/brizy/imgs/wp-bf05083bf746226b9e718b95c8a9233d-139x27x1x0x137x27x1612401744.png" alt="img"></p><h2 id="下载地址-399">下载地址</h2><blockquote><p>官网当前提供的下载仍然是 Windows 解决方案，我们期待 Zerto 10 的发布，彻底抛弃巨硬。</p></blockquote><p>Zerto 9.5</p><p>百度网盘链接：<a href="https://pan.baidu.com/s/1LnFZKwK-nWFSY7EtiZRmgQ">https://pan.baidu.com/s/1LnFZKwK-nWFSY7EtiZRmgQ</a>  提取码：6tph</p>]]></content>
     
     
       
@@ -558,12 +558,12 @@
     
     
     
-    <category term="Download" scheme="https://sysin.org/categories/Download/"/>
+    <category term="Download" scheme="https://sysin.cn/categories/Download/"/>
     
     
-    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
+    <category term="Backup" scheme="https://sysin.cn/tags/Backup/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
