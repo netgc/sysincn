@@ -252,6 +252,17 @@
           
           
           <li>
+            <a href="/donate/">
+              
+              捐助
+              
+              
+            </a>
+          </li>
+          
+          
+          
+          <li>
             <a href="/categories/">
               
               分类
@@ -266,17 +277,6 @@
             <a href="/tags/">
               
               标签
-              
-              
-            </a>
-          </li>
-          
-          
-          
-          <li>
-            <a href="/donate/">
-              
-              捐助
               
               
             </a>
@@ -469,19 +469,23 @@
 <p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
-<h2 id="1-下载"><a href="#1-下载" class="headerlink" title="1. 下载"></a>1. 下载</h2><p>下载 macOS Big Sur：<a href="https://sysin.org/blog/macOS-Big-Sur/">https://sysin.org/blog/macOS-Big-Sur/</a></p>
+<h2 id="1-下载">1. 下载</h2>
+<p>下载 macOS Big Sur：<a href="https://sysin.org/blog/macOS-Big-Sur/">https://sysin.org/blog/macOS-Big-Sur/</a></p>
 <p>下载 Nessus：<a href="https://sysin.org/blog/nessus-10/">https://sysin.org/blog/nessus-10/</a></p>
 <p>下载插件：<a href="https://sysin.org/blog/nessus-10/">https://sysin.org/blog/nessus-10/</a></p>
 <p>下载最新版本的插件：</p>
 <ul>
-<li><p>官网下载（需要许可）：<a target="_blank" rel="noopener" href="https://plugins.nessus.org/v2/offline.php">Nessus offline Page</a></p>
+<li>
+<p>官网下载（需要许可）：<a target="_blank" rel="noopener" href="https://plugins.nessus.org/v2/offline.php">Nessus offline Page</a></p>
 <p><a target="_blank" rel="noopener" href="https://www.tenable.com/products/nessus/nessus-essentials">注册获得免费许可 Nessus® Essentials（原名 Nessus Home）</a>，只需要姓名和邮件地址，会收到激活码，然后访问上述页面可以免费下载插件。</p>
 </li>
 </ul>
-<h2 id="2-安装"><a href="#2-安装" class="headerlink" title="2. 安装"></a>2. 安装</h2><p>下载的 dmg 文件打开后是一个 pkg 安装包，双击直接下一步即可。</p>
+<h2 id="2-安装">2. 安装</h2>
+<p>下载的 dmg 文件打开后是一个 pkg 安装包，双击直接下一步即可。</p>
 <p>也可以使用命令完成安装：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">sudo hdiutil attach Nessus-&lt;Nessus_Version&gt;.dmg</span><br><span class="line">sudo installer -package /Volumes/Nessus\ Install/Install\ Nessus.pkg -target /</span><br><span class="line">sudo hdiutil detach /Volumes/Nessus\ Install</span><br></pre></td></tr></table></figure>
-<h2 id="3-初始化登录"><a href="#3-初始化登录" class="headerlink" title="3. 初始化登录"></a>3. 初始化登录</h2><p>（1）启动服务</p>
+<h2 id="3-初始化登录">3. 初始化登录</h2>
+<p>（1）启动服务</p>
 <p>默认已经启动并且自动启动，在 “ -&gt; 系统偏好设置…” 中点击 Nessus 图标，可以停止和启动服务以及设置是否自动启动。</p>
 <p>或者使用以下命令：</p>
 <ul>
@@ -491,7 +495,7 @@
 <p>（2）使用浏览器访问：<code>https://&lt;IP-or-FQDN&gt;:8834</code>，注意忽略证书警告</p>
 <p>（3）选择 “Managed Scanner”</p>
 <p><img src="nessus-01.webp" alt="nessus-01"></p>
-<p>（4）选择 “Tenable.sc”</p>
+<p>（4）选择 “<a target="_blank" rel="noopener" href="http://Tenable.sc">Tenable.sc</a>”</p>
 <p><img src="nessus-02.webp" alt="nessus-02"></p>
 <p>（5）创建管理员帐号和密码</p>
 <p><img src="nessus-03.webp" alt="nessus-03"></p>
@@ -500,7 +504,8 @@
 <p>（7）自动登录，安装成功</p>
 <p>此时只有 “Setting”（没有 “Scans”）且显示未注册。</p>
 <p><img src="nessus-05-darwin.webp" alt="nessus-05"></p>
-<h2 id="4-安装插件和创建配置文件"><a href="#4-安装插件和创建配置文件" class="headerlink" title="4. 安装插件和创建配置文件"></a>4. 安装插件和创建配置文件</h2><blockquote>
+<h2 id="4-安装插件和创建配置文件">4. 安装插件和创建配置文件</h2>
+<blockquote>
 <p>此时下面两个配置文件都是空白的</p>
 </blockquote>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">/Library/Nessus/run/var/nessus/plugin_feed_info.inc</span><br><span class="line">/Library/Nessus/run/lib/nessus/plugins/plugin_feed_info.inc</span><br></pre></td></tr></table></figure>
@@ -515,7 +520,8 @@
 <p>上述 PLUGIN_SET 后的数字（日期）并没有严格要求，根据日期来写以便识别版本。</p>
 </blockquote>
 <p>补充：下载的最新版插件固定文件名，直接无法区分，但是可以访问 <a target="_blank" rel="noopener" href="https://www.tenable.com/plugins/nessus/release-notes">RN</a> 页面查看插件版本，当前下载的为最新版，这样命名更佳严格规范。</p>
-<h2 id="5-重启服务编译插件"><a href="#5-重启服务编译插件" class="headerlink" title="5. 重启服务编译插件"></a>5. 重启服务编译插件</h2><p>（1）停止服务</p>
+<h2 id="5-重启服务编译插件">5. 重启服务编译插件</h2>
+<p>（1）停止服务</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo launchctl unload -w /Library/LaunchDaemons/com.tenablesecurity.nessusd.plist</span><br></pre></td></tr></table></figure>
 <p>（2）启动服务</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo launchctl load -w /Library/LaunchDaemons/com.tenablesecurity.nessusd.plist</span><br></pre></td></tr></table></figure>
@@ -532,14 +538,16 @@
 <p>可以看到 “Licensed Hosts  Unlimited” 和 “Plugin Set” 的版本。</p>
 <p><img src="nessus-11-darwin.webp" alt="nessus-08"></p>
 <p>已经成功。</p>
-<h2 id="6-验证"><a href="#6-验证" class="headerlink" title="6. 验证"></a>6. 验证</h2><p>（1）点击 “Scans” - “My Scans”，“Create a new scan”</p>
+<h2 id="6-验证">6. 验证</h2>
+<p>（1）点击 “Scans” - “My Scans”，“Create a new scan”</p>
 <p><img src="nessus-12.webp" alt="nessus-09"></p>
 <p>（2）可以看到模板都出来了</p>
 <p><img src="nessus-13.webp" alt="nessus-10"></p>
 <p>（3）随意点击一个模板，可以看到插件数量</p>
 <p><img src="nessus-14.webp" alt="nessus-11"></p>
 <p>创建一个 Scan 试试吧。</p>
-<h2 id="7-如何更新插件"><a href="#7-如何更新插件" class="headerlink" title="7. 如何更新插件"></a>7. 如何更新插件</h2><p>（1）下载新版插件离线包</p>
+<h2 id="7-如何更新插件">7. 如何更新插件</h2>
+<p>（1）下载新版插件离线包</p>
 <p>（2）更新命令：<code>sudo /Library/Nessus/run/sbin/nessuscli update all-2.0.tar.gz</code></p>
 <p>（3）验证配置文件（修改版本日期）</p>
 <p>（4）重启服务并验证</p>
