@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> Ubuntu 21.04 - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> Ubuntu 21.04 - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" Ubuntu 21.04 - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" Ubuntu 21.04 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/ubuntu-2104/">
+  <link rel="canonical" href="https://sysin.org/blog/ubuntu-2104/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -393,7 +396,7 @@
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">691</span> In Total
+              Words <span class="post-count">690</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -461,24 +464,19 @@
         
 
         <p>请访问原文链接：<a href="/blog/ubuntu-2104/" title="Ubuntu 21.04">Ubuntu 21.04</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p>2021 年 4 月 22 日：今天，Canonical 发布了 Ubuntu 21.04，内置了原生的微软 Active Directory 集成、默认的 Wayland 图形和 Flutter 应用程序开发 SDK。另外，Canonical 和微软宣布在 Ubuntu 上对 Microsoft SQL Server 进行性能优化和联合支持。</p>
 <p><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://lh5.googleusercontent.com/O2LmMKBNNiBhLGjEvGLySkJA-cO_ZqiS8uVTDGK1fCCfhhfOMkDrUDhpeE9l6WQfEDwpTgbSxe2fH5LpbaDhBvIW-jn1DLkixH2E8kWb_lLsLOAVB1DWNEI4-yFoTZctB6I7QY5R" alt="img"></p>
 <p>Ubuntu 21.04 新特性如下</p>
-<h2 id="Updated-Packages-2">Updated Packages</h2>
-<h3 id="Linux-kernel-penguin">Linux kernel <img src="https://discourse.ubuntu.com/images/emoji/emoji_one/penguin.png?v=9" alt=":penguin:"></h3>
-<p>Ubuntu 21.04 includes the <strong>5.11</strong> Linux kernel.</p>
-<h3 id="Toolchain-Upgrades-hammer-and-wrench">Toolchain Upgrades <img src="https://discourse.ubuntu.com/images/emoji/emoji_one/hammer_and_wrench.png?v=9" alt=":hammer_and_wrench:"></h3>
-<p>GCC was updated to the 10.3.0 release, binutils to 2.36.1, and glibc  to 2.33. Python now ships at version 3.9.4, Perl at version 5.32.1. LLVM now defaults to version 12.  golang defaults to version 1.16.x. rustc  defaults to version 1.50. (sysin)</p>
+<h2 id="Updated-Packages"><a href="#Updated-Packages" class="headerlink" title="Updated Packages"></a>Updated Packages</h2><h3 id="Linux-kernel"><a href="#Linux-kernel" class="headerlink" title="Linux kernel "></a>Linux kernel <img src="https://discourse.ubuntu.com/images/emoji/emoji_one/penguin.png?v=9" alt=":penguin:"></h3><p>Ubuntu 21.04 includes the <strong>5.11</strong> Linux kernel.</p>
+<h3 id="Toolchain-Upgrades"><a href="#Toolchain-Upgrades" class="headerlink" title="Toolchain Upgrades "></a>Toolchain Upgrades <img src="https://discourse.ubuntu.com/images/emoji/emoji_one/hammer_and_wrench.png?v=9" alt=":hammer_and_wrench:"></h3><p>GCC was updated to the 10.3.0 release, binutils to 2.36.1, and glibc  to 2.33. Python now ships at version 3.9.4, Perl at version 5.32.1. LLVM now defaults to version 12.  golang defaults to version 1.16.x. rustc  defaults to version 1.50. (sysin)</p>
 <p>In addition to OpenJDK 11, OpenJDK 16 is now provided (but not used for package builds).</p>
 <p>Ruby was updated from v2.7.0 to v2.7.2, and rubygems has been extracted from ruby2.7 source and is provided as a <a target="_blank" rel="noopener" href="https://launchpad.net/ubuntu/+source/rubygems/">separate package 6</a>.</p>
-<h3 id="Security-Improvements-lock">Security Improvements <img src="https://discourse.ubuntu.com/images/emoji/emoji_one/lock.png?v=9" alt=":lock:"></h3>
-<p>Secureboot on x86_64 (amd64) and AArch64 (arm64) have been improved  to include SBAT capable shim, grub2, fwupd. For more details see <a target="_blank" rel="noopener" href="https://discourse.ubuntu.com/t/grub2-secureboot-bypass-2021-and-one-grub/21200">this discourse post 15</a>.</p>
+<h3 id="Security-Improvements"><a href="#Security-Improvements" class="headerlink" title="Security Improvements "></a>Security Improvements <img src="https://discourse.ubuntu.com/images/emoji/emoji_one/lock.png?v=9" alt=":lock:"></h3><p>Secureboot on x86_64 (amd64) and AArch64 (arm64) have been improved  to include SBAT capable shim, grub2, fwupd. For more details see <a target="_blank" rel="noopener" href="https://discourse.ubuntu.com/t/grub2-secureboot-bypass-2021-and-one-grub/21200">this discourse post 15</a>.</p>
 <p>nftables is now the default backend for the firewall.</p>
-<h2 id="Ubuntu-Desktop-2">Ubuntu Desktop</h2>
-<ul>
+<h2 id="Ubuntu-Desktop"><a href="#Ubuntu-Desktop" class="headerlink" title="Ubuntu Desktop"></a>Ubuntu Desktop</h2><ul>
 <li>Added support for smartcard authentication (via <a target="_blank" rel="noopener" href="http://manpages.ubuntu.com/manpages/bionic/man8/pam_sss.8.html"><code>pam_sss</code> 36</a>)</li>
 <li>Wayland is now the default on most configurations, which features better security and performance</li>
 <li>The desktop view now properly handles drag and drop interactions, e.g. dragging from/to the file manager</li>
@@ -487,96 +485,67 @@
 <li>The installer includes support for specifying a recovery key, which can be used to decrypt the disk if the password is forgotten</li>
 <li>The Active Directory integration has been improved. User  authentication with GPO enabled works out of the box after installation. It also includes a <a target="_blank" rel="noopener" href="https://github.com/ubuntu/adsys/">Group Policy client (ADSys) 53</a> to configure various settings from a central AD controller.</li>
 </ul>
-<h3 id="GNOME-footprints">GNOME <img src="https://discourse.ubuntu.com/images/emoji/emoji_one/footprints.png?v=9" alt=":footprints:"></h3>
-<p>While the new shell version hasn’t been included yet in Ubuntu the  applications have been mostly updated to their GNOME 40 versions.</p>
-<h3 id="Updated-Applications">Updated Applications</h3>
-<ul>
+<h3 id="GNOME"><a href="#GNOME" class="headerlink" title="GNOME "></a>GNOME <img src="https://discourse.ubuntu.com/images/emoji/emoji_one/footprints.png?v=9" alt=":footprints:"></h3><p>While the new shell version hasn’t been included yet in Ubuntu the  applications have been mostly updated to their GNOME 40 versions.</p>
+<h3 id="Updated-Applications"><a href="#Updated-Applications" class="headerlink" title="Updated Applications"></a>Updated Applications</h3><ul>
 <li>Firefox <img src="https://discourse.ubuntu.com/images/emoji/emoji_one/fire.png?v=9" alt=":fire:"><img src="https://discourse.ubuntu.com/images/emoji/emoji_one/fox_face.png?v=9" alt=":fox_face:"> version 87</li>
 <li>LibreOffice <img src="https://discourse.ubuntu.com/images/emoji/emoji_one/books.png?v=9" alt=":books:"> version 7.1.2-rc2</li>
 <li>Thunderbird <img src="https://discourse.ubuntu.com/images/emoji/emoji_one/cloud_with_lightning.png?v=9" alt=":cloud_with_lightning:"><img src="https://discourse.ubuntu.com/images/emoji/emoji_one/bird.png?v=9" alt=":bird:"> version 78.8.1</li>
 </ul>
-<h3 id="Updated-Subsystems">Updated Subsystems</h3>
-<ul>
+<h3 id="Updated-Subsystems"><a href="#Updated-Subsystems" class="headerlink" title="Updated Subsystems"></a>Updated Subsystems</h3><ul>
 <li>PulseAudio 14</li>
 <li>BlueZ 5.56</li>
 <li>NetworkManager 1.30</li>
 </ul>
-<h2 id="Ubuntu-Server-3">Ubuntu Server</h2>
-<ul>
-<li>
-<p>Rails 6</p>
+<h2 id="Ubuntu-Server"><a href="#Ubuntu-Server" class="headerlink" title="Ubuntu Server"></a>Ubuntu Server</h2><ul>
+<li><p>Rails 6</p>
 </li>
-<li>
-<p>QEMU was updated to the 5.2 release.</p>
+<li><p>QEMU was updated to the 5.2 release.</p>
 </li>
-<li>
-<p>Libvirt has been updated to version 7.0.</p>
+<li><p>Libvirt has been updated to version 7.0.</p>
 </li>
-<li>
-<p>DPDK was updated to 20.11.1</p>
+<li><p>DPDK was updated to 20.11.1</p>
 </li>
-<li>
-<p>Open vSwitch has been updated to 2.15</p>
+<li><p>Open vSwitch has been updated to 2.15</p>
 </li>
-<li>
-<p>Chrony has been updated to version 4.0</p>
+<li><p>Chrony has been updated to version 4.0</p>
 </li>
-<li>
-<p>Strongswan has been updated to 5.9.1</p>
+<li><p>Strongswan has been updated to 5.9.1</p>
 </li>
-<li>
-<p>Openvpn has been updated to 2.5.1</p>
+<li><p>Openvpn has been updated to 2.5.1</p>
 </li>
-<li>
-<p>Virt-manager has been updated to 3.2.0</p>
+<li><p>Virt-manager has been updated to 3.2.0</p>
 </li>
-<li>
-<p>Postgresql has been updated to v13.2</p>
+<li><p>Postgresql has been updated to v13.2</p>
 </li>
-<li>
-<p>Samba has been updated to 4.13.3</p>
+<li><p>Samba has been updated to 4.13.3</p>
 </li>
-<li>
-<p>SSSD has been updated to 2.40</p>
+<li><p>SSSD has been updated to 2.40</p>
 </li>
-<li>
-<p>Net-SNMP has been updated to 5.9</p>
+<li><p>Net-SNMP has been updated to 5.9</p>
 </li>
-<li>
-<p>Rsyslog has been updated to 8.2102.0</p>
+<li><p>Rsyslog has been updated to 8.2102.0</p>
 </li>
-<li>
-<p>Containerd has been updated to 1.4.4</p>
+<li><p>Containerd has been updated to 1.4.4</p>
 </li>
-<li>
-<p>Runc has been updated to 1.0.0-rc93</p>
+<li><p>Runc has been updated to 1.0.0-rc93</p>
 </li>
-<li>
-<p><a target="_blank" rel="noopener" href="http://Docker.io">Docker.io 11</a> has been updated to 20.10.2</p>
+<li><p><a target="_blank" rel="noopener" href="http://Docker.io">Docker.io 11</a> has been updated to 20.10.2</p>
 </li>
-<li>
-<p>Targetcli-fb replaces tgt</p>
+<li><p>Targetcli-fb replaces tgt</p>
 </li>
-<li>
-<p>Other noteworthy changes</p>
+<li><p>Other noteworthy changes</p>
 <ul>
 <li><a target="_blank" rel="noopener" href="https://discourse.ubuntu.com/t/needrestart-for-servers/21552">needrestart 37</a> is installed by default on Ubuntu Server.</li>
 <li>The nginx lua module has been removed as the latest upstream version of this module no longer works with Nginx directly. See <a target="_blank" rel="noopener" href="https://bugs.launchpad.net/ubuntu/+source/nginx/+bug/1893753">bug 1893753 27</a> for details.</li>
 </ul>
 </li>
-<li>
-<p>OpenStack: Ubuntu 21.04 includes the latest OpenStack release, Wallaby</p>
+<li><p>OpenStack: Ubuntu 21.04 includes the latest OpenStack release, Wallaby</p>
 </li>
 </ul>
-<h2 id="下载地址-265">下载地址</h2>
-<ul>
-<li>
-<p>Ubuntu 21.04 Desktop，2.63G<br>
-百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1WS6K1ABhSd6UfLN6n82iZg">64-bit PC (AMD64) desktop image</a> 提取码：6666</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><ul>
+<li><p>Ubuntu 21.04 Desktop，2.63G<br>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1WS6K1ABhSd6UfLN6n82iZg">64-bit PC (AMD64) desktop image</a> 提取码：6666</p>
 </li>
-<li>
-<p>Ubuntu 21.04 Server，1.09G<br>
-百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1AE2TvzLdkjiYUM4RO8B8TA">64-bit PC (AMD64) server install image</a> 提取码：6666</p>
+<li><p>Ubuntu 21.04 Server，1.09G<br>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1AE2TvzLdkjiYUM4RO8B8TA">64-bit PC (AMD64) server install image</a> 提取码：6666</p>
 </li>
 </ul>
 
@@ -665,6 +634,24 @@
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/ubuntu-2104/" class="leancloud-visitors" data-flag-title="Ubuntu 21.04">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -697,7 +684,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Updated-Packages-2"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">Updated Packages</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Linux-kernel-penguin"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">Linux kernel </span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Toolchain-Upgrades-hammer-and-wrench"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">Toolchain Upgrades </span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Security-Improvements-lock"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">Security Improvements </span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Ubuntu-Desktop-2"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">Ubuntu Desktop</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#GNOME-footprints"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">GNOME </span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Updated-Applications"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">Updated Applications</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Updated-Subsystems"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">Updated Subsystems</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Ubuntu-Server-3"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">Ubuntu Server</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-265"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Updated-Packages"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">Updated Packages</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Linux-kernel"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">Linux kernel </span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Toolchain-Upgrades"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">Toolchain Upgrades </span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Security-Improvements"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">Security Improvements </span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Ubuntu-Desktop"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">Ubuntu Desktop</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#GNOME"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">GNOME </span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Updated-Applications"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">Updated Applications</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Updated-Subsystems"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">Updated Subsystems</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Ubuntu-Server"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">Ubuntu Server</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -869,7 +856,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -945,7 +932,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
