@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> Windows Server 2019 OVF (SLIC 2.5), updated Aug 2021 (sysin) - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> Windows Server 2019 OVF (SLIC 2.5), updated Aug 2021 (sysin) - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" Windows Server 2019 OVF (SLIC 2.5), updated Aug 2021 (sysin) - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" Windows Server 2019 OVF (SLIC 2.5), updated Aug 2021 (sysin) "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/windows-server-2019-ovf/">
+  <link rel="canonical" href="https://sysin.org/blog/windows-server-2019-ovf/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -224,8 +227,6 @@
 
           
           
-          
-          
           <li>
             <a href="/about/">
               
@@ -234,6 +235,8 @@
               
             </a>
           </li>
+          
+          
           
           
           
@@ -397,7 +400,7 @@
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">1.7k</span> In Total
+              Words <span class="post-count">1.6k</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -465,19 +468,17 @@
         
 
         <p>请访问原文链接：<a href="/blog/windows-server-2019-ovf/" title="Windows Server 2019 OVF (SLIC 2.5), updated Aug 2021 (sysin)">Windows Server 2019 OVF (SLIC 2.5), updated Aug 2021 (sysin)</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
-<p>Windows Server 2019 Datacenter 64Bit English with CHS LP<br>
-Version 1809, updated Aug 2021，Build 17763.2114</p>
+<p>Windows Server 2019 Datacenter 64Bit English with CHS LP<br>Version 1809, updated Aug 2021，Build 17763.2114</p>
 <p>OVF Build Date：2021.09.08 (updated 2022.06.16)</p>
 <blockquote>
 <p>2022.06.16：版本未变更，优化几项细节配置，更新部分应用版本。</p>
 <p>2021.09.08：更新为 Windows Server 2019 2021 年 8 月版本。</p>
 </blockquote>
 <p><a target="_blank" rel="noopener" href="https://www.microsoft.com"><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="img"> Microsoft</a> <a target="_blank" rel="noopener" href="https://www.microsoft.com/zh-cn/windows-server">Windows Server</a> 2019</p>
-<h2 id="部署截图-12">部署截图</h2>
-<p><img src="windows-server-2019-ovf-02.webp" alt="windows-server-2019-ovf"></p>
+<h2 id="部署截图"><a href="#部署截图" class="headerlink" title="部署截图"></a>部署截图</h2><p><img src="windows-server-2019-ovf-02.webp" alt="windows-server-2019-ovf"></p>
 <p>CPU 和内存配置选项，可以部署完毕后任意编辑</p>
 <p><img src="windows-server-2019-ovf-03.webp" alt="windows-server-2019-ovf"></p>
 <p>请注意：</p>
@@ -486,8 +487,7 @@ Version 1809, updated Aug 2021，Build 17763.2114</p>
 <ul>
 <li>不能包含用户的帐户名，不能包含用户姓名中超过两个连续字符的部分</li>
 <li>至少有六个字符长</li>
-<li>包含以下四类字符中的三类字符：
-<ul>
+<li>包含以下四类字符中的三类字符：<ul>
 <li>英文大写字母(A 到 Z)</li>
 <li>英文小写字母(a 到 z)</li>
 <li>10 个基本数字(0 到 9)</li>
@@ -509,16 +509,13 @@ Version 1809, updated Aug 2021，Build 17763.2114</p>
 <li>推荐 3 种示例：全部字母，字母和数字组合，字母-数字或者数字-字母（中间允许多个-）</li>
 <li>不要全部用数字（NetBIOS 名称可以支持，但 DNS 名称不允许）</li>
 </ul>
-<h2 id="OVF-特性-13">OVF 特性</h2>
-<h3 id="1-OVF-版本-11">1. OVF 版本</h3>
-<ol>
+<h2 id="OVF-特性"><a href="#OVF-特性" class="headerlink" title="OVF 特性"></a>OVF 特性</h2><h3 id="1-OVF-版本"><a href="#1-OVF-版本" class="headerlink" title="1. OVF 版本"></a>1. OVF 版本</h3><ol>
 <li>默认 VM 硬件版本 11，即兼容 vSphere 6.0 / Fusion 7 / Workstation 11 及以上版本</li>
 <li>启用 CPU、内存热插拔 (sysin)</li>
 <li>VM-Tools 版本：12.0.5 (当前)</li>
 </ol>
-<h3 id="2-系统配置-2">2. 系统配置</h3>
-<ol>
-<li>时间和货币格式：Chinese (Simplified, China)，默认键盘和输入方法：简体中文–美式键盘（US）</li>
+<h3 id="2-系统配置"><a href="#2-系统配置" class="headerlink" title="2. 系统配置"></a>2. 系统配置</h3><ol>
+<li>时间和货币格式：Chinese (Simplified, China)，默认键盘和输入方法：简体中文—美式键盘（US）</li>
 <li>系统版本：Windows Server 2019 Datacenter, with DesktopExperience</li>
 <li>分区：System Reserve（549M），C 盘 40G 整数分区</li>
 <li>启用远程桌面 (sysin)</li>
@@ -527,93 +524,73 @@ Version 1809, updated Aug 2021，Build 17763.2114</p>
 <li>添加了 “Command Prompt” 和 “PowerShell” 右键快捷命令菜单</li>
 <li>禁用了 Windows Update 服务（请根据需要手动开启）</li>
 </ol>
-<h3 id="3-简体中文界面支持-2">3. 简体中文界面支持</h3>
-<p>本次英文版添加了简体中文界面语言支持，切换方法如下：</p>
+<h3 id="3-简体中文界面支持"><a href="#3-简体中文界面支持" class="headerlink" title="3. 简体中文界面支持"></a>3. 简体中文界面支持</h3><p>本次英文版添加了简体中文界面语言支持，切换方法如下：</p>
 <p>Settings &gt; Time &amp; Language &gt; Language, Windows Display Languages 下拉勾选 ”Chinese (Simplified, China)”</p>
 <p>注销登录或者重启生效</p>
 <p>另外，sysprep 欢迎画面也会提示选择语言（“English” 或者 “中文(简体)”）。</p>
-<h3 id="4-SLIC-2-5">4. SLIC 2.5</h3>
-<p>SLIC 2.5 OEM SLP Key，使用 Dell 证书。使用<a target="_blank" rel="noopener" href="https://sysin.org/tags/#SLIC">定制版的 VMware 软件</a>自动工作。</p>
-<h3 id="5-系统组件-2">5. 系统组件</h3>
-<ol>
+<h3 id="4-SLIC-2-5"><a href="#4-SLIC-2-5" class="headerlink" title="4. SLIC 2.5"></a>4. SLIC 2.5</h3><p>SLIC 2.5 OEM SLP Key，使用 Dell 证书。使用<a href="https://sysin.org/tags/#SLIC">定制版的 VMware 软件</a>自动工作。</p>
+<h3 id="5-系统组件"><a href="#5-系统组件" class="headerlink" title="5. 系统组件"></a>5. 系统组件</h3><ol>
 <li>添加组件：Telnet Client、SNMP-Service、Windows Backup</li>
 <li>添加组件：.NETFX 3.5 (启用此组件需要系统 iso 镜像，这里预先配置)</li>
 </ol>
-<h3 id="6-远程桌面性能优化-2">6. 远程桌面性能优化</h3>
-<ol>
-<li>
-<p>禁用 Logon Backgroud</p>
+<h3 id="6-远程桌面性能优化"><a href="#6-远程桌面性能优化" class="headerlink" title="6. 远程桌面性能优化"></a>6. 远程桌面性能优化</h3><ol>
+<li><p>禁用 Logon Backgroud</p>
  <figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">echo</span> 个性化设置：禁用登录背景 Logon Image</span><br><span class="line">reg add &quot;HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\System&quot; /v DisableLogonBackgroundImage /t REG_DWORD /d <span class="number">1</span> /f</span><br></pre></td></tr></table></figure>
 </li>
-<li>
-<p>更换 Lock Screen 为默认蓝色</p>
+<li><p>更换 Lock Screen 为默认蓝色</p>
  <figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">echo</span> 个性化设置：禁用设置中 Lock Screen 功能</span><br><span class="line">reg add &quot;HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Personalization&quot; /v NoLockScreen /t REG_DWORD /d <span class="number">1</span> /f</span><br></pre></td></tr></table></figure>
 </li>
-<li>
-<p>替换 Desktop Backgroud 为灰色</p>
+<li><p>替换 Desktop Backgroud 为灰色</p>
 </li>
 </ol>
-<h3 id="7-应用软件-2">7. 应用软件</h3>
-<ol>
+<h3 id="7-应用软件"><a href="#7-应用软件" class="headerlink" title="7. 应用软件"></a>7. 应用软件</h3><ol>
 <li>AutoRuns 14.0、7-Zip 21.07、Unlocker 1.9.2、Attribute Changer 11.00（全部为免费软件）</li>
 <li>浏览器：Chromium 100.0，仅针对 Administrator 用户配置。</li>
 </ol>
-<h3 id="8-个性化配置-2">8. 个性化配置</h3>
-<ol>
-<li>
-<p>用户配置</p>
+<h3 id="8-个性化配置"><a href="#8-个性化配置" class="headerlink" title="8. 个性化配置"></a>8. 个性化配置</h3><ol>
+<li><p>用户配置</p>
  <figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">echo</span> 个性化配置：标题栏显示颜色（仅针对当前用户有效，针对计算机设置无效）（此项可通过 Load Hive 预先配置）</span><br><span class="line">reg add &quot;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM&quot; /v ColorPrevalence /t REG_DWORD /d <span class="number">1</span> /f</span><br></pre></td></tr></table></figure>
 </li>
-<li>
-<p>几个关于隐私和使用记录的配置，通过 HKEY_LOCAL_MACHINE 预先配置</p>
+<li><p>几个关于隐私和使用记录的配置，通过 HKEY_LOCAL_MACHINE 预先配置</p>
  <figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">echo</span> 个性化配置：Turn off to Show recently opened items <span class="keyword">in</span> Jump Lists on <span class="built_in">Start</span> or the taskbar</span><br><span class="line">reg add &quot;HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced&quot; /v Start_TrackDocs /t REG_DWORD /d <span class="number">0</span> /f</span><br><span class="line"></span><br><span class="line"><span class="built_in">echo</span> Folder Options：Open File Explorer to: This PC</span><br><span class="line">reg add &quot;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced&quot; /v LaunchTo /t REG_DWORD /d <span class="number">1</span> /f</span><br><span class="line"></span><br><span class="line"><span class="built_in">echo</span> Folder Options：Turn off to Show recently used files <span class="keyword">in</span> Quick access</span><br><span class="line">reg add &quot;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer&quot; /v ShowRecent /t REG_DWORD /d <span class="number">0</span> /f</span><br><span class="line"></span><br><span class="line"><span class="built_in">echo</span> Folder Options：Turn off to Show frequently used folders <span class="keyword">in</span> Quick access</span><br><span class="line">reg add &quot;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer&quot; /v ShowFrequent /t REG_DWORD /d <span class="number">0</span> /f</span><br></pre></td></tr></table></figure>
 </li>
 </ol>
-<h2 id="适用的-VMware-软件下载-14">适用的 VMware 软件下载</h2>
-<p>建议在以下版本的 VMware 软件中运行：</p>
+<h2 id="适用的-VMware-软件下载"><a href="#适用的-VMware-软件下载" class="headerlink" title="适用的 VMware 软件下载"></a>适用的 VMware 软件下载</h2><p>建议在以下版本的 VMware 软件中运行：</p>
 <ul>
-<li>Server：VMware <a target="_blank" rel="noopener" href="https://sysin.org/blog/vmware-esxi-7-u3-slic/">ESXi 7.0</a> &amp; <a target="_blank" rel="noopener" href="https://sysin.org/blog/vmware-vcenter-7-u3/">vCenter Server 7.0</a></li>
-<li>macOS：<a target="_blank" rel="noopener" href="https://sysin.org/blog/vmware-fusion-12-slic/">VMware Fusion 12</a></li>
-<li>Linux：<a target="_blank" rel="noopener" href="https://sysin.org/blog/vmware-workstation-16-linux-slic/">VMware Workstation 16 for Linux</a></li>
-<li>Windows：<a target="_blank" rel="noopener" href="https://sysin.org/blog/vmware-workstation-16-windows-slic/">VMware Workstation 16 for Windows</a></li>
+<li>Server：VMware <a href="https://sysin.org/blog/vmware-esxi-7-u3-slic/">ESXi 7.0</a> &amp; <a href="https://sysin.org/blog/vmware-vcenter-7-u3/">vCenter Server 7.0</a></li>
+<li>macOS：<a href="https://sysin.org/blog/vmware-fusion-12-slic/">VMware Fusion 12</a></li>
+<li>Linux：<a href="https://sysin.org/blog/vmware-workstation-16-linux-slic/">VMware Workstation 16 for Linux</a></li>
+<li>Windows：<a href="https://sysin.org/blog/vmware-workstation-16-windows-slic/">VMware Workstation 16 for Windows</a></li>
 </ul>
-<h2 id="关于-OVF-版本的兼容性-12">关于 OVF 版本的兼容性</h2>
-<p>默认使用 VM 硬件版本 11，兼容 vSphere 6.0、Fusion 7、Workstation 11、Player 7 及以上版本。</p>
+<h2 id="关于-OVF-版本的兼容性"><a href="#关于-OVF-版本的兼容性" class="headerlink" title="关于 OVF 版本的兼容性"></a>关于 OVF 版本的兼容性</h2><p>默认使用 VM 硬件版本 11，兼容 vSphere 6.0、Fusion 7、Workstation 11、Player 7 及以上版本。</p>
 <ul>
-<li>
-<p>VMware Fusion for macOS：7、8、10、11、12（推荐版本 12，旧版理论兼容）及更新版本</p>
+<li><p>VMware Fusion for macOS：7、8、10、11、12（推荐版本 12，旧版理论兼容）及更新版本</p>
 </li>
-<li>
-<p>VMware Workstation for Windows &amp; Linux：11、12、14、15、16（推荐版本 16，旧版理论兼容）及更新版本</p>
+<li><p>VMware Workstation for Windows &amp; Linux：11、12、14、15、16（推荐版本 16，旧版理论兼容）及更新版本</p>
 </li>
-<li>
-<p>VMware vSphere：6.0、6.5、6.7、7.0（推荐版本 7.0）及更新版本</p>
+<li><p>VMware vSphere：6.0、6.5、6.7、7.0（推荐版本 7.0）及更新版本</p>
 </li>
 </ul>
 <p>VMware vSphere 版本兼容性具体如下：</p>
 <ul>
-<li>
-<p>支持的部署方式：</p>
+<li><p>支持的部署方式：</p>
 <ul>
 <li>通过 vSphere Client（H5）6.5 及以上版本进行部署，包含 6.5、6.7、7.0（推荐部署方式）及更新版本</li>
 <li>通过 vSphere Web Cleint（Flash）6.0 及以上版本进行部署，包含 6.0、6.5，6.7（7.0 开始废弃）</li>
 </ul>
 </li>
-<li>
-<p>客户端系统和软件要求：</p>
+<li><p>客户端系统和软件要求：</p>
 <ul>
-<li>
-<p>支持的客户端操作系统</p>
+<li><p>支持的客户端操作系统</p>
 <ul>
-<li>macOS（推荐 <a target="_blank" rel="noopener" href="https://sysin.org/blog/macOS-Big-Sur/">macOS Big Sur</a>、<a target="_blank" rel="noopener" href="https://sysin.org/blog/macOS-Monterey/">macOS Monterey</a>）</li>
-<li>Windows 32-bit and 64-bit（推荐 <a target="_blank" rel="noopener" href="https://sysin.org/blog/windows-10/">Windows 10</a>、<a target="_blank" rel="noopener" href="https://sysin.org/blog/windows-11/">Windows 11</a>、<a target="_blank" rel="noopener" href="https://sysin.org/blog/windows-server-2022/">Windows Server 2022</a>）</li>
-</ul>
-<blockquote>
+<li>macOS（推荐 <a href="https://sysin.org/blog/macOS-Big-Sur/">macOS Big Sur</a>、<a href="https://sysin.org/blog/macOS-Monterey/">macOS Monterey</a>）</li>
+<li>Windows 32-bit and 64-bit（推荐 <a href="https://sysin.org/blog/windows-10/">Windows 10</a>、<a href="https://sysin.org/blog/windows-11/">Windows 11</a>、<a href="https://sysin.org/blog/windows-server-2022/">Windows Server 2022</a>）<blockquote>
 <p>主流 Linux 桌面发行版理论上支持，未经官方验证。</p>
 </blockquote>
 </li>
-<li>
-<p>支持的浏览器版本【<a target="_blank" rel="noopener" href="https://sysin.org/blog/chrome-edge-firefox-download/">下载</a>】</p>
+</ul>
+</li>
+<li><p>支持的浏览器版本【<a href="https://sysin.org/blog/chrome-edge-firefox-download/">下载</a>】</p>
 <ul>
 <li>Google Chrome 89 or later</li>
 <li>Mozilla Firefox 80 or later</li>
@@ -622,21 +599,17 @@ Version 1809, updated Aug 2021，Build 17763.2114</p>
 </li>
 </ul>
 </li>
-<li>
-<p>不支持的部署方式：</p>
+<li><p>不支持的部署方式：</p>
 <ul>
 <li>不支持通过 VMware vSphere Client（C#，Desktop Client）6.0（含旧版，6.5 开启废弃）进行部署，该客户端或有限支持 OVF 属性或不支持 SHA256</li>
-<li>不支持通过 VMware Host Client（Embedded from 6.0 U2）进行部署，该客户端有限支持自定义 OVF 属性</li>
-</ul>
-<blockquote>
+<li>不支持通过 VMware Host Client（Embedded from 6.0 U2）进行部署，该客户端有限支持自定义 OVF 属性<blockquote>
 <p>上述客户端仅适用于无自定义 OVF 属性，或者仅存在支持的 OVF 属性时，可以正常部署。</p>
 </blockquote>
 </li>
 </ul>
-<h2 id="下载地址-393">下载地址</h2>
-<p>Windows Server 2019 Datacenter (<strong>updated Aug 2021</strong>) OVF (updated 2022.06.16)<br>
-百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1B866cTHFXzgy2SUEPbgM-A">https://pan.baidu.com/s/1B866cTHFXzgy2SUEPbgM-A</a>  提取码：731w<br>
-SHA256SUM：e6f88fb1e20f7cd25cb7729ffaf9abcc234111e43c95150d98081999afc7d632</p>
+</li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>Windows Server 2019 Datacenter (<strong>updated Aug 2021</strong>) OVF (updated 2022.06.16)<br>  百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1B866cTHFXzgy2SUEPbgM-A">https://pan.baidu.com/s/1B866cTHFXzgy2SUEPbgM-A</a>  提取码：731w<br>  SHA256SUM：e6f88fb1e20f7cd25cb7729ffaf9abcc234111e43c95150d98081999afc7d632</p>
 
 
         <hr>
@@ -723,6 +696,24 @@ SHA256SUM：e6f88fb1e20f7cd25cb7729ffaf9abcc234111e43c95150d98081999afc7d632</p>
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/windows-server-2019-ovf/" class="leancloud-visitors" data-flag-title="Windows Server 2019 OVF (SLIC 2.5), updated Aug 2021 (sysin)">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -755,7 +746,7 @@ SHA256SUM：e6f88fb1e20f7cd25cb7729ffaf9abcc234111e43c95150d98081999afc7d632</p>
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%83%A8%E7%BD%B2%E6%88%AA%E5%9B%BE-12"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">部署截图</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#OVF-%E7%89%B9%E6%80%A7-13"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">OVF 特性</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#1-OVF-%E7%89%88%E6%9C%AC-11"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">1. OVF 版本</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#2-%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE-2"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">2. 系统配置</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#3-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E6%94%AF%E6%8C%81-2"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">3. 简体中文界面支持</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#4-SLIC-2-5"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">4. SLIC 2.5</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#5-%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6-2"><span class="toc-nav-number">2.5.</span> <span class="toc-nav-text">5. 系统组件</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#6-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-2"><span class="toc-nav-number">2.6.</span> <span class="toc-nav-text">6. 远程桌面性能优化</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#7-%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6-2"><span class="toc-nav-number">2.7.</span> <span class="toc-nav-text">7. 应用软件</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#8-%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE-2"><span class="toc-nav-number">2.8.</span> <span class="toc-nav-text">8. 个性化配置</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%80%82%E7%94%A8%E7%9A%84-VMware-%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD-14"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">适用的 VMware 软件下载</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%85%B3%E4%BA%8E-OVF-%E7%89%88%E6%9C%AC%E7%9A%84%E5%85%BC%E5%AE%B9%E6%80%A7-12"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">关于 OVF 版本的兼容性</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-393"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%83%A8%E7%BD%B2%E6%88%AA%E5%9B%BE"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">部署截图</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#OVF-%E7%89%B9%E6%80%A7"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">OVF 特性</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#1-OVF-%E7%89%88%E6%9C%AC"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">1. OVF 版本</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#2-%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">2. 系统配置</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#3-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E6%94%AF%E6%8C%81"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">3. 简体中文界面支持</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#4-SLIC-2-5"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">4. SLIC 2.5</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#5-%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6"><span class="toc-nav-number">2.5.</span> <span class="toc-nav-text">5. 系统组件</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#6-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96"><span class="toc-nav-number">2.6.</span> <span class="toc-nav-text">6. 远程桌面性能优化</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#7-%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6"><span class="toc-nav-number">2.7.</span> <span class="toc-nav-text">7. 应用软件</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#8-%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE"><span class="toc-nav-number">2.8.</span> <span class="toc-nav-text">8. 个性化配置</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%80%82%E7%94%A8%E7%9A%84-VMware-%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">适用的 VMware 软件下载</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%85%B3%E4%BA%8E-OVF-%E7%89%88%E6%9C%AC%E7%9A%84%E5%85%BC%E5%AE%B9%E6%80%A7"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">关于 OVF 版本的兼容性</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -931,7 +922,7 @@ SHA256SUM：e6f88fb1e20f7cd25cb7729ffaf9abcc234111e43c95150d98081999afc7d632</p>
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -1007,7 +998,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> Sophos Firewall OS (SFOS) 18.5 MR2 - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> Sophos Firewall OS (SFOS) 18.5 MR2 - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" Sophos Firewall OS (SFOS) 18.5 MR2 - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" Sophos Firewall OS (SFOS) 18.5 MR2 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/sfos-18-5-mr2/">
+  <link rel="canonical" href="https://sysin.org/blog/sfos-18-5-mr2/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -224,8 +227,6 @@
 
           
           
-          
-          
           <li>
             <a href="/about/">
               
@@ -234,6 +235,8 @@
               
             </a>
           </li>
+          
+          
           
           
           
@@ -465,85 +468,61 @@
         
 
         <p>请访问原文链接：<a href="/blog/sfos-18-5/" title="Sophos Firewall OS (SFOS) 18.5 Maintenance Release">Sophos Firewall OS (SFOS) 18.5 Maintenance Release</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p><img src="https://www.sophos.com/sites/default/files/2022-03/firewall-xstream-banner.png" alt="img"></p>
-<h2 id="Sophos-防火墙简介-2">Sophos 防火墙简介</h2>
-<h3 id="强大的防护和性能-2">强大的防护和性能</h3>
-<p>设备 • 云 • 虚拟</p>
+<h2 id="Sophos-防火墙简介"><a href="#Sophos-防火墙简介" class="headerlink" title="Sophos 防火墙简介"></a>Sophos 防火墙简介</h2><h3 id="强大的防护和性能"><a href="#强大的防护和性能" class="headerlink" title="强大的防护和性能"></a>强大的防护和性能</h3><p>设备 • 云 • 虚拟</p>
 <p><a target="_blank" rel="noopener" href="https://secure2.sophos.com/zh-cn/products/next-gen-firewall/free-trial/xg-firewall-demo.aspx">在线演示</a></p>
-<h3 id="Xstream-防护-2">Xstream 防护</h3>
-<p>Sophos Firewall 的 Xstream 架构保护您的网络免于最新威胁 (sysin)，同时加速重要 SaaS、SD-WAN 和云应用程序流量。</p>
+<h3 id="Xstream-防护"><a href="#Xstream-防护" class="headerlink" title="Xstream 防护"></a>Xstream 防护</h3><p>Sophos Firewall 的 Xstream 架构保护您的网络免于最新威胁 (sysin)，同时加速重要 SaaS、SD-WAN 和云应用程序流量。</p>
 <ul>
-<li>
-<p>TLS 1.3 解密<br>
-通过快速有效的智能 TLS 检查消除一个巨大盲点，支持最新标准提供丰富的例外和指向单击政策工具，方便您工作。</p>
+<li><p>TLS 1.3 解密<br> 通过快速有效的智能 TLS 检查消除一个巨大盲点，支持最新标准提供丰富的例外和指向单击政策工具，方便您工作。</p>
 </li>
-<li>
-<p>深度数据包检查<br>
-通过高性能流深度数据包检查阻止最新勒索软件和外泄，包括下一代 IPS、Web 防护和应用程序控制，以及 SophosLabs Intelix 支持的深度学习和沙箱。</p>
+<li><p>深度数据包检查<br> 通过高性能流深度数据包检查阻止最新勒索软件和外泄，包括下一代 IPS、Web 防护和应用程序控制，以及 SophosLabs Intelix 支持的深度学习和沙箱。</p>
 </li>
-<li>
-<p>应用程序加速<br>
-自动或通过您自己的政策加速您的 SaaS、SD-WAN 和云流量，如 VoIP、视频和其他受信任应用程序，放在 Xstream FastPath 上优化性能。</p>
+<li><p>应用程序加速<br> 自动或通过您自己的政策加速您的 SaaS、SD-WAN 和云流量，如 VoIP、视频和其他受信任应用程序，放在 Xstream FastPath 上优化性能。</p>
 </li>
 </ul>
 <p><a target="_blank" rel="noopener" href="https://www.sophos.com/zh-cn/products/next-gen-firewall/features.aspx">查看所有功能</a></p>
-<h3 id="强大性能-2">强大性能</h3>
-<p>XGS 系列在所有价位提供 Xstream 性能，实现现代多样性、分布式和加密网络需要的防护。</p>
+<h3 id="强大性能"><a href="#强大性能" class="headerlink" title="强大性能"></a>强大性能</h3><p>XGS 系列在所有价位提供 Xstream 性能，实现现代多样性、分布式和加密网络需要的防护。</p>
 <ul>
-<li>
-<p>Xstream 支持<br>
-在硬件层面加速和卸荷重要 SaaS、SD-WAN 和云流量 (sysin)，通过集成的 Xstream Flow 处理器增加 TLS 和深度数据包检查的性能空间。</p>
+<li><p>Xstream 支持<br> 在硬件层面加速和卸荷重要 SaaS、SD-WAN 和云流量 (sysin)，通过集成的 Xstream Flow 处理器增加 TLS 和深度数据包检查的性能空间。</p>
 </li>
-<li>
-<p>高速连接性<br>
-通过用于高速铜线、光纤、Power over Ethernet (PoE) 和 Wi-Fi 的丰富附加模块，定制防火墙已有的各种连接选项。</p>
+<li><p>高速连接性<br> 通过用于高速铜线、光纤、Power over Ethernet (PoE) 和 Wi-Fi 的丰富附加模块，定制防火墙已有的各种连接选项。</p>
 </li>
-<li>
-<p>专门打造的性能<br>
-请放心，您的防火墙专门打造，包括核心的双处理器架构以处理要求最高工作，丰富内存配置，高性能固态存储。</p>
+<li><p>专门打造的性能<br> 请放心，您的防火墙专门打造，包括核心的双处理器架构以处理要求最高工作，丰富内存配置，高性能固态存储。</p>
 </li>
 </ul>
 <p><a target="_blank" rel="noopener" href="https://www.sophos.com/zh-cn/products/next-gen-firewall/tech-specs.aspx">型号对比</a></p>
-<h2 id="SFOS-v18-5-MR2-的新增功能">SFOS v18.5 MR2 的新增功能</h2>
-<ul>
-<li>FIPS 140-2 1 级验证
-<ul>
+<h2 id="SFOS-v18-5-MR2-的新增功能"><a href="#SFOS-v18-5-MR2-的新增功能" class="headerlink" title="SFOS v18.5 MR2 的新增功能"></a>SFOS v18.5 MR2 的新增功能</h2><ul>
+<li>FIPS 140-2 1 级验证<ul>
 <li>5 MR2 已获得联邦信息处理标准出版物 (FIPS) 140-2 认证，适用于基于我们最新加密模块的 XGS 系列硬件和虚拟机</li>
 </ul>
 </li>
-<li>IPsec VPN 增强功能
-<ul>
+<li>IPsec VPN 增强功能<ul>
 <li>通过支持 GCM 和套件 B 密码提高了性能</li>
 <li>增强了对远程访问连接的空闲超时支持——更长时间地保持连接</li>
 <li>使用隧道接口 IP 地址进行基于路由的 IPsec 伪装 (MASQ) 的路由优化</li>
 </ul>
 </li>
-<li>新 Sophos 助手
-<ul>
+<li>新 Sophos 助手<ul>
 <li>为产品中的重要工作流程提供交互式引导“帮手”，使学习和执行常见任务变得更加容易</li>
 </ul>
 </li>
-<li>Sophos Central 的无凭据注册
-<ul>
+<li>Sophos Central 的无凭据注册<ul>
 <li>大大简化了将新防火墙载入 Sophos Central 的过程</li>
 </ul>
 </li>
-<li>身份验证增强
-<ul>
+<li>身份验证增强<ul>
 <li>通过警报和简化的设置过程改进了对管理员帐户的 MFA 支持。</li>
 <li>支持 Active Directory 中的多个组成员身份，以显示用户所属的所有组。</li>
 </ul>
 </li>
-<li>证书增强
-<ul>
+<li>证书增强<ul>
 <li>添加有关证书颁发机构的新有用信息，轻松识别本地添加的使用私钥的证书，以及轻松下载任何证书的公共部分。</li>
 </ul>
 </li>
-<li>其他可用性和功能增强
-<ul>
+<li>其他可用性和功能增强<ul>
 <li>为 TLS 排除添加了新域以优化 TLS 性能和最终用户体验</li>
 <li>支持 Cloudflare 作为 DDNS 服务提供商</li>
 <li>添加了一个新的全局 IPS 开关以启用或禁用 IPS 引擎</li>
@@ -551,8 +530,7 @@
 <li>将 JQuery 版本升级到 3.5.x。</li>
 </ul>
 </li>
-<li>故障排除报告增强
-<ul>
+<li>故障排除报告增强<ul>
 <li>改进的日志文件处理、后端报告生成和可用性增强</li>
 </ul>
 </li>
@@ -564,10 +542,10 @@
 <li><strong>XGS 87/107 上的硬件重置</strong> – 可以长按硬件重置按钮来启动出厂重置</li>
 </ul>
 <p>查看 <a target="_blank" rel="noopener" href="https://community.sophos.com/sophos-xg-firewall/b/blog">发行说明</a> 以获取完整的详细信息。</p>
-<h2 id="下载地址-241">下载地址</h2>
-<ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><ul>
 <li>You can <strong>download</strong> the firmware upgrade file and installers for your firewall from the download links in the table below.</li>
 </ul>
+<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -642,8 +620,8 @@
 </tr>
 </tbody>
 </table>
-<p>Sophos Firewall OS (SFOS) 18.5 MR2<br>
-百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1VJ2oe3iBePM7aD7S1IpxpA">https://pan.baidu.com/s/1VJ2oe3iBePM7aD7S1IpxpA</a>  提取码：cqwp</p>
+</div>
+<p>Sophos Firewall OS (SFOS) 18.5 MR2<br>  百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1VJ2oe3iBePM7aD7S1IpxpA">https://pan.baidu.com/s/1VJ2oe3iBePM7aD7S1IpxpA</a>  提取码：cqwp</p>
 
 
         <hr>
@@ -730,6 +708,24 @@
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/sfos-18-5-mr2/" class="leancloud-visitors" data-flag-title="Sophos Firewall OS (SFOS) 18.5 MR2">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -762,7 +758,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Sophos-%E9%98%B2%E7%81%AB%E5%A2%99%E7%AE%80%E4%BB%8B-2"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">Sophos 防火墙简介</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%BC%BA%E5%A4%A7%E7%9A%84%E9%98%B2%E6%8A%A4%E5%92%8C%E6%80%A7%E8%83%BD-2"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">强大的防护和性能</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Xstream-%E9%98%B2%E6%8A%A4-2"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">Xstream 防护</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%BC%BA%E5%A4%A7%E6%80%A7%E8%83%BD-2"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">强大性能</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#SFOS-v18-5-MR2-%E7%9A%84%E6%96%B0%E5%A2%9E%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">SFOS v18.5 MR2 的新增功能</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-241"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Sophos-%E9%98%B2%E7%81%AB%E5%A2%99%E7%AE%80%E4%BB%8B"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">Sophos 防火墙简介</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%BC%BA%E5%A4%A7%E7%9A%84%E9%98%B2%E6%8A%A4%E5%92%8C%E6%80%A7%E8%83%BD"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">强大的防护和性能</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Xstream-%E9%98%B2%E6%8A%A4"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">Xstream 防护</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%BC%BA%E5%A4%A7%E6%80%A7%E8%83%BD"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">强大性能</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#SFOS-v18-5-MR2-%E7%9A%84%E6%96%B0%E5%A2%9E%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">SFOS v18.5 MR2 的新增功能</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -938,7 +934,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -1014,7 +1010,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

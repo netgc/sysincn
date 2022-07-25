@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> vCenter Server 7.0 U2b/6.7 U3n/6.5 U3p，修复 vSphere Client 高危安全漏洞 - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> vCenter Server 7.0 U2b/6.7 U3n/6.5 U3p，修复 vSphere Client 高危安全漏洞 - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" vCenter Server 7.0 U2b/6.7 U3n/6.5 U3p，修复 vSphere Client 高危安全漏洞 - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" vCenter Server 7.0 U2b/6.7 U3n/6.5 U3p，修复 vSphere Client 高危安全漏洞 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/vmware-vcenter-update/">
+  <link rel="canonical" href="https://sysin.org/blog/vmware-vcenter-update/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -224,8 +227,6 @@
 
           
           
-          
-          
           <li>
             <a href="/about/">
               
@@ -234,6 +235,8 @@
               
             </a>
           </li>
+          
+          
           
           
           
@@ -389,11 +392,11 @@
             <!-- WordCount start -->
             <div class="blank_box"></div>
             <span class="meta">
-              Estimated Reading Time <span class="post-count">4</span> Minutes
+              Estimated Reading Time <span class="post-count">3</span> Minutes
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">813</span> In Total
+              Words <span class="post-count">745</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -461,19 +464,15 @@
         
 
         <p>请访问原文链接：<a href="/blog/vmware-vcenter-update/" title="vCenter Server 7.0 U2b&#x2F;6.7 U3n&#x2F;6.5 U3p，修复 vSphere Client 高危安全漏洞">vCenter Server 7.0 U2b&#x2F;6.7 U3n&#x2F;6.5 U3p，修复 vSphere Client 高危安全漏洞</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p>vSphere Client（HTML5）中的多个漏洞已秘密报告给 VMware。这里提供了更新和解决方法来解决受影响的 VMware 产品中的这些漏洞。详见：<a target="_blank" rel="noopener" href="https://www.vmware.com/security/advisories/VMSA-2021-0010.html">VMSA-2021-0010</a></p>
-<h2 id="威胁描述">威胁描述</h2>
-<p>Issue Date: 2021-05-25<br>
-Updated On: 2021-05-25 (Initial Advisory)<br>
-CVE(s): CVE-2021-21985, CVE-2021-21986<br>
-Synopsis: VMware vCenter Server updates address remote code execution and authentication vulnerabilities (CVE-2021-21985, CVE-2021-21986)</p>
-<h3 id="vSphere-Client-中的-VMware-vCenter-Server-更新地址远程执行代码漏洞（CVE-2021-21985）">vSphere Client 中的 VMware vCenter Server 更新地址远程执行代码漏洞（CVE-2021-21985）</h3>
-<p>已知攻击向量：</p>
+<h2 id="威胁描述"><a href="#威胁描述" class="headerlink" title="威胁描述"></a>威胁描述</h2><p>Issue Date: 2021-05-25<br>Updated On: 2021-05-25 (Initial Advisory)<br>CVE(s): CVE-2021-21985, CVE-2021-21986<br>Synopsis: VMware vCenter Server updates address remote code execution and authentication vulnerabilities (CVE-2021-21985, CVE-2021-21986)</p>
+<h3 id="vSphere-Client-中的-VMware-vCenter-Server-更新地址远程执行代码漏洞（CVE-2021-21985）"><a href="#vSphere-Client-中的-VMware-vCenter-Server-更新地址远程执行代码漏洞（CVE-2021-21985）" class="headerlink" title="vSphere Client 中的 VMware vCenter Server 更新地址远程执行代码漏洞（CVE-2021-21985）"></a>vSphere Client 中的 VMware vCenter Server 更新地址远程执行代码漏洞（CVE-2021-21985）</h3><p>已知攻击向量：</p>
 <p>具有网络访问端口 443 的恶意行为者可能会利用此问题在托管 vCenter Server 的基础操作系统上以不受限制的特权执行命令。</p>
 <p>响应矩阵：</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -524,10 +523,11 @@ Synopsis: VMware vCenter Server updates address remote code execution and authen
 </tr>
 </tbody>
 </table>
-<h3 id="vCenter-Server-插件中的身份验证机制问题（CVE-2021-21986）">vCenter Server 插件中的身份验证机制问题（CVE-2021-21986）</h3>
-<p>已知攻击向量：</p>
+</div>
+<h3 id="vCenter-Server-插件中的身份验证机制问题（CVE-2021-21986）"><a href="#vCenter-Server-插件中的身份验证机制问题（CVE-2021-21986）" class="headerlink" title="vCenter Server 插件中的身份验证机制问题（CVE-2021-21986）"></a>vCenter Server 插件中的身份验证机制问题（CVE-2021-21986）</h3><p>已知攻击向量：</p>
 <p>可以通过网络访问 vCenter Server 上端口 443 的恶意角色可能会执行受影响的插件所允许的操作，而无需进行身份验证。</p>
 <p>响应矩阵：</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -578,116 +578,36 @@ Synopsis: VMware vCenter Server updates address remote code execution and authen
 </tr>
 </tbody>
 </table>
-<h2 id="下载地址-346">下载地址</h2>
-<p><strong>VMware vCenter Server 7.0U2b：</strong><br>
-百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1RMYJCaKmeE_1aeRdbrwyiA">https://pan.baidu.com/s/1RMYJCaKmeE_1aeRdbrwyiA</a>  提取码：vdh8</p>
+</div>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><strong>VMware vCenter Server 7.0U2b：</strong><br>  百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1RMYJCaKmeE_1aeRdbrwyiA">https://pan.baidu.com/s/1RMYJCaKmeE_1aeRdbrwyiA</a>  提取码：vdh8</p>
 <ul>
-<li>
-<p>VMware vCenter Server Appliance<br>
-Filename: VMware-VCSA-all-7.0.2-17958471.iso<br>
-Build: 17958471<br>
-Size: 7.45 GB<br>
-MD5: b9338221abfdd7de04d6843a6b38b9ce<br>
-SHA1: f699a05b482d959bca8404f39ab0ee9ff2dd2c26<br>
-SHA256: 04cae95f2d3814b4f3691a3c417aeb5a8878669fbb57037d903bb45582642d87</p>
+<li><p>VMware vCenter Server Appliance<br>Filename: VMware-VCSA-all-7.0.2-17958471.iso<br>Build: 17958471<br>Size: 7.45 GB<br>MD5: b9338221abfdd7de04d6843a6b38b9ce<br>SHA1: f699a05b482d959bca8404f39ab0ee9ff2dd2c26<br>SHA256: 04cae95f2d3814b4f3691a3c417aeb5a8878669fbb57037d903bb45582642d87</p>
 </li>
-<li>
-<p>VMware vCenter Server Appliance Update Bundle<br>
-Filename: VMware-vCenter-Server-Appliance-7.0.2.00200-17958471-updaterepo.zip<br>
-Build: 17958471<br>
-Size: 5.11 GB<br>
-MD5: 435e4141d7e0fed8982b552230ebf06a<br>
-SHA1: ab0f724160cdb547828c6c2a322fb377091f092d<br>
-SHA256: b7b86fc5678bf3002d517840d47c71f04ae50dca7e1ef33437864da5f47a9d83</p>
+<li><p>VMware vCenter Server Appliance Update Bundle<br>Filename: VMware-vCenter-Server-Appliance-7.0.2.00200-17958471-updaterepo.zip<br>Build: 17958471<br>Size: 5.11 GB<br>MD5: 435e4141d7e0fed8982b552230ebf06a<br>SHA1: ab0f724160cdb547828c6c2a322fb377091f092d<br>SHA256: b7b86fc5678bf3002d517840d47c71f04ae50dca7e1ef33437864da5f47a9d83</p>
 </li>
-<li>
-<p>Patch for VMware vCenter Server Appliance<br>
-Filename: VMware-vCenter-Server-Appliance-7.0.2.00200-17958471-patch-FP.iso<br>
-Build: 17958471<br>
-Size: 5.02 GB<br>
-MD5: 5808bb983c3ed013e25c3d897f224002<br>
-SHA1: 1004942abfcac5ff12d9a1d50685ac857535f1dd<br>
-SHA255: a34d7e6e13d8ab08fda53568f19b29f5703bb380ec79256e127e9c25dcb89e5b</p>
+<li><p>Patch for VMware vCenter Server Appliance<br>Filename: VMware-vCenter-Server-Appliance-7.0.2.00200-17958471-patch-FP.iso<br>Build: 17958471<br>Size: 5.02 GB<br>MD5: 5808bb983c3ed013e25c3d897f224002<br>SHA1: 1004942abfcac5ff12d9a1d50685ac857535f1dd<br>SHA255: a34d7e6e13d8ab08fda53568f19b29f5703bb380ec79256e127e9c25dcb89e5b</p>
 </li>
 </ul>
-<p><strong>VMware vCenter Server 6.7U3n：</strong><br>
-百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1rK8j-LCf_MzKGGctfWkQXA">https://pan.baidu.com/s/1rK8j-LCf_MzKGGctfWkQXA</a>  提取码：g106</p>
+<p><strong>VMware vCenter Server 6.7U3n：</strong><br>  百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1rK8j-LCf_MzKGGctfWkQXA">https://pan.baidu.com/s/1rK8j-LCf_MzKGGctfWkQXA</a>  提取码：g106</p>
 <ul>
-<li>
-<p>VMware vCenter Server Appliance<br>
-Filename: VMware-VCSA-all-6.7.0-18010531.iso<br>
-Build: 18010531<br>
-Size: 4.29 GB<br>
-MD5: a29cdbaf571e5a95385fbed189acb941<br>
-SHA1: 8ccb42da816649cdfdc73b80e70b55d5598e91f3<br>
-SHA25: bf058cdfd26bf79b4a97327a5a39ab9c76de3065a35dd5f85c3b0cd52211fe92</p>
+<li><p>VMware vCenter Server Appliance<br>Filename: VMware-VCSA-all-6.7.0-18010531.iso<br>Build: 18010531<br>Size: 4.29 GB<br>MD5: a29cdbaf571e5a95385fbed189acb941<br>SHA1: 8ccb42da816649cdfdc73b80e70b55d5598e91f3<br>SHA25: bf058cdfd26bf79b4a97327a5a39ab9c76de3065a35dd5f85c3b0cd52211fe92</p>
 </li>
-<li>
-<p>VMware vCenter Server Appliance Update Bundle<br>
-Filename: VMware-vCenter-Server-Appliance-6.7.0.48000-18010531-updaterepo.zip<br>
-Build: 18010531<br>
-Size: 2.03 GB<br>
-MD5: 2a98c311cd0ef70e62ae296e22fbc304<br>
-SHA1SUM: a248c480228aa7b8418afbdc27ee9ed368532292<br>
-SHA256SUM: 58eb96ece39129489b31e426480365dd85cc3399c58934f03cc5f5e6d9bea791</p>
+<li><p>VMware vCenter Server Appliance Update Bundle<br>Filename: VMware-vCenter-Server-Appliance-6.7.0.48000-18010531-updaterepo.zip<br>Build: 18010531<br>Size: 2.03 GB<br>MD5: 2a98c311cd0ef70e62ae296e22fbc304<br>SHA1SUM: a248c480228aa7b8418afbdc27ee9ed368532292<br>SHA256SUM: 58eb96ece39129489b31e426480365dd85cc3399c58934f03cc5f5e6d9bea791</p>
 </li>
-<li>
-<p>Patch for VMware vCenter Server Appliance<br>
-Filename: VMware-vCenter-Server-Appliance-6.7.0.48000-18010531-patch-FP.iso<br>
-Build: 18010531<br>
-Size: 1.90 GB<br>
-MD5: 796b72376e7358d9cd68ac43a255a91f<br>
-SHA1: f8a72d8815a17c87cdea5e4d3e9cae8dff543ac1<br>
-SHA256: 1152c4bd7d260af358610568264f7818e0041f7589d30bd9f3aad895d5f53dfd</p>
+<li><p>Patch for VMware vCenter Server Appliance<br>Filename: VMware-vCenter-Server-Appliance-6.7.0.48000-18010531-patch-FP.iso<br>Build: 18010531<br>Size: 1.90 GB<br>MD5: 796b72376e7358d9cd68ac43a255a91f<br>SHA1: f8a72d8815a17c87cdea5e4d3e9cae8dff543ac1<br>SHA256: 1152c4bd7d260af358610568264f7818e0041f7589d30bd9f3aad895d5f53dfd</p>
 </li>
-<li>
-<p>VMware vCenter Server and modules for Windows<br>
-Filename: VMware-VIM-all-6.7.0-18010531.iso<br>
-Build: 18010531<br>
-Size: 2.13 GB<br>
-MD5: 2620e60180d1a01d081248d538180ad5<br>
-SHA1: e6e8886f9906bbb99bb5b78ae0d873af07c8bfdc<br>
-SHA256: 65071c3c716b5cd3ad87fe1fb0029f71ef7e7b73f383340c0bbefb4c05dfe9db</p>
+<li><p>VMware vCenter Server and modules for Windows<br>Filename: VMware-VIM-all-6.7.0-18010531.iso<br>Build: 18010531<br>Size: 2.13 GB<br>MD5: 2620e60180d1a01d081248d538180ad5<br>SHA1: e6e8886f9906bbb99bb5b78ae0d873af07c8bfdc<br>SHA256: 65071c3c716b5cd3ad87fe1fb0029f71ef7e7b73f383340c0bbefb4c05dfe9db</p>
 </li>
 </ul>
-<p><strong>VMware vCenter Server 6.5U3p：</strong><br>
-百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1H-aPbAB--VQG36b6Q7bXKA">https://pan.baidu.com/s/1H-aPbAB--VQG36b6Q7bXKA</a>  提取码：b8ol</p>
+<p><strong>VMware vCenter Server 6.5U3p：</strong><br>  百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1H-aPbAB--VQG36b6Q7bXKA">https://pan.baidu.com/s/1H-aPbAB--VQG36b6Q7bXKA</a>  提取码：b8ol</p>
 <ul>
-<li>
-<p>VMware vCenter Server Appliance<br>
-Filename: VMware-VCSA-all-6.5.0-17994927.iso<br>
-Build: 17994927<br>
-Size: 3.85 GB<br>
-MD5: f87e533165082faefa2fc59e8d809726<br>
-SHA1: b8e3864990888fd29ccaabbf9cd6aadb72291156<br>
-SHA256: c35a8494ecd1860e23e2d115ed7be9b25606ba3d3b2d2164882141165f727a09</p>
+<li><p>VMware vCenter Server Appliance<br>Filename: VMware-VCSA-all-6.5.0-17994927.iso<br>Build: 17994927<br>Size: 3.85 GB<br>MD5: f87e533165082faefa2fc59e8d809726<br>SHA1: b8e3864990888fd29ccaabbf9cd6aadb72291156<br>SHA256: c35a8494ecd1860e23e2d115ed7be9b25606ba3d3b2d2164882141165f727a09</p>
 </li>
-<li>
-<p>VMware vCenter Server Appliance Update Bundle<br>
-Filename: VMware-vCenter-Server-Appliance-6.5.0.35000-17994927-updaterepo.zip<br>
-Build: 17994927<br>
-Size: 1.73 GB<br>
-MD5: 60682f44c3442290671f5d6ae4859fd6<br>
-SHA1: b4f540c037d43cf434379d15cde35396596cb7b9<br>
-SHA256: a1dc67aba3532735360d94daf1bd2b11f57b6a2607f9d413d626cec1f27d7df9</p>
+<li><p>VMware vCenter Server Appliance Update Bundle<br>Filename: VMware-vCenter-Server-Appliance-6.5.0.35000-17994927-updaterepo.zip<br>Build: 17994927<br>Size: 1.73 GB<br>MD5: 60682f44c3442290671f5d6ae4859fd6<br>SHA1: b4f540c037d43cf434379d15cde35396596cb7b9<br>SHA256: a1dc67aba3532735360d94daf1bd2b11f57b6a2607f9d413d626cec1f27d7df9</p>
 </li>
-<li>
-<p>Patch for VMware vCenter Server Appliance<br>
-Filename: VMware-vCenter-Server-Appliance-6.5.0.35000-17994927-patch-FP.iso<br>
-Build: 17994927<br>
-Size: 1.59 GB<br>
-MD5: 6aba95342399ac396c1e793370924620<br>
-SHA1: c9778304ec0dd4f02574aaf3295346a4369dbd76<br>
-SHA256: d89bb95bd47a6456388992a78a8a3baf41d06dd352045c4a31b415b9900f1e0e</p>
+<li><p>Patch for VMware vCenter Server Appliance<br>Filename: VMware-vCenter-Server-Appliance-6.5.0.35000-17994927-patch-FP.iso<br>Build: 17994927<br>Size: 1.59 GB<br>MD5: 6aba95342399ac396c1e793370924620<br>SHA1: c9778304ec0dd4f02574aaf3295346a4369dbd76<br>SHA256: d89bb95bd47a6456388992a78a8a3baf41d06dd352045c4a31b415b9900f1e0e</p>
 </li>
-<li>
-<p>VMware vCenter Server and modules for Windows<br>
-Filename: VMware-VIM-all-6.5.0-17994927.iso<br>
-Build: 17994927<br>
-Size: 2.34 GB<br>
-MD5: ee54993af477bcf11bf7bb03c1c46bd7<br>
-SHA1: a25ec149e398a4252adf0d4ec5b71b1c771a97b3<br>
-SHA256: 0f6b14a27be8e45b5c336907f5f84ea44ab7ba9b06ff8dd56984f7c5ff2967eb</p>
+<li><p>VMware vCenter Server and modules for Windows<br>Filename: VMware-VIM-all-6.5.0-17994927.iso<br>Build: 17994927<br>Size: 2.34 GB<br>MD5: ee54993af477bcf11bf7bb03c1c46bd7<br>SHA1: a25ec149e398a4252adf0d4ec5b71b1c771a97b3<br>SHA256: 0f6b14a27be8e45b5c336907f5f84ea44ab7ba9b06ff8dd56984f7c5ff2967eb</p>
 </li>
 </ul>
 
@@ -776,6 +696,24 @@ SHA256: 0f6b14a27be8e45b5c336907f5f84ea44ab7ba9b06ff8dd56984f7c5ff2967eb</p>
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/vmware-vcenter-update/" class="leancloud-visitors" data-flag-title="vCenter Server 7.0 U2b/6.7 U3n/6.5 U3p，修复 vSphere Client 高危安全漏洞">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -808,7 +746,7 @@ SHA256: 0f6b14a27be8e45b5c336907f5f84ea44ab7ba9b06ff8dd56984f7c5ff2967eb</p>
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%A8%81%E8%83%81%E6%8F%8F%E8%BF%B0"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">威胁描述</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#vSphere-Client-%E4%B8%AD%E7%9A%84-VMware-vCenter-Server-%E6%9B%B4%E6%96%B0%E5%9C%B0%E5%9D%80%E8%BF%9C%E7%A8%8B%E6%89%A7%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2021-21985%EF%BC%89"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">vSphere Client 中的 VMware vCenter Server 更新地址远程执行代码漏洞（CVE-2021-21985）</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#vCenter-Server-%E6%8F%92%E4%BB%B6%E4%B8%AD%E7%9A%84%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E6%9C%BA%E5%88%B6%E9%97%AE%E9%A2%98%EF%BC%88CVE-2021-21986%EF%BC%89"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">vCenter Server 插件中的身份验证机制问题（CVE-2021-21986）</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-346"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%A8%81%E8%83%81%E6%8F%8F%E8%BF%B0"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">威胁描述</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#vSphere-Client-%E4%B8%AD%E7%9A%84-VMware-vCenter-Server-%E6%9B%B4%E6%96%B0%E5%9C%B0%E5%9D%80%E8%BF%9C%E7%A8%8B%E6%89%A7%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2021-21985%EF%BC%89"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">vSphere Client 中的 VMware vCenter Server 更新地址远程执行代码漏洞（CVE-2021-21985）</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#vCenter-Server-%E6%8F%92%E4%BB%B6%E4%B8%AD%E7%9A%84%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E6%9C%BA%E5%88%B6%E9%97%AE%E9%A2%98%EF%BC%88CVE-2021-21986%EF%BC%89"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">vCenter Server 插件中的身份验证机制问题（CVE-2021-21986）</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -980,7 +918,7 @@ SHA256: 0f6b14a27be8e45b5c336907f5f84ea44ab7ba9b06ff8dd56984f7c5ff2967eb</p>
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -1056,7 +994,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

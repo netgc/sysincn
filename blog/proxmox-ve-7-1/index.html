@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> Proxmox Virtual Environment (Proxmox VE) 7.1 - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> Proxmox Virtual Environment (Proxmox VE) 7.1 - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" Proxmox Virtual Environment (Proxmox VE) 7.1 - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" Proxmox Virtual Environment (Proxmox VE) 7.1 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/proxmox-ve-7-1/">
+  <link rel="canonical" href="https://sysin.org/blog/proxmox-ve-7-1/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -224,8 +227,6 @@
 
           
           
-          
-          
           <li>
             <a href="/about/">
               
@@ -234,6 +235,8 @@
               
             </a>
           </li>
+          
+          
           
           
           
@@ -459,14 +462,13 @@
         
 
         <p>请访问原文链接：<a href="/blog/proxmox-ve-7/" title="Proxmox Virtual Environment (Proxmox VE) 7.0 发布">Proxmox Virtual Environment (Proxmox VE) 7.0 发布</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p><img src="https://sysin.org/blog/proxmox-ve-7/proxmox-logo.webp" alt="proxmox-logo"></p>
 <p>奥地利维也纳 – 2021 年 11 月 17 日 – 企业软件开发商 Proxmox Server Solutions GmbH（以下简称 “Proxmox”）今天发布了其服务器虚拟化管理平台 Proxmox Virtual Environment 的 7.1 版。新版本基于 <strong>Debian Bullseye 11.1</strong>，但使用更新的 <strong>Linux 内核 5.13</strong>，并包括对用于虚拟环境的领先开源技术的最新版本的更新，例如 QEMU 6.1、LXC 4.0、Ceph Pacific 16.2.6 和 ZFS 2.1。</p>
 <p>Proxmox Virtual Environment 7.1 具有多项新功能：支持包括 TPM 在内的 Windows 11、增强的虚拟机 / 容器创建向导、在 GUI 中为每个备份作业设置备份保留策略的能力、支持更灵活计划的新调度程序守护程序 (sysin)、许多改进 Web 界面中的管理任务，以及显着的错误修复。</p>
-<h2 id="Proxmox-VE-7-1-的新功能">Proxmox VE 7.1 的新功能</h2>
-<ul>
+<h2 id="Proxmox-VE-7-1-的新功能"><a href="#Proxmox-VE-7-1-的新功能" class="headerlink" title="Proxmox VE 7.1 的新功能"></a>Proxmox VE 7.1 的新功能</h2><ul>
 <li>通过 GUI 设置每个备份作业的备份保留时间：这允许用户不仅从 API 和 CLI 还从 Web 界面为每个备份作业设置智能备份策略。</li>
 <li>备份作业的高级调度选项：Proxmox VE 中的备份作业现在由一个名为 pvescheduler 的新调度程序守护程序运行，它支持更灵活的调度选项。这从 Proxmox 备份服务器中的验证和垃圾收集作业中已经知道（这反过来又受到 systemd-timers 的启发）。此外，备份可以标记为受保护，这将防止它们被修剪或手动删除，而无需先删除受保护的标志。</li>
 <li>对于虚拟机，此版本支持将可信平台模块 (TPM) 2.0 添加到任何 VM。除此之外，这允许用户安装和运行 Windows 11。可以通过 Web 界面中的复选框轻松添加 TPM。此外，UEFI 安全启动功能现已内置并在底层 QEMU 包中启用；更新的安装向导允许您选择 TPM v2.0 和 UEFI。新创建的 VM 支持安全启动验证 (sysin)，可以选择预先注册 Linux 发行版和 Microsoft 密钥。</li>
@@ -485,17 +487,14 @@
 <p>可以通过 APT 从旧版本的 Proxmox VE 进行分发升级。也可以在 Debian Bullseye 之上安装 Proxmox VE 7.1。</p>
 <p>对于企业用户，Proxmox Server Solutions GmbH 提供基于订阅的支持模型，该模型提供对企业存储库的访问，通过 Web 界面定期更新，以及<a target="_blank" rel="noopener" href="https://www.proxmox.com/en/proxmox-ve/pricing">直接来自开发人员的技术支持</a>。价格从 90 欧元每年和 CPU 起。</p>
 <p>Forum Announcement: <a target="_blank" rel="noopener" href="https://forum.proxmox.com/threads/proxmox-ve-7-1-released.99847/">https://forum.proxmox.com/threads/proxmox-ve-7-1-released.99847</a></p>
-<h2 id="关于-Proxmox">关于 Proxmox</h2>
-<p>概况</p>
+<h2 id="关于-Proxmox"><a href="#关于-Proxmox" class="headerlink" title="关于 Proxmox"></a>关于 Proxmox</h2><p>概况</p>
 <p>开源项目 Proxmox VE 拥有庞大的全球用户群，拥有超过 600,000 台主机。该虚拟化平台已被翻译成超过 26 种语言。支持论坛中有超过 88,000 名活跃的社区成员参与并互相帮助。通过使用 Proxmox VE 作为专有虚拟化管理解决方案的替代方案，企业能够集中化和现代化其 IT 基础架构，并将其转变为基于最新开源技术的经济高效且灵活的软件定义数据中心。数以万计的客户依赖 Proxmox Server Solutions GmbH 的企业支持订阅。</p>
 <p>关于 Proxmox 虚拟环境</p>
 <p>Proxmox 虚拟环境 (Proxmox VE) 是用于全包式企业虚拟化的领先开源平台。借助中央 Web 界面，您可以轻松运行虚拟机和容器、管理软件定义的存储和网络功能、高可用性集群以及多个集成的开箱即用工具，例如备份/恢复、实时迁移、复制和防火墙。企业使用功能强大且易于管理的一体化解决方案来满足当今现代数据中心的核心需求。Proxmox VE 凭借其灵活、模块化和开放的架构，使他们能够适应未来的增长。</p>
 <p>关于 Proxmox 服务器解决方案</p>
 <p>Proxmox 是功能强大且易于使用的开源服务器软件提供商。企业，无论规模、部门或行业，都使用稳定、安全和可扩展的 Proxmox 解决方案来部署高效、敏捷和简化的 IT 基础架构，最大限度地降低总拥有成本，并避免供应商锁定。Proxmox 还提供商业支持和培训服务，以确保其客户的业务连续性。Proxmox Server Solutions GmbH 成立于 2005 年，总部位于奥地利维也纳。</p>
-<h2 id="下载地址-221">下载地址</h2>
-<p>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1ui4fkVO_cdVFhqlTSB1WVw">https://pan.baidu.com/s/1ui4fkVO_cdVFhqlTSB1WVw</a>  提取码：i0vn</p>
-<p>Filename: proxmox-ve_7.1-1.iso<br>
-SHA256SUM: 40e4351863c556bcb5b187f18caad175327e8b32655c5c2ac89111f7fd943163</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1ui4fkVO_cdVFhqlTSB1WVw">https://pan.baidu.com/s/1ui4fkVO_cdVFhqlTSB1WVw</a>  提取码：i0vn</p>
+<p>Filename: proxmox-ve_7.1-1.iso<br>SHA256SUM: 40e4351863c556bcb5b187f18caad175327e8b32655c5c2ac89111f7fd943163</p>
 
 
         <hr>
@@ -582,6 +581,24 @@ SHA256SUM: 40e4351863c556bcb5b187f18caad175327e8b32655c5c2ac89111f7fd943163</p>
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
 
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/proxmox-ve-7-1/" class="leancloud-visitors" data-flag-title="Proxmox Virtual Environment (Proxmox VE) 7.1">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
+
 
 <!-- 1. gitalk comment -->
 
@@ -614,7 +631,7 @@ SHA256SUM: 40e4351863c556bcb5b187f18caad175327e8b32655c5c2ac89111f7fd943163</p>
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Proxmox-VE-7-1-%E7%9A%84%E6%96%B0%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">Proxmox VE 7.1 的新功能</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%85%B3%E4%BA%8E-Proxmox"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">关于 Proxmox</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-221"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Proxmox-VE-7-1-%E7%9A%84%E6%96%B0%E5%8A%9F%E8%83%BD"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">Proxmox VE 7.1 的新功能</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%85%B3%E4%BA%8E-Proxmox"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">关于 Proxmox</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>
@@ -784,7 +801,7 @@ SHA256SUM: 40e4351863c556bcb5b187f18caad175327e8b32655c5c2ac89111f7fd943163</p>
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -860,7 +877,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 

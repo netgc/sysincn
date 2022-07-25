@@ -40,18 +40,16 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="google-site-verification=UbfkfOrOZUHeYkdKUI4LtG6Jlzhd-uC0fxPNqfvS4aI"/>
-  
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> macOS Catalina 提示：“应用名称” 已损坏，无法打开的解决方法总结 - sysin.cn | SYStem INside | 数据中心系统内幕 </title>
+  <title> macOS Catalina 提示：“应用名称” 已损坏，无法打开的解决方法总结 - sysin | SYStem INside | 数据中心系统内幕 </title>
   <meta name="description" content=" macOS Catalina 提示：“应用名称” 已损坏，无法打开的解决方法总结 - sysin：SYStem INside，数据中心系统内幕 "/>
   <meta name="keyword" content=" macOS Catalina 提示：“应用名称” 已损坏，无法打开的解决方法总结 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/macos-catalina-if-crashes-when-opening/">
+  <link rel="canonical" href="https://sysin.org/blog/macos-catalina-if-crashes-when-opening/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script>
@@ -109,6 +107,11 @@
       <!-- ThemeColor end -->
     
 
+    
+      <!-- vcomments start -->
+      <script type="text/javascript" src="/js/valine.min.js"></script>
+      <!-- <script type="text/javascript" src="https//unpkg.com/valine/dist/Valine.min.js"></script> -->
+      <!-- vcomments end -->
     
 
     
@@ -224,8 +227,6 @@
 
           
           
-          
-          
           <li>
             <a href="/about/">
               
@@ -234,6 +235,8 @@
               
             </a>
           </li>
+          
+          
           
           
           
@@ -461,12 +464,11 @@
         
 
         <p>请访问原文链接：<a href="/blog/macos-catalina-if-crashes-when-opening/" title="macOS Catalina 提示：“应用名称” 已损坏，无法打开的解决方法总结">macOS Catalina 提示：“应用名称” 已损坏，无法打开的解决方法总结</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">www.sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">www.sysin.org</a></p>
 <p>抄袭者 <strong>macz</strong>、<strong>qq_23930765</strong>、<strong>hanzheng260561728</strong> 请远离本站！！！</p>
 <hr>
 <p>说明：本文描述问题同样适用于其他版本的 macOS，因历史原因在 Catalina 中出现问题的情况最多。</p>
-<h2 id="现象">现象</h2>
-<p>提示：“应用名称” 已损坏，无法打开。您应该将它移到废纸篓。</p>
+<h2 id="现象"><a href="#现象" class="headerlink" title="现象"></a>现象</h2><p>提示：“应用名称” 已损坏，无法打开。您应该将它移到废纸篓。</p>
 <p><img src="dialog-1.webp" alt="dialog-1"></p>
 <p>提示：“应用名称” 已损坏，无法打开。您应该推出磁盘映像。(在 DMG 中双击 App 出现的提示，与上面是一种情况)</p>
 <p><img src="dialog-2.webp" alt="dialog-2"></p>
@@ -475,27 +477,22 @@
 <p>提示：“应用名称” 将对您的电脑造成伤害。您应该将它移到废纸篓。</p>
 <p><img src="dialog-4.webp" alt="dialog-4"></p>
 <hr>
-<h2 id="解决方法">解决方法</h2>
-<h3 id="1-允许-“任何来源”-下载的-App-运行">1. 允许 “任何来源” 下载的 App 运行</h3>
-<p>打开 “终端” 执行如下命令：</p>
+<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><h3 id="1-允许-“任何来源”-下载的-App-运行"><a href="#1-允许-“任何来源”-下载的-App-运行" class="headerlink" title="1. 允许 “任何来源” 下载的 App 运行"></a>1. 允许 “任何来源” 下载的 App 运行</h3><p>打开 “终端” 执行如下命令：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo spctl --master-disable</span><br></pre></td></tr></table></figure>
-<h3 id="2-重新签名">2. 重新签名</h3>
-<p>第一步一般都已经执行了，之前 App 运行也是正常的，很多和谐软件来自 TNT，Apple 移除了 TNT 的证书，所以出现报错。</p>
+<h3 id="2-重新签名"><a href="#2-重新签名" class="headerlink" title="2. 重新签名"></a>2. 重新签名</h3><p>第一步一般都已经执行了，之前 App 运行也是正常的，很多和谐软件来自 TNT，Apple 移除了 TNT 的证书，所以出现报错。</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">codesign --force --deep --sign - /Applications/name.app</span><br></pre></td></tr></table></figure>
 <p><strong>Requisite</strong>: Command Line Tools for Xcode</p>
 <p>打开终端执行命令在线安装：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">xcode-select --install</span><br></pre></td></tr></table></figure>
 <p>也可以到这里下载 Command Line Tools for Xcode：<a href="/blog/apple-xcode-12/" title="Apple Xcode 12.5 (12E262) 正式版">Apple Xcode 12.5 (12E262) 正式版</a></p>
 <p>执行后一般可以正常运行了 (sysin)，如果仍然提示已损坏，继续下一步。</p>
-<h3 id="3-移除这个应用的安全隔离属性">3. 移除这个应用的安全隔离属性</h3>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo xattr -r -d com.apple.quarantine /Applications/name.app</span><br></pre></td></tr></table></figure>
+<h3 id="3-移除这个应用的安全隔离属性"><a href="#3-移除这个应用的安全隔离属性" class="headerlink" title="3. 移除这个应用的安全隔离属性"></a>3. 移除这个应用的安全隔离属性</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo xattr -r -d com.apple.quarantine /Applications/name.app</span><br></pre></td></tr></table></figure>
 <p>若提示：无法打开 “应用名称”，因为无法验证开发者。macOS 无法验证此 App 不包含恶意软件。</p>
 <p>可以忽略第二步操作，直接第三步。</p>
 <blockquote>
 <p>提示：可以将 App 重新打包制作 DMG 文件 (sysin)，保存或者在其他电脑上使用。</p>
 </blockquote>
-<h3 id="4-覆盖恶意软件保护">4. 覆盖恶意软件保护</h3>
-<p>还有一种情况，</p>
+<h3 id="4-覆盖恶意软件保护"><a href="#4-覆盖恶意软件保护" class="headerlink" title="4. 覆盖恶意软件保护"></a>4. 覆盖恶意软件保护</h3><p>还有一种情况，</p>
 <p>提示：“应用名称” 将对您的电脑造成伤害。您应该将它移到废纸篓。</p>
 <p>步骤 2 和 3 操作是无效的。</p>
 <p>解决办法：</p>
@@ -588,6 +585,24 @@
 
         <!-- comments start -->
         <!-- 0. valine comment (by gc@sysin.org)-->
+
+  <!-- vcomments Srtart -->
+  <div id="vcomments"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'P6lStzytPVPRKnp87znJpE3m-MdYXbMMI',
+          appKey: 'GpBUyUcHFrnp34Vousnsp3H5',
+          serverURLs: 'https://p6lstzyt.api.lncldglobal.com',
+          requiredFields: ['nick','mail'],
+          visitor: 'true'
+      })
+  </script>
+  <div style="color:gray" align="right" id="/blog/macos-catalina-if-crashes-when-opening/" class="leancloud-visitors" data-flag-title="macOS Catalina 提示：“应用名称” 已损坏，无法打开的解决方法总结">
+    <em class="post-meta-item-text">visitors: </em>
+    <i class="leancloud-visitors-count">1000000</i>
+  </div>
+  <!-- vcomments End -->
 
 
 <!-- 1. gitalk comment -->
@@ -793,7 +808,7 @@
           </span>
           Powered by <a href="https://github.com/" target=_blank><img border="0" src="/img/github.png"></a>
           <br>
-           <a href="https://beian.miit.gov.cn/" target=_blank>沪ICP备20024865号-1</a> 
+          
       </p>
       </div>
     </div>
@@ -869,7 +884,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
