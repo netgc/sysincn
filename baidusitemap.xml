@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.cn/blog/cisco-ios-xrv-9000/</loc>
+    <lastmod>2024-03-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/cisco-isr-1000/</loc>
+    <lastmod>2024-03-28</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/vmware-sd-wan-5-2/</loc>
     <lastmod>2024-03-28</lastmod>
   </url>
@@ -29,10 +37,6 @@
     <lastmod>2024-03-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/cisco-ios-xrv-9000/</loc>
-    <lastmod>2024-03-28</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/vmware-sd-wan-5/</loc>
     <lastmod>2024-03-28</lastmod>
   </url>
@@ -42,10 +46,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/cisco/</loc>
-    <lastmod>2024-03-28</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/cisco-isr-1000/</loc>
     <lastmod>2024-03-28</lastmod>
   </url>
   <url>
