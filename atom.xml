@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>sysin</title>
+  <icon>https://sysin.org/img/favicon.png</icon>
+  <subtitle>SYStem INside | 软件与技术分享</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
+  
+  <link href="https://sysin.org/"/>
+  <updated>2024-08-15T05:49:00.649Z</updated>
+  <id>https://sysin.org/</id>
+  
+  <author>
+    <name>sysin</name>
+    <email>e-mail_address</email>
+  </author>
+  
+  <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Magnet DVR Examiner 3.14.0 Windows - 从监控系统 CCTV 和监控 DVR 恢复视频和元数据</title>
+    <link href="https://sysin.org/blog/magnet-dvr-examiner/"/>
+    <id>https://sysin.org/blog/magnet-dvr-examiner/</id>
+    <published>2024-08-15T05:36:45.000Z</published>
+    <updated>2024-08-15T05:49:00.649Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-dvr-examiner/&quot; title=&quot;Magnet DVR Examiner 3.14.0 Windows - 从监控系统 CCTV 和监控 DVR 恢复视频和元数据&quot;&gt;Magnet DVR Examiner 3.14.0 Windows - 从监控系统 CCTV 和监控 DVR 恢复视频和元数据&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Apple Final Cut Pro 10.8.1 - 专业后期制作 (视频编辑)</title>
+    <link href="https://sysin.org/blog/apple-final-cut-pro/"/>
+    <id>https://sysin.org/blog/apple-final-cut-pro/</id>
+    <published>2024-08-15T05:20:00.000Z</published>
+    <updated>2024-08-15T05:10:47.594Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-final-cut-pro/&quot; title=&quot;Apple Final Cut Pro 10.8.1 - 专业后期制作 (视频编辑)&quot;&gt;Apple Final Cut Pro 10.8.1 - 专业后期制作 (视频编辑)&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nexpose v6.6.265 for Linux &amp; Windows - 漏洞扫描</title>
+    <link href="https://sysin.org/blog/nexpose-6/"/>
+    <id>https://sysin.org/blog/nexpose-6/</id>
+    <published>2024-08-15T01:18:50.000Z</published>
+    <updated>2024-08-15T01:19:03.391Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-6/&quot; title=&quot;Nexpose v6.6.265 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose v6.6.265 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vCenter Server 8.0U3 OVF：在 Fusion 和 Workstation 中快速部署 vCSA</title>
+    <link href="https://sysin.org/blog/vmware-vcenter-8-ovf/"/>
+    <id>https://sysin.org/blog/vmware-vcenter-8-ovf/</id>
+    <published>2024-08-14T01:18:09.000Z</published>
+    <updated>2024-08-14T01:37:48.758Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-vcenter-8-ovf/&quot; title=&quot;vCenter Server 8.0U3 OVF：在 Fusion 和 Workstation 中快速部署 vCSA&quot;&gt;vCenter Server 8.0U3 OVF：在 Fusion 和 Workstation 中快速部署 vCSA&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Xcode 16.1 beta (16B5001e) - Apple 平台 IDE</title>
+    <link href="https://sysin.org/blog/apple-xcode-16/"/>
+    <id>https://sysin.org/blog/apple-xcode-16/</id>
+    <published>2024-08-13T02:13:00.000Z</published>
+    <updated>2024-08-13T03:36:12.747Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-xcode-16/&quot; title=&quot;Xcode 16.1 beta (16B5001e) - Apple 平台 IDE&quot;&gt;Xcode 16.1 beta (16B5001e) - Apple 平台 IDE&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+    <category term="iOS" scheme="https://sysin.org/tags/iOS/"/>
+    
+    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS Sequoia 15.1 beta 2 (24B5024e) Boot ISO 原版可引导镜像下载</title>
+    <link href="https://sysin.org/blog/macOS-Sequoia-boot-iso/"/>
+    <id>https://sysin.org/blog/macOS-Sequoia-boot-iso/</id>
+    <published>2024-08-13T01:22:00.000Z</published>
+    <updated>2024-08-15T05:44:03.533Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Sequoia-boot-iso/&quot; title=&quot;macOS Sequoia 15.1 beta 2 (24B5024e) Boot ISO 原版可引导镜像下载&quot;&gt;macOS Sequoia 15.1 beta 2 (24B5024e) Boot ISO 原版可引导镜像下载&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS Sequoia 15.1 beta 2 (24B5024e) ISO、IPSW、PKG 下载</title>
+    <link href="https://sysin.org/blog/macOS-Sequoia/"/>
+    <id>https://sysin.org/blog/macOS-Sequoia/</id>
+    <published>2024-08-13T01:20:00.000Z</published>
+    <updated>2024-08-15T05:44:12.507Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Sequoia/&quot; title=&quot;macOS Sequoia 15.1 beta 2 (24B5024e) ISO、IPSW、PKG 下载&quot;&gt;macOS Sequoia 15.1 beta 2 (24B5024e) ISO、IPSW、PKG 下载&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cisco Identity Services Engine (ISE) 3.4 - 基于身份的网络访问控制和策略实施系统</title>
+    <link href="https://sysin.org/blog/cisco-ise-3/"/>
+    <id>https://sysin.org/blog/cisco-ise-3/</id>
+    <published>2024-08-13T01:10:58.000Z</published>
+    <updated>2024-08-13T01:08:31.828Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-ise-3/&quot; title=&quot;Cisco Identity Services Engine (ISE) 3.4 - 基于身份的网络访问控制和策略实施系统&quot;&gt;Cisco Identity Services Engine (ISE) 3.4 - 基于身份的网络访问控制和策略实施系统&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="ISE" scheme="https://sysin.org/tags/ISE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cisco Catalyst 8000v Edge Software, IOS XE Release IOSXE-17.14.01a ED</title>
+    <link href="https://sysin.org/blog/cisco-catalyst-8000v/"/>
+    <id>https://sysin.org/blog/cisco-catalyst-8000v/</id>
+    <published>2024-08-13T01:08:01.000Z</published>
+    <updated>2024-08-13T01:08:29.667Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-8000v/&quot; title=&quot;Cisco Catalyst 8000v Edge Software, IOS XE Release IOSXE-17.14.01a ED&quot;&gt;Cisco Catalyst 8000v Edge Software, IOS XE Release IOSXE-17.14.01a ED&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    
+    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PVS‑Studio 7.32 for macOS, Linux &amp; Windows - 代码质量安全静态分析</title>
+    <link href="https://sysin.org/blog/pvs-studio/"/>
+    <id>https://sysin.org/blog/pvs-studio/</id>
+    <published>2024-08-12T05:35:00.000Z</published>
+    <updated>2024-08-12T07:42:42.289Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/pvs-studio/&quot; title=&quot;PVS‑Studio 7.32 for macOS, Linux &amp;amp; Windows - 代码质量安全静态分析&quot;&gt;PVS‑Studio 7.32 for macOS, Linux &amp;amp; Windows - 代码质量安全静态分析&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Wolfram Mathematica 14.1 macOS Universal - 现代科学计算</title>
+    <link href="https://sysin.org/blog/mathematica/"/>
+    <id>https://sysin.org/blog/mathematica/</id>
+    <published>2024-08-11T05:52:44.000Z</published>
+    <updated>2024-08-11T07:32:57.465Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/mathematica/&quot; title=&quot;Wolfram Mathematica 14.1 macOS Universal - 现代科学计算&quot;&gt;Wolfram Mathematica 14.1 macOS Universal - 现代科学计算&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Aug 2024) - 下一代 Windows 11 Server</title>
+    <link href="https://sysin.org/blog/windows-server-2025/"/>
+    <id>https://sysin.org/blog/windows-server-2025/</id>
+    <published>2024-08-11T01:25:15.000Z</published>
+    <updated>2024-08-11T02:08:54.247Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2025/&quot; title=&quot;Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Aug 2024) - 下一代 Windows 11 Server&quot;&gt;Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Aug 2024) - 下一代 Windows 11 Server&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Magnet AXIOM 8.0 Windows x64 Multilingual - 数字取证与分析</title>
+    <link href="https://sysin.org/blog/magnet-axiom/"/>
+    <id>https://sysin.org/blog/magnet-axiom/</id>
+    <published>2024-08-10T02:35:45.000Z</published>
+    <updated>2024-08-10T02:49:11.624Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-axiom/&quot; title=&quot;Magnet AXIOM 8.0 Windows x64 Multilingual - 数字取证与分析&quot;&gt;Magnet AXIOM 8.0 Windows x64 Multilingual - 数字取证与分析&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JetBrains IntelliJ IDEA 2024.2 (macOS, Linux, Windows) - 领先的 Java 和 Kotlin IDE</title>
+    <link href="https://sysin.org/blog/jetbrains-idea/"/>
+    <id>https://sysin.org/blog/jetbrains-idea/</id>
+    <published>2024-08-08T05:10:35.000Z</published>
+    <updated>2024-08-10T02:43:08.314Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jetbrains-idea/&quot; title=&quot;JetBrains IntelliJ IDEA 2024.2 (macOS, Linux, Windows) - 领先的 Java 和 Kotlin IDE&quot;&gt;JetBrains IntelliJ IDEA 2024.2 (macOS, Linux, Windows) - 领先的 Java 和 Kotlin IDE&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    
+    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS Sonoma 14.6.1 (23G93) Boot ISO 原版可引导镜像下载</title>
+    <link href="https://sysin.org/blog/macOS-Sonoma-boot-iso/"/>
+    <id>https://sysin.org/blog/macOS-Sonoma-boot-iso/</id>
+    <published>2024-08-08T01:10:20.000Z</published>
+    <updated>2024-08-10T02:43:04.964Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Sonoma-boot-iso/&quot; title=&quot;macOS Sonoma 14.6.1 (23G93) Boot ISO 原版可引导镜像下载&quot;&gt;macOS Sonoma 14.6.1 (23G93) Boot ISO 原版可引导镜像下载&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS Sonoma 14.6.1 (23G93) 正式版 ISO、IPSW、PKG 下载</title>
+    <link href="https://sysin.org/blog/macOS-Sonoma/"/>
+    <id>https://sysin.org/blog/macOS-Sonoma/</id>
+    <published>2024-08-08T01:10:00.000Z</published>
+    <updated>2024-08-11T01:25:04.510Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Sonoma/&quot; title=&quot;macOS Sonoma 14.6.1 (23G93) 正式版 ISO、IPSW、PKG 下载&quot;&gt;macOS Sonoma 14.6.1 (23G93) 正式版 ISO、IPSW、PKG 下载&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS Ventura 13.6.9 (22G830) Boot ISO 原版可引导镜像下载</title>
+    <link href="https://sysin.org/blog/macOS-Ventura-boot-iso/"/>
+    <id>https://sysin.org/blog/macOS-Ventura-boot-iso/</id>
+    <published>2024-08-08T01:08:20.000Z</published>
+    <updated>2024-08-10T02:43:01.763Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Ventura-boot-iso/&quot; title=&quot;macOS Ventura 13.6.9 (22G830) Boot ISO 原版可引导镜像下载&quot;&gt;macOS Ventura 13.6.9 (22G830) Boot ISO 原版可引导镜像下载&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS Ventura 13.6.9 (22G830) 正式版 ISO、IPSW、PKG 下载</title>
+    <link href="https://sysin.org/blog/macOS-Ventura/"/>
+    <id>https://sysin.org/blog/macOS-Ventura/</id>
+    <published>2024-08-08T01:08:00.000Z</published>
+    <updated>2024-08-10T02:43:03.549Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Ventura/&quot; title=&quot;macOS Ventura 13.6.9 (22G830) 正式版 ISO、IPSW、PKG 下载&quot;&gt;macOS Ventura 13.6.9 (22G830) 正式版 ISO、IPSW、PKG 下载&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Omnissa Horizon 8 2406 (8.13) 发布 - 虚拟桌面基础架构 (VDI) 和应用软件</title>
+    <link href="https://sysin.org/blog/omnissa-horizon-8/"/>
+    <id>https://sysin.org/blog/omnissa-horizon-8/</id>
+    <published>2024-08-06T05:30:00.000Z</published>
+    <updated>2024-08-10T02:43:07.027Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/omnissa-horizon-8/&quot; title=&quot;Omnissa Horizon 8 2406 (8.13) 发布 - 虚拟桌面基础架构 (VDI) 和应用软件&quot;&gt;Omnissa Horizon 8 2406 (8.13) 发布 - 虚拟桌面基础架构 (VDI) 和应用软件&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+    <category term="Horizon" scheme="https://sysin.org/tags/Horizon/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTTP 协议与安全</title>
+    <link href="https://sysin.org/blog/http/"/>
+    <id>https://sysin.org/blog/http/</id>
+    <published>2024-08-06T05:20:00.000Z</published>
+    <updated>2024-08-10T02:43:08.318Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/http/&quot; title=&quot;HTTP 协议与安全&quot;&gt;HTTP 协议与安全&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Unix" scheme="https://sysin.org/tags/Unix/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 产品链接汇总</title>
+    <link href="https://sysin.org/blog/linux/"/>
+    <id>https://sysin.org/blog/linux/</id>
+    <published>2024-08-06T04:30:00.000Z</published>
+    <updated>2024-08-10T02:43:05.359Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/linux/&quot; title=&quot;Linux 产品链接汇总&quot;&gt;Linux 产品链接汇总&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://sysin.org/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="RHEL" scheme="https://sysin.org/tags/RHEL/"/>
+    
+    <category term="Ubuntu" scheme="https://sysin.org/tags/Ubuntu/"/>
+    
+    <category term="Debian" scheme="https://sysin.org/tags/Debian/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cisco 产品下载链接汇总</title>
+    <link href="https://sysin.org/blog/cisco/"/>
+    <id>https://sysin.org/blog/cisco/</id>
+    <published>2024-08-06T02:10:00.000Z</published>
+    <updated>2024-08-10T02:43:08.314Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco/&quot; title=&quot;Cisco 产品下载链接汇总&quot;&gt;Cisco 产品下载链接汇总&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
+    
+    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    
+    <category term="IOS-XR" scheme="https://sysin.org/tags/IOS-XR/"/>
+    
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS 下载汇总 (系统、应用和教程)</title>
+    <link href="https://sysin.org/blog/macOS/"/>
+    <id>https://sysin.org/blog/macOS/</id>
+    <published>2024-08-06T02:01:00.000Z</published>
+    <updated>2024-08-10T02:43:03.580Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS/&quot; title=&quot;macOS 下载汇总 (系统、应用和教程)&quot;&gt;macOS 下载汇总 (系统、应用和教程)&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware 产品下载汇总</title>
+    <link href="https://sysin.org/blog/vmware/"/>
+    <id>https://sysin.org/blog/vmware/</id>
+    <published>2024-08-06T00:01:00.000Z</published>
+    <updated>2024-08-10T02:43:01.700Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware/&quot; title=&quot;VMware 产品下载汇总&quot;&gt;VMware 产品下载汇总&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cisco Secure Firewall Management Center Virtual 7.4.2 - 思科 Firepower 管理中心软件</title>
+    <link href="https://sysin.org/blog/cisco-fmc-7/"/>
+    <id>https://sysin.org/blog/cisco-fmc-7/</id>
+    <published>2024-08-05T05:56:00.000Z</published>
+    <updated>2024-08-10T02:43:08.314Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-fmc-7/&quot; title=&quot;Cisco Secure Firewall Management Center Virtual 7.4.2 - 思科 Firepower 管理中心软件&quot;&gt;Cisco Secure Firewall Management Center Virtual 7.4.2 - 思科 Firepower 管理中心软件&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cisco Secure Firewall Threat Defense Virtual 7.4.2 - 思科下一代防火墙虚拟设备 (FTDv)</title>
+    <link href="https://sysin.org/blog/cisco-firepower-7/"/>
+    <id>https://sysin.org/blog/cisco-firepower-7/</id>
+    <published>2024-08-05T05:55:00.000Z</published>
+    <updated>2024-08-10T02:43:01.761Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-firepower-7/&quot; title=&quot;Cisco Secure Firewall Threat Defense Virtual 7.4.2 - 思科下一代防火墙虚拟设备 (FTDv)&quot;&gt;Cisco Secure Firewall Threat Defense Virtual 7.4.2 - 思科下一代防火墙虚拟设备 (FTDv)&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
+    
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cisco Firepower 9300 Series FTD Software 7.4.2 &amp; ASA Software 9.20.3</title>
+    <link href="https://sysin.org/blog/cisco-firepower-9300/"/>
+    <id>https://sysin.org/blog/cisco-firepower-9300/</id>
+    <published>2024-08-05T05:22:00.000Z</published>
+    <updated>2024-08-10T02:43:01.698Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-firepower-9300/&quot; title=&quot;Cisco Firepower 9300 Series FTD Software 7.4.2 &amp;amp; ASA Software 9.20.3&quot;&gt;Cisco Firepower 9300 Series FTD Software 7.4.2 &amp;amp; ASA Software 9.20.3&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
+    
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cisco Secure Firewall 4200 Series FTD Software 7.4.2 &amp; ASA Software 9.20.3</title>
+    <link href="https://sysin.org/blog/cisco-firepower-4200/"/>
+    <id>https://sysin.org/blog/cisco-firepower-4200/</id>
+    <published>2024-08-05T05:21:00.000Z</published>
+    <updated>2024-08-10T02:43:04.488Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-firepower-4200/&quot; title=&quot;Cisco Secure Firewall 4200 Series FTD Software 7.4.2 &amp;amp; ASA Software 9.20.3&quot;&gt;Cisco Secure Firewall 4200 Series FTD Software 7.4.2 &amp;amp; ASA Software 9.20.3&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
+    
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cisco Firepower 4100 Series FTD Software 7.4.2 &amp; ASA Software 9.20.3</title>
+    <link href="https://sysin.org/blog/cisco-firepower-4100/"/>
+    <id>https://sysin.org/blog/cisco-firepower-4100/</id>
+    <published>2024-08-05T05:20:00.000Z</published>
+    <updated>2024-08-10T02:43:03.580Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-firepower-4100/&quot; title=&quot;Cisco Firepower 4100 Series FTD Software 7.4.2 &amp;amp; ASA Software 9.20.3&quot;&gt;Cisco Firepower 4100 Series FTD Software 7.4.2 &amp;amp; ASA Software 9.20.3&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
+    
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cisco Secure Firewall 3100 Series FTD Software 7.4.2 &amp; ASA Software 9.20.3</title>
+    <link href="https://sysin.org/blog/cisco-firepower-3100/"/>
+    <id>https://sysin.org/blog/cisco-firepower-3100/</id>
+    <published>2024-08-05T05:19:00.000Z</published>
+    <updated>2024-08-10T02:43:01.693Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-firepower-3100/&quot; title=&quot;Cisco Secure Firewall 3100 Series FTD Software 7.4.2 &amp;amp; ASA Software 9.20.3&quot;&gt;Cisco Secure Firewall 3100 Series FTD Software 7.4.2 &amp;amp; ASA Software 9.20.3&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
+    
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
+    
+  </entry>
+  
+</feed>
