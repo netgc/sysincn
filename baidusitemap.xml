@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/magnet-axiom/</loc>
+    <lastmod>2024-08-16</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/magnet-dvr-examiner/</loc>
     <lastmod>2024-08-15</lastmod>
   </url>
@@ -90,10 +94,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/sql-server-2022/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/magnet-axiom/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2753,11 +2753,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
+    <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
+    <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
