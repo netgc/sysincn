@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/donate/index.html</loc>
+    
+    <lastmod>2024-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/cellebrite-ufed/</loc>
     
     <lastmod>2024-08-16</lastmod>
@@ -704,7 +713,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/pan-os-10/</loc>
+    <loc>https://sysin.cn/blog/parallels-desktop-18/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -713,7 +722,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/parallels-desktop-18/</loc>
+    <loc>https://sysin.cn/blog/pan-os-10/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6905,15 +6914,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/donate/index.html</loc>
-    
-    <lastmod>2024-06-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/about/index.html</loc>
     
     <lastmod>2024-03-27</lastmod>
@@ -7303,7 +7303,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Dell/</loc>
+    <loc>https://sysin.cn/tags/DellEMC/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7317,7 +7317,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/DellEMC/</loc>
+    <loc>https://sysin.cn/tags/Dell/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
