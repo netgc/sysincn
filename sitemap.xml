@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/cellebrite-ufed/</loc>
+    
+    <lastmod>2024-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/magnet-axiom/</loc>
     
     <lastmod>2024-08-16</lastmod>
@@ -534,15 +543,6 @@
   
   <url>
     <loc>https://sysin.org/blog/autodesk-maya/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cellebrite-ufed/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6194,7 +6194,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
+    <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6203,7 +6203,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
+    <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7198,14 +7198,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Wi-Fi/</loc>
+    <loc>https://sysin.org/tags/Router/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Router/</loc>
+    <loc>https://sysin.org/tags/Wi-Fi/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7268,14 +7268,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/vCenter/</loc>
+    <loc>https://sysin.org/tags/ESXi/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/ESXi/</loc>
+    <loc>https://sysin.org/tags/vCenter/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7303,7 +7303,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Dell/</loc>
+    <loc>https://sysin.org/tags/DellEMC/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7317,7 +7317,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/DellEMC/</loc>
+    <loc>https://sysin.org/tags/Dell/</loc>
     <lastmod>2024-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
