@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</loc>
+    <lastmod>2024-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</loc>
+    <lastmod>2024-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/macOS-Sonoma/</loc>
+    <lastmod>2024-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/jetbrains-aqua/</loc>
+    <lastmod>2024-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/jetbrains-fleet/</loc>
+    <lastmod>2024-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/jetbrains-rustrover/</loc>
+    <lastmod>2024-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/jetbrains-writerside/</loc>
+    <lastmod>2024-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/cisco-ise-3/</loc>
+    <lastmod>2024-08-17</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/jb-2023/</loc>
     <lastmod>2024-08-17</lastmod>
   </url>
@@ -109,14 +141,6 @@
     <lastmod>2024-08-17</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/jetbrains-fleet/</loc>
-    <lastmod>2024-08-17</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/jetbrains-aqua/</loc>
-    <lastmod>2024-08-17</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/jetbrains-clion/</loc>
     <lastmod>2024-08-17</lastmod>
   </url>
@@ -149,15 +173,7 @@
     <lastmod>2024-08-17</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/jetbrains-rustrover/</loc>
-    <lastmod>2024-08-17</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/jetbrains-webstorm/</loc>
-    <lastmod>2024-08-17</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/jetbrains-writerside/</loc>
     <lastmod>2024-08-17</lastmod>
   </url>
   <url>
@@ -205,10 +221,6 @@
     <lastmod>2024-08-13</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/cisco-ise-3/</loc>
-    <lastmod>2024-08-13</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/cisco-catalyst-8000v/</loc>
     <lastmod>2024-08-13</lastmod>
   </url>
@@ -222,18 +234,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/windows-server-2025/</loc>
-    <lastmod>2024-08-11</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/macOS-Sonoma/</loc>
-    <lastmod>2024-08-11</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</loc>
-    <lastmod>2024-08-11</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</loc>
     <lastmod>2024-08-11</lastmod>
   </url>
   <url>
