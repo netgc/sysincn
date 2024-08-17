@@ -2,6 +2,249 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/jb-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/burp-suite-pro-2021/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/burp-suite-pro-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-appcode-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-appcode-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-clion-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-datagrip-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-dataspell-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-goland-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-idea-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-phpstorm-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-pycharm-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-rider-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-rubymine-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-webstorm-2023/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-webstorm-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-rubymine-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-rider-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-pycharm-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-phpstorm-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-idea-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-goland-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-dataspell-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-datagrip-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jb-clion-2022/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/jetbrains/</loc>
+    
+    <lastmod>2024-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/jetbrains-fleet/</loc>
     
     <lastmod>2024-08-17</lastmod>
@@ -120,15 +363,6 @@
   
   <url>
     <loc>https://sysin.org/blog/jetbrains-idea/</loc>
-    
-    <lastmod>2024-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jetbrains/</loc>
     
     <lastmod>2024-08-17</lastmod>
     
@@ -380,15 +614,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-dataspell-2022/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/kali-linux/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -525,15 +750,6 @@
   
   <url>
     <loc>https://sysin.org/blog/http/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-rider-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -777,15 +993,6 @@
   
   <url>
     <loc>https://sysin.org/blog/itunes-for-windows/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-2022/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1317,15 +1524,6 @@
   
   <url>
     <loc>https://sysin.org/blog/gartner-magic-quadrant-wms-2023/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1892,7 +2090,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-7-u3/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1901,7 +2099,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7-u3/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-7/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1973,15 +2171,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-rider-2022/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/vmware-vcenter-8-u3/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -2001,15 +2190,6 @@
   
   <url>
     <loc>https://sysin.org/blog/how-to-install-macos-big-sur/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-dataspell-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2396,15 +2576,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-datagrip-2022/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/veeam-backup-11/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -2577,15 +2748,6 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-4-5/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/burp-suite-pro-2022/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -3404,15 +3566,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-datagrip-2023/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/studio-3t-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -3710,15 +3863,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-phpstorm-2022/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/nessus-10/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -3747,15 +3891,6 @@
   
   <url>
     <loc>https://sysin.org/blog/install-macos-15-on-unsupported-mac/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-goland-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -3819,15 +3954,6 @@
   
   <url>
     <loc>https://sysin.org/blog/disable-macos-sonoma-update/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-rubymine-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -3972,24 +4098,6 @@
   
   <url>
     <loc>https://sysin.org/blog/gartner-magic-quadrant-waap-2022/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-idea-2022/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-webstorm-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4943,24 +5051,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-idea-2023/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-phpstorm-2023/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/static-routing/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -5033,24 +5123,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-goland-2022/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-rubymine-2022/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/linux-zsh-all/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -5088,15 +5160,6 @@
   
   <url>
     <loc>https://sysin.org/blog/apple-watch-locked/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/burp-suite-pro-2021/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5196,15 +5259,6 @@
   
   <url>
     <loc>https://sysin.org/blog/gitkraken-9/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-webstorm-2022/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5340,15 +5394,6 @@
   
   <url>
     <loc>https://sysin.org/blog/magnet-griffeye/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-clion-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5726,15 +5771,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-appcode-2023/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/macOS-Sierra/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -6005,15 +6041,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-pycharm-2022/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/metasploit-pro-4/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -6186,15 +6213,6 @@
   
   <url>
     <loc>https://sysin.org/blog/install-macos-12-on-unsupported-mac-opencore/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-pycharm-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6447,15 +6465,6 @@
   
   <url>
     <loc>https://sysin.org/blog/invicti-enterprise/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-clion-2022/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6744,15 +6753,6 @@
   
   <url>
     <loc>https://sysin.org/blog/debian-12/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/jb-appcode-2022/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7171,6 +7171,20 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/tags/Kubernetes/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/tags/SSL/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/tags/Chrome/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -7186,20 +7200,6 @@
   
   <url>
     <loc>https://sysin.org/tags/Safari/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/Kubernetes/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/SSL/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7227,14 +7227,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Router/</loc>
+    <loc>https://sysin.org/tags/IOS-XR/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/IOS-XR/</loc>
+    <loc>https://sysin.org/tags/Router/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7817,14 +7817,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/categories/Linux/</loc>
+    <loc>https://sysin.org/categories/Windows/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/categories/Windows/</loc>
+    <loc>https://sysin.org/categories/Linux/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

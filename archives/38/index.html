@@ -1180,12 +1180,12 @@ Window......
       <li>macOS</li>
     </a>
     
-    <a href="/categories/#Linux">
-      <li>Linux</li>
-    </a>
-    
     <a href="/categories/#Windows">
       <li>Windows</li>
+    </a>
+    
+    <a href="/categories/#Linux">
+      <li>Linux</li>
     </a>
     
     <a href="/categories/#Developer">
@@ -1384,6 +1384,14 @@ Window......
     
     
     
+    <a href="/tags/#Kubernetes" title="Kubernetes" rel="10">Kubernetes</a>
+    
+    
+    
+    <a href="/tags/#SSL" title="SSL" rel="2">SSL</a>
+    
+    
+    
     <a href="/tags/#Chrome" title="Chrome" rel="2">Chrome</a>
     
     
@@ -1393,14 +1401,6 @@ Window......
     
     
     <a href="/tags/#Safari" title="Safari" rel="1">Safari</a>
-    
-    
-    
-    <a href="/tags/#Kubernetes" title="Kubernetes" rel="10">Kubernetes</a>
-    
-    
-    
-    <a href="/tags/#SSL" title="SSL" rel="2">SSL</a>
     
     
     
@@ -1416,11 +1416,11 @@ Window......
     
     
     
-    <a href="/tags/#Router" title="Router" rel="7">Router</a>
-    
-    
-    
     <a href="/tags/#IOS-XR" title="IOS-XR" rel="4">IOS-XR</a>
+    
+    
+    
+    <a href="/tags/#Router" title="Router" rel="7">Router</a>
     
     
     
@@ -2030,7 +2030,7 @@ start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </scrip
     });
 
     function initSearchJson() {
-      initLoad(['/search.flc'], {
+      initLoad(['/search.fld'], {
         loadOptions: {
           success: function (obj) {
             localStorage.setItem('searchJson', obj['search.json'])
