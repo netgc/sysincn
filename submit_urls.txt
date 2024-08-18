@@ -1,3 +1,6 @@
+https://sysin.org/blog/binary-ninja/
+https://sysin.org/blog/algorius-net-viewer/
+https://sysin.org/blog/jetbrains/
 https://sysin.org/blog/vmware-esxi-8-u3-sysin/
 https://sysin.org/blog/vmware-esxi-8-u3-oem/
 https://sysin.org/blog/macOS-Sonoma/
@@ -15,6 +18,3 @@ https://sysin.org/blog/jb-appcode-2023/
 https://sysin.org/blog/jb-clion-2023/
 https://sysin.org/blog/jb-datagrip-2023/
 https://sysin.org/blog/jb-dataspell-2023/
-https://sysin.org/blog/jb-goland-2023/
-https://sysin.org/blog/jb-idea-2023/
-https://sysin.org/blog/jb-phpstorm-2023/

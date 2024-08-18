@@ -15,7 +15,7 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Sat, 17 Aug 2024 03:48:07 GMT</pubDate>
+    <pubDate>Sun, 18 Aug 2024 02:47:49 GMT</pubDate>
     <generator>http://sysin.org/</generator>
     
     <item>
@@ -73,9 +73,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -108,9 +108,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -143,9 +143,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -178,9 +178,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -213,9 +213,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -248,9 +248,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -283,9 +283,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -318,9 +318,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -353,9 +353,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -388,9 +388,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -400,41 +400,6 @@
       
       
       <comments>https://sysin.org/blog/jetbrains-rider/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE</title>
-      <link>https://sysin.org/blog/jetbrains-pycharm/</link>
-      <guid>https://sysin.org/blog/jetbrains-pycharm/</guid>
-      <pubDate>Sat, 17 Aug 2024 02:21:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jetbrains-pycharm/&quot; title=&quot;JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE&quot;&gt;JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Developer/">Developer</category>
-      
-      
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.org/tags/Code/">Code</category>
-      
-      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
-      
-      
-      <comments>https://sysin.org/blog/jetbrains-pycharm/#disqus_thread</comments>
       
     </item>
     
@@ -458,9 +423,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -470,6 +435,41 @@
       
       
       <comments>https://sysin.org/blog/jetbrains-rustrover/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE</title>
+      <link>https://sysin.org/blog/jetbrains-pycharm/</link>
+      <guid>https://sysin.org/blog/jetbrains-pycharm/</guid>
+      <pubDate>Sat, 17 Aug 2024 02:21:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jetbrains-pycharm/&quot; title=&quot;JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE&quot;&gt;JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Code/">Code</category>
+      
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
+      
+      
+      <comments>https://sysin.org/blog/jetbrains-pycharm/#disqus_thread</comments>
       
     </item>
     
@@ -493,9 +493,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -528,9 +528,9 @@
       <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -838,9 +838,9 @@
       
       <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
-      
       <category domain="https://sysin.org/tags/Router/">Router</category>
+      
+      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
       
       
       <comments>https://sysin.org/blog/cisco-catalyst-8000v/#disqus_thread</comments>
@@ -867,9 +867,9 @@
       <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
       <category domain="https://sysin.org/tags/Security/">Security</category>
       
@@ -941,60 +941,60 @@
     </item>
     
     <item>
-      <title>macOS Sonoma 14.6.1 (23G93) Boot ISO 原版可引导镜像下载</title>
-      <link>https://sysin.org/blog/macOS-Sonoma-boot-iso/</link>
-      <guid>https://sysin.org/blog/macOS-Sonoma-boot-iso/</guid>
-      <pubDate>Thu, 08 Aug 2024 01:10:20 GMT</pubDate>
+      <title>Algorius Net Viewer 2024.7.3 (Windows) - 网络可视化、管理、监控和清点</title>
+      <link>https://sysin.org/blog/algorius-net-viewer/</link>
+      <guid>https://sysin.org/blog/algorius-net-viewer/</guid>
+      <pubDate>Sat, 10 Aug 2024 02:00:26 GMT</pubDate>
       
         
         
           
           
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Sonoma-boot-iso/&quot; title=&quot;macOS Sonoma 14.6.1 (23G93) Boot ISO 原版可引导镜像下载&quot;&gt;macOS Sonoma 14.6.1 (23G93) Boot ISO 原版可引导镜像下载&lt;/a&gt;，查看最新版。</description>
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/algorius-net-viewer/&quot; title=&quot;Algorius Net Viewer 2024.7.3 (Windows) - 网络可视化、管理、监控和清点&quot;&gt;Algorius Net Viewer 2024.7.3 (Windows) - 网络可视化、管理、监控和清点&lt;/a&gt;，查看最新版。</description>
           
         
       
       
       
       
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/macOS-Sonoma-boot-iso/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/algorius-net-viewer/#disqus_thread</comments>
       
     </item>
     
     <item>
-      <title>macOS Sonoma 14.6.1 (23G93) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.org/blog/macOS-Sonoma/</link>
-      <guid>https://sysin.org/blog/macOS-Sonoma/</guid>
-      <pubDate>Thu, 08 Aug 2024 01:10:00 GMT</pubDate>
+      <title>Binary Ninja 4.1.5747 (macOS, Linux, Windows) - 逆向平台</title>
+      <link>https://sysin.org/blog/binary-ninja/</link>
+      <guid>https://sysin.org/blog/binary-ninja/</guid>
+      <pubDate>Fri, 09 Aug 2024 01:30:13 GMT</pubDate>
       
         
         
           
           
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Sonoma/&quot; title=&quot;macOS Sonoma 14.6.1 (23G93) 正式版 ISO、IPSW、PKG 下载&quot;&gt;macOS Sonoma 14.6.1 (23G93) 正式版 ISO、IPSW、PKG 下载&lt;/a&gt;，查看最新版。</description>
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/binary-ninja/&quot; title=&quot;Binary Ninja 4.1.5747 (macOS, Linux, Windows) - 逆向平台&quot;&gt;Binary Ninja 4.1.5747 (macOS, Linux, Windows) - 逆向平台&lt;/a&gt;，查看最新版。</description>
           
         
       
       
       
       
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
       <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/macOS-Sonoma/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/binary-ninja/#disqus_thread</comments>
       
     </item>
     
