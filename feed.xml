@@ -15,8 +15,41 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Tue, 20 Aug 2024 04:06:33 GMT</pubDate>
+    <pubDate>Tue, 20 Aug 2024 04:34:12 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Citrix ADC Release 13.1 Build 54.29 (nCore, VPX, SDX, CPX, BLX)</title>
+      <link>https://sysin.cn/blog/citrix-adc-13/</link>
+      <guid>https://sysin.cn/blog/citrix-adc-13/</guid>
+      <pubDate>Tue, 20 Aug 2024 03:20:31 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/citrix-adc-13/&quot; title=&quot;Citrix ADC Release 13.1 Build 54.29 (nCore, VPX, SDX, CPX, BLX)&quot;&gt;Citrix ADC Release 13.1 Build 54.29 (nCore, VPX, SDX, CPX, BLX)&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      
+      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
+      
+      <category domain="https://sysin.cn/tags/Citrix/">Citrix</category>
+      
+      <category domain="https://sysin.cn/tags/ADC/">ADC</category>
+      
+      
+      <comments>https://sysin.cn/blog/citrix-adc-13/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Citrix ADC Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)</title>
@@ -970,33 +1003,6 @@
       
       
       <comments>https://sysin.cn/blog/windows-server-2025/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Algorius Net Viewer 2024.7.3 (Windows) - 网络可视化、管理、监控和清点</title>
-      <link>https://sysin.cn/blog/algorius-net-viewer/</link>
-      <guid>https://sysin.cn/blog/algorius-net-viewer/</guid>
-      <pubDate>Sat, 10 Aug 2024 02:00:26 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/algorius-net-viewer/&quot; title=&quot;Algorius Net Viewer 2024.7.3 (Windows) - 网络可视化、管理、监控和清点&quot;&gt;Algorius Net Viewer 2024.7.3 (Windows) - 网络可视化、管理、监控和清点&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
-      
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      
-      <comments>https://sysin.cn/blog/algorius-net-viewer/#disqus_thread</comments>
       
     </item>
     

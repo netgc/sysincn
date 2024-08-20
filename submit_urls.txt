@@ -1,4 +1,6 @@
+https://sysin.cn/blog/netscaler-14/
 https://sysin.cn/blog/citrix-adc-14/
+https://sysin.cn/blog/citrix-adc-13/
 https://sysin.cn/blog/invicti/
 https://sysin.cn/blog/freebsd-13/
 https://sysin.cn/blog/cellebrite-ufed/
@@ -16,5 +18,3 @@ https://sysin.cn/blog/jetbrains-rustrover/
 https://sysin.cn/blog/cisco-ise-3/
 https://sysin.cn/blog/jb-2023/
 https://sysin.cn/blog/jb-2022/
-https://sysin.cn/blog/burp-suite-pro-2021/
-https://sysin.cn/blog/burp-suite-pro-2022/

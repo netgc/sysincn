@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/netscaler-14/</loc>
+    
+    <lastmod>2024-08-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/citrix-adc-14/</loc>
+    
+    <lastmod>2024-08-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/citrix-adc-13/</loc>
     
     <lastmod>2024-08-20</lastmod>
     
@@ -2216,15 +2234,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/citrix-adc-13/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/how-to-install-macos-big-sur/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -4152,15 +4161,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/nessus-auto-install-for-macos/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/netscaler-14/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
