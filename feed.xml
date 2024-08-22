@@ -15,8 +15,70 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Thu, 22 Aug 2024 01:25:30 GMT</pubDate>
+    <pubDate>Thu, 22 Aug 2024 05:41:51 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Windows Server 2019 中文版、英文版下载 (updated Aug 2024)</title>
+      <link>https://sysin.org/blog/windows-server-2019/</link>
+      <guid>https://sysin.org/blog/windows-server-2019/</guid>
+      <pubDate>Thu, 22 Aug 2024 05:13:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2019/&quot; title=&quot;Windows Server 2019 中文版、英文版下载 (updated Aug 2024)&quot;&gt;Windows Server 2019 中文版、英文版下载 (updated Aug 2024)&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      
+      <category domain="https://sysin.org/tags/Server/">Server</category>
+      
+      
+      <comments>https://sysin.org/blog/windows-server-2019/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Windows Server 2016 中文版、英文版下载 (updated Aug 2024)</title>
+      <link>https://sysin.org/blog/windows-server-2016/</link>
+      <guid>https://sysin.org/blog/windows-server-2016/</guid>
+      <pubDate>Thu, 22 Aug 2024 05:08:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2016/&quot; title=&quot;Windows Server 2016 中文版、英文版下载 (updated Aug 2024)&quot;&gt;Windows Server 2016 中文版、英文版下载 (updated Aug 2024)&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      
+      <category domain="https://sysin.org/tags/Server/">Server</category>
+      
+      
+      <comments>https://sysin.org/blog/windows-server-2016/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Nexpose v6.6.266 for Linux &amp; Windows - 漏洞扫描</title>
@@ -951,64 +1013,6 @@
       
       
       <comments>https://sysin.org/blog/jetbrains-writerside/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Magnet AXIOM 8.3.1 Windows x64 Multilingual - 数字取证与分析</title>
-      <link>https://sysin.org/blog/magnet-axiom/</link>
-      <guid>https://sysin.org/blog/magnet-axiom/</guid>
-      <pubDate>Fri, 16 Aug 2024 01:35:45 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-axiom/&quot; title=&quot;Magnet AXIOM 8.3.1 Windows x64 Multilingual - 数字取证与分析&quot;&gt;Magnet AXIOM 8.3.1 Windows x64 Multilingual - 数字取证与分析&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      
-      <comments>https://sysin.org/blog/magnet-axiom/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Magnet DVR Examiner 3.14.0 Windows - 从监控系统 CCTV 和监控 DVR 恢复视频和元数据</title>
-      <link>https://sysin.org/blog/magnet-dvr-examiner/</link>
-      <guid>https://sysin.org/blog/magnet-dvr-examiner/</guid>
-      <pubDate>Thu, 15 Aug 2024 05:36:45 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-dvr-examiner/&quot; title=&quot;Magnet DVR Examiner 3.14.0 Windows - 从监控系统 CCTV 和监控 DVR 恢复视频和元数据&quot;&gt;Magnet DVR Examiner 3.14.0 Windows - 从监控系统 CCTV 和监控 DVR 恢复视频和元数据&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      
-      <comments>https://sysin.org/blog/magnet-dvr-examiner/#disqus_thread</comments>
       
     </item>
     

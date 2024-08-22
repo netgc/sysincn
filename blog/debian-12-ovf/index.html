@@ -488,13 +488,15 @@
 <p>作者主页：<a href="https://sysin.org">sysin.org</a></p>
 <hr>
 <p>Debian GNU/Linux 12 (bookworm) (Linux debian 6.1.0-18-amd64)</p>
-<h2 id="部署截图及说明"><a href="#部署截图及说明" class="headerlink" title="部署截图及说明"></a>部署截图及说明</h2><p><img src="debian-12-ovf-01.webp" alt="debian-12-ovf"></p>
+<h2 id="部署截图及说明-7">部署截图及说明</h2>
+<p><img src="debian-12-ovf-01.webp" alt="debian-12-ovf"></p>
 <p><img src="debian-12-ovf-02.webp" alt="debian-12-ovf"></p>
 <p><img src="debian-12-ovf-03.webp" alt="debian-12-ovf"></p>
 <p><img src="debian-12-ovf-04.webp" alt="debian-12-ovf"></p>
 <p>自定义 OVF 属性填写说明：</p>
 <ul>
-<li><ol>
+<li>
+<ol>
 <li>root User Configuration</li>
 </ol>
 <ul>
@@ -502,7 +504,8 @@
 <li>1.2. User root Password 必填项，8-128 个字符，建议使用复杂密码，未强制要求</li>
 </ul>
 </li>
-<li><ol>
+<li>
+<ol start="2">
 <li>New Admin User Configuration 新建一个管理员账号，必填项</li>
 </ol>
 <ul>
@@ -511,7 +514,8 @@
 <li>2.3. sudo doesn’t need a password 默认不勾选</li>
 </ul>
 </li>
-<li><ol>
+<li>
+<ol start="3">
 <li>Networking Properties 选填</li>
 </ol>
 <ul>
@@ -521,37 +525,54 @@
 <li>3.4.1 DNS 1</li>
 <li>3.4.2 DNS 2</li>
 <li>3.5. Hostname 主机名可以单独填写（无论是否使用固定 IP），建议填写，系统无默认值，这里默认设置为 debian</li>
-<li>3.6. Domain Name 选填，格式如 sysin.org，系统无默认值</li>
+<li>3.6. Domain Name 选填，格式如 <a href="http://sysin.org">sysin.org</a>，系统无默认值</li>
 </ul>
 </li>
 </ul>
 <p>Debian/Ubuntu 系列发行版部署完毕后系统将自动重启。</p>
-<h2 id="OVF-特性"><a href="#OVF-特性" class="headerlink" title="OVF 特性"></a>OVF 特性</h2><h3 id="1-OVF-版本"><a href="#1-OVF-版本" class="headerlink" title="1. OVF 版本"></a>1. OVF 版本</h3><p>默认 VM 硬件版本 17（GuestOS ID 最低要求 20，考虑到兼容性参照 Debian 11，可升级至最新版）；<br>兼容 ESXi 7.0 (7.0.0)、Fusion 12.x、Workstation 16.x 及更新版本；<br>启用 CPU、内存热插拔。</p>
-<h3 id="2-系统账号"><a href="#2-系统账号" class="headerlink" title="2. 系统账号"></a>2. 系统账号</h3><p>部署时可以选择是否启用 root SSH 密码登录并设置密码。<br>部署时可以选择是否创建新的管理员账号并设置密码 (sysin)。</p>
-<h3 id="3-分区"><a href="#3-分区" class="headerlink" title="3. 分区"></a>3. 分区</h3><p>标准分区</p>
-<p>NAME     FILESYSTEM  SIZE  TYPE  MOUNTPOINT<br>sda      Linux        80G  disk<br>├─sda1   ext4          2G  part  /boot<br>└─sda2   ext4         78G  part  /<br>[SWAP]  /swap.img  4G</p>
+<h2 id="OVF-特性-8">OVF 特性</h2>
+<h3 id="1-OVF-版本-7">1. OVF 版本</h3>
+<p>默认 VM 硬件版本 17（GuestOS ID 最低要求 20，考虑到兼容性参照 Debian 11，可升级至最新版）；<br>
+兼容 ESXi 7.0 (7.0.0)、Fusion 12.x、Workstation 16.x 及更新版本；<br>
+启用 CPU、内存热插拔。</p>
+<h3 id="2-系统账号-7">2. 系统账号</h3>
+<p>部署时可以选择是否启用 root SSH 密码登录并设置密码。<br>
+部署时可以选择是否创建新的管理员账号并设置密码 (sysin)。</p>
+<h3 id="3-分区-7">3. 分区</h3>
+<p>标准分区</p>
+<p>NAME     FILESYSTEM  SIZE  TYPE  MOUNTPOINT<br>
+sda      Linux        80G  disk<br>
+├─sda1   ext4          2G  part  /boot<br>
+└─sda2   ext4         78G  part  /<br>
+[SWAP]  /swap.img  4G</p>
 <p>分区扩容请参看：<a href="/blog/linux-partition-expansion/" title="Linux 分区扩容（根分区扩容，SWAP 分区扩容，挂载新分区为目录）">Linux 分区扩容（根分区扩容，SWAP 分区扩容，挂载新分区为目录）</a></p>
-<h3 id="4-系统配置"><a href="#4-系统配置" class="headerlink" title="4. 系统配置"></a>4. 系统配置</h3><ul>
+<h3 id="4-系统配置-7">4. 系统配置</h3>
+<ul>
 <li>格式化网卡命名为 eth0</li>
 <li>配置 sudo</li>
 <li>更换国内镜像：ustc (2024-02-18 修正为 Debian 默认配置)</li>
-<li>安装一些必备工具：<br>zip unzip, lrzsz, htop, lnav, fd, rg，tree, pstree, net-tools (ifconfig、netstat、route), ntpdate, resolvconf, ncdu, dstat, screen, tmux, exa, duf, expect</li>
+<li>安装一些必备工具：<br>
+zip unzip, lrzsz, htop, lnav, fd, rg，tree, pstree, net-tools (ifconfig、netstat、route), ntpdate, resolvconf, ncdu, dstat, screen, tmux, exa, duf, expect</li>
 <li>开发者工具：git, build-essential</li>
 <li>NTP：systemd-timesyncd</li>
 <li>SNMP：仅安装默认配置</li>
 <li>VMware Tools：open-vm-tools 12.2.0</li>
-<li>Zsh 作为默认 Shell<br>参看：<a href="/blog/linux-zsh-all/" title="Linux 全局安装配置 zsh + oh-my-zsh">Linux 全局安装配置 zsh + oh-my-zsh</a><br>此版本开始启用 zsh-autosuggestions</li>
+<li>Zsh 作为默认 Shell<br>
+参看：<a href="/blog/linux-zsh-all/" title="Linux 全局安装配置 zsh + oh-my-zsh">Linux 全局安装配置 zsh + oh-my-zsh</a><br>
+此版本开始启用 zsh-autosuggestions</li>
 <li>重新生成 SSH Host Keys（2023 年 11 月开始成为默认配置）</li>
 </ul>
 <p>参看（基本通用）：<a href="/blog/debian-11-install/" title="Debian 11 “bullseye” 安装笔记">Debian 11 “bullseye” 安装笔记</a></p>
-<h2 id="适用的-VMware-软件下载"><a href="#适用的-VMware-软件下载" class="headerlink" title="适用的 VMware 软件下载"></a>适用的 VMware 软件下载</h2><p>建议在以下版本的 VMware 软件中运行（Linux OVF 无需本站定制版可以正常运行，macOS 虚拟化如果不是 Mac 必须使用定制版才能运行，Windows OVF 需要定制版才能启用完整功能）：</p>
+<h2 id="适用的-VMware-软件下载-12">适用的 VMware 软件下载</h2>
+<p>建议在以下版本的 VMware 软件中运行（Linux OVF 无需本站定制版可以正常运行，macOS 虚拟化如果不是 Mac 必须使用定制版才能运行，Windows OVF 需要定制版才能启用完整功能）：</p>
 <ul>
 <li>Server：VMware <a href="https://sysin.org/blog/vmware-esxi-8-u3-oem/">ESXi 8.0</a> or <a href="https://sysin.org/blog/vmware-esxi-8-u3-sysin/">with driver</a> &amp; <a href="https://sysin.org/blog/vmware-vsphere-8-u3/">vCenter Server 8.0</a>，<a href="https://sysin.org/blog/vmware-esxi-7-u3-oem/">ESXi 7.0</a> or <a href="https://sysin.org/blog/vmware-esxi-7-u3-sysin/">with driver</a> &amp; <a href="https://sysin.org/blog/vmware-vcenter-7-u3/">vCenter Server 7.0</a></li>
 <li>macOS：<a href="https://sysin.org/blog/vmware-fusion-13-oem/">VMware Fusion 13</a></li>
 <li>Linux：<a href="https://sysin.org/blog/vmware-workstation-17-unlocker-linux/">VMware Workstation 17 for Linux</a></li>
 <li>Windows：<a href="https://sysin.org/blog/vmware-workstation-17-unlocker-windows/">VMware Workstation 17 for Windows</a></li>
 </ul>
-<h2 id="OVF-版本兼容性和部署方式"><a href="#OVF-版本兼容性和部署方式" class="headerlink" title="OVF 版本兼容性和部署方式"></a>OVF 版本兼容性和部署方式</h2><p>默认 VM 硬件版本 17（GuestOS ID 最低要求 20，考虑到兼容性参照 Debian 11，可升级至最新版）；兼容 ESXi 7.0 (7.0.0)、Fusion 12.x、Workstation 16.x 及更新版本。</p>
+<h2 id="OVF-版本兼容性和部署方式-7">OVF 版本兼容性和部署方式</h2>
+<p>默认 VM 硬件版本 17（GuestOS ID 最低要求 20，考虑到兼容性参照 Debian 11，可升级至最新版）；兼容 ESXi 7.0 (7.0.0)、Fusion 12.x、Workstation 16.x 及更新版本。</p>
 <p>支持通过以下客户端部署：</p>
 <ul>
 <li>VMware Fusion for Mac：12、13 及更新版本（推荐版本 13）</li>
@@ -564,40 +585,47 @@
 </blockquote>
 <p>客户端系统和软件要求：</p>
 <ul>
-<li><p>支持的客户端操作系统</p>
+<li>
+<p>支持的客户端操作系统</p>
 <ul>
 <li>macOS（推荐 <a href="https://sysin.org/blog/macOS-Monterey/">macOS Monterey</a>、<a href="https://sysin.org/blog/macOS-Ventura/">macOS Ventura</a>、<a href="https://sysin.org/blog/macOS-Sonoma/">macOS Sonoma</a>）</li>
-<li>Windows 32-bit and 64-bit（推荐 <a href="https://sysin.org/blog/windows-10/">Windows 10</a>、<a href="https://sysin.org/blog/windows-11/">Windows 11</a>、<a href="https://sysin.org/blog/windows-server-2022/">Windows Server 2022</a>）<blockquote>
+<li>Windows 32-bit and 64-bit（推荐 <a href="https://sysin.org/blog/windows-10/">Windows 10</a>、<a href="https://sysin.org/blog/windows-11/">Windows 11</a>、<a href="https://sysin.org/blog/windows-server-2022/">Windows Server 2022</a>）</li>
+</ul>
+<blockquote>
 <p>主流 Linux 桌面发行版理论上支持，未经官方验证。</p>
 </blockquote>
 </li>
-</ul>
-</li>
-<li><p>支持以下浏览器版本【<a href="https://sysin.org/blog/chrome-firefox-download/">下载</a>】</p>
+<li>
+<p>支持以下浏览器版本【<a href="https://sysin.org/blog/chrome-firefox-download/">下载</a>】</p>
 <ul>
 <li>Google Chrome 89 or later</li>
 <li>Mozilla Firefox 80 or later</li>
 <li>Apple Safari 9.0 or later (仅限 Host Client)</li>
 </ul>
 </li>
-<li><p><strong>不支持的部署方式</strong>：</p>
+<li>
+<p><strong>不支持的部署方式</strong>：</p>
 <ul>
 <li>不支持通过 VMware vSphere Client（C#，Desktop Client）6.0（含旧版，6.5 开启废弃）进行部署，该客户端或有限支持 OVF 属性或不支持 SHA256 (👎 <strong>已废弃</strong>)</li>
-<li>不支持通过 VMware Host Client（Embedded from 6.0 U2）进行部署，该客户端有限支持自定义 OVF 属性 (👎 <strong>不支持</strong>)<blockquote>
+<li>不支持通过 VMware Host Client（Embedded from 6.0 U2）进行部署，该客户端有限支持自定义 OVF 属性 (👎 <strong>不支持</strong>)</li>
+</ul>
+<blockquote>
 <p>上述客户端仅适用于无自定义 OVF 属性，或者仅存在支持的 OVF 属性时，可以正常部署。</p>
 </blockquote>
 </li>
 </ul>
-</li>
-</ul>
-<h2 id="下个版本何时更新"><a href="#下个版本何时更新" class="headerlink" title="下个版本何时更新"></a>下个版本何时更新</h2><p>预计 Debian 12.10 发布会将同步更新。</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>Debian 12 x86_64 OVF (sysin)</p>
+<h2 id="下个版本何时更新-7">下个版本何时更新</h2>
+<p>预计 Debian 12.10 发布会将同步更新。</p>
+<h2 id="下载地址-152">下载地址</h2>
+<p>Debian 12 x86_64 OVF (sysin)</p>
 <ul>
 <li>百度网盘链接：[EoD]</li>
 </ul>
 <p>Debian 12.5 x86_64 OVF (sysin)</p>
 <ul>
-<li>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/16xWqlYmvQ4TYzurfEZ1-EA?pwd=">https://pan.baidu.com/s/16xWqlYmvQ4TYzurfEZ1-EA?pwd=</a> &lt;专享&gt;<br>SHA256SUM: 自动校验<br>文件大小：约 1.10GB</li>
+<li>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/16xWqlYmvQ4TYzurfEZ1-EA?pwd=">https://pan.baidu.com/s/16xWqlYmvQ4TYzurfEZ1-EA?pwd=</a> &lt;专享&gt;<br>
+SHA256SUM: 自动校验<br>
+文件大小：约 1.10GB</li>
 </ul>
 <p><strong>✅ 公布获取此专享资源的正确方式：</strong></p>
 <p>为保证本站持续发展，该资源通过<code>捐赠</code>获取，捐赠是一种可以附加条件的行为，按照下面<code>指定方式</code>捐赠即可获得该项下载。</p>
@@ -619,40 +647,56 @@
 <hr>
 <p>Linux OVF 系列：</p>
 <ul>
-<li><a href="/blog/almalinux-9-ovf/" title="AlmaLinux 9 x86_64 OVF (sysin) - VMware 虚拟机模板">AlmaLinux 9 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/almalinux-9-ovf/" title="AlmaLinux 9 x86_64 OVF (sysin) - VMware 虚拟机模板">AlmaLinux 9 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/almalinux-8-ovf/" title="AlmaLinux 8.10 x86_64 OVF (sysin) - VMware 虚拟机模板">AlmaLinux 8.10 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/almalinux-8-ovf/" title="AlmaLinux 8.10 x86_64 OVF (sysin) - VMware 虚拟机模板">AlmaLinux 8.10 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/rocky-linux-9-ovf/" title="Rocky Linux 9 x86_64 OVF (sysin) - VMware 虚拟机模板">Rocky Linux 9 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/rocky-linux-9-ovf/" title="Rocky Linux 9 x86_64 OVF (sysin) - VMware 虚拟机模板">Rocky Linux 9 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/rocky-linux-8-ovf/" title="Rocky Linux 8.10 x86_64 OVF (sysin) - VMware 虚拟机模板">Rocky Linux 8.10 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/rocky-linux-8-ovf/" title="Rocky Linux 8.10 x86_64 OVF (sysin) - VMware 虚拟机模板">Rocky Linux 8.10 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/centos-8-ovf/" title="CentOS 8.5 x86_64 OVF (sysin) - VMware 虚拟机模板">CentOS 8.5 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/centos-8-ovf/" title="CentOS 8.5 x86_64 OVF (sysin) - VMware 虚拟机模板">CentOS 8.5 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/centos-7-ovf/" title="CentOS 7.9 x86_64 OVF (sysin) - VMware 虚拟机模板">CentOS 7.9 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/centos-7-ovf/" title="CentOS 7.9 x86_64 OVF (sysin) - VMware 虚拟机模板">CentOS 7.9 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/debian-12-ovf/" title="Debian 12.5 x86_64 OVF (sysin) - VMware 虚拟机模板">Debian 12.5 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/debian-12-ovf/" title="Debian 12.5 x86_64 OVF (sysin) - VMware 虚拟机模板">Debian 12.5 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/debian-11-ovf/" title="Debian 11.5 x86_64 OVF (sysin) - VMware 虚拟机模板">Debian 11.5 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/debian-11-ovf/" title="Debian 11.5 x86_64 OVF (sysin) - VMware 虚拟机模板">Debian 11.5 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/debian-10-ovf/" title="Debian 10.13 x86_64 OVF (sysin) - VMware 虚拟机模板">Debian 10.13 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/debian-10-ovf/" title="Debian 10.13 x86_64 OVF (sysin) - VMware 虚拟机模板">Debian 10.13 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/ubuntu-2404-ovf/" title="Ubuntu 24.04 LTS x86_64 OVF (sysin) - VMware 虚拟机模板">Ubuntu 24.04 LTS x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/ubuntu-2404-ovf/" title="Ubuntu 24.04 LTS x86_64 OVF (sysin) - VMware 虚拟机模板">Ubuntu 24.04 LTS x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/ubuntu-2204-ovf/" title="Ubuntu 22.04 LTS x86_64 OVF (sysin) - VMware 虚拟机模板">Ubuntu 22.04 LTS x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/ubuntu-2204-ovf/" title="Ubuntu 22.04 LTS x86_64 OVF (sysin) - VMware 虚拟机模板">Ubuntu 22.04 LTS x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/ubuntu-2004-ovf/" title="Ubuntu 20.04.5 LTS x86_64 OVF (sysin) optional kernel 5.15 - VMware 虚拟机模板">Ubuntu 20.04.5 LTS x86_64 OVF (sysin) optional kernel 5.15 - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/ubuntu-2004-ovf/" title="Ubuntu 20.04.5 LTS x86_64 OVF (sysin) optional kernel 5.15 - VMware 虚拟机模板">Ubuntu 20.04.5 LTS x86_64 OVF (sysin) optional kernel 5.15 - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/zabbix-7-ovf/" title="Zabbix 7.0 LTS OVF (build with LNMP based on Rocky 8.10) - VMware 虚拟机模板">Zabbix 7.0 LTS OVF (build with LNMP based on Rocky 8.10) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/zabbix-7-ovf/" title="Zabbix 7.0 LTS OVF (build with LNMP based on Rocky 8.10) - VMware 虚拟机模板">Zabbix 7.0 LTS OVF (build with LNMP based on Rocky 8.10) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/zabbix-6-ovf/" title="Zabbix 6.0 LTS OVF (build with LNMP based on AlmaLinux 8.5) - VMware 虚拟机模板">Zabbix 6.0 LTS OVF (build with LNMP based on AlmaLinux 8.5) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/zabbix-6-ovf/" title="Zabbix 6.0 LTS OVF (build with LNMP based on AlmaLinux 8.5) - VMware 虚拟机模板">Zabbix 6.0 LTS OVF (build with LNMP based on AlmaLinux 8.5) - VMware 虚拟机模板</a>
 </li>
 </ul>
 <p>BSD (Unix) OVF：</p>
 <ul>
-<li><a href="/blog/freebsd-14-ovf/" title="FreeBSD 14 x86_64 OVF (sysin) - VMware 虚拟机模板">FreeBSD 14 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/freebsd-14-ovf/" title="FreeBSD 14 x86_64 OVF (sysin) - VMware 虚拟机模板">FreeBSD 14 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
-<li><a href="/blog/freebsd-13-ovf/" title="FreeBSD 13 x86_64 OVF (sysin) - VMware 虚拟机模板">FreeBSD 13 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
+<li>
+<a href="/blog/freebsd-13-ovf/" title="FreeBSD 13 x86_64 OVF (sysin) - VMware 虚拟机模板">FreeBSD 13 x86_64 OVF (sysin) - VMware 虚拟机模板</a>
 </li>
 </ul>
 
@@ -838,7 +882,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%83%A8%E7%BD%B2%E6%88%AA%E5%9B%BE%E5%8F%8A%E8%AF%B4%E6%98%8E"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">部署截图及说明</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#OVF-%E7%89%B9%E6%80%A7"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">OVF 特性</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#1-OVF-%E7%89%88%E6%9C%AC"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">1. OVF 版本</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#2-%E7%B3%BB%E7%BB%9F%E8%B4%A6%E5%8F%B7"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">2. 系统账号</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#3-%E5%88%86%E5%8C%BA"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">3. 分区</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#4-%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">4. 系统配置</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%80%82%E7%94%A8%E7%9A%84-VMware-%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">适用的 VMware 软件下载</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#OVF-%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9%E6%80%A7%E5%92%8C%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">OVF 版本兼容性和部署方式</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E4%B8%AA%E7%89%88%E6%9C%AC%E4%BD%95%E6%97%B6%E6%9B%B4%E6%96%B0"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">下个版本何时更新</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80"><span class="toc-nav-number">6.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%83%A8%E7%BD%B2%E6%88%AA%E5%9B%BE%E5%8F%8A%E8%AF%B4%E6%98%8E-7"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">部署截图及说明</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#OVF-%E7%89%B9%E6%80%A7-8"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">OVF 特性</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#1-OVF-%E7%89%88%E6%9C%AC-7"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">1. OVF 版本</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#2-%E7%B3%BB%E7%BB%9F%E8%B4%A6%E5%8F%B7-7"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">2. 系统账号</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#3-%E5%88%86%E5%8C%BA-7"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">3. 分区</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#4-%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE-7"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">4. 系统配置</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%80%82%E7%94%A8%E7%9A%84-VMware-%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD-12"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">适用的 VMware 软件下载</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#OVF-%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9%E6%80%A7%E5%92%8C%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F-7"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">OVF 版本兼容性和部署方式</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E4%B8%AA%E7%89%88%E6%9C%AC%E4%BD%95%E6%97%B6%E6%9B%B4%E6%96%B0-7"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">下个版本何时更新</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-152"><span class="toc-nav-number">6.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>

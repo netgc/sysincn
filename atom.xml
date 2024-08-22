@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-08-22T01:25:30.599Z</updated>
+  <updated>2024-08-22T05:41:51.943Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Windows Server 2019 中文版、英文版下载 (updated Aug 2024)</title>
+    <link href="https://sysin.org/blog/windows-server-2019/"/>
+    <id>https://sysin.org/blog/windows-server-2019/</id>
+    <published>2024-08-22T05:13:00.000Z</published>
+    <updated>2024-08-22T05:41:51.943Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2019/&quot; title=&quot;Windows Server 2019 中文版、英文版下载 (updated Aug 2024)&quot;&gt;Windows Server 2019 中文版、英文版下载 (updated Aug 2024)&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows Server 2016 中文版、英文版下载 (updated Aug 2024)</title>
+    <link href="https://sysin.org/blog/windows-server-2016/"/>
+    <id>https://sysin.org/blog/windows-server-2016/</id>
+    <published>2024-08-22T05:08:00.000Z</published>
+    <updated>2024-08-22T05:41:58.152Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2016/&quot; title=&quot;Windows Server 2016 中文版、英文版下载 (updated Aug 2024)&quot;&gt;Windows Server 2016 中文版、英文版下载 (updated Aug 2024)&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+  </entry>
   
   <entry>
     <title>Nexpose v6.6.266 for Linux &amp; Windows - 漏洞扫描</title>
@@ -893,60 +951,6 @@
     <category term="Code" scheme="https://sysin.org/tags/Code/"/>
     
     <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Magnet AXIOM 8.3.1 Windows x64 Multilingual - 数字取证与分析</title>
-    <link href="https://sysin.org/blog/magnet-axiom/"/>
-    <id>https://sysin.org/blog/magnet-axiom/</id>
-    <published>2024-08-16T01:35:45.000Z</published>
-    <updated>2024-08-16T02:11:35.318Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-axiom/&quot; title=&quot;Magnet AXIOM 8.3.1 Windows x64 Multilingual - 数字取证与分析&quot;&gt;Magnet AXIOM 8.3.1 Windows x64 Multilingual - 数字取证与分析&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Magnet DVR Examiner 3.14.0 Windows - 从监控系统 CCTV 和监控 DVR 恢复视频和元数据</title>
-    <link href="https://sysin.org/blog/magnet-dvr-examiner/"/>
-    <id>https://sysin.org/blog/magnet-dvr-examiner/</id>
-    <published>2024-08-15T05:36:45.000Z</published>
-    <updated>2024-08-15T05:49:00.649Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-dvr-examiner/&quot; title=&quot;Magnet DVR Examiner 3.14.0 Windows - 从监控系统 CCTV 和监控 DVR 恢复视频和元数据&quot;&gt;Magnet DVR Examiner 3.14.0 Windows - 从监控系统 CCTV 和监控 DVR 恢复视频和元数据&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
