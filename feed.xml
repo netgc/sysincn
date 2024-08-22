@@ -4,24 +4,24 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
     
-    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <description>sysin | 软件与技术分享 | SYStem INside</description>
+    <description>sysin | SYStem INside | 软件与技术分享</description>
     <pubDate>Thu, 22 Aug 2024 01:25:30 GMT</pubDate>
     <generator>http://sysin.org/</generator>
     
     <item>
       <title>Nexpose v6.6.266 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.cn/blog/nexpose-6/</link>
-      <guid>https://sysin.cn/blog/nexpose-6/</guid>
+      <link>https://sysin.org/blog/nexpose-6/</link>
+      <guid>https://sysin.org/blog/nexpose-6/</guid>
       <pubDate>Thu, 22 Aug 2024 01:18:50 GMT</pubDate>
       
         
@@ -35,26 +35,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
+      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
       
       
-      <comments>https://sysin.cn/blog/nexpose-6/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/nexpose-6/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Metasploit Pro 4.22.3-2024081901 (Linux, Windows) - 专业渗透测试框架</title>
-      <link>https://sysin.cn/blog/metasploit-pro-4/</link>
-      <guid>https://sysin.cn/blog/metasploit-pro-4/</guid>
+      <link>https://sysin.org/blog/metasploit-pro-4/</link>
+      <guid>https://sysin.org/blog/metasploit-pro-4/</guid>
       <pubDate>Thu, 22 Aug 2024 01:09:10 GMT</pubDate>
       
         
@@ -68,26 +68,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
+      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
       
       
-      <comments>https://sysin.cn/blog/metasploit-pro-4/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/metasploit-pro-4/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows Server 2022 中文版、英文版下载 (updated Aug 2024)</title>
-      <link>https://sysin.cn/blog/windows-server-2022/</link>
-      <guid>https://sysin.cn/blog/windows-server-2022/</guid>
+      <link>https://sysin.org/blog/windows-server-2022/</link>
+      <guid>https://sysin.org/blog/windows-server-2022/</guid>
       <pubDate>Wed, 21 Aug 2024 05:23:00 GMT</pubDate>
       
         
@@ -101,24 +101,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
-      <category domain="https://sysin.cn/tags/Server/">Server</category>
+      <category domain="https://sysin.org/tags/Server/">Server</category>
       
       
-      <comments>https://sysin.cn/blog/windows-server-2022/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-server-2022/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 11 version 23H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)</title>
-      <link>https://sysin.cn/blog/windows-11/</link>
-      <guid>https://sysin.cn/blog/windows-11/</guid>
+      <link>https://sysin.org/blog/windows-11/</link>
+      <guid>https://sysin.org/blog/windows-11/</guid>
       <pubDate>Wed, 21 Aug 2024 05:18:00 GMT</pubDate>
       
         
@@ -132,22 +132,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.cn/blog/windows-11/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-11/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 10 version 22H2 (updated Aug 2024) 中文版、英文版下载</title>
-      <link>https://sysin.cn/blog/windows-10/</link>
-      <guid>https://sysin.cn/blog/windows-10/</guid>
+      <link>https://sysin.org/blog/windows-10/</link>
+      <guid>https://sysin.org/blog/windows-10/</guid>
       <pubDate>Wed, 21 Aug 2024 05:15:00 GMT</pubDate>
       
         
@@ -161,22 +161,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.cn/blog/windows-10/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-10/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 10 on ARM, version 22H2 (updated Aug 2024) ARM64 AArch64 中文版、英文版下载</title>
-      <link>https://sysin.cn/blog/windows-10-arm/</link>
-      <guid>https://sysin.cn/blog/windows-10-arm/</guid>
+      <link>https://sysin.org/blog/windows-10-arm/</link>
+      <guid>https://sysin.org/blog/windows-10-arm/</guid>
       <pubDate>Wed, 21 Aug 2024 05:06:00 GMT</pubDate>
       
         
@@ -190,22 +190,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.cn/blog/windows-10-arm/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-10-arm/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 11 version 22H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)</title>
-      <link>https://sysin.cn/blog/windows-11-22h2/</link>
-      <guid>https://sysin.cn/blog/windows-11-22h2/</guid>
+      <link>https://sysin.org/blog/windows-11-22h2/</link>
+      <guid>https://sysin.org/blog/windows-11-22h2/</guid>
       <pubDate>Wed, 21 Aug 2024 03:17:00 GMT</pubDate>
       
         
@@ -219,22 +219,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.cn/blog/windows-11-22h2/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-11-22h2/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Xcode 16 beta 6 (16A5230g) - Apple 平台 IDE</title>
-      <link>https://sysin.cn/blog/apple-xcode-16/</link>
-      <guid>https://sysin.cn/blog/apple-xcode-16/</guid>
+      <link>https://sysin.org/blog/apple-xcode-16/</link>
+      <guid>https://sysin.org/blog/apple-xcode-16/</guid>
       <pubDate>Wed, 21 Aug 2024 01:13:00 GMT</pubDate>
       
         
@@ -248,26 +248,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
-      <category domain="https://sysin.cn/tags/iOS/">iOS</category>
+      <category domain="https://sysin.org/tags/iOS/">iOS</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
       
-      <comments>https://sysin.cn/blog/apple-xcode-16/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/apple-xcode-16/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>NetScaler Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)</title>
-      <link>https://sysin.cn/blog/netscaler-14/</link>
-      <guid>https://sysin.cn/blog/netscaler-14/</guid>
+      <link>https://sysin.org/blog/netscaler-14/</link>
+      <guid>https://sysin.org/blog/netscaler-14/</guid>
       <pubDate>Wed, 21 Aug 2024 01:10:45 GMT</pubDate>
       
         
@@ -281,26 +281,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.cn/tags/Citrix/">Citrix</category>
+      <category domain="https://sysin.org/tags/Citrix/">Citrix</category>
       
-      <category domain="https://sysin.cn/tags/ADC/">ADC</category>
+      <category domain="https://sysin.org/tags/ADC/">ADC</category>
       
       
-      <comments>https://sysin.cn/blog/netscaler-14/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/netscaler-14/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>NetScaler Console Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)</title>
-      <link>https://sysin.cn/blog/netscaler-console-14/</link>
-      <guid>https://sysin.cn/blog/netscaler-console-14/</guid>
+      <link>https://sysin.org/blog/netscaler-console-14/</link>
+      <guid>https://sysin.org/blog/netscaler-console-14/</guid>
       <pubDate>Wed, 21 Aug 2024 01:08:35 GMT</pubDate>
       
         
@@ -314,26 +314,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.cn/tags/Citrix/">Citrix</category>
+      <category domain="https://sysin.org/tags/Citrix/">Citrix</category>
       
-      <category domain="https://sysin.cn/tags/ADC/">ADC</category>
+      <category domain="https://sysin.org/tags/ADC/">ADC</category>
       
       
-      <comments>https://sysin.cn/blog/netscaler-console-14/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/netscaler-console-14/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>NetScaler ADM Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)</title>
-      <link>https://sysin.cn/blog/netscaler-adm-14/</link>
-      <guid>https://sysin.cn/blog/netscaler-adm-14/</guid>
+      <link>https://sysin.org/blog/netscaler-adm-14/</link>
+      <guid>https://sysin.org/blog/netscaler-adm-14/</guid>
       <pubDate>Wed, 21 Aug 2024 01:08:15 GMT</pubDate>
       
         
@@ -347,26 +347,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.cn/tags/Citrix/">Citrix</category>
+      <category domain="https://sysin.org/tags/Citrix/">Citrix</category>
       
-      <category domain="https://sysin.cn/tags/ADC/">ADC</category>
+      <category domain="https://sysin.org/tags/ADC/">ADC</category>
       
       
-      <comments>https://sysin.cn/blog/netscaler-adm-14/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/netscaler-adm-14/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Citrix ADC Release 13.1 Build 54.29 (nCore, VPX, SDX, CPX, BLX)</title>
-      <link>https://sysin.cn/blog/citrix-adc-13/</link>
-      <guid>https://sysin.cn/blog/citrix-adc-13/</guid>
+      <link>https://sysin.org/blog/citrix-adc-13/</link>
+      <guid>https://sysin.org/blog/citrix-adc-13/</guid>
       <pubDate>Tue, 20 Aug 2024 03:20:31 GMT</pubDate>
       
         
@@ -380,26 +380,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.cn/tags/Citrix/">Citrix</category>
+      <category domain="https://sysin.org/tags/Citrix/">Citrix</category>
       
-      <category domain="https://sysin.cn/tags/ADC/">ADC</category>
+      <category domain="https://sysin.org/tags/ADC/">ADC</category>
       
       
-      <comments>https://sysin.cn/blog/citrix-adc-13/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/citrix-adc-13/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Citrix ADC Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)</title>
-      <link>https://sysin.cn/blog/citrix-adc-14/</link>
-      <guid>https://sysin.cn/blog/citrix-adc-14/</guid>
+      <link>https://sysin.org/blog/citrix-adc-14/</link>
+      <guid>https://sysin.org/blog/citrix-adc-14/</guid>
       <pubDate>Tue, 20 Aug 2024 03:10:45 GMT</pubDate>
       
         
@@ -413,26 +413,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.cn/tags/Citrix/">Citrix</category>
+      <category domain="https://sysin.org/tags/Citrix/">Citrix</category>
       
-      <category domain="https://sysin.cn/tags/ADC/">ADC</category>
+      <category domain="https://sysin.org/tags/ADC/">ADC</category>
       
       
-      <comments>https://sysin.cn/blog/citrix-adc-14/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/citrix-adc-14/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains IDE 2024.2 (macOS, Linux, Windows) - 开发者工具</title>
-      <link>https://sysin.cn/blog/jetbrains/</link>
-      <guid>https://sysin.cn/blog/jetbrains/</guid>
+      <link>https://sysin.org/blog/jetbrains/</link>
+      <guid>https://sysin.org/blog/jetbrains/</guid>
       <pubDate>Sat, 17 Aug 2024 02:30:00 GMT</pubDate>
       
         
@@ -446,28 +446,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
-      <category domain="https://sysin.cn/tags/iOS/">iOS</category>
+      <category domain="https://sysin.org/tags/iOS/">iOS</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains Aqua 2024.2 (macOS, Linux, Windows) - 测试自动化 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-aqua/</link>
-      <guid>https://sysin.cn/blog/jetbrains-aqua/</guid>
+      <link>https://sysin.org/blog/jetbrains-aqua/</link>
+      <guid>https://sysin.org/blog/jetbrains-aqua/</guid>
       <pubDate>Sat, 17 Aug 2024 02:29:00 GMT</pubDate>
       
         
@@ -481,28 +481,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-aqua/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-aqua/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains CLion 2024.2 (macOS, Linux, Windows) - C 和 C++ 跨平台 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-clion/</link>
-      <guid>https://sysin.cn/blog/jetbrains-clion/</guid>
+      <link>https://sysin.org/blog/jetbrains-clion/</link>
+      <guid>https://sysin.org/blog/jetbrains-clion/</guid>
       <pubDate>Sat, 17 Aug 2024 02:28:00 GMT</pubDate>
       
         
@@ -516,28 +516,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-clion/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-clion/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains DataGrip 2024.2 (macOS, Linux, Windows) - 数据库和 SQL 跨平台 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-datagrip/</link>
-      <guid>https://sysin.cn/blog/jetbrains-datagrip/</guid>
+      <link>https://sysin.org/blog/jetbrains-datagrip/</link>
+      <guid>https://sysin.org/blog/jetbrains-datagrip/</guid>
       <pubDate>Sat, 17 Aug 2024 02:27:35 GMT</pubDate>
       
         
@@ -551,28 +551,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-datagrip/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-datagrip/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains DataSpell 2024.2 (macOS, Linux, Windows) - 专业数据科学家的 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-dataspell/</link>
-      <guid>https://sysin.cn/blog/jetbrains-dataspell/</guid>
+      <link>https://sysin.org/blog/jetbrains-dataspell/</link>
+      <guid>https://sysin.org/blog/jetbrains-dataspell/</guid>
       <pubDate>Sat, 17 Aug 2024 02:26:00 GMT</pubDate>
       
         
@@ -586,28 +586,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-dataspell/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-dataspell/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains Fleet 2024.2 (macOS, Linux, Windows) - 不只是代码编辑器</title>
-      <link>https://sysin.cn/blog/jetbrains-fleet/</link>
-      <guid>https://sysin.cn/blog/jetbrains-fleet/</guid>
+      <link>https://sysin.org/blog/jetbrains-fleet/</link>
+      <guid>https://sysin.org/blog/jetbrains-fleet/</guid>
       <pubDate>Sat, 17 Aug 2024 02:25:00 GMT</pubDate>
       
         
@@ -621,28 +621,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-fleet/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-fleet/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains GoLand 2024.2 (macOS, Linux, Windows) - 为 Go 开发者打造的完整 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-goland/</link>
-      <guid>https://sysin.cn/blog/jetbrains-goland/</guid>
+      <link>https://sysin.org/blog/jetbrains-goland/</link>
+      <guid>https://sysin.org/blog/jetbrains-goland/</guid>
       <pubDate>Sat, 17 Aug 2024 02:24:00 GMT</pubDate>
       
         
@@ -656,28 +656,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-goland/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-goland/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains IntelliJ IDEA 2024.2 (macOS, Linux, Windows) - 领先的 Java 和 Kotlin IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-idea/</link>
-      <guid>https://sysin.cn/blog/jetbrains-idea/</guid>
+      <link>https://sysin.org/blog/jetbrains-idea/</link>
+      <guid>https://sysin.org/blog/jetbrains-idea/</guid>
       <pubDate>Sat, 17 Aug 2024 02:23:35 GMT</pubDate>
       
         
@@ -691,28 +691,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-idea/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-idea/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains PhpStorm 2024.2 (macOS, Linux, Windows) - 高效智能的 PHP IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-phpstorm/</link>
-      <guid>https://sysin.cn/blog/jetbrains-phpstorm/</guid>
+      <link>https://sysin.org/blog/jetbrains-phpstorm/</link>
+      <guid>https://sysin.org/blog/jetbrains-phpstorm/</guid>
       <pubDate>Sat, 17 Aug 2024 02:23:00 GMT</pubDate>
       
         
@@ -726,28 +726,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-phpstorm/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-phpstorm/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains RubyMine 2024.2 (macOS, Linux, Windows) - 最智能的 Ruby 与 Rails IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-rubymine/</link>
-      <guid>https://sysin.cn/blog/jetbrains-rubymine/</guid>
+      <link>https://sysin.org/blog/jetbrains-rubymine/</link>
+      <guid>https://sysin.org/blog/jetbrains-rubymine/</guid>
       <pubDate>Sat, 17 Aug 2024 02:23:00 GMT</pubDate>
       
         
@@ -761,28 +761,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-rubymine/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-rubymine/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains Rider 2024.2 (macOS, Linux, Windows) - 快速且强大的跨平台 .NET IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-rider/</link>
-      <guid>https://sysin.cn/blog/jetbrains-rider/</guid>
+      <link>https://sysin.org/blog/jetbrains-rider/</link>
+      <guid>https://sysin.org/blog/jetbrains-rider/</guid>
       <pubDate>Sat, 17 Aug 2024 02:22:00 GMT</pubDate>
       
         
@@ -796,28 +796,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-rider/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-rider/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-pycharm/</link>
-      <guid>https://sysin.cn/blog/jetbrains-pycharm/</guid>
+      <link>https://sysin.org/blog/jetbrains-pycharm/</link>
+      <guid>https://sysin.org/blog/jetbrains-pycharm/</guid>
       <pubDate>Sat, 17 Aug 2024 02:21:00 GMT</pubDate>
       
         
@@ -831,28 +831,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-pycharm/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-pycharm/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains RustRover 2024.2 (macOS, Linux, Windows) - 面向 Rust 开发者的强大 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-rustrover/</link>
-      <guid>https://sysin.cn/blog/jetbrains-rustrover/</guid>
+      <link>https://sysin.org/blog/jetbrains-rustrover/</link>
+      <guid>https://sysin.org/blog/jetbrains-rustrover/</guid>
       <pubDate>Sat, 17 Aug 2024 02:21:00 GMT</pubDate>
       
         
@@ -866,28 +866,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-rustrover/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-rustrover/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains WebStorm 2024.2 (macOS, Linux, Windows) - 最智能的 JavaScript IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-webstorm/</link>
-      <guid>https://sysin.cn/blog/jetbrains-webstorm/</guid>
+      <link>https://sysin.org/blog/jetbrains-webstorm/</link>
+      <guid>https://sysin.org/blog/jetbrains-webstorm/</guid>
       <pubDate>Sat, 17 Aug 2024 02:20:35 GMT</pubDate>
       
         
@@ -901,28 +901,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-webstorm/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-webstorm/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>JetBrains Writerside 2024.2 (macOS, Linux, Windows) - 编写、测试、构建和发布最佳教程</title>
-      <link>https://sysin.cn/blog/jetbrains-writerside/</link>
-      <guid>https://sysin.cn/blog/jetbrains-writerside/</guid>
+      <link>https://sysin.org/blog/jetbrains-writerside/</link>
+      <guid>https://sysin.org/blog/jetbrains-writerside/</guid>
       <pubDate>Sat, 17 Aug 2024 02:19:00 GMT</pubDate>
       
         
@@ -936,28 +936,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
+      <category domain="https://sysin.org/tags/JetBrains/">JetBrains</category>
       
       
-      <comments>https://sysin.cn/blog/jetbrains-writerside/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/jetbrains-writerside/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Magnet AXIOM 8.3.1 Windows x64 Multilingual - 数字取证与分析</title>
-      <link>https://sysin.cn/blog/magnet-axiom/</link>
-      <guid>https://sysin.cn/blog/magnet-axiom/</guid>
+      <link>https://sysin.org/blog/magnet-axiom/</link>
+      <guid>https://sysin.org/blog/magnet-axiom/</guid>
       <pubDate>Fri, 16 Aug 2024 01:35:45 GMT</pubDate>
       
         
@@ -971,22 +971,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.cn/blog/magnet-axiom/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/magnet-axiom/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Magnet DVR Examiner 3.14.0 Windows - 从监控系统 CCTV 和监控 DVR 恢复视频和元数据</title>
-      <link>https://sysin.cn/blog/magnet-dvr-examiner/</link>
-      <guid>https://sysin.cn/blog/magnet-dvr-examiner/</guid>
+      <link>https://sysin.org/blog/magnet-dvr-examiner/</link>
+      <guid>https://sysin.org/blog/magnet-dvr-examiner/</guid>
       <pubDate>Thu, 15 Aug 2024 05:36:45 GMT</pubDate>
       
         
@@ -1000,15 +1000,15 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.cn/blog/magnet-dvr-examiner/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/magnet-dvr-examiner/#disqus_thread</comments>
       
     </item>
     
