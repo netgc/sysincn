@@ -2,6 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/windows-11/</loc>
+    
+    <lastmod>2024-08-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/netscaler-14/</loc>
+    
+    <lastmod>2024-08-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/netscaler-adm-14/</loc>
+    
+    <lastmod>2024-08-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/windows-10-arm/</loc>
+    
+    <lastmod>2024-08-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/windows-11-22h2/</loc>
+    
+    <lastmod>2024-08-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/windows-11-21h2/</loc>
+    
+    <lastmod>2024-08-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/citrix-adc-14/</loc>
+    
+    <lastmod>2024-08-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/netscaler-console-14/</loc>
+    
+    <lastmod>2024-08-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/citrix-adc-13/</loc>
+    
+    <lastmod>2024-08-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/metasploit-pro-4/</loc>
     
     <lastmod>2024-08-22</lastmod>
@@ -29,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/windows-11/</loc>
-    
-    <lastmod>2024-08-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/windows-10/</loc>
     
     <lastmod>2024-08-21</lastmod>
@@ -50,51 +122,6 @@
     <loc>https://sysin.cn/blog/apple-xcode-16/</loc>
     
     <lastmod>2024-08-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/netscaler-console-14/</loc>
-    
-    <lastmod>2024-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/netscaler-adm-14/</loc>
-    
-    <lastmod>2024-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/netscaler-14/</loc>
-    
-    <lastmod>2024-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/citrix-adc-14/</loc>
-    
-    <lastmod>2024-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/citrix-adc-13/</loc>
-    
-    <lastmod>2024-08-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1253,7 +1280,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/adobe-bridge/</loc>
+    <loc>https://sysin.cn/blog/adobe-audition/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1262,7 +1289,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/adobe-audition/</loc>
+    <loc>https://sysin.cn/blog/adobe-bridge/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2171,7 +2198,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7-u3/</loc>
+    <loc>https://sysin.cn/blog/vmware-esxi-7/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2180,7 +2207,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7/</loc>
+    <loc>https://sysin.cn/blog/vmware-esxi-7-u3/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2649,15 +2676,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-8-u1/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/windows-10-arm/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -3494,15 +3512,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/windows-11-21h2/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/windows-server-2016/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -3963,15 +3972,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/vmware-vra-ssc-8/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/windows-11-22h2/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7138,14 +7138,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Unix/</loc>
+    <loc>https://sysin.cn/tags/Rapid7/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Rapid7/</loc>
+    <loc>https://sysin.cn/tags/Unix/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7236,14 +7236,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/IOS-XR/</loc>
+    <loc>https://sysin.cn/tags/Router/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Router/</loc>
+    <loc>https://sysin.cn/tags/IOS-XR/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7376,14 +7376,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/AutoUpdate/</loc>
+    <loc>https://sysin.cn/tags/Edge/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Edge/</loc>
+    <loc>https://sysin.cn/tags/AutoUpdate/</loc>
     <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

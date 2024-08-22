@@ -112,7 +112,7 @@
     <link href="https://sysin.cn/blog/windows-11/"/>
     <id>https://sysin.cn/blog/windows-11/</id>
     <published>2024-08-21T05:18:00.000Z</published>
-    <updated>2024-08-21T05:38:34.867Z</updated>
+    <updated>2024-08-22T03:04:56.414Z</updated>
     
     
       
@@ -147,6 +147,60 @@
         
         
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-10/&quot; title=&quot;Windows 10 version 22H2 (updated Aug 2024) 中文版、英文版下载&quot;&gt;Windows 10 version 22H2 (updated Aug 2024) 中文版、英文版下载&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 10 on ARM, version 22H2 (updated Aug 2024) ARM64 AArch64 中文版、英文版下载</title>
+    <link href="https://sysin.cn/blog/windows-10-arm/"/>
+    <id>https://sysin.cn/blog/windows-10-arm/</id>
+    <published>2024-08-21T05:06:00.000Z</published>
+    <updated>2024-08-22T02:59:10.274Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-10-arm/&quot; title=&quot;Windows 10 on ARM, version 22H2 (updated Aug 2024) ARM64 AArch64 中文版、英文版下载&quot;&gt;Windows 10 on ARM, version 22H2 (updated Aug 2024) ARM64 AArch64 中文版、英文版下载&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 11 version 22H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)</title>
+    <link href="https://sysin.cn/blog/windows-11-22h2/"/>
+    <id>https://sysin.cn/blog/windows-11-22h2/</id>
+    <published>2024-08-21T03:17:00.000Z</published>
+    <updated>2024-08-22T02:57:52.650Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-11/&quot; title=&quot;Windows 11 version 23H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)&quot;&gt;Windows 11 version 23H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)&lt;/a&gt;，查看最新版。</summary>
         
       
     
@@ -197,7 +251,7 @@
     <link href="https://sysin.cn/blog/netscaler-14/"/>
     <id>https://sysin.cn/blog/netscaler-14/</id>
     <published>2024-08-21T01:10:45.000Z</published>
-    <updated>2024-08-20T08:12:45.013Z</updated>
+    <updated>2024-08-22T03:03:53.482Z</updated>
     
     
       
@@ -228,7 +282,7 @@
     <link href="https://sysin.cn/blog/netscaler-console-14/"/>
     <id>https://sysin.cn/blog/netscaler-console-14/</id>
     <published>2024-08-21T01:08:35.000Z</published>
-    <updated>2024-08-20T08:13:27.990Z</updated>
+    <updated>2024-08-22T02:14:49.542Z</updated>
     
     
       
@@ -259,14 +313,14 @@
     <link href="https://sysin.cn/blog/netscaler-adm-14/"/>
     <id>https://sysin.cn/blog/netscaler-adm-14/</id>
     <published>2024-08-21T01:08:15.000Z</published>
-    <updated>2024-08-20T08:13:19.829Z</updated>
+    <updated>2024-08-22T03:00:28.395Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/netscaler-adm-14/&quot; title=&quot;NetScaler ADM Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)&quot;&gt;NetScaler ADM Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)&lt;/a&gt;，查看最新版。</summary>
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/netscaler-console-14/&quot; title=&quot;NetScaler Console Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)&quot;&gt;NetScaler Console Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)&lt;/a&gt;，查看最新版。</summary>
         
       
     
@@ -290,7 +344,7 @@
     <link href="https://sysin.cn/blog/citrix-adc-13/"/>
     <id>https://sysin.cn/blog/citrix-adc-13/</id>
     <published>2024-08-20T03:20:31.000Z</published>
-    <updated>2024-08-20T04:34:12.788Z</updated>
+    <updated>2024-08-22T02:14:49.539Z</updated>
     
     
       
@@ -321,7 +375,7 @@
     <link href="https://sysin.cn/blog/citrix-adc-14/"/>
     <id>https://sysin.cn/blog/citrix-adc-14/</id>
     <published>2024-08-20T03:10:45.000Z</published>
-    <updated>2024-08-20T04:34:31.308Z</updated>
+    <updated>2024-08-22T02:14:49.542Z</updated>
     
     
       
@@ -893,62 +947,6 @@
     <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Apple Final Cut Pro 10.8.1 - 专业后期制作 (视频编辑)</title>
-    <link href="https://sysin.cn/blog/apple-final-cut-pro/"/>
-    <id>https://sysin.cn/blog/apple-final-cut-pro/</id>
-    <published>2024-08-15T05:20:00.000Z</published>
-    <updated>2024-08-15T05:10:47.594Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-final-cut-pro/&quot; title=&quot;Apple Final Cut Pro 10.8.1 - 专业后期制作 (视频编辑)&quot;&gt;Apple Final Cut Pro 10.8.1 - 专业后期制作 (视频编辑)&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
-    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>vCenter Server 8.0U3 OVF：在 Fusion 和 Workstation 中快速部署 vCSA</title>
-    <link href="https://sysin.cn/blog/vmware-vcenter-8-ovf/"/>
-    <id>https://sysin.cn/blog/vmware-vcenter-8-ovf/</id>
-    <published>2024-08-14T01:18:09.000Z</published>
-    <updated>2024-08-14T01:37:48.758Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-vcenter-8-ovf/&quot; title=&quot;vCenter Server 8.0U3 OVF：在 Fusion 和 Workstation 中快速部署 vCSA&quot;&gt;vCenter Server 8.0U3 OVF：在 Fusion 和 Workstation 中快速部署 vCSA&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
-    
-    
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
-    
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
-    
-    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
   </entry>
   
