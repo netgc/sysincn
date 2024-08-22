@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>sysin</title>
-  <icon>https://sysin.org/img/favicon.png</icon>
-  <subtitle>SYStem INside | 软件与技术分享</subtitle>
-  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <icon>https://sysin.cn/img/favicon.png</icon>
+  <subtitle>软件与技术分享</subtitle>
+  <link href="https://sysin.cn/atom.xml" rel="self"/>
   
-  <link href="https://sysin.org/"/>
+  <link href="https://sysin.cn/"/>
   <updated>2024-08-22T01:25:30.599Z</updated>
-  <id>https://sysin.org/</id>
+  <id>https://sysin.cn/</id>
   
   <author>
     <name>sysin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Nexpose v6.6.266 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.org/blog/nexpose-6/"/>
-    <id>https://sysin.org/blog/nexpose-6/</id>
+    <link href="https://sysin.cn/blog/nexpose-6/"/>
+    <id>https://sysin.cn/blog/nexpose-6/</id>
     <published>2024-08-22T01:18:50.000Z</published>
     <updated>2024-08-22T01:25:30.599Z</updated>
     
@@ -34,23 +34,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
     <title>Metasploit Pro 4.22.3-2024081901 (Linux, Windows) - 专业渗透测试框架</title>
-    <link href="https://sysin.org/blog/metasploit-pro-4/"/>
-    <id>https://sysin.org/blog/metasploit-pro-4/</id>
+    <link href="https://sysin.cn/blog/metasploit-pro-4/"/>
+    <id>https://sysin.cn/blog/metasploit-pro-4/</id>
     <published>2024-08-22T01:09:10.000Z</published>
     <updated>2024-08-22T01:25:40.116Z</updated>
     
@@ -65,23 +65,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
     <title>Windows Server 2022 中文版、英文版下载 (updated Aug 2024)</title>
-    <link href="https://sysin.org/blog/windows-server-2022/"/>
-    <id>https://sysin.org/blog/windows-server-2022/</id>
+    <link href="https://sysin.cn/blog/windows-server-2022/"/>
+    <id>https://sysin.cn/blog/windows-server-2022/</id>
     <published>2024-08-21T05:23:00.000Z</published>
     <updated>2024-08-21T06:06:51.669Z</updated>
     
@@ -96,21 +96,21 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
     
   </entry>
   
   <entry>
     <title>Windows 11 version 23H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)</title>
-    <link href="https://sysin.org/blog/windows-11/"/>
-    <id>https://sysin.org/blog/windows-11/</id>
+    <link href="https://sysin.cn/blog/windows-11/"/>
+    <id>https://sysin.cn/blog/windows-11/</id>
     <published>2024-08-21T05:18:00.000Z</published>
     <updated>2024-08-21T05:38:34.867Z</updated>
     
@@ -125,19 +125,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Windows 10 version 22H2 (updated Aug 2024) 中文版、英文版下载</title>
-    <link href="https://sysin.org/blog/windows-10/"/>
-    <id>https://sysin.org/blog/windows-10/</id>
+    <link href="https://sysin.cn/blog/windows-10/"/>
+    <id>https://sysin.cn/blog/windows-10/</id>
     <published>2024-08-21T05:15:00.000Z</published>
     <updated>2024-08-21T05:37:01.377Z</updated>
     
@@ -152,19 +152,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Xcode 16 beta 6 (16A5230g) - Apple 平台 IDE</title>
-    <link href="https://sysin.org/blog/apple-xcode-16/"/>
-    <id>https://sysin.org/blog/apple-xcode-16/</id>
+    <link href="https://sysin.cn/blog/apple-xcode-16/"/>
+    <id>https://sysin.cn/blog/apple-xcode-16/</id>
     <published>2024-08-21T01:13:00.000Z</published>
     <updated>2024-08-21T01:42:06.708Z</updated>
     
@@ -179,23 +179,23 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
-    <category term="iOS" scheme="https://sysin.org/tags/iOS/"/>
+    <category term="iOS" scheme="https://sysin.cn/tags/iOS/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
   </entry>
   
   <entry>
     <title>NetScaler Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)</title>
-    <link href="https://sysin.org/blog/netscaler-14/"/>
-    <id>https://sysin.org/blog/netscaler-14/</id>
+    <link href="https://sysin.cn/blog/netscaler-14/"/>
+    <id>https://sysin.cn/blog/netscaler-14/</id>
     <published>2024-08-21T01:10:45.000Z</published>
     <updated>2024-08-20T08:12:45.013Z</updated>
     
@@ -210,23 +210,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Citrix" scheme="https://sysin.org/tags/Citrix/"/>
+    <category term="Citrix" scheme="https://sysin.cn/tags/Citrix/"/>
     
-    <category term="ADC" scheme="https://sysin.org/tags/ADC/"/>
+    <category term="ADC" scheme="https://sysin.cn/tags/ADC/"/>
     
   </entry>
   
   <entry>
     <title>NetScaler Console Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)</title>
-    <link href="https://sysin.org/blog/netscaler-console-14/"/>
-    <id>https://sysin.org/blog/netscaler-console-14/</id>
+    <link href="https://sysin.cn/blog/netscaler-console-14/"/>
+    <id>https://sysin.cn/blog/netscaler-console-14/</id>
     <published>2024-08-21T01:08:35.000Z</published>
     <updated>2024-08-20T08:13:27.990Z</updated>
     
@@ -241,23 +241,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Citrix" scheme="https://sysin.org/tags/Citrix/"/>
+    <category term="Citrix" scheme="https://sysin.cn/tags/Citrix/"/>
     
-    <category term="ADC" scheme="https://sysin.org/tags/ADC/"/>
+    <category term="ADC" scheme="https://sysin.cn/tags/ADC/"/>
     
   </entry>
   
   <entry>
     <title>NetScaler ADM Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)</title>
-    <link href="https://sysin.org/blog/netscaler-adm-14/"/>
-    <id>https://sysin.org/blog/netscaler-adm-14/</id>
+    <link href="https://sysin.cn/blog/netscaler-adm-14/"/>
+    <id>https://sysin.cn/blog/netscaler-adm-14/</id>
     <published>2024-08-21T01:08:15.000Z</published>
     <updated>2024-08-20T08:13:19.829Z</updated>
     
@@ -272,23 +272,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Citrix" scheme="https://sysin.org/tags/Citrix/"/>
+    <category term="Citrix" scheme="https://sysin.cn/tags/Citrix/"/>
     
-    <category term="ADC" scheme="https://sysin.org/tags/ADC/"/>
+    <category term="ADC" scheme="https://sysin.cn/tags/ADC/"/>
     
   </entry>
   
   <entry>
     <title>Citrix ADC Release 13.1 Build 54.29 (nCore, VPX, SDX, CPX, BLX)</title>
-    <link href="https://sysin.org/blog/citrix-adc-13/"/>
-    <id>https://sysin.org/blog/citrix-adc-13/</id>
+    <link href="https://sysin.cn/blog/citrix-adc-13/"/>
+    <id>https://sysin.cn/blog/citrix-adc-13/</id>
     <published>2024-08-20T03:20:31.000Z</published>
     <updated>2024-08-20T04:34:12.788Z</updated>
     
@@ -303,23 +303,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Citrix" scheme="https://sysin.org/tags/Citrix/"/>
+    <category term="Citrix" scheme="https://sysin.cn/tags/Citrix/"/>
     
-    <category term="ADC" scheme="https://sysin.org/tags/ADC/"/>
+    <category term="ADC" scheme="https://sysin.cn/tags/ADC/"/>
     
   </entry>
   
   <entry>
     <title>Citrix ADC Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)</title>
-    <link href="https://sysin.org/blog/citrix-adc-14/"/>
-    <id>https://sysin.org/blog/citrix-adc-14/</id>
+    <link href="https://sysin.cn/blog/citrix-adc-14/"/>
+    <id>https://sysin.cn/blog/citrix-adc-14/</id>
     <published>2024-08-20T03:10:45.000Z</published>
     <updated>2024-08-20T04:34:31.308Z</updated>
     
@@ -334,23 +334,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Citrix" scheme="https://sysin.org/tags/Citrix/"/>
+    <category term="Citrix" scheme="https://sysin.cn/tags/Citrix/"/>
     
-    <category term="ADC" scheme="https://sysin.org/tags/ADC/"/>
+    <category term="ADC" scheme="https://sysin.cn/tags/ADC/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains IDE 2024.2 (macOS, Linux, Windows) - 开发者工具</title>
-    <link href="https://sysin.org/blog/jetbrains/"/>
-    <id>https://sysin.org/blog/jetbrains/</id>
+    <link href="https://sysin.cn/blog/jetbrains/"/>
+    <id>https://sysin.cn/blog/jetbrains/</id>
     <published>2024-08-17T02:30:00.000Z</published>
     <updated>2024-08-18T02:47:49.984Z</updated>
     
@@ -365,25 +365,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
-    <category term="iOS" scheme="https://sysin.org/tags/iOS/"/>
+    <category term="iOS" scheme="https://sysin.cn/tags/iOS/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains Aqua 2024.2 (macOS, Linux, Windows) - 测试自动化 IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-aqua/"/>
-    <id>https://sysin.org/blog/jetbrains-aqua/</id>
+    <link href="https://sysin.cn/blog/jetbrains-aqua/"/>
+    <id>https://sysin.cn/blog/jetbrains-aqua/</id>
     <published>2024-08-17T02:29:00.000Z</published>
     <updated>2024-08-17T09:12:38.549Z</updated>
     
@@ -398,25 +398,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains CLion 2024.2 (macOS, Linux, Windows) - C 和 C++ 跨平台 IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-clion/"/>
-    <id>https://sysin.org/blog/jetbrains-clion/</id>
+    <link href="https://sysin.cn/blog/jetbrains-clion/"/>
+    <id>https://sysin.cn/blog/jetbrains-clion/</id>
     <published>2024-08-17T02:28:00.000Z</published>
     <updated>2024-08-17T03:20:12.760Z</updated>
     
@@ -431,25 +431,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains DataGrip 2024.2 (macOS, Linux, Windows) - 数据库和 SQL 跨平台 IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-datagrip/"/>
-    <id>https://sysin.org/blog/jetbrains-datagrip/</id>
+    <link href="https://sysin.cn/blog/jetbrains-datagrip/"/>
+    <id>https://sysin.cn/blog/jetbrains-datagrip/</id>
     <published>2024-08-17T02:27:35.000Z</published>
     <updated>2024-08-17T03:20:01.037Z</updated>
     
@@ -464,25 +464,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains DataSpell 2024.2 (macOS, Linux, Windows) - 专业数据科学家的 IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-dataspell/"/>
-    <id>https://sysin.org/blog/jetbrains-dataspell/</id>
+    <link href="https://sysin.cn/blog/jetbrains-dataspell/"/>
+    <id>https://sysin.cn/blog/jetbrains-dataspell/</id>
     <published>2024-08-17T02:26:00.000Z</published>
     <updated>2024-08-17T03:19:52.149Z</updated>
     
@@ -497,25 +497,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains Fleet 2024.2 (macOS, Linux, Windows) - 不只是代码编辑器</title>
-    <link href="https://sysin.org/blog/jetbrains-fleet/"/>
-    <id>https://sysin.org/blog/jetbrains-fleet/</id>
+    <link href="https://sysin.cn/blog/jetbrains-fleet/"/>
+    <id>https://sysin.cn/blog/jetbrains-fleet/</id>
     <published>2024-08-17T02:25:00.000Z</published>
     <updated>2024-08-17T09:12:28.157Z</updated>
     
@@ -530,25 +530,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains GoLand 2024.2 (macOS, Linux, Windows) - 为 Go 开发者打造的完整 IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-goland/"/>
-    <id>https://sysin.org/blog/jetbrains-goland/</id>
+    <link href="https://sysin.cn/blog/jetbrains-goland/"/>
+    <id>https://sysin.cn/blog/jetbrains-goland/</id>
     <published>2024-08-17T02:24:00.000Z</published>
     <updated>2024-08-17T03:19:35.116Z</updated>
     
@@ -563,25 +563,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains IntelliJ IDEA 2024.2 (macOS, Linux, Windows) - 领先的 Java 和 Kotlin IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-idea/"/>
-    <id>https://sysin.org/blog/jetbrains-idea/</id>
+    <link href="https://sysin.cn/blog/jetbrains-idea/"/>
+    <id>https://sysin.cn/blog/jetbrains-idea/</id>
     <published>2024-08-17T02:23:35.000Z</published>
     <updated>2024-08-17T03:00:43.929Z</updated>
     
@@ -596,25 +596,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains PhpStorm 2024.2 (macOS, Linux, Windows) - 高效智能的 PHP IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-phpstorm/"/>
-    <id>https://sysin.org/blog/jetbrains-phpstorm/</id>
+    <link href="https://sysin.cn/blog/jetbrains-phpstorm/"/>
+    <id>https://sysin.cn/blog/jetbrains-phpstorm/</id>
     <published>2024-08-17T02:23:00.000Z</published>
     <updated>2024-08-17T03:19:23.781Z</updated>
     
@@ -629,25 +629,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains RubyMine 2024.2 (macOS, Linux, Windows) - 最智能的 Ruby 与 Rails IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-rubymine/"/>
-    <id>https://sysin.org/blog/jetbrains-rubymine/</id>
+    <link href="https://sysin.cn/blog/jetbrains-rubymine/"/>
+    <id>https://sysin.cn/blog/jetbrains-rubymine/</id>
     <published>2024-08-17T02:23:00.000Z</published>
     <updated>2024-08-17T03:18:45.080Z</updated>
     
@@ -662,25 +662,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains Rider 2024.2 (macOS, Linux, Windows) - 快速且强大的跨平台 .NET IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-rider/"/>
-    <id>https://sysin.org/blog/jetbrains-rider/</id>
+    <link href="https://sysin.cn/blog/jetbrains-rider/"/>
+    <id>https://sysin.cn/blog/jetbrains-rider/</id>
     <published>2024-08-17T02:22:00.000Z</published>
     <updated>2024-08-17T03:19:01.391Z</updated>
     
@@ -695,25 +695,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-pycharm/"/>
-    <id>https://sysin.org/blog/jetbrains-pycharm/</id>
+    <link href="https://sysin.cn/blog/jetbrains-pycharm/"/>
+    <id>https://sysin.cn/blog/jetbrains-pycharm/</id>
     <published>2024-08-17T02:21:00.000Z</published>
     <updated>2024-08-17T03:19:13.610Z</updated>
     
@@ -728,25 +728,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains RustRover 2024.2 (macOS, Linux, Windows) - 面向 Rust 开发者的强大 IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-rustrover/"/>
-    <id>https://sysin.org/blog/jetbrains-rustrover/</id>
+    <link href="https://sysin.cn/blog/jetbrains-rustrover/"/>
+    <id>https://sysin.cn/blog/jetbrains-rustrover/</id>
     <published>2024-08-17T02:21:00.000Z</published>
     <updated>2024-08-17T09:12:07.279Z</updated>
     
@@ -761,25 +761,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains WebStorm 2024.2 (macOS, Linux, Windows) - 最智能的 JavaScript IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-webstorm/"/>
-    <id>https://sysin.org/blog/jetbrains-webstorm/</id>
+    <link href="https://sysin.cn/blog/jetbrains-webstorm/"/>
+    <id>https://sysin.cn/blog/jetbrains-webstorm/</id>
     <published>2024-08-17T02:20:35.000Z</published>
     <updated>2024-08-17T03:18:14.390Z</updated>
     
@@ -794,25 +794,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>JetBrains Writerside 2024.2 (macOS, Linux, Windows) - 编写、测试、构建和发布最佳教程</title>
-    <link href="https://sysin.org/blog/jetbrains-writerside/"/>
-    <id>https://sysin.org/blog/jetbrains-writerside/</id>
+    <link href="https://sysin.cn/blog/jetbrains-writerside/"/>
+    <id>https://sysin.cn/blog/jetbrains-writerside/</id>
     <published>2024-08-17T02:19:00.000Z</published>
     <updated>2024-08-19T06:45:57.561Z</updated>
     
@@ -827,25 +827,25 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
+    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
     
   </entry>
   
   <entry>
     <title>Magnet AXIOM 8.3.1 Windows x64 Multilingual - 数字取证与分析</title>
-    <link href="https://sysin.org/blog/magnet-axiom/"/>
-    <id>https://sysin.org/blog/magnet-axiom/</id>
+    <link href="https://sysin.cn/blog/magnet-axiom/"/>
+    <id>https://sysin.cn/blog/magnet-axiom/</id>
     <published>2024-08-16T01:35:45.000Z</published>
     <updated>2024-08-16T02:11:35.318Z</updated>
     
@@ -860,19 +860,19 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Magnet DVR Examiner 3.14.0 Windows - 从监控系统 CCTV 和监控 DVR 恢复视频和元数据</title>
-    <link href="https://sysin.org/blog/magnet-dvr-examiner/"/>
-    <id>https://sysin.org/blog/magnet-dvr-examiner/</id>
+    <link href="https://sysin.cn/blog/magnet-dvr-examiner/"/>
+    <id>https://sysin.cn/blog/magnet-dvr-examiner/</id>
     <published>2024-08-15T05:36:45.000Z</published>
     <updated>2024-08-15T05:49:00.649Z</updated>
     
@@ -887,19 +887,19 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Apple Final Cut Pro 10.8.1 - 专业后期制作 (视频编辑)</title>
-    <link href="https://sysin.org/blog/apple-final-cut-pro/"/>
-    <id>https://sysin.org/blog/apple-final-cut-pro/</id>
+    <link href="https://sysin.cn/blog/apple-final-cut-pro/"/>
+    <id>https://sysin.cn/blog/apple-final-cut-pro/</id>
     <published>2024-08-15T05:20:00.000Z</published>
     <updated>2024-08-15T05:10:47.594Z</updated>
     
@@ -914,19 +914,19 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
   </entry>
   
   <entry>
     <title>vCenter Server 8.0U3 OVF：在 Fusion 和 Workstation 中快速部署 vCSA</title>
-    <link href="https://sysin.org/blog/vmware-vcenter-8-ovf/"/>
-    <id>https://sysin.org/blog/vmware-vcenter-8-ovf/</id>
+    <link href="https://sysin.cn/blog/vmware-vcenter-8-ovf/"/>
+    <id>https://sysin.cn/blog/vmware-vcenter-8-ovf/</id>
     <published>2024-08-14T01:18:09.000Z</published>
     <updated>2024-08-14T01:37:48.758Z</updated>
     
@@ -941,14 +941,14 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
   </entry>
   
