@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-08-24T03:10:02.564Z</updated>
+  <updated>2024-08-24T06:36:21.383Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -17,11 +17,69 @@
   <generator uri="https://sysin.org/">sysin</generator>
   
   <entry>
+    <title>Windows 7 &amp; Windows Server 2008 R2 简体中文版下载 (updated Aug 2024)</title>
+    <link href="https://sysin.org/blog/windows-7/"/>
+    <id>https://sysin.org/blog/windows-7/</id>
+    <published>2024-08-24T05:31:16.000Z</published>
+    <updated>2024-08-24T06:36:21.383Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-7/&quot; title=&quot;Windows 7 &amp;amp; Windows Server 2008 R2 简体中文版下载 (updated Aug 2024)&quot;&gt;Windows 7 &amp;amp; Windows Server 2008 R2 简体中文版下载 (updated Aug 2024)&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows Server 2019 OVF, updated Aug 2024 (sysin) - VMware 虚拟机模板</title>
+    <link href="https://sysin.org/blog/windows-server-2019-ovf/"/>
+    <id>https://sysin.org/blog/windows-server-2019-ovf/</id>
+    <published>2024-08-24T05:15:00.000Z</published>
+    <updated>2024-08-24T06:37:52.712Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2019-ovf/&quot; title=&quot;Windows Server 2019 OVF, updated Aug 2024 (sysin) - VMware 虚拟机模板&quot;&gt;Windows Server 2019 OVF, updated Aug 2024 (sysin) - VMware 虚拟机模板&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Windows Server 2016 OVF, updated Aug 2024 (sysin) - VMware 虚拟机模板</title>
     <link href="https://sysin.org/blog/windows-server-2016-ovf/"/>
     <id>https://sysin.org/blog/windows-server-2016-ovf/</id>
     <published>2024-08-24T02:10:00.000Z</published>
-    <updated>2024-08-24T03:10:02.564Z</updated>
+    <updated>2024-08-24T06:04:13.092Z</updated>
     
     
       
@@ -852,72 +910,6 @@
         
         
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jetbrains-rubymine/&quot; title=&quot;JetBrains RubyMine 2024.2 (macOS, Linux, Windows) - 最智能的 Ruby 与 Rails IDE&quot;&gt;JetBrains RubyMine 2024.2 (macOS, Linux, Windows) - 最智能的 Ruby 与 Rails IDE&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
-    
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JetBrains Rider 2024.2 (macOS, Linux, Windows) - 快速且强大的跨平台 .NET IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-rider/"/>
-    <id>https://sysin.org/blog/jetbrains-rider/</id>
-    <published>2024-08-17T02:22:00.000Z</published>
-    <updated>2024-08-17T03:19:01.391Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jetbrains-rider/&quot; title=&quot;JetBrains Rider 2024.2 (macOS, Linux, Windows) - 快速且强大的跨平台 .NET IDE&quot;&gt;JetBrains Rider 2024.2 (macOS, Linux, Windows) - 快速且强大的跨平台 .NET IDE&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
-    
-    <category term="JetBrains" scheme="https://sysin.org/tags/JetBrains/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-pycharm/"/>
-    <id>https://sysin.org/blog/jetbrains-pycharm/</id>
-    <published>2024-08-17T02:21:00.000Z</published>
-    <updated>2024-08-17T03:19:13.610Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jetbrains-pycharm/&quot; title=&quot;JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE&quot;&gt;JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE&lt;/a&gt;，查看最新版。</summary>
         
       
     

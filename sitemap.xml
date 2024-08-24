@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/windows-server-2019-ovf/</loc>
+    
+    <lastmod>2024-08-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/windows-7/</loc>
+    
+    <lastmod>2024-08-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/windows-server-2022-ovf/</loc>
+    
+    <lastmod>2024-08-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
+    
+    <lastmod>2024-08-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/windows-server-2008-r2-ovf/</loc>
+    
+    <lastmod>2024-08-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/windows-server-2016-ovf/</loc>
     
     <lastmod>2024-08-24</lastmod>
@@ -1289,7 +1334,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-foundation/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-replication-8/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1298,7 +1343,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-replication-8/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-foundation/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2253,15 +2298,6 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/windows-server-2022-ovf/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4448,15 +4484,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/windows-server-2008-r2-ovf/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/wsa-install/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -4548,15 +4575,6 @@
   
   <url>
     <loc>https://sysin.org/blog/shasum/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/windows-server-2019-ovf/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5457,15 +5475,6 @@
   
   <url>
     <loc>https://sysin.org/blog/oracle-linux-8/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/windows-7/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6563,15 +6572,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/apple-xcode-14/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -7348,7 +7348,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Dell/</loc>
+    <loc>https://sysin.org/tags/DellEMC/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7362,7 +7362,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/DellEMC/</loc>
+    <loc>https://sysin.org/tags/Dell/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7607,14 +7607,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Docker/</loc>
+    <loc>https://sysin.org/tags/NIOS/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/NIOS/</loc>
+    <loc>https://sysin.org/tags/Docker/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
