@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.cn/blog/windows-server-2016-ovf/</loc>
+    <lastmod>2024-08-24</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/invicti/</loc>
+    <lastmod>2024-08-24</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/appscan-10/</loc>
     <lastmod>2024-08-23</lastmod>
   </url>
@@ -75,10 +83,6 @@
   <url>
     <loc>https://sysin.cn/blog/apple-xcode-16/</loc>
     <lastmod>2024-08-21</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/invicti/</loc>
-    <lastmod>2024-08-19</lastmod>
   </url>
   <url>
     <loc>https://sysin.cn/blog/freebsd-13/</loc>
@@ -358,10 +362,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/vmware-aria-automation/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/windows-server-2016-ovf/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -3017,11 +3017,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/how-to-fix-apple-continuity/</loc>
+    <loc>https://sysin.cn/blog/how-to-change-file-date/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/how-to-change-file-date/</loc>
+    <loc>https://sysin.cn/blog/how-to-fix-apple-continuity/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>

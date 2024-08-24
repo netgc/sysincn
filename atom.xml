@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-08-23T08:43:13.661Z</updated>
+  <updated>2024-08-24T03:10:02.564Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -17,18 +17,49 @@
   <generator uri="https://sysin.org/">sysin</generator>
   
   <entry>
-    <title>HCL AppScan Standard v10.6.0 (Windows) - Web 应用程序安全测试</title>
+    <title>Windows Server 2016 OVF, updated Aug 2024 (sysin) - VMware 虚拟机模板</title>
+    <link href="https://sysin.cn/blog/windows-server-2016-ovf/"/>
+    <id>https://sysin.cn/blog/windows-server-2016-ovf/</id>
+    <published>2024-08-24T02:10:00.000Z</published>
+    <updated>2024-08-24T03:10:02.564Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2016-ovf/&quot; title=&quot;Windows Server 2016 OVF, updated Aug 2024 (sysin) - VMware 虚拟机模板&quot;&gt;Windows Server 2016 OVF, updated Aug 2024 (sysin) - VMware 虚拟机模板&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HCL AppScan Standard 10.6.0 (Windows) - Web 应用程序安全测试</title>
     <link href="https://sysin.cn/blog/appscan-10/"/>
     <id>https://sysin.cn/blog/appscan-10/</id>
     <published>2024-08-23T05:10:28.000Z</published>
-    <updated>2024-08-23T08:43:13.661Z</updated>
+    <updated>2024-08-23T08:59:16.250Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/appscan-10/&quot; title=&quot;HCL AppScan Standard v10.6.0 (Windows) - Web 应用程序安全测试&quot;&gt;HCL AppScan Standard v10.6.0 (Windows) - Web 应用程序安全测试&lt;/a&gt;，查看最新版。</summary>
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/appscan-10/&quot; title=&quot;HCL AppScan Standard 10.6.0 (Windows) - Web 应用程序安全测试&quot;&gt;HCL AppScan Standard 10.6.0 (Windows) - Web 应用程序安全测试&lt;/a&gt;，查看最新版。</summary>
         
       
     
@@ -887,39 +918,6 @@
         
         
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jetbrains-pycharm/&quot; title=&quot;JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE&quot;&gt;JetBrains PyCharm 2024.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
-    
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
-    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
-    
-    <category term="JetBrains" scheme="https://sysin.cn/tags/JetBrains/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JetBrains RustRover 2024.2 (macOS, Linux, Windows) - 面向 Rust 开发者的强大 IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-rustrover/"/>
-    <id>https://sysin.cn/blog/jetbrains-rustrover/</id>
-    <published>2024-08-17T02:21:00.000Z</published>
-    <updated>2024-08-17T09:12:07.279Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jetbrains-rustrover/&quot; title=&quot;JetBrains RustRover 2024.2 (macOS, Linux, Windows) - 面向 Rust 开发者的强大 IDE&quot;&gt;JetBrains RustRover 2024.2 (macOS, Linux, Windows) - 面向 Rust 开发者的强大 IDE&lt;/a&gt;，查看最新版。</summary>
         
       
     
