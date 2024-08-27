@@ -40,21 +40,19 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="cQdiYmfnUizHR5_mlq5DfwwqcUc7QOET5xiRSYR135k"/>
   
   
-  
-  <meta name="bytedance-verification-code" content="gxLK9s/GZWOg4uM84+f4"/>
+  <meta name="bytedance-verification-code" content="ogpqLENT9c9pWmb2XWie"/>
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> 在 Linux 上运行 Cisco Nexus 9000v (NX-OS 10) - sysin | 软件与技术分享 | SYStem INside </title>
-  <meta name="description" content=" 在 Linux 上运行 Cisco Nexus 9000v (NX-OS 10) - sysin | 软件与技术分享 | SYStem INside "/>
+  <title> 在 Linux 上运行 Cisco Nexus 9000v (NX-OS 10) - sysin | SYStem INside | 软件与技术分享 </title>
+  <meta name="description" content=" 在 Linux 上运行 Cisco Nexus 9000v (NX-OS 10) - sysin | SYStem INside | 软件与技术分享 "/>
   <meta name="keyword" content=" 在 Linux 上运行 Cisco Nexus 9000v (NX-OS 10) "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/run-nxos-on-linux/">
+  <link rel="canonical" href="https://sysin.org/blog/run-nxos-on-linux/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <!-- <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script> -->
@@ -472,7 +470,7 @@
         <script type="module">
           import { pageviewCount } from 'https://unpkg.com/@waline/client@2.15.5/dist/pageview.mjs';
           pageviewCount({
-            serverURL: 'https://comment.sysin.cn',
+            serverURL: 'https://comment.sysin.org',
             path: window.location.pathname,
             // 可选的，用于自定选择器，默认为 `'.waline-pageview-count'`
             // selector: 'waline-pageview-count',
@@ -489,27 +487,27 @@
         <!-- toppromotion end -->
 
         <p>请访问原文链接：<a href="/blog/run-nxos-on-linux/" title="在 Linux 上运行 Cisco Nexus 9000v (NX-OS 10)">在 Linux 上运行 Cisco Nexus 9000v (NX-OS 10)</a>，查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">sysin.org</a></p>
+<p>作者主页：<a href="https://sysin.org">sysin.org</a></p>
 <hr>
 <p>本文使用的软件及下载地址：</p>
 <ul>
 <li>
-<p>OS：Ubuntu 20.04 Desktop [<a target="_blank" rel="noopener" href="https://sysin.org/blog/ubuntu-2004/">点击下载</a>]</p>
+<p>OS：Ubuntu 20.04 Desktop [<a href="https://sysin.org/blog/ubuntu-2004/">点击下载</a>]</p>
 </li>
 <li>
-<p>Hypervisor：VMware Workstation for Linux 16 [<a target="_blank" rel="noopener" href="https://sysin.org/blog/vmware-workstation-16-unlocker-linux/">点击下载</a>]</p>
+<p>Hypervisor：VMware Workstation for Linux 16 [<a href="https://sysin.org/blog/vmware-workstation-16-unlocker-linux/">点击下载</a>]</p>
 </li>
 <li>
-<p>OVF：Cisco NX-OS 10 [<a target="_blank" rel="noopener" href="https://sysin.org/blog/cisco-nx-os-10/">点击下载</a>]</p>
+<p>OVF：Cisco NX-OS 10 [<a href="https://sysin.org/blog/cisco-nx-os-10/">点击下载</a>]</p>
 </li>
 </ul>
-<h2 id="下载和部署-OVF">下载和部署 OVF</h2>
+<h2 id="下载和部署-OVF-2">下载和部署 OVF</h2>
 <p>本站下载链接如上所述，或者去 Cisco <a target="_blank" rel="noopener" href="https://software.cisco.com/download/home">软件下载</a> 页面，搜索 “Nexus 9000v”，登录 Cisco 账号进行下载。</p>
 <p>VMware Workstation “Open a Virtual Machine”，导入 ova 文件，默认导入到用户主目录下的 vmware 文件夹下。</p>
 <p>按照默认配置即可，导入后如下。</p>
 <p><img src="vm-ws-linux-serial-01.webp" alt="sysin"></p>
-<h2 id="配置串口">配置串口</h2>
-<h3 id="添加串口">添加串口</h3>
+<h2 id="配置串口-2">配置串口</h2>
+<h3 id="添加串口-2">添加串口</h3>
 <p>编辑虚机设置，出现 “设置” 页面如下，点击 “Add…”</p>
 <p><img src="vm-ws-linux-serial-02.webp" alt="sysin"></p>
 <p>选择 “串行端口”，点击 “Finish”</p>
@@ -518,9 +516,9 @@
 <p>Use socket (named pipe)，名称没有固定要求，本例使用 <code>/tmp/serial0</code>，连接串口需要使用该名称。</p>
 <p>From：Server To：An Application（必须）</p>
 <p><img src="vm-ws-linux-serial-04.webp" alt="sysin"></p>
-<h3 id="编辑-vmx">编辑 vmx</h3>
+<h3 id="编辑-vmx-2">编辑 vmx</h3>
 <p>打开虚拟机目录，默认为用户主目录下的 vmware 文件夹下即 <code>~/vmware</code>，找到 nexus9500v64.10.1.2，用文本编辑器打开 nexus9300v.10.1.2.vmx，将 <code>serial0.fileType = &quot;file&quot;</code> 修改为 <code>serial0.fileType = &quot;pipe&quot;</code>。</p>
-<h2 id="连接串口">连接串口</h2>
+<h2 id="连接串口-2">连接串口</h2>
 <p>（1）安装 socat：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash"><span class="keyword">for</span> Debian、Ubuntu</span></span><br><span class="line">sudo apt install socat</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash"><span class="keyword">for</span> Redhat、CentOS</span></span><br><span class="line">yum install socat</span><br></pre></td></tr></table></figure>
 <blockquote>
@@ -675,7 +673,7 @@ stdio = stdin，客户端只进行标准输入</p>
   <script type="text/javascript">
       Waline.init({
         el: '#waline',
-        serverURL: 'https://comment.sysin.cn',
+        serverURL: 'https://comment.sysin.org',
         login: 'force',
         wordLimit: [3, 300],
         pageSize: 10,
@@ -738,7 +736,7 @@ stdio = stdin，客户端只进行标准输入</p>
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%92%8C%E9%83%A8%E7%BD%B2-OVF"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">下载和部署 OVF</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%85%8D%E7%BD%AE%E4%B8%B2%E5%8F%A3"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">配置串口</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%B7%BB%E5%8A%A0%E4%B8%B2%E5%8F%A3"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">添加串口</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E7%BC%96%E8%BE%91-vmx"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">编辑 vmx</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E8%BF%9E%E6%8E%A5%E4%B8%B2%E5%8F%A3"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">连接串口</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%BF%85%E8%A6%81%E9%85%8D%E7%BD%AE-2"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">必要配置</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E4%B8%80%E6%AD%A5-2"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">下一步</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%92%8C%E9%83%A8%E7%BD%B2-OVF-2"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">下载和部署 OVF</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%85%8D%E7%BD%AE%E4%B8%B2%E5%8F%A3-2"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">配置串口</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%B7%BB%E5%8A%A0%E4%B8%B2%E5%8F%A3-2"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">添加串口</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E7%BC%96%E8%BE%91-vmx-2"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">编辑 vmx</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E8%BF%9E%E6%8E%A5%E4%B8%B2%E5%8F%A3-2"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">连接串口</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%BF%85%E8%A6%81%E9%85%8D%E7%BD%AE-2"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">必要配置</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E4%B8%80%E6%AD%A5-2"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">下一步</span></a></li></ol>
         
         </div>
       </aside>
@@ -991,7 +989,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
