@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sysin.cn/blog/macOS-Sequoia/</loc>
+    <loc>https://sysin.cn/blog/veeam-data-platform/</loc>
+    
+    <lastmod>2024-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/veeam-recovery-orchestrator-7/</loc>
     
     <lastmod>2024-08-29</lastmod>
     
@@ -20,15 +29,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/veeam-data-platform/</loc>
-    
-    <lastmod>2024-08-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/veeam-one-12/</loc>
     
     <lastmod>2024-08-29</lastmod>
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/veeam-recovery-orchestrator-7/</loc>
+    <loc>https://sysin.cn/blog/macOS-Sequoia/</loc>
     
     <lastmod>2024-08-29</lastmod>
     
@@ -1901,7 +1901,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/ovirt/</loc>
+    <loc>https://sysin.cn/blog/output-messenger-2/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1910,7 +1910,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/output-messenger-2/</loc>
+    <loc>https://sysin.cn/blog/ovirt/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7357,7 +7357,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/DellEMC/</loc>
+    <loc>https://sysin.cn/tags/Dell/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7371,7 +7371,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Dell/</loc>
+    <loc>https://sysin.cn/tags/DellEMC/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

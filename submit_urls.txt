@@ -1,8 +1,8 @@
-https://sysin.cn/blog/macOS-Sequoia/
-https://sysin.cn/blog/veeam-backup-12/
 https://sysin.cn/blog/veeam-data-platform/
-https://sysin.cn/blog/veeam-one-12/
 https://sysin.cn/blog/veeam-recovery-orchestrator-7/
+https://sysin.cn/blog/veeam-backup-12/
+https://sysin.cn/blog/veeam-one-12/
+https://sysin.cn/blog/macOS-Sequoia/
 https://sysin.cn/blog/invicti/
 https://sysin.cn/blog/nexpose-6/
 https://sysin.cn/blog/macOS-Sequoia-boot-iso/
