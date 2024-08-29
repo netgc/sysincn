@@ -15,8 +15,124 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Thu, 29 Aug 2024 01:50:21 GMT</pubDate>
+    <pubDate>Thu, 29 Aug 2024 04:49:33 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Veeam Data Platform v12.2 (Windows) - 数据保护和管理解决方案</title>
+      <link>https://sysin.cn/blog/veeam-data-platform/</link>
+      <guid>https://sysin.cn/blog/veeam-data-platform/</guid>
+      <pubDate>Thu, 29 Aug 2024 03:18:07 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/veeam-data-platform/&quot; title=&quot;Veeam Data Platform v12.2 (Windows) - 数据保护和管理解决方案&quot;&gt;Veeam Data Platform v12.2 (Windows) - 数据保护和管理解决方案&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Backup/">Backup</category>
+      
+      <category domain="https://sysin.cn/tags/Veeam/">Veeam</category>
+      
+      
+      <comments>https://sysin.cn/blog/veeam-data-platform/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Veeam Recovery Orchestrator v7.1 (Windows) - 恢复编排</title>
+      <link>https://sysin.cn/blog/veeam-recovery-orchestrator-7/</link>
+      <guid>https://sysin.cn/blog/veeam-recovery-orchestrator-7/</guid>
+      <pubDate>Thu, 29 Aug 2024 03:17:02 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/veeam-recovery-orchestrator-7/&quot; title=&quot;Veeam Recovery Orchestrator v7.1 (Windows) - 恢复编排&quot;&gt;Veeam Recovery Orchestrator v7.1 (Windows) - 恢复编排&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Backup/">Backup</category>
+      
+      <category domain="https://sysin.cn/tags/Veeam/">Veeam</category>
+      
+      
+      <comments>https://sysin.cn/blog/veeam-recovery-orchestrator-7/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Veeam ONE v12.2 (Windows) - 监控和分析</title>
+      <link>https://sysin.cn/blog/veeam-one-12/</link>
+      <guid>https://sysin.cn/blog/veeam-one-12/</guid>
+      <pubDate>Thu, 29 Aug 2024 03:10:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/veeam-one-12/&quot; title=&quot;Veeam ONE v12.2 (Windows) - 监控和分析&quot;&gt;Veeam ONE v12.2 (Windows) - 监控和分析&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Backup/">Backup</category>
+      
+      <category domain="https://sysin.cn/tags/Veeam/">Veeam</category>
+      
+      
+      <comments>https://sysin.cn/blog/veeam-one-12/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Veeam Backup &amp; Replication v12.2 (Windows) - 备份和恢复</title>
+      <link>https://sysin.cn/blog/veeam-backup-12/</link>
+      <guid>https://sysin.cn/blog/veeam-backup-12/</guid>
+      <pubDate>Thu, 29 Aug 2024 03:09:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/veeam-backup-12/&quot; title=&quot;Veeam Backup &amp;amp; Replication v12.2 (Windows) - 备份和恢复&quot;&gt;Veeam Backup &amp;amp; Replication v12.2 (Windows) - 备份和恢复&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Backup/">Backup</category>
+      
+      <category domain="https://sysin.cn/tags/Veeam/">Veeam</category>
+      
+      
+      <comments>https://sysin.cn/blog/veeam-backup-12/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>macOS Sequoia 15 beta 8 (24A5331b) Boot ISO 原版可引导镜像下载</title>
@@ -257,6 +373,37 @@
       
       
       <comments>https://sysin.cn/blog/davinci-resolve/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Invicti v24.8.1 for Windows - Web 应用程序安全测试</title>
+      <link>https://sysin.cn/blog/invicti/</link>
+      <guid>https://sysin.cn/blog/invicti/</guid>
+      <pubDate>Tue, 27 Aug 2024 01:10:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/invicti/&quot; title=&quot;Invicti v24.8.1 for Windows - Web 应用程序安全测试&quot;&gt;Invicti v24.8.1 for Windows - Web 应用程序安全测试&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      
+      <comments>https://sysin.cn/blog/invicti/#disqus_thread</comments>
       
     </item>
     
@@ -782,177 +929,6 @@
       
       
       <comments>https://sysin.cn/blog/netscaler-adm-14/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Citrix ADC Release 13.1 Build 54.29 (nCore, VPX, SDX, CPX, BLX)</title>
-      <link>https://sysin.cn/blog/citrix-adc-13/</link>
-      <guid>https://sysin.cn/blog/citrix-adc-13/</guid>
-      <pubDate>Tue, 20 Aug 2024 03:20:31 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/citrix-adc-13/&quot; title=&quot;Citrix ADC Release 13.1 Build 54.29 (nCore, VPX, SDX, CPX, BLX)&quot;&gt;Citrix ADC Release 13.1 Build 54.29 (nCore, VPX, SDX, CPX, BLX)&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
-      
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
-      
-      <category domain="https://sysin.cn/tags/Citrix/">Citrix</category>
-      
-      <category domain="https://sysin.cn/tags/ADC/">ADC</category>
-      
-      
-      <comments>https://sysin.cn/blog/citrix-adc-13/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Citrix ADC Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)</title>
-      <link>https://sysin.cn/blog/citrix-adc-14/</link>
-      <guid>https://sysin.cn/blog/citrix-adc-14/</guid>
-      <pubDate>Tue, 20 Aug 2024 03:10:45 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/citrix-adc-14/&quot; title=&quot;Citrix ADC Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)&quot;&gt;Citrix ADC Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
-      
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
-      
-      <category domain="https://sysin.cn/tags/Citrix/">Citrix</category>
-      
-      <category domain="https://sysin.cn/tags/ADC/">ADC</category>
-      
-      
-      <comments>https://sysin.cn/blog/citrix-adc-14/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>JetBrains IDE 2024.2 (macOS, Linux, Windows) - 开发者工具</title>
-      <link>https://sysin.cn/blog/jetbrains/</link>
-      <guid>https://sysin.cn/blog/jetbrains/</guid>
-      <pubDate>Sat, 17 Aug 2024 02:30:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jetbrains/&quot; title=&quot;JetBrains IDE 2024.2 (macOS, Linux, Windows) - 开发者工具&quot;&gt;JetBrains IDE 2024.2 (macOS, Linux, Windows) - 开发者工具&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
-      
-      
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
-      
-      <category domain="https://sysin.cn/tags/iOS/">iOS</category>
-      
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
-      
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
-      
-      
-      <comments>https://sysin.cn/blog/jetbrains/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>JetBrains Aqua 2024.2 (macOS, Linux, Windows) - 测试自动化 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-aqua/</link>
-      <guid>https://sysin.cn/blog/jetbrains-aqua/</guid>
-      <pubDate>Sat, 17 Aug 2024 02:29:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jetbrains-aqua/&quot; title=&quot;JetBrains Aqua 2024.2 (macOS, Linux, Windows) - 测试自动化 IDE&quot;&gt;JetBrains Aqua 2024.2 (macOS, Linux, Windows) - 测试自动化 IDE&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
-      
-      
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
-      
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
-      
-      
-      <comments>https://sysin.cn/blog/jetbrains-aqua/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>JetBrains CLion 2024.2 (macOS, Linux, Windows) - C 和 C++ 跨平台 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-clion/</link>
-      <guid>https://sysin.cn/blog/jetbrains-clion/</guid>
-      <pubDate>Sat, 17 Aug 2024 02:28:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jetbrains-clion/&quot; title=&quot;JetBrains CLion 2024.2 (macOS, Linux, Windows) - C 和 C++ 跨平台 IDE&quot;&gt;JetBrains CLion 2024.2 (macOS, Linux, Windows) - C 和 C++ 跨平台 IDE&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
-      
-      
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
-      
-      <category domain="https://sysin.cn/tags/JetBrains/">JetBrains</category>
-      
-      
-      <comments>https://sysin.cn/blog/jetbrains-clion/#disqus_thread</comments>
       
     </item>
     

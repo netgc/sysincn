@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/veeam-data-platform/</loc>
+    
+    <lastmod>2024-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/veeam-backup-12/</loc>
+    
+    <lastmod>2024-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/veeam-recovery-orchestrator-7/</loc>
+    
+    <lastmod>2024-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/veeam-one-12/</loc>
+    
+    <lastmod>2024-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/invicti/</loc>
+    
+    <lastmod>2024-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/nexpose-6/</loc>
     
     <lastmod>2024-08-29</lastmod>
@@ -210,15 +255,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/windows-server-2016-ovf/</loc>
-    
-    <lastmod>2024-08-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/invicti/</loc>
     
     <lastmod>2024-08-24</lastmod>
     
@@ -4403,15 +4439,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/veeam-data-platform/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/veritas-system-recovery-21/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -4817,15 +4844,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/veeam-one-12/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/veritas-enterprise-vault-15/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -5042,15 +5060,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/studio-3t/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/syhunt-hybrid/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -5060,7 +5069,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/veeam-backup-12/</loc>
+    <loc>https://sysin.cn/blog/studio-3t/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5762,15 +5771,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/veeam-recovery-orchestrator-7/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/vmware-live-recovery/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -6311,7 +6311,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vcd-10/</loc>
+    <loc>https://sysin.cn/blog/vmware-vcda-4/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6320,7 +6320,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vcda-4/</loc>
+    <loc>https://sysin.cn/blog/vmware-vcd-10/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7189,6 +7189,20 @@
   </url>
   
   <url>
+    <loc>https://sysin.cn/tags/Kubernetes/</loc>
+    <lastmod>2024-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/tags/SSL/</loc>
+    <lastmod>2024-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/tags/Chrome/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -7204,20 +7218,6 @@
   
   <url>
     <loc>https://sysin.cn/tags/Safari/</loc>
-    <lastmod>2024-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/tags/Kubernetes/</loc>
-    <lastmod>2024-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/tags/SSL/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
