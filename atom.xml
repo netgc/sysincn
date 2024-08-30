@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>sysin</title>
-  <icon>https://sysin.cn/img/favicon.png</icon>
-  <subtitle>软件与技术分享</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
+  <icon>https://sysin.org/img/favicon.png</icon>
+  <subtitle>SYStem INside | 软件与技术分享</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
   
-  <link href="https://sysin.cn/"/>
+  <link href="https://sysin.org/"/>
   <updated>2024-08-30T05:38:02.259Z</updated>
-  <id>https://sysin.cn/</id>
+  <id>https://sysin.org/</id>
   
   <author>
     <name>sysin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Ubuntu 24.04 LTS (Noble Numbat) - 现代化的企业与开源 Linux</title>
-    <link href="https://sysin.cn/blog/ubuntu-2404/"/>
-    <id>https://sysin.cn/blog/ubuntu-2404/</id>
+    <link href="https://sysin.org/blog/ubuntu-2404/"/>
+    <id>https://sysin.org/blog/ubuntu-2404/</id>
     <published>2024-09-30T01:16:21.000Z</published>
     <updated>2024-08-30T05:38:02.259Z</updated>
     
@@ -34,19 +34,19 @@
     
     
     
-    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/categories/Linux/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Ubuntu" scheme="https://sysin.cn/tags/Ubuntu/"/>
+    <category term="Ubuntu" scheme="https://sysin.org/tags/Ubuntu/"/>
     
   </entry>
   
   <entry>
     <title>Acunetix v24.8 (Linux, Windows) - Web 应用程序安全测试</title>
-    <link href="https://sysin.cn/blog/acunetix/"/>
-    <id>https://sysin.cn/blog/acunetix/</id>
+    <link href="https://sysin.org/blog/acunetix/"/>
+    <id>https://sysin.org/blog/acunetix/</id>
     <published>2024-08-30T01:10:00.000Z</published>
     <updated>2024-08-30T01:30:16.408Z</updated>
     
@@ -61,21 +61,21 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Veeam Data Platform v12.2 (Windows) - 数据保护和管理解决方案</title>
-    <link href="https://sysin.cn/blog/veeam-data-platform/"/>
-    <id>https://sysin.cn/blog/veeam-data-platform/</id>
+    <link href="https://sysin.org/blog/veeam-data-platform/"/>
+    <id>https://sysin.org/blog/veeam-data-platform/</id>
     <published>2024-08-29T03:18:07.000Z</published>
     <updated>2024-08-29T06:36:13.953Z</updated>
     
@@ -90,19 +90,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Backup" scheme="https://sysin.cn/tags/Backup/"/>
+    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
     
-    <category term="Veeam" scheme="https://sysin.cn/tags/Veeam/"/>
+    <category term="Veeam" scheme="https://sysin.org/tags/Veeam/"/>
     
   </entry>
   
   <entry>
     <title>Veeam Recovery Orchestrator v7.1 (Windows) - 恢复编排</title>
-    <link href="https://sysin.cn/blog/veeam-recovery-orchestrator-7/"/>
-    <id>https://sysin.cn/blog/veeam-recovery-orchestrator-7/</id>
+    <link href="https://sysin.org/blog/veeam-recovery-orchestrator-7/"/>
+    <id>https://sysin.org/blog/veeam-recovery-orchestrator-7/</id>
     <published>2024-08-29T03:17:02.000Z</published>
     <updated>2024-08-29T06:36:08.332Z</updated>
     
@@ -117,19 +117,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Backup" scheme="https://sysin.cn/tags/Backup/"/>
+    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
     
-    <category term="Veeam" scheme="https://sysin.cn/tags/Veeam/"/>
+    <category term="Veeam" scheme="https://sysin.org/tags/Veeam/"/>
     
   </entry>
   
   <entry>
     <title>Veeam ONE v12.2 (Windows) - 监控和分析</title>
-    <link href="https://sysin.cn/blog/veeam-one-12/"/>
-    <id>https://sysin.cn/blog/veeam-one-12/</id>
+    <link href="https://sysin.org/blog/veeam-one-12/"/>
+    <id>https://sysin.org/blog/veeam-one-12/</id>
     <published>2024-08-29T03:10:00.000Z</published>
     <updated>2024-08-29T06:36:08.329Z</updated>
     
@@ -144,19 +144,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Backup" scheme="https://sysin.cn/tags/Backup/"/>
+    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
     
-    <category term="Veeam" scheme="https://sysin.cn/tags/Veeam/"/>
+    <category term="Veeam" scheme="https://sysin.org/tags/Veeam/"/>
     
   </entry>
   
   <entry>
     <title>Veeam Backup &amp; Replication v12.2 (Windows) - 备份和恢复</title>
-    <link href="https://sysin.cn/blog/veeam-backup-12/"/>
-    <id>https://sysin.cn/blog/veeam-backup-12/</id>
+    <link href="https://sysin.org/blog/veeam-backup-12/"/>
+    <id>https://sysin.org/blog/veeam-backup-12/</id>
     <published>2024-08-29T03:09:00.000Z</published>
     <updated>2024-08-29T06:36:08.329Z</updated>
     
@@ -171,19 +171,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Backup" scheme="https://sysin.cn/tags/Backup/"/>
+    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
     
-    <category term="Veeam" scheme="https://sysin.cn/tags/Veeam/"/>
+    <category term="Veeam" scheme="https://sysin.org/tags/Veeam/"/>
     
   </entry>
   
   <entry>
     <title>macOS Sequoia 15 beta 8 (24A5331b) Boot ISO 原版可引导镜像下载</title>
-    <link href="https://sysin.cn/blog/macOS-Sequoia-boot-iso/"/>
-    <id>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</id>
+    <link href="https://sysin.org/blog/macOS-Sequoia-boot-iso/"/>
+    <id>https://sysin.org/blog/macOS-Sequoia-boot-iso/</id>
     <published>2024-08-29T01:22:00.000Z</published>
     <updated>2024-08-30T05:14:10.897Z</updated>
     
@@ -198,19 +198,19 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
     
   </entry>
   
   <entry>
     <title>macOS Sequoia 15.1 beta 3 (24B5035e) ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.cn/blog/macOS-Sequoia/"/>
-    <id>https://sysin.cn/blog/macOS-Sequoia/</id>
+    <link href="https://sysin.org/blog/macOS-Sequoia/"/>
+    <id>https://sysin.org/blog/macOS-Sequoia/</id>
     <published>2024-08-29T01:20:00.000Z</published>
     <updated>2024-08-30T05:15:21.501Z</updated>
     
@@ -225,19 +225,19 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
     
   </entry>
   
   <entry>
     <title>Nexpose 6.6.267 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.cn/blog/nexpose-6/"/>
-    <id>https://sysin.cn/blog/nexpose-6/</id>
+    <link href="https://sysin.org/blog/nexpose-6/"/>
+    <id>https://sysin.org/blog/nexpose-6/</id>
     <published>2024-08-29T01:18:50.000Z</published>
     <updated>2024-08-29T01:53:01.478Z</updated>
     
@@ -252,23 +252,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
     <title>VMware Cloud Foundation 9 发布 - 领先的多云平台</title>
-    <link href="https://sysin.cn/blog/vmware-cloud-foundation-9/"/>
-    <id>https://sysin.cn/blog/vmware-cloud-foundation-9/</id>
+    <link href="https://sysin.org/blog/vmware-cloud-foundation-9/"/>
+    <id>https://sysin.org/blog/vmware-cloud-foundation-9/</id>
     <published>2024-08-28T01:35:38.000Z</published>
     <updated>2024-08-28T02:42:08.003Z</updated>
     
@@ -283,19 +283,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="Cloud" scheme="https://sysin.cn/tags/Cloud/"/>
+    <category term="Cloud" scheme="https://sysin.org/tags/Cloud/"/>
     
   </entry>
   
   <entry>
     <title>Metasploit Pro 4.22.3-2024082201 (Linux, Windows) - 专业渗透测试框架</title>
-    <link href="https://sysin.cn/blog/metasploit-pro-4/"/>
-    <id>https://sysin.cn/blog/metasploit-pro-4/</id>
+    <link href="https://sysin.org/blog/metasploit-pro-4/"/>
+    <id>https://sysin.org/blog/metasploit-pro-4/</id>
     <published>2024-08-28T01:09:10.000Z</published>
     <updated>2024-08-28T01:40:04.194Z</updated>
     
@@ -310,23 +310,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
     <title>Adobe After Effects 2024 v24.6 (macOS, Windows) - 后期特效</title>
-    <link href="https://sysin.cn/blog/adobe-after-effects/"/>
-    <id>https://sysin.cn/blog/adobe-after-effects/</id>
+    <link href="https://sysin.org/blog/adobe-after-effects/"/>
+    <id>https://sysin.org/blog/adobe-after-effects/</id>
     <published>2024-08-27T05:30:18.000Z</published>
     <updated>2024-08-27T05:16:24.412Z</updated>
     
@@ -341,21 +341,21 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Adobe" scheme="https://sysin.cn/tags/Adobe/"/>
+    <category term="Adobe" scheme="https://sysin.org/tags/Adobe/"/>
     
   </entry>
   
   <entry>
     <title>Adobe Media Encoder 2024 v24.6 (macOS, Windows) - 格式转换</title>
-    <link href="https://sysin.cn/blog/adobe-media-encoder/"/>
-    <id>https://sysin.cn/blog/adobe-media-encoder/</id>
+    <link href="https://sysin.org/blog/adobe-media-encoder/"/>
+    <id>https://sysin.org/blog/adobe-media-encoder/</id>
     <published>2024-08-27T05:19:18.000Z</published>
     <updated>2024-08-27T05:17:27.626Z</updated>
     
@@ -370,21 +370,21 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Adobe" scheme="https://sysin.cn/tags/Adobe/"/>
+    <category term="Adobe" scheme="https://sysin.org/tags/Adobe/"/>
     
   </entry>
   
   <entry>
     <title>DaVinci Resolve Studio 19.0 正式版 (macOS, Windows) - 剪辑、调色、特效和音频后期制作</title>
-    <link href="https://sysin.cn/blog/davinci-resolve/"/>
-    <id>https://sysin.cn/blog/davinci-resolve/</id>
+    <link href="https://sysin.org/blog/davinci-resolve/"/>
+    <id>https://sysin.org/blog/davinci-resolve/</id>
     <published>2024-08-27T03:30:26.000Z</published>
     <updated>2024-08-27T05:14:24.439Z</updated>
     
@@ -399,17 +399,17 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
   </entry>
   
   <entry>
     <title>Invicti v24.8.1 for Windows - Web 应用程序安全测试</title>
-    <link href="https://sysin.cn/blog/invicti/"/>
-    <id>https://sysin.cn/blog/invicti/</id>
+    <link href="https://sysin.org/blog/invicti/"/>
+    <id>https://sysin.org/blog/invicti/</id>
     <published>2024-08-27T01:10:00.000Z</published>
     <updated>2024-08-29T03:12:20.969Z</updated>
     
@@ -424,21 +424,21 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Windows Server 2022 OVF, updated Aug 2024 (sysin) - VMware 虚拟机模板</title>
-    <link href="https://sysin.cn/blog/windows-server-2022-ovf/"/>
-    <id>https://sysin.cn/blog/windows-server-2022-ovf/</id>
+    <link href="https://sysin.org/blog/windows-server-2022-ovf/"/>
+    <id>https://sysin.org/blog/windows-server-2022-ovf/</id>
     <published>2024-08-25T01:25:00.000Z</published>
     <updated>2024-08-25T01:22:30.585Z</updated>
     
@@ -453,23 +453,23 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>UTM v4.5.4 - 在 macOS 上优雅的使用 QEMU 虚拟化 Windows、Linux 和 macOS</title>
-    <link href="https://sysin.cn/blog/utm-4/"/>
-    <id>https://sysin.cn/blog/utm-4/</id>
+    <link href="https://sysin.org/blog/utm-4/"/>
+    <id>https://sysin.org/blog/utm-4/</id>
     <published>2024-08-25T01:10:00.000Z</published>
     <updated>2024-08-25T01:54:17.070Z</updated>
     
@@ -484,17 +484,17 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
   </entry>
   
   <entry>
     <title>Windows 7 &amp; Windows Server 2008 R2 简体中文版下载 (updated Aug 2024)</title>
-    <link href="https://sysin.cn/blog/windows-7/"/>
-    <id>https://sysin.cn/blog/windows-7/</id>
+    <link href="https://sysin.org/blog/windows-7/"/>
+    <id>https://sysin.org/blog/windows-7/</id>
     <published>2024-08-24T05:31:16.000Z</published>
     <updated>2024-08-24T06:36:21.383Z</updated>
     
@@ -509,19 +509,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Windows Server 2019 OVF, updated Aug 2024 (sysin) - VMware 虚拟机模板</title>
-    <link href="https://sysin.cn/blog/windows-server-2019-ovf/"/>
-    <id>https://sysin.cn/blog/windows-server-2019-ovf/</id>
+    <link href="https://sysin.org/blog/windows-server-2019-ovf/"/>
+    <id>https://sysin.org/blog/windows-server-2019-ovf/</id>
     <published>2024-08-24T05:15:00.000Z</published>
     <updated>2024-08-24T06:37:52.712Z</updated>
     
@@ -536,23 +536,23 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Windows Server 2016 OVF, updated Aug 2024 (sysin) - VMware 虚拟机模板</title>
-    <link href="https://sysin.cn/blog/windows-server-2016-ovf/"/>
-    <id>https://sysin.cn/blog/windows-server-2016-ovf/</id>
+    <link href="https://sysin.org/blog/windows-server-2016-ovf/"/>
+    <id>https://sysin.org/blog/windows-server-2016-ovf/</id>
     <published>2024-08-24T02:10:00.000Z</published>
     <updated>2024-08-24T06:04:13.092Z</updated>
     
@@ -567,23 +567,23 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>HCL AppScan Standard 10.6.0 (Windows) - Web 应用程序安全测试</title>
-    <link href="https://sysin.cn/blog/appscan-10/"/>
-    <id>https://sysin.cn/blog/appscan-10/</id>
+    <link href="https://sysin.org/blog/appscan-10/"/>
+    <id>https://sysin.org/blog/appscan-10/</id>
     <published>2024-08-23T05:10:28.000Z</published>
     <updated>2024-08-23T08:59:16.250Z</updated>
     
@@ -598,19 +598,19 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Windows Server 2019 中文版、英文版下载 (updated Aug 2024)</title>
-    <link href="https://sysin.cn/blog/windows-server-2019/"/>
-    <id>https://sysin.cn/blog/windows-server-2019/</id>
+    <link href="https://sysin.org/blog/windows-server-2019/"/>
+    <id>https://sysin.org/blog/windows-server-2019/</id>
     <published>2024-08-22T05:13:00.000Z</published>
     <updated>2024-08-22T05:41:51.943Z</updated>
     
@@ -625,21 +625,21 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
     
   </entry>
   
   <entry>
     <title>Windows Server 2016 中文版、英文版下载 (updated Aug 2024)</title>
-    <link href="https://sysin.cn/blog/windows-server-2016/"/>
-    <id>https://sysin.cn/blog/windows-server-2016/</id>
+    <link href="https://sysin.org/blog/windows-server-2016/"/>
+    <id>https://sysin.org/blog/windows-server-2016/</id>
     <published>2024-08-22T05:08:00.000Z</published>
     <updated>2024-08-22T05:41:58.152Z</updated>
     
@@ -654,21 +654,21 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
     
   </entry>
   
   <entry>
     <title>Windows Server 2022 中文版、英文版下载 (updated Aug 2024)</title>
-    <link href="https://sysin.cn/blog/windows-server-2022/"/>
-    <id>https://sysin.cn/blog/windows-server-2022/</id>
+    <link href="https://sysin.org/blog/windows-server-2022/"/>
+    <id>https://sysin.org/blog/windows-server-2022/</id>
     <published>2024-08-21T05:23:00.000Z</published>
     <updated>2024-08-22T03:09:29.170Z</updated>
     
@@ -683,21 +683,21 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
     
   </entry>
   
   <entry>
     <title>Windows 11 version 23H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)</title>
-    <link href="https://sysin.cn/blog/windows-11/"/>
-    <id>https://sysin.cn/blog/windows-11/</id>
+    <link href="https://sysin.org/blog/windows-11/"/>
+    <id>https://sysin.org/blog/windows-11/</id>
     <published>2024-08-21T05:18:00.000Z</published>
     <updated>2024-08-24T09:38:15.427Z</updated>
     
@@ -712,19 +712,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Windows 10 version 22H2 (updated Aug 2024) 中文版、英文版下载</title>
-    <link href="https://sysin.cn/blog/windows-10/"/>
-    <id>https://sysin.cn/blog/windows-10/</id>
+    <link href="https://sysin.org/blog/windows-10/"/>
+    <id>https://sysin.org/blog/windows-10/</id>
     <published>2024-08-21T05:15:00.000Z</published>
     <updated>2024-08-21T05:37:01.377Z</updated>
     
@@ -739,19 +739,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Windows 10 on ARM, version 22H2 (updated Aug 2024) ARM64 AArch64 中文版、英文版下载</title>
-    <link href="https://sysin.cn/blog/windows-10-arm/"/>
-    <id>https://sysin.cn/blog/windows-10-arm/</id>
+    <link href="https://sysin.org/blog/windows-10-arm/"/>
+    <id>https://sysin.org/blog/windows-10-arm/</id>
     <published>2024-08-21T05:06:00.000Z</published>
     <updated>2024-08-22T02:59:10.274Z</updated>
     
@@ -766,19 +766,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Windows 11 version 22H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)</title>
-    <link href="https://sysin.cn/blog/windows-11-22h2/"/>
-    <id>https://sysin.cn/blog/windows-11-22h2/</id>
+    <link href="https://sysin.org/blog/windows-11-22h2/"/>
+    <id>https://sysin.org/blog/windows-11-22h2/</id>
     <published>2024-08-21T03:17:00.000Z</published>
     <updated>2024-08-22T02:57:52.650Z</updated>
     
@@ -793,19 +793,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Xcode 16 beta 6 (16A5230g) - Apple 平台 IDE</title>
-    <link href="https://sysin.cn/blog/apple-xcode-16/"/>
-    <id>https://sysin.cn/blog/apple-xcode-16/</id>
+    <link href="https://sysin.org/blog/apple-xcode-16/"/>
+    <id>https://sysin.org/blog/apple-xcode-16/</id>
     <published>2024-08-21T01:13:00.000Z</published>
     <updated>2024-08-21T01:42:06.708Z</updated>
     
@@ -820,23 +820,23 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
     
-    <category term="iOS" scheme="https://sysin.cn/tags/iOS/"/>
+    <category term="iOS" scheme="https://sysin.org/tags/iOS/"/>
     
-    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
     
   </entry>
   
   <entry>
     <title>NetScaler Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)</title>
-    <link href="https://sysin.cn/blog/netscaler-14/"/>
-    <id>https://sysin.cn/blog/netscaler-14/</id>
+    <link href="https://sysin.org/blog/netscaler-14/"/>
+    <id>https://sysin.org/blog/netscaler-14/</id>
     <published>2024-08-21T01:10:45.000Z</published>
     <updated>2024-08-22T03:03:53.482Z</updated>
     
@@ -851,16 +851,16 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="Citrix" scheme="https://sysin.cn/tags/Citrix/"/>
+    <category term="Citrix" scheme="https://sysin.org/tags/Citrix/"/>
     
-    <category term="ADC" scheme="https://sysin.cn/tags/ADC/"/>
+    <category term="ADC" scheme="https://sysin.org/tags/ADC/"/>
     
   </entry>
   
