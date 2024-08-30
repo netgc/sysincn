@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sysin.cn/blog/ubuntu-2404/</loc>
+    <loc>https://sysin.cn/blog/macOS-Sequoia/</loc>
     
     <lastmod>2024-08-30</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/macOS-Sequoia/</loc>
+    <loc>https://sysin.cn/blog/ubuntu-2404/</loc>
     
     <lastmod>2024-08-30</lastmod>
     
@@ -2216,7 +2216,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/exchange-patch/</loc>
+    <loc>https://sysin.cn/blog/f5-big-ip-16-lts/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2225,7 +2225,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/f5-big-ip-16-lts/</loc>
+    <loc>https://sysin.cn/blog/exchange-patch/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6329,7 +6329,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vcenter-6-7/</loc>
+    <loc>https://sysin.cn/blog/vmware-vcda-4/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6338,7 +6338,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vcda-4/</loc>
+    <loc>https://sysin.cn/blog/vmware-vcenter-6-7/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7070,14 +7070,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Security/</loc>
+    <loc>https://sysin.cn/tags/Windows/</loc>
     <lastmod>2024-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Windows/</loc>
+    <loc>https://sysin.cn/tags/Security/</loc>
     <lastmod>2024-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7147,14 +7147,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Unix/</loc>
+    <loc>https://sysin.cn/tags/Rapid7/</loc>
     <lastmod>2024-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Rapid7/</loc>
+    <loc>https://sysin.cn/tags/Unix/</loc>
     <lastmod>2024-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

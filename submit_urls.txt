@@ -1,5 +1,5 @@
-https://sysin.cn/blog/ubuntu-2404/
 https://sysin.cn/blog/macOS-Sequoia/
+https://sysin.cn/blog/ubuntu-2404/
 https://sysin.cn/blog/macOS-Sequoia-boot-iso/
 https://sysin.cn/blog/pan-os-10-vm-series-trial/
 https://sysin.cn/blog/acunetix/
