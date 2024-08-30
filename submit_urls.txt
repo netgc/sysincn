@@ -1,3 +1,5 @@
+https://sysin.org/blog/ubuntu-2404/
+https://sysin.org/blog/acunetix/
 https://sysin.org/blog/veeam-data-platform/
 https://sysin.org/blog/veeam-recovery-orchestrator-7/
 https://sysin.org/blog/veeam-backup-12/
@@ -16,5 +18,3 @@ https://sysin.org/blog/vmware-aria-suite-lifecycle/
 https://sysin.org/blog/vmware-aria-operations/
 https://sysin.org/blog/vmware-aria-operations-for-networks/
 https://sysin.org/blog/vmware-aria-operations-for-logs/
-https://sysin.org/blog/vmware-aria-automation-config/
-https://sysin.org/blog/vmware-aria-automation-orchestrator/

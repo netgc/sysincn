@@ -15,8 +15,68 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Thu, 29 Aug 2024 06:36:13 GMT</pubDate>
+    <pubDate>Fri, 30 Aug 2024 01:35:44 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Ubuntu 24.04 LTS (Noble Numbat) 正式版更新：24.04.1</title>
+      <link>https://sysin.org/blog/ubuntu-2404/</link>
+      <guid>https://sysin.org/blog/ubuntu-2404/</guid>
+      <pubDate>Mon, 30 Sep 2024 01:16:21 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/ubuntu-2404/&quot; title=&quot;Ubuntu 24.04 LTS (Noble Numbat) 正式版更新：24.04.1&quot;&gt;Ubuntu 24.04 LTS (Noble Numbat) 正式版更新：24.04.1&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Linux/">Linux</category>
+      
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/Ubuntu/">Ubuntu</category>
+      
+      
+      <comments>https://sysin.org/blog/ubuntu-2404/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Acunetix v24.8 (Linux, Windows) - Web 应用程序安全测试</title>
+      <link>https://sysin.org/blog/acunetix/</link>
+      <guid>https://sysin.org/blog/acunetix/</guid>
+      <pubDate>Fri, 30 Aug 2024 01:10:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/acunetix/&quot; title=&quot;Acunetix v24.8 (Linux, Windows) - Web 应用程序安全测试&quot;&gt;Acunetix v24.8 (Linux, Windows) - Web 应用程序安全测试&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      
+      <comments>https://sysin.org/blog/acunetix/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Veeam Data Platform v12.2 (Windows) - 数据保护和管理解决方案</title>
@@ -863,72 +923,6 @@
       
       
       <comments>https://sysin.org/blog/netscaler-14/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>NetScaler Console Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)</title>
-      <link>https://sysin.org/blog/netscaler-console-14/</link>
-      <guid>https://sysin.org/blog/netscaler-console-14/</guid>
-      <pubDate>Wed, 21 Aug 2024 01:08:35 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/netscaler-console-14/&quot; title=&quot;NetScaler Console Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)&quot;&gt;NetScaler Console Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
-      
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
-      
-      <category domain="https://sysin.org/tags/Citrix/">Citrix</category>
-      
-      <category domain="https://sysin.org/tags/ADC/">ADC</category>
-      
-      
-      <comments>https://sysin.org/blog/netscaler-console-14/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>NetScaler ADM Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)</title>
-      <link>https://sysin.org/blog/netscaler-adm-14/</link>
-      <guid>https://sysin.org/blog/netscaler-adm-14/</guid>
-      <pubDate>Wed, 21 Aug 2024 01:08:15 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/netscaler-console-14/&quot; title=&quot;NetScaler Console Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)&quot;&gt;NetScaler Console Release 14.1 Build 29.63 (ESXi, Hyper-V, KVM, Xen)&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
-      
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
-      
-      <category domain="https://sysin.org/tags/Citrix/">Citrix</category>
-      
-      <category domain="https://sysin.org/tags/ADC/">ADC</category>
-      
-      
-      <comments>https://sysin.org/blog/netscaler-adm-14/#disqus_thread</comments>
       
     </item>
     

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/ubuntu-2404/</loc>
+    <lastmod>2024-08-30</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/acunetix/</loc>
+    <lastmod>2024-08-30</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/veeam-data-platform/</loc>
     <lastmod>2024-08-29</lastmod>
   </url>
@@ -721,11 +729,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/veritas-netbackup-10-1/</loc>
+    <loc>https://sysin.org/blog/veritas-backup-exec-23/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/veritas-backup-exec-23/</loc>
+    <loc>https://sysin.org/blog/veritas-netbackup-10-1/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2737,10 +2745,6 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/ubuntu-2404/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-log4j2-vulnerability/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -3082,10 +3086,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-vsphere-replication-9/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/acunetix/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
