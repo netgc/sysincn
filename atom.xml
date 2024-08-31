@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-08-31T02:24:48.994Z</updated>
+  <updated>2024-08-31T02:35:42.743Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Burp Suite Professional 2024.8 for Windows x64 - 领先的 Web 渗透测试软件</title>
+    <link href="https://sysin.org/blog/burp-suite-pro-win/"/>
+    <id>https://sysin.org/blog/burp-suite-pro-win/</id>
+    <published>2024-08-31T02:18:12.000Z</published>
+    <updated>2024-08-31T02:35:42.743Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-win/&quot; title=&quot;Burp Suite Professional 2024.8 for Windows x64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.8 for Windows x64 - 领先的 Web 渗透测试软件&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Burp Suite Professional 2024.7 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
+    <link href="https://sysin.org/blog/burp-suite-pro-mac/"/>
+    <id>https://sysin.org/blog/burp-suite-pro-mac/</id>
+    <published>2024-08-31T02:15:10.000Z</published>
+    <updated>2024-08-31T02:36:29.568Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-mac/&quot; title=&quot;Burp Suite Professional 2024.7 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.7 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+  </entry>
   
   <entry>
     <title>Photomator 3.3.22 (macOS Universal) - 照片编辑软件</title>
@@ -792,60 +850,6 @@
         
         
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-10/&quot; title=&quot;Windows 10 version 22H2 (updated Aug 2024) 中文版、英文版下载&quot;&gt;Windows 10 version 22H2 (updated Aug 2024) 中文版、英文版下载&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows 10 on ARM, version 22H2 (updated Aug 2024) ARM64 AArch64 中文版、英文版下载</title>
-    <link href="https://sysin.org/blog/windows-10-arm/"/>
-    <id>https://sysin.org/blog/windows-10-arm/</id>
-    <published>2024-08-21T05:06:00.000Z</published>
-    <updated>2024-08-22T02:59:10.274Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-10-arm/&quot; title=&quot;Windows 10 on ARM, version 22H2 (updated Aug 2024) ARM64 AArch64 中文版、英文版下载&quot;&gt;Windows 10 on ARM, version 22H2 (updated Aug 2024) ARM64 AArch64 中文版、英文版下载&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows 11 version 22H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)</title>
-    <link href="https://sysin.org/blog/windows-11-22h2/"/>
-    <id>https://sysin.org/blog/windows-11-22h2/</id>
-    <published>2024-08-21T03:17:00.000Z</published>
-    <updated>2024-08-22T02:57:52.650Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-11/&quot; title=&quot;Windows 11 version 23H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)&quot;&gt;Windows 11 version 23H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)&lt;/a&gt;，查看最新版。</summary>
         
       
     

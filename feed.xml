@@ -15,8 +15,70 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Sat, 31 Aug 2024 02:24:48 GMT</pubDate>
+    <pubDate>Sat, 31 Aug 2024 02:35:42 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Burp Suite Professional 2024.8 for Windows x64 - 领先的 Web 渗透测试软件</title>
+      <link>https://sysin.org/blog/burp-suite-pro-win/</link>
+      <guid>https://sysin.org/blog/burp-suite-pro-win/</guid>
+      <pubDate>Sat, 31 Aug 2024 02:18:12 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-win/&quot; title=&quot;Burp Suite Professional 2024.8 for Windows x64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.8 for Windows x64 - 领先的 Web 渗透测试软件&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
+      
+      
+      <comments>https://sysin.org/blog/burp-suite-pro-win/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Burp Suite Professional 2024.7 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
+      <link>https://sysin.org/blog/burp-suite-pro-mac/</link>
+      <guid>https://sysin.org/blog/burp-suite-pro-mac/</guid>
+      <pubDate>Sat, 31 Aug 2024 02:15:10 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-mac/&quot; title=&quot;Burp Suite Professional 2024.7 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.7 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
+      
+      
+      <comments>https://sysin.org/blog/burp-suite-pro-mac/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Photomator 3.3.22 (macOS Universal) - 照片编辑软件</title>
@@ -861,64 +923,6 @@
       
       
       <comments>https://sysin.org/blog/windows-10/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Windows 10 on ARM, version 22H2 (updated Aug 2024) ARM64 AArch64 中文版、英文版下载</title>
-      <link>https://sysin.org/blog/windows-10-arm/</link>
-      <guid>https://sysin.org/blog/windows-10-arm/</guid>
-      <pubDate>Wed, 21 Aug 2024 05:06:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-10-arm/&quot; title=&quot;Windows 10 on ARM, version 22H2 (updated Aug 2024) ARM64 AArch64 中文版、英文版下载&quot;&gt;Windows 10 on ARM, version 22H2 (updated Aug 2024) ARM64 AArch64 中文版、英文版下载&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
-      
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
-      
-      
-      <comments>https://sysin.org/blog/windows-10-arm/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Windows 11 version 22H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)</title>
-      <link>https://sysin.org/blog/windows-11-22h2/</link>
-      <guid>https://sysin.org/blog/windows-11-22h2/</guid>
-      <pubDate>Wed, 21 Aug 2024 03:17:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-11/&quot; title=&quot;Windows 11 version 23H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)&quot;&gt;Windows 11 version 23H2 中文版、英文版 (x64、ARM64) 下载 (updated Aug 2024)&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
-      
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
-      
-      
-      <comments>https://sysin.org/blog/windows-11-22h2/#disqus_thread</comments>
       
     </item>
     

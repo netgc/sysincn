@@ -1,3 +1,5 @@
+https://sysin.org/blog/burp-suite-pro-mac/
+https://sysin.org/blog/burp-suite-pro-win/
 https://sysin.org/blog/photomator/
 https://sysin.org/blog/burp-suite-pro/
 https://sysin.org/blog/macOS-Sequoia/
@@ -16,5 +18,3 @@ https://sysin.org/blog/metasploit-pro-4/
 https://sysin.org/blog/adobe-media-encoder/
 https://sysin.org/blog/adobe-after-effects/
 https://sysin.org/blog/davinci-resolve/
-https://sysin.org/blog/vmware-aria-automation/
-https://sysin.org/blog/vmware-aria-suite-lifecycle/
