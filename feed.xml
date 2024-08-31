@@ -15,8 +15,70 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Fri, 30 Aug 2024 05:51:32 GMT</pubDate>
+    <pubDate>Sat, 31 Aug 2024 02:24:48 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Photomator 3.3.22 (macOS Universal) - 照片编辑软件</title>
+      <link>https://sysin.org/blog/photomator/</link>
+      <guid>https://sysin.org/blog/photomator/</guid>
+      <pubDate>Sat, 31 Aug 2024 01:11:09 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/photomator/&quot; title=&quot;Photomator 3.3.22 (macOS Universal) - 照片编辑软件&quot;&gt;Photomator 3.3.22 (macOS Universal) - 照片编辑软件&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      
+      <comments>https://sysin.org/blog/photomator/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Burp Suite Professional 2024.8 (macOS, Linux, Windows) - Web 应用安全、测试和扫描</title>
+      <link>https://sysin.org/blog/burp-suite-pro/</link>
+      <guid>https://sysin.org/blog/burp-suite-pro/</guid>
+      <pubDate>Sat, 31 Aug 2024 01:10:10 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro/&quot; title=&quot;Burp Suite Professional 2024.8 (macOS, Linux, Windows) - Web 应用安全、测试和扫描&quot;&gt;Burp Suite Professional 2024.8 (macOS, Linux, Windows) - Web 应用安全、测试和扫描&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      
+      <comments>https://sysin.org/blog/burp-suite-pro/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Ubuntu 24.04 LTS (Noble Numbat) - 现代化的企业与开源 Linux</title>
@@ -857,72 +919,6 @@
       
       
       <comments>https://sysin.org/blog/windows-11-22h2/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Xcode 16 beta 6 (16A5230g) - Apple 平台 IDE</title>
-      <link>https://sysin.org/blog/apple-xcode-16/</link>
-      <guid>https://sysin.org/blog/apple-xcode-16/</guid>
-      <pubDate>Wed, 21 Aug 2024 01:13:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-xcode-16/&quot; title=&quot;Xcode 16 beta 6 (16A5230g) - Apple 平台 IDE&quot;&gt;Xcode 16 beta 6 (16A5230g) - Apple 平台 IDE&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Developer/">Developer</category>
-      
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
-      
-      <category domain="https://sysin.org/tags/iOS/">iOS</category>
-      
-      <category domain="https://sysin.org/tags/Code/">Code</category>
-      
-      
-      <comments>https://sysin.org/blog/apple-xcode-16/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>NetScaler Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)</title>
-      <link>https://sysin.org/blog/netscaler-14/</link>
-      <guid>https://sysin.org/blog/netscaler-14/</guid>
-      <pubDate>Wed, 21 Aug 2024 01:10:45 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/netscaler-14/&quot; title=&quot;NetScaler Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)&quot;&gt;NetScaler Release 14.1 Build 29.63 (nCore, VPX, SDX, CPX, BLX)&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
-      
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
-      
-      <category domain="https://sysin.org/tags/Citrix/">Citrix</category>
-      
-      <category domain="https://sysin.org/tags/ADC/">ADC</category>
-      
-      
-      <comments>https://sysin.org/blog/netscaler-14/#disqus_thread</comments>
       
     </item>
     
