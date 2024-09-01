@@ -4358,7 +4358,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-17/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4367,7 +4367,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-17/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4457,6 +4457,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/blog/public-key-authentication/</loc>
+    
+    <lastmod>2024-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/pt-network-attack-discovery/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -4466,7 +4475,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/public-key-authentication/</loc>
+    <loc>https://sysin.org/blog/redirect-jquery-cdn/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4503,15 +4512,6 @@
   
   <url>
     <loc>https://sysin.org/blog/rocky-linux-migrate-centos/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/redirect-jquery-cdn/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5141,7 +5141,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/syhunt-hybrid/</loc>
+    <loc>https://sysin.org/blog/studio-3t/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5150,7 +5150,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/studio-3t/</loc>
+    <loc>https://sysin.org/blog/syhunt-hybrid/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7352,20 +7352,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Microsoft/</loc>
-    <lastmod>2024-09-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/PowerShell/</loc>
-    <lastmod>2024-09-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/tags/Dell/</loc>
     <lastmod>2024-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -7374,6 +7360,20 @@
   
   <url>
     <loc>https://sysin.org/tags/Storage/</loc>
+    <lastmod>2024-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/tags/Microsoft/</loc>
+    <lastmod>2024-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/tags/PowerShell/</loc>
     <lastmod>2024-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
