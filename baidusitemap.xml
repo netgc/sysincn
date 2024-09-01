@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sysin.org/blog/vmware-fusion-13-oem/</loc>
-    <lastmod>2024-09-01</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</loc>
     <lastmod>2024-09-01</lastmod>
   </url>
@@ -17,7 +13,7 @@
     <lastmod>2024-09-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7-u3-sysin/</loc>
+    <loc>https://sysin.org/blog/vmware-fusion-13-oem/</loc>
     <lastmod>2024-09-01</lastmod>
   </url>
   <url>
@@ -26,6 +22,10 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
+    <lastmod>2024-09-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-7-u3-sysin/</loc>
     <lastmod>2024-09-01</lastmod>
   </url>
   <url>
@@ -1933,11 +1933,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-17/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-17/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1985,10 +1985,6 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/redirect-jquery-cdn/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/rhel-7/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -2002,6 +1998,10 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/rocky-linux-migrate-centos/</loc>
+    <lastmod>2024-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/redirect-jquery-cdn/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2281,11 +2281,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/studio-3t/</loc>
+    <loc>https://sysin.org/blog/syhunt-hybrid/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/syhunt-hybrid/</loc>
+    <loc>https://sysin.org/blog/studio-3t/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
