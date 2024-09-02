@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
+    <lastmod>2024-09-02</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-secure-client-5/</loc>
+    <lastmod>2024-09-02</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
     <lastmod>2024-09-02</lastmod>
   </url>
@@ -22,10 +30,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-7-u3-sysin/</loc>
-    <lastmod>2024-09-01</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
     <lastmod>2024-09-01</lastmod>
   </url>
   <url>
@@ -1105,11 +1109,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/ubuntu-for-mac/</loc>
+    <loc>https://sysin.org/blog/upgrade-to-hexo-6/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/upgrade-to-hexo-6/</loc>
+    <loc>https://sysin.org/blog/ubuntu-for-mac/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1822,10 +1826,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-packet-tracer-8/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-secure-client-5/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -3097,11 +3097,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/guhua/</loc>
+    <loc>https://sysin.org/blog/hello-hexo/</loc>
     <lastmod>2023-05-16</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/hello-hexo/</loc>
+    <loc>https://sysin.org/blog/guhua/</loc>
     <lastmod>2023-05-16</lastmod>
   </url>
   <url>

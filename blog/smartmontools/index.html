@@ -501,7 +501,7 @@
 <p>Ubuntu：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt install smartmontools &amp;&amp; sudo smartctl --all /dev/nvme0n1   #/dev/* 具体名称请运行 sudo fdisk -l 查看</span><br></pre></td></tr></table></figure>
 <p>结果示例（暂无 Linux SSD ^_^）：</p>
-<h2 id="Windows-9">Windows</h2>
+<h2 id="Windows-10">Windows</h2>
 <p>Powershell：</p>
 <figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">Set-ExecutionPolicy</span> Bypass <span class="literal">-Scope</span> <span class="keyword">Process</span> <span class="literal">-Force</span>; <span class="built_in">iex</span> ((<span class="built_in">New-Object</span> System.Net.WebClient).DownloadString(<span class="string">&#x27;https://chocolatey.org/install.ps1&#x27;</span>))</span><br><span class="line">choco install smartmontools</span><br><span class="line"><span class="built_in">Set-Location</span> <span class="string">&quot;C:\Program Files\smartmontools\bin&quot;</span></span><br><span class="line"> .\smartctl.exe <span class="literal">--all</span> /dev/sda</span><br></pre></td></tr></table></figure>
 <p>结果示例（这是一台虚机，看不出来效果）：</p>
@@ -689,7 +689,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#macOS-6"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">macOS</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Linux-6"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">Linux</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Windows-9"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">Windows</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#macOS-6"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">macOS</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Linux-6"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">Linux</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#Windows-10"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">Windows</span></a></li></ol>
         
         </div>
       </aside>
