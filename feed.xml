@@ -4,24 +4,24 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.org/</link>
+    <link>https://sysin.cn/</link>
     
     <image>
-      <url>https://sysin.org/img/favicon.png</url>
+      <url>https://sysin.cn/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.org/</link>
+      <link>https://sysin.cn/</link>
     </image>
     
-    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Tue, 03 Sep 2024 08:43:15 GMT</pubDate>
+    <description>sysin | 软件与技术分享 | SYStem INside</description>
+    <pubDate>Tue, 03 Sep 2024 09:01:34 GMT</pubDate>
     <generator>http://sysin.org/</generator>
     
     <item>
       <title>VMware Workstation 17.6 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Windows</title>
-      <link>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</link>
-      <guid>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</guid>
+      <link>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/</link>
+      <guid>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/</guid>
       <pubDate>Tue, 03 Sep 2024 03:32:00 GMT</pubDate>
       
         
@@ -35,24 +35,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Workstation 17.6 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Linux</title>
-      <link>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</link>
-      <guid>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</guid>
+      <link>https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/</link>
+      <guid>https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/</guid>
       <pubDate>Tue, 03 Sep 2024 03:31:00 GMT</pubDate>
       
         
@@ -66,24 +66,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Workstation 17.6 Pro Unlocker &amp; OEM BIOS 2.7 for Windows &amp; Linux</title>
-      <link>https://sysin.org/blog/vmware-workstation-17-unlocker/</link>
-      <guid>https://sysin.org/blog/vmware-workstation-17-unlocker/</guid>
+      <link>https://sysin.cn/blog/vmware-workstation-17-unlocker/</link>
+      <guid>https://sysin.cn/blog/vmware-workstation-17-unlocker/</guid>
       <pubDate>Tue, 03 Sep 2024 03:30:00 GMT</pubDate>
       
         
@@ -97,24 +97,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-workstation-17-unlocker/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-workstation-17-unlocker/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Workstation 17.6 Pro for Windows &amp; Linux - 领先的免费桌面虚拟化软件</title>
-      <link>https://sysin.org/blog/vmware-workstation-17/</link>
-      <guid>https://sysin.org/blog/vmware-workstation-17/</guid>
+      <link>https://sysin.cn/blog/vmware-workstation-17/</link>
+      <guid>https://sysin.cn/blog/vmware-workstation-17/</guid>
       <pubDate>Tue, 03 Sep 2024 03:21:00 GMT</pubDate>
       
         
@@ -128,24 +128,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-workstation-17/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-workstation-17/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Fusion 13.6 OEM BIOS 2.7 - 在 macOS 中运行 Windows 虚拟机的最佳方式</title>
-      <link>https://sysin.org/blog/vmware-fusion-13-oem/</link>
-      <guid>https://sysin.org/blog/vmware-fusion-13-oem/</guid>
+      <link>https://sysin.cn/blog/vmware-fusion-13-oem/</link>
+      <guid>https://sysin.cn/blog/vmware-fusion-13-oem/</guid>
       <pubDate>Tue, 03 Sep 2024 03:20:00 GMT</pubDate>
       
         
@@ -159,22 +159,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-fusion-13-oem/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-fusion-13-oem/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Fusion 13.6 for Mac - 领先的免费桌面虚拟化软件</title>
-      <link>https://sysin.org/blog/vmware-fusion-13/</link>
-      <guid>https://sysin.org/blog/vmware-fusion-13/</guid>
+      <link>https://sysin.cn/blog/vmware-fusion-13/</link>
+      <guid>https://sysin.cn/blog/vmware-fusion-13/</guid>
       <pubDate>Tue, 03 Sep 2024 03:05:00 GMT</pubDate>
       
         
@@ -188,22 +188,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-fusion-13/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-fusion-13/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Serif Affinity 2.5.5 (macOS, Windows) - 专业创意软件</title>
-      <link>https://sysin.org/blog/affinity-2/</link>
-      <guid>https://sysin.org/blog/affinity-2/</guid>
+      <link>https://sysin.cn/blog/affinity-2/</link>
+      <guid>https://sysin.cn/blog/affinity-2/</guid>
       <pubDate>Tue, 03 Sep 2024 01:08:00 GMT</pubDate>
       
         
@@ -217,22 +217,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/affinity-2/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/affinity-2/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Affinity Publisher 2.5.5 (macOS, Windows) - 页面布局和设计的强大平台</title>
-      <link>https://sysin.org/blog/affinity-publisher/</link>
-      <guid>https://sysin.org/blog/affinity-publisher/</guid>
+      <link>https://sysin.cn/blog/affinity-publisher/</link>
+      <guid>https://sysin.cn/blog/affinity-publisher/</guid>
       <pubDate>Tue, 03 Sep 2024 01:05:41 GMT</pubDate>
       
         
@@ -246,22 +246,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/affinity-publisher/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/affinity-publisher/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Affinity Photo 2.5.5 (macOS, Windows) - 梦寐以求的照片编辑器</title>
-      <link>https://sysin.org/blog/affinity-photo/</link>
-      <guid>https://sysin.org/blog/affinity-photo/</guid>
+      <link>https://sysin.cn/blog/affinity-photo/</link>
+      <guid>https://sysin.cn/blog/affinity-photo/</guid>
       <pubDate>Tue, 03 Sep 2024 01:03:50 GMT</pubDate>
       
         
@@ -275,22 +275,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/affinity-photo/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/affinity-photo/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Affinity Designer 2.5.5 (macOS, Windows) - 制作最精美的插图和设计</title>
-      <link>https://sysin.org/blog/affinity-designer/</link>
-      <guid>https://sysin.org/blog/affinity-designer/</guid>
+      <link>https://sysin.cn/blog/affinity-designer/</link>
+      <guid>https://sysin.cn/blog/affinity-designer/</guid>
       <pubDate>Tue, 03 Sep 2024 01:02:58 GMT</pubDate>
       
         
@@ -304,22 +304,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/affinity-designer/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/affinity-designer/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware ESXi 8.0U3 macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
-      <link>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</link>
-      <guid>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</guid>
+      <link>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</link>
+      <guid>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</guid>
       <pubDate>Sun, 01 Sep 2024 01:19:19 GMT</pubDate>
       
         
@@ -333,24 +333,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
       
       
-      <comments>https://sysin.org/blog/vmware-esxi-8-u3-sysin/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware ESXi 8.0U3 macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-      <link>https://sysin.org/blog/vmware-esxi-8-u3-oem/</link>
-      <guid>https://sysin.org/blog/vmware-esxi-8-u3-oem/</guid>
+      <link>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</link>
+      <guid>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</guid>
       <pubDate>Sun, 01 Sep 2024 01:19:00 GMT</pubDate>
       
         
@@ -364,24 +364,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
       
       
-      <comments>https://sysin.org/blog/vmware-esxi-8-u3-oem/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-esxi-8-u3-oem/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware ESXi 7.0U3q macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
-      <link>https://sysin.org/blog/vmware-esxi-7-u3-sysin/</link>
-      <guid>https://sysin.org/blog/vmware-esxi-7-u3-sysin/</guid>
+      <link>https://sysin.cn/blog/vmware-esxi-7-u3-sysin/</link>
+      <guid>https://sysin.cn/blog/vmware-esxi-7-u3-sysin/</guid>
       <pubDate>Sun, 01 Sep 2024 01:18:00 GMT</pubDate>
       
         
@@ -395,24 +395,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
       
       
-      <comments>https://sysin.org/blog/vmware-esxi-7-u3-sysin/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-esxi-7-u3-sysin/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware ESXi 7.0U3q macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-      <link>https://sysin.org/blog/vmware-esxi-7-u3-oem/</link>
-      <guid>https://sysin.org/blog/vmware-esxi-7-u3-oem/</guid>
+      <link>https://sysin.cn/blog/vmware-esxi-7-u3-oem/</link>
+      <guid>https://sysin.cn/blog/vmware-esxi-7-u3-oem/</guid>
       <pubDate>Sun, 01 Sep 2024 01:17:00 GMT</pubDate>
       
         
@@ -426,24 +426,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
       
       
-      <comments>https://sysin.org/blog/vmware-esxi-7-u3-oem/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-esxi-7-u3-oem/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware ESXi 6.7U3u macOS Unlocker &amp; OEM BIOS 2.7 集成 Realtek 网卡驱动和 NVMe 驱动 (集成驱动版) UI fix</title>
-      <link>https://sysin.org/blog/vmware-esxi-6-sysin/</link>
-      <guid>https://sysin.org/blog/vmware-esxi-6-sysin/</guid>
+      <link>https://sysin.cn/blog/vmware-esxi-6-sysin/</link>
+      <guid>https://sysin.cn/blog/vmware-esxi-6-sysin/</guid>
       <pubDate>Sun, 01 Sep 2024 01:16:30 GMT</pubDate>
       
         
@@ -457,24 +457,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
       
       
-      <comments>https://sysin.org/blog/vmware-esxi-6-sysin/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-esxi-6-sysin/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware ESXi 6.7U3u macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版 UI fix</title>
-      <link>https://sysin.org/blog/vmware-esxi-6-oem/</link>
-      <guid>https://sysin.org/blog/vmware-esxi-6-oem/</guid>
+      <link>https://sysin.cn/blog/vmware-esxi-6-oem/</link>
+      <guid>https://sysin.cn/blog/vmware-esxi-6-oem/</guid>
       <pubDate>Sun, 01 Sep 2024 01:16:28 GMT</pubDate>
       
         
@@ -488,24 +488,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
       
       
-      <comments>https://sysin.org/blog/vmware-esxi-6-oem/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-esxi-6-oem/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Magnet Acquire 2.71 Windows - 适用于智能手机和计算机的数字取证采集工具</title>
-      <link>https://sysin.org/blog/magnet-acquire/</link>
-      <guid>https://sysin.org/blog/magnet-acquire/</guid>
+      <link>https://sysin.cn/blog/magnet-acquire/</link>
+      <guid>https://sysin.cn/blog/magnet-acquire/</guid>
       <pubDate>Sun, 01 Sep 2024 01:15:45 GMT</pubDate>
       
         
@@ -519,22 +519,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/magnet-acquire/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/magnet-acquire/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Linux 产品链接汇总</title>
-      <link>https://sysin.org/blog/linux/</link>
-      <guid>https://sysin.org/blog/linux/</guid>
+      <link>https://sysin.cn/blog/linux/</link>
+      <guid>https://sysin.cn/blog/linux/</guid>
       <pubDate>Sun, 01 Sep 2024 01:06:00 GMT</pubDate>
       
         
@@ -548,26 +548,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/Linux/">Linux</category>
+      <category domain="https://sysin.cn/categories/Linux/">Linux</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/RHEL/">RHEL</category>
+      <category domain="https://sysin.cn/tags/RHEL/">RHEL</category>
       
-      <category domain="https://sysin.org/tags/Ubuntu/">Ubuntu</category>
+      <category domain="https://sysin.cn/tags/Ubuntu/">Ubuntu</category>
       
-      <category domain="https://sysin.org/tags/Debian/">Debian</category>
+      <category domain="https://sysin.cn/tags/Debian/">Debian</category>
       
       
-      <comments>https://sysin.org/blog/linux/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/linux/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco 产品下载链接汇总</title>
-      <link>https://sysin.org/blog/cisco/</link>
-      <guid>https://sysin.org/blog/cisco/</guid>
+      <link>https://sysin.cn/blog/cisco/</link>
+      <guid>https://sysin.cn/blog/cisco/</guid>
       <pubDate>Sun, 01 Sep 2024 01:05:00 GMT</pubDate>
       
         
@@ -581,32 +581,32 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/NX-OS/">NX-OS</category>
+      <category domain="https://sysin.cn/tags/NX-OS/">NX-OS</category>
       
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
       
-      <category domain="https://sysin.org/tags/IOS-XR/">IOS-XR</category>
+      <category domain="https://sysin.cn/tags/IOS-XR/">IOS-XR</category>
       
-      <category domain="https://sysin.org/tags/FXOS/">FXOS</category>
+      <category domain="https://sysin.cn/tags/FXOS/">FXOS</category>
       
       
-      <comments>https://sysin.org/blog/cisco/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>HTTP 协议与安全</title>
-      <link>https://sysin.org/blog/http/</link>
-      <guid>https://sysin.org/blog/http/</guid>
+      <link>https://sysin.cn/blog/http/</link>
+      <guid>https://sysin.cn/blog/http/</guid>
       <pubDate>Sun, 01 Sep 2024 01:03:00 GMT</pubDate>
       
         
@@ -620,28 +620,28 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Unix/">Unix</category>
+      <category domain="https://sysin.cn/tags/Unix/">Unix</category>
       
       
-      <comments>https://sysin.org/blog/http/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/http/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware 产品下载汇总</title>
-      <link>https://sysin.org/blog/vmware/</link>
-      <guid>https://sysin.org/blog/vmware/</guid>
+      <link>https://sysin.cn/blog/vmware/</link>
+      <guid>https://sysin.cn/blog/vmware/</guid>
       <pubDate>Sun, 01 Sep 2024 01:02:00 GMT</pubDate>
       
         
@@ -655,20 +655,20 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS 下载汇总 (系统、应用和教程)</title>
-      <link>https://sysin.org/blog/macOS/</link>
-      <guid>https://sysin.org/blog/macOS/</guid>
+      <link>https://sysin.cn/blog/macOS/</link>
+      <guid>https://sysin.cn/blog/macOS/</guid>
       <pubDate>Sun, 01 Sep 2024 01:01:00 GMT</pubDate>
       
         
@@ -682,22 +682,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.org/blog/macOS/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/macOS/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Burp Suite Professional 2024.8 for Windows x64 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.org/blog/burp-suite-pro-win/</link>
-      <guid>https://sysin.org/blog/burp-suite-pro-win/</guid>
+      <link>https://sysin.cn/blog/burp-suite-pro-win/</link>
+      <guid>https://sysin.cn/blog/burp-suite-pro-win/</guid>
       <pubDate>Sat, 31 Aug 2024 02:18:12 GMT</pubDate>
       
         
@@ -711,24 +711,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
       
-      <comments>https://sysin.org/blog/burp-suite-pro-win/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/burp-suite-pro-win/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Burp Suite Professional 2024.8 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.org/blog/burp-suite-pro-mac/</link>
-      <guid>https://sysin.org/blog/burp-suite-pro-mac/</guid>
+      <link>https://sysin.cn/blog/burp-suite-pro-mac/</link>
+      <guid>https://sysin.cn/blog/burp-suite-pro-mac/</guid>
       <pubDate>Sat, 31 Aug 2024 02:15:10 GMT</pubDate>
       
         
@@ -742,24 +742,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
       
-      <comments>https://sysin.org/blog/burp-suite-pro-mac/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/burp-suite-pro-mac/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Photomator 3.3.22 (macOS Universal) - 照片编辑软件</title>
-      <link>https://sysin.org/blog/photomator/</link>
-      <guid>https://sysin.org/blog/photomator/</guid>
+      <link>https://sysin.cn/blog/photomator/</link>
+      <guid>https://sysin.cn/blog/photomator/</guid>
       <pubDate>Sat, 31 Aug 2024 01:11:09 GMT</pubDate>
       
         
@@ -773,20 +773,20 @@
       
       
       
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
       
-      <comments>https://sysin.org/blog/photomator/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/photomator/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Burp Suite Professional 2024.8 (macOS, Linux, Windows) - Web 应用安全、测试和扫描</title>
-      <link>https://sysin.org/blog/burp-suite-pro/</link>
-      <guid>https://sysin.org/blog/burp-suite-pro/</guid>
+      <link>https://sysin.cn/blog/burp-suite-pro/</link>
+      <guid>https://sysin.cn/blog/burp-suite-pro/</guid>
       <pubDate>Sat, 31 Aug 2024 01:10:10 GMT</pubDate>
       
         
@@ -800,28 +800,28 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/burp-suite-pro/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/burp-suite-pro/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Ubuntu 24.04 LTS (Noble Numbat) - 现代化的企业与开源 Linux</title>
-      <link>https://sysin.org/blog/ubuntu-2404/</link>
-      <guid>https://sysin.org/blog/ubuntu-2404/</guid>
+      <link>https://sysin.cn/blog/ubuntu-2404/</link>
+      <guid>https://sysin.cn/blog/ubuntu-2404/</guid>
       <pubDate>Fri, 30 Aug 2024 01:16:21 GMT</pubDate>
       
         
@@ -835,22 +835,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Linux/">Linux</category>
+      <category domain="https://sysin.cn/categories/Linux/">Linux</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Ubuntu/">Ubuntu</category>
+      <category domain="https://sysin.cn/tags/Ubuntu/">Ubuntu</category>
       
       
-      <comments>https://sysin.org/blog/ubuntu-2404/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/ubuntu-2404/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Acunetix v24.8 (Linux, Windows) - Web 应用程序安全测试</title>
-      <link>https://sysin.org/blog/acunetix/</link>
-      <guid>https://sysin.org/blog/acunetix/</guid>
+      <link>https://sysin.cn/blog/acunetix/</link>
+      <guid>https://sysin.cn/blog/acunetix/</guid>
       <pubDate>Fri, 30 Aug 2024 01:10:00 GMT</pubDate>
       
         
@@ -864,24 +864,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/acunetix/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/acunetix/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Veeam Data Platform v12.2 (Windows) - 数据保护和管理解决方案</title>
-      <link>https://sysin.org/blog/veeam-data-platform/</link>
-      <guid>https://sysin.org/blog/veeam-data-platform/</guid>
+      <link>https://sysin.cn/blog/veeam-data-platform/</link>
+      <guid>https://sysin.cn/blog/veeam-data-platform/</guid>
       <pubDate>Thu, 29 Aug 2024 03:18:07 GMT</pubDate>
       
         
@@ -895,22 +895,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/Backup/">Backup</category>
+      <category domain="https://sysin.cn/tags/Backup/">Backup</category>
       
-      <category domain="https://sysin.org/tags/Veeam/">Veeam</category>
+      <category domain="https://sysin.cn/tags/Veeam/">Veeam</category>
       
       
-      <comments>https://sysin.org/blog/veeam-data-platform/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/veeam-data-platform/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Veeam Recovery Orchestrator v7.1 (Windows) - 恢复编排</title>
-      <link>https://sysin.org/blog/veeam-recovery-orchestrator-7/</link>
-      <guid>https://sysin.org/blog/veeam-recovery-orchestrator-7/</guid>
+      <link>https://sysin.cn/blog/veeam-recovery-orchestrator-7/</link>
+      <guid>https://sysin.cn/blog/veeam-recovery-orchestrator-7/</guid>
       <pubDate>Thu, 29 Aug 2024 03:17:02 GMT</pubDate>
       
         
@@ -924,15 +924,15 @@
       
       
       
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/Backup/">Backup</category>
+      <category domain="https://sysin.cn/tags/Backup/">Backup</category>
       
-      <category domain="https://sysin.org/tags/Veeam/">Veeam</category>
+      <category domain="https://sysin.cn/tags/Veeam/">Veeam</category>
       
       
-      <comments>https://sysin.org/blog/veeam-recovery-orchestrator-7/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/veeam-recovery-orchestrator-7/#disqus_thread</comments>
       
     </item>
     
