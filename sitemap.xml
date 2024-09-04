@@ -2,6 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-fusion-13-oem/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-workstation-17-unlocker/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-fusion-13/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-7-u3-oem/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-7-u3-sysin/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/macOS/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/how-to-install-macos/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/vmware-tkgi/</loc>
     
     <lastmod>2024-09-04</lastmod>
@@ -14,51 +113,6 @@
     <loc>https://sysin.org/blog/vmware-tkg-2/</loc>
     
     <lastmod>2024-09-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-fusion-13-oem/</loc>
-    
-    <lastmod>2024-09-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-fusion-13/</loc>
-    
-    <lastmod>2024-09-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-workstation-17-unlocker/</loc>
-    
-    <lastmod>2024-09-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</loc>
-    
-    <lastmod>2024-09-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</loc>
-    
-    <lastmod>2024-09-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -110,15 +164,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
-    
-    <lastmod>2024-09-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/cisco-secure-client-5/</loc>
     
     <lastmod>2024-09-02</lastmod>
@@ -146,34 +191,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
-    
-    <lastmod>2024-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/vmware-esxi-6-sysin/</loc>
-    
-    <lastmod>2024-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7-u3-oem/</loc>
-    
-    <lastmod>2024-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7-u3-sysin/</loc>
     
     <lastmod>2024-09-01</lastmod>
     
@@ -219,15 +237,6 @@
   
   <url>
     <loc>https://sysin.org/blog/http/</loc>
-    
-    <lastmod>2024-08-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/macOS/</loc>
     
     <lastmod>2024-08-31</lastmod>
     
@@ -1442,6 +1451,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/blog/vmware-esxi-6/</loc>
+    
+    <lastmod>2024-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/vmware-esxi-7-u2/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -1452,15 +1470,6 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-8-u1-oem/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-esxi-6/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1496,7 +1505,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-8-u2-whats-new/</loc>
+    <loc>https://sysin.org/blog/vmware-vcenter-8-u2/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1505,7 +1514,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcenter-8-u2/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-8-u2-whats-new/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1541,7 +1550,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-ucm-14/</loc>
+    <loc>https://sysin.org/blog/cisco-sd-wan-20/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1550,7 +1559,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-sd-wan-20/</loc>
+    <loc>https://sysin.org/blog/cisco-ucm-14/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1730,7 +1739,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-replication-8/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-foundation/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1739,7 +1748,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-foundation/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-replication-8/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1883,6 +1892,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/blog/veritas-backup-exec-23/</loc>
+    
+    <lastmod>2024-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/veritas-netbackup-10-1/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -1902,15 +1920,6 @@
   
   <url>
     <loc>https://sysin.org/blog/visual-studio-2022/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/veritas-backup-exec-23/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2135,15 +2144,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/opnsense-22/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/office-2024-for-mac/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -2153,7 +2153,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/output-messenger-2/</loc>
+    <loc>https://sysin.org/blog/opnsense-22/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2163,6 +2163,15 @@
   
   <url>
     <loc>https://sysin.org/blog/ovirt/</loc>
+    
+    <lastmod>2024-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/output-messenger-2/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2243,6 +2252,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/blog/vmware-vsphere-8-u3-whats-new/</loc>
+    
+    <lastmod>2024-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-3-5/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -2261,7 +2279,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-8-u3-whats-new/</loc>
+    <loc>https://sysin.org/blog/vmware-workstation-16-unlocker-linux/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2270,7 +2288,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-workstation-16-unlocker-linux/</loc>
+    <loc>https://sysin.org/blog/acunetix-15/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2289,15 +2307,6 @@
   
   <url>
     <loc>https://sysin.org/blog/adobe-cc-2024/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/acunetix-15/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2387,7 +2396,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/disable-macos-catalina-update/</loc>
+    <loc>https://sysin.org/blog/debian-10-ovf/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2396,7 +2405,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/debian-10-ovf/</loc>
+    <loc>https://sysin.org/blog/disable-macos-catalina-update/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2423,7 +2432,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/exchange-2019/</loc>
+    <loc>https://sysin.org/blog/exchange-patch/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2432,7 +2441,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/exchange-patch/</loc>
+    <loc>https://sysin.org/blog/exchange-2019/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2991,15 +3000,6 @@
   
   <url>
     <loc>https://sysin.org/blog/dnssec/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/how-to-install-macos/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4421,7 +4421,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/firewall/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4430,7 +4430,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
+    <loc>https://sysin.org/blog/firewall/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4466,6 +4466,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/blog/mobaxterm/</loc>
+    
+    <lastmod>2024-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/nessus-auto-install-for-macos/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -4476,15 +4485,6 @@
   
   <url>
     <loc>https://sysin.org/blog/office-2021-retail/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/mobaxterm/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4664,7 +4664,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-8-u1/</loc>
+    <loc>https://sysin.org/blog/vmware-vcenter-7-u3/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4673,7 +4673,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcenter-7-u3/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-8-u1/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4808,7 +4808,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-9100/</loc>
+    <loc>https://sysin.org/blog/cisco-asav/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4817,7 +4817,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-asav/</loc>
+    <loc>https://sysin.org/blog/cisco-catalyst-9100/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4835,7 +4835,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-ise-log4j2-fix/</loc>
+    <loc>https://sysin.org/blog/cisco-ios-xrv-9000/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4844,7 +4844,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-ios-xrv-9000/</loc>
+    <loc>https://sysin.org/blog/cisco-ise-log4j2-fix/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5132,7 +5132,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/macOS-Big-Sur/</loc>
+    <loc>https://sysin.org/blog/krita-5/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5141,7 +5141,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/krita-5/</loc>
+    <loc>https://sysin.org/blog/macOS-Big-Sur/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5186,7 +5186,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/syhunt-hybrid/</loc>
+    <loc>https://sysin.org/blog/studio-3t/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5195,7 +5195,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/studio-3t/</loc>
+    <loc>https://sysin.org/blog/syhunt-hybrid/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5213,7 +5213,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u2/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u2-oem/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5222,7 +5222,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u2-oem/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u2/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5240,7 +5240,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/apple-iwork-10/</loc>
+    <loc>https://sysin.org/blog/apple-imovie/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5249,7 +5249,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/apple-imovie/</loc>
+    <loc>https://sysin.org/blog/apple-iwork-10/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6347,7 +6347,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
+    <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6356,7 +6356,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
+    <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6986,7 +6986,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/guhua/</loc>
+    <loc>https://sysin.org/blog/hello-hexo/</loc>
     
     <lastmod>2023-05-16</lastmod>
     
@@ -6995,7 +6995,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/hello-hexo/</loc>
+    <loc>https://sysin.org/blog/guhua/</loc>
     
     <lastmod>2023-05-16</lastmod>
     
@@ -7156,6 +7156,13 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/tags/Rapid7/</loc>
+    <lastmod>2024-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/tags/Unix/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -7164,13 +7171,6 @@
   
   <url>
     <loc>https://sysin.org/tags/Autodesk/</loc>
-    <lastmod>2024-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/Rapid7/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7254,14 +7254,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Router/</loc>
+    <loc>https://sysin.org/tags/IOS-XE/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/IOS-XE/</loc>
+    <loc>https://sysin.org/tags/Router/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7331,14 +7331,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/vCenter/</loc>
+    <loc>https://sysin.org/tags/ESXi/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/ESXi/</loc>
+    <loc>https://sysin.org/tags/vCenter/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7366,7 +7366,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/DellEMC/</loc>
+    <loc>https://sysin.org/tags/Dell/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7380,7 +7380,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Dell/</loc>
+    <loc>https://sysin.org/tags/DellEMC/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7471,6 +7471,13 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/tags/FortiGate/</loc>
+    <lastmod>2024-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/tags/BSD/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -7500,13 +7507,6 @@
   
   <url>
     <loc>https://sysin.org/tags/API/</loc>
-    <lastmod>2024-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/FortiGate/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7844,14 +7844,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/categories/Linux/</loc>
+    <loc>https://sysin.org/categories/Windows/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/categories/Windows/</loc>
+    <loc>https://sysin.org/categories/Linux/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
