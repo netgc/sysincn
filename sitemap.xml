@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/vmware-fusion-13/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/vmware-fusion-13-oem/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/</loc>
     
     <lastmod>2024-09-04</lastmod>
@@ -20,25 +38,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-fusion-13-oem/</loc>
-    
-    <lastmod>2024-09-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/vmware-workstation-17-unlocker/</loc>
-    
-    <lastmod>2024-09-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/vmware-fusion-13/</loc>
     
     <lastmod>2024-09-04</lastmod>
     
@@ -1766,7 +1766,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/adobe-audition/</loc>
+    <loc>https://sysin.cn/blog/adobe-bridge/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1775,7 +1775,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/adobe-bridge/</loc>
+    <loc>https://sysin.cn/blog/adobe-audition/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1964,7 +1964,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vsphere-client-session-timeout/</loc>
+    <loc>https://sysin.cn/blog/vmware-vsphere-essentials-plus-kit/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1973,7 +1973,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vsphere-essentials-plus-kit/</loc>
+    <loc>https://sysin.cn/blog/vmware-vsphere-client-session-timeout/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2261,7 +2261,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vsphere-bitfusion-3-5/</loc>
+    <loc>https://sysin.cn/blog/vmware-vsphere-bitfusion-3/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2270,7 +2270,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vsphere-bitfusion-3/</loc>
+    <loc>https://sysin.cn/blog/vmware-vsphere-bitfusion-3-5/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2729,7 +2729,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vrslm-8/</loc>
+    <loc>https://sysin.cn/blog/vmware-vsphere-7-u1/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2738,7 +2738,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vsphere-7-u1/</loc>
+    <loc>https://sysin.cn/blog/vmware-vrslm-8/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
