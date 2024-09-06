@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/cisco-isr-4000/</loc>
+    
+    <lastmod>2024-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/acunetix/</loc>
+    
+    <lastmod>2024-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/cisco-isr-1000/</loc>
     
     <lastmod>2024-09-06</lastmod>
@@ -363,15 +381,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/pan-os-10-vm-series-trial/</loc>
-    
-    <lastmod>2024-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/acunetix/</loc>
     
     <lastmod>2024-08-30</lastmod>
     
@@ -1784,7 +1793,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/adobe-audition/</loc>
+    <loc>https://sysin.cn/blog/adobe-bridge/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -1793,7 +1802,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/adobe-bridge/</loc>
+    <loc>https://sysin.cn/blog/adobe-audition/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2621,7 +2630,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7/</loc>
+    <loc>https://sysin.cn/blog/vmware-esxi-7-u3/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2630,7 +2639,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7-u3/</loc>
+    <loc>https://sysin.cn/blog/vmware-esxi-7/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4844,7 +4853,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-ios-xrv-9000/</loc>
+    <loc>https://sysin.cn/blog/cisco-ise-log4j2-fix/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4853,7 +4862,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-ise-log4j2-fix/</loc>
+    <loc>https://sysin.cn/blog/cisco-ios-xrv-9000/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6050,15 +6059,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-isr-4000/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/cisco-wsa-15/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -7079,14 +7079,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Security/</loc>
+    <loc>https://sysin.cn/tags/Windows/</loc>
     <lastmod>2024-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Windows/</loc>
+    <loc>https://sysin.cn/tags/Security/</loc>
     <lastmod>2024-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

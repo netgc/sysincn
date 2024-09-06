@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-09-06T01:28:39.850Z</updated>
+  <updated>2024-09-06T01:40:55.471Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Cisco ISR 4000 Series IOS XE Release 17.15.1a ED</title>
+    <link href="https://sysin.cn/blog/cisco-isr-4000/"/>
+    <id>https://sysin.cn/blog/cisco-isr-4000/</id>
+    <published>2024-09-06T01:25:00.000Z</published>
+    <updated>2024-09-06T01:40:55.471Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-isr-4000/&quot; title=&quot;Cisco ISR 4000 Series IOS XE Release 17.15.1a ED&quot;&gt;Cisco ISR 4000 Series IOS XE Release 17.15.1a ED&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    
+    
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    
+    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
+    
+    <category term="Router" scheme="https://sysin.cn/tags/Router/"/>
+    
+  </entry>
   
   <entry>
     <title>Cisco ISR 1000 Series IOS XE Release 17.15.1a ED</title>
@@ -99,9 +128,9 @@
     
     <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
     <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
     
@@ -580,9 +609,9 @@
     <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
   </entry>
   
@@ -849,36 +878,9 @@
     
     <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Ubuntu 24.04 LTS (Noble Numbat) - 现代化的企业与开源 Linux</title>
-    <link href="https://sysin.cn/blog/ubuntu-2404/"/>
-    <id>https://sysin.cn/blog/ubuntu-2404/</id>
-    <published>2024-08-30T01:16:21.000Z</published>
-    <updated>2024-08-30T05:51:32.929Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/ubuntu-2404/&quot; title=&quot;Ubuntu 24.04 LTS (Noble Numbat) - 现代化的企业与开源 Linux&quot;&gt;Ubuntu 24.04 LTS (Noble Numbat) - 现代化的企业与开源 Linux&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
-    
-    <category term="Ubuntu" scheme="https://sysin.cn/tags/Ubuntu/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
   </entry>
   

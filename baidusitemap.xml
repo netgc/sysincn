@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.cn/blog/cisco-isr-4000/</loc>
+    <lastmod>2024-09-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/acunetix/</loc>
+    <lastmod>2024-09-06</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/cisco-isr-1000/</loc>
     <lastmod>2024-09-06</lastmod>
   </url>
@@ -162,10 +170,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/pan-os-10-vm-series-trial/</loc>
-    <lastmod>2024-08-30</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/acunetix/</loc>
     <lastmod>2024-08-30</lastmod>
   </url>
   <url>
@@ -789,11 +793,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/adobe-audition/</loc>
+    <loc>https://sysin.cn/blog/adobe-bridge/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/adobe-bridge/</loc>
+    <loc>https://sysin.cn/blog/adobe-audition/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1161,11 +1165,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7/</loc>
+    <loc>https://sysin.cn/blog/vmware-esxi-7-u3/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7-u3/</loc>
+    <loc>https://sysin.cn/blog/vmware-esxi-7/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2149,11 +2153,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/cisco-ios-xrv-9000/</loc>
+    <loc>https://sysin.cn/blog/cisco-ise-log4j2-fix/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/cisco-ise-log4j2-fix/</loc>
+    <loc>https://sysin.cn/blog/cisco-ios-xrv-9000/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2682,10 +2686,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/cisco-firepower-7/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/cisco-isr-4000/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
