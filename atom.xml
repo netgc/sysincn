@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-09-07T03:13:40.423Z</updated>
+  <updated>2024-09-07T03:35:28.741Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析</title>
+    <link href="https://sysin.org/blog/magnet-axiom/"/>
+    <id>https://sysin.org/blog/magnet-axiom/</id>
+    <published>2024-09-07T01:35:45.000Z</published>
+    <updated>2024-09-07T03:35:28.741Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-axiom/&quot; title=&quot;Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析&quot;&gt;Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+  </entry>
   
   <entry>
     <title>Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.01 ED</title>
@@ -852,43 +879,6 @@
     <category term="Ubuntu" scheme="https://sysin.org/tags/Ubuntu/"/>
     
     <category term="Debian" scheme="https://sysin.org/tags/Debian/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco 产品下载链接汇总</title>
-    <link href="https://sysin.org/blog/cisco/"/>
-    <id>https://sysin.org/blog/cisco/</id>
-    <published>2024-09-01T01:05:00.000Z</published>
-    <updated>2024-08-31T04:43:45.866Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco/&quot; title=&quot;Cisco 产品下载链接汇总&quot;&gt;Cisco 产品下载链接汇总&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
-    
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
-    
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
-    
-    <category term="IOS-XR" scheme="https://sysin.org/tags/IOS-XR/"/>
-    
-    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
     
   </entry>
   

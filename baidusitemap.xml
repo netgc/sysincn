@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/magnet-axiom/</loc>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/cisco-catalyst-9000/</loc>
     <lastmod>2024-09-07</lastmod>
   </url>
@@ -178,10 +182,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/magnet-dvr-examiner/</loc>
-    <lastmod>2024-08-31</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/magnet-axiom/</loc>
     <lastmod>2024-08-31</lastmod>
   </url>
   <url>
@@ -997,11 +997,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/ovirt/</loc>
+    <loc>https://sysin.org/blog/output-messenger-2/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/output-messenger-2/</loc>
+    <loc>https://sysin.org/blog/ovirt/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1089,11 +1089,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/dbeaver-23/</loc>
+    <loc>https://sysin.org/blog/dbeaver-mac/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/dbeaver-mac/</loc>
+    <loc>https://sysin.org/blog/dbeaver-23/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1633,11 +1633,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/xray/</loc>
+    <loc>https://sysin.org/blog/xiyouji/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/xiyouji/</loc>
+    <loc>https://sysin.org/blog/xray/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2233,11 +2233,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-horizon-8-2006/</loc>
+    <loc>https://sysin.org/blog/vmware-horizon-8-2106/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-horizon-8-2106/</loc>
+    <loc>https://sysin.org/blog/vmware-horizon-8-2006/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2313,11 +2313,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/syhunt-hybrid/</loc>
+    <loc>https://sysin.org/blog/studio-3t/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/studio-3t/</loc>
+    <loc>https://sysin.org/blog/syhunt-hybrid/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -3097,11 +3097,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/guhua/</loc>
+    <loc>https://sysin.org/blog/hello-hexo/</loc>
     <lastmod>2023-05-16</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/hello-hexo/</loc>
+    <loc>https://sysin.org/blog/guhua/</loc>
     <lastmod>2023-05-16</lastmod>
   </url>
   <url>
