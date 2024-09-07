@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.cn/blog/windows-server-2025/</loc>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/cisco-catalyst-9800/</loc>
     <lastmod>2024-09-07</lastmod>
   </url>
@@ -593,10 +597,6 @@
     <lastmod>2024-08-11</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/windows-server-2025/</loc>
-    <lastmod>2024-08-11</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/sql-server-2019/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -833,11 +833,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/adobe-audition/</loc>
+    <loc>https://sysin.cn/blog/adobe-bridge/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/adobe-bridge/</loc>
+    <loc>https://sysin.cn/blog/adobe-audition/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>

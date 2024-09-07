@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-09-07T03:35:28.741Z</updated>
+  <updated>2024-09-07T05:12:35.145Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server</title>
+    <link href="https://sysin.cn/blog/windows-server-2025/"/>
+    <id>https://sysin.cn/blog/windows-server-2025/</id>
+    <published>2024-09-07T02:25:15.000Z</published>
+    <updated>2024-09-07T05:12:35.145Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2025/&quot; title=&quot;Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server&quot;&gt;Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
+    
+  </entry>
   
   <entry>
     <title>Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析</title>
@@ -37,9 +66,9 @@
     <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
   </entry>
   
@@ -364,9 +393,9 @@
     
     <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
     <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
     
@@ -845,40 +874,9 @@
     <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Linux 产品链接汇总</title>
-    <link href="https://sysin.cn/blog/linux/"/>
-    <id>https://sysin.cn/blog/linux/</id>
-    <published>2024-09-01T01:06:00.000Z</published>
-    <updated>2024-08-31T04:44:01.982Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/linux/&quot; title=&quot;Linux 产品链接汇总&quot;&gt;Linux 产品链接汇总&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
-    
-    <category term="RHEL" scheme="https://sysin.cn/tags/RHEL/"/>
-    
-    <category term="Ubuntu" scheme="https://sysin.cn/tags/Ubuntu/"/>
-    
-    <category term="Debian" scheme="https://sysin.cn/tags/Debian/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
   </entry>
   

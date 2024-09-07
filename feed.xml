@@ -15,8 +15,39 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Sat, 07 Sep 2024 03:35:28 GMT</pubDate>
+    <pubDate>Sat, 07 Sep 2024 05:12:35 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server</title>
+      <link>https://sysin.cn/blog/windows-server-2025/</link>
+      <guid>https://sysin.cn/blog/windows-server-2025/</guid>
+      <pubDate>Sat, 07 Sep 2024 02:25:15 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2025/&quot; title=&quot;Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server&quot;&gt;Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      
+      <category domain="https://sysin.cn/tags/Server/">Server</category>
+      
+      
+      <comments>https://sysin.cn/blog/windows-server-2025/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析</title>
@@ -38,9 +69,9 @@
       <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
-      
       <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
       
       <comments>https://sysin.cn/blog/magnet-axiom/#disqus_thread</comments>
@@ -387,9 +418,9 @@
       
       <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
-      
       <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
       <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
       
@@ -902,45 +933,12 @@
       <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
-      
       <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
       
       <comments>https://sysin.cn/blog/magnet-acquire/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Linux 产品链接汇总</title>
-      <link>https://sysin.cn/blog/linux/</link>
-      <guid>https://sysin.cn/blog/linux/</guid>
-      <pubDate>Sun, 01 Sep 2024 01:06:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/linux/&quot; title=&quot;Linux 产品链接汇总&quot;&gt;Linux 产品链接汇总&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Linux/">Linux</category>
-      
-      
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.cn/tags/RHEL/">RHEL</category>
-      
-      <category domain="https://sysin.cn/tags/Ubuntu/">Ubuntu</category>
-      
-      <category domain="https://sysin.cn/tags/Debian/">Debian</category>
-      
-      
-      <comments>https://sysin.cn/blog/linux/#disqus_thread</comments>
       
     </item>
     

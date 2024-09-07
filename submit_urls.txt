@@ -1,3 +1,4 @@
+https://sysin.cn/blog/windows-server-2025/
 https://sysin.cn/blog/cisco-catalyst-9800/
 https://sysin.cn/blog/cisco-catalyst-9000/
 https://sysin.cn/blog/cisco-catalyst-8000v/
@@ -17,4 +18,3 @@ https://sysin.cn/blog/nessus-10/
 https://sysin.cn/blog/acunetix/
 https://sysin.cn/blog/chrome-firefox-download/
 https://sysin.cn/blog/nexpose-6/
-https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/
