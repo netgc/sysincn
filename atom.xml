@@ -37,9 +37,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
@@ -79,7 +79,7 @@
     <link href="https://sysin.org/blog/cisco-catalyst-9800/"/>
     <id>https://sysin.org/blog/cisco-catalyst-9800/</id>
     <published>2024-09-07T01:05:00.000Z</published>
-    <updated>2024-09-07T04:23:12.833Z</updated>
+    <updated>2024-09-07T04:37:02.483Z</updated>
     
     
       
@@ -137,7 +137,7 @@
     <link href="https://sysin.org/blog/cisco-catalyst-9000/"/>
     <id>https://sysin.org/blog/cisco-catalyst-9000/</id>
     <published>2024-09-07T01:03:00.000Z</published>
-    <updated>2024-09-07T04:22:54.766Z</updated>
+    <updated>2024-09-07T04:36:52.785Z</updated>
     
     
       
@@ -164,7 +164,7 @@
     <link href="https://sysin.org/blog/cisco-catalyst-8000v/"/>
     <id>https://sysin.org/blog/cisco-catalyst-8000v/</id>
     <published>2024-09-07T01:02:01.000Z</published>
-    <updated>2024-09-07T03:51:43.582Z</updated>
+    <updated>2024-09-07T04:36:45.500Z</updated>
     
     
       
@@ -195,7 +195,7 @@
     <link href="https://sysin.org/blog/cisco-catalyst-8000/"/>
     <id>https://sysin.org/blog/cisco-catalyst-8000/</id>
     <published>2024-09-07T01:01:00.000Z</published>
-    <updated>2024-09-07T04:22:46.064Z</updated>
+    <updated>2024-09-07T04:36:39.420Z</updated>
     
     
       
@@ -364,9 +364,9 @@
     
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
     <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
@@ -845,9 +845,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
