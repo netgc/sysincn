@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>sysin</title>
-  <icon>https://sysin.org/img/favicon.png</icon>
-  <subtitle>SYStem INside | 软件与技术分享</subtitle>
-  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <icon>https://sysin.cn/img/favicon.png</icon>
+  <subtitle>软件与技术分享</subtitle>
+  <link href="https://sysin.cn/atom.xml" rel="self"/>
   
-  <link href="https://sysin.org/"/>
+  <link href="https://sysin.cn/"/>
   <updated>2024-09-07T03:35:28.741Z</updated>
-  <id>https://sysin.org/</id>
+  <id>https://sysin.cn/</id>
   
   <author>
     <name>sysin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析</title>
-    <link href="https://sysin.org/blog/magnet-axiom/"/>
-    <id>https://sysin.org/blog/magnet-axiom/</id>
+    <link href="https://sysin.cn/blog/magnet-axiom/"/>
+    <id>https://sysin.cn/blog/magnet-axiom/</id>
     <published>2024-09-07T01:35:45.000Z</published>
     <updated>2024-09-07T03:35:28.741Z</updated>
     
@@ -34,19 +34,19 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.01 ED</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-9800-cl/"/>
-    <id>https://sysin.org/blog/cisco-catalyst-9800-cl/</id>
+    <link href="https://sysin.cn/blog/cisco-catalyst-9800-cl/"/>
+    <id>https://sysin.cn/blog/cisco-catalyst-9800-cl/</id>
     <published>2024-09-07T01:06:00.000Z</published>
     <updated>2024-09-07T03:13:40.423Z</updated>
     
@@ -61,23 +61,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
     
-    <category term="Wi-Fi" scheme="https://sysin.org/tags/Wi-Fi/"/>
+    <category term="Wi-Fi" scheme="https://sysin.cn/tags/Wi-Fi/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Catalyst 9800 Wireless Controller, IOS XE Release 17.15.01 ED</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-9800/"/>
-    <id>https://sysin.org/blog/cisco-catalyst-9800/</id>
+    <link href="https://sysin.cn/blog/cisco-catalyst-9800/"/>
+    <id>https://sysin.cn/blog/cisco-catalyst-9800/</id>
     <published>2024-09-07T01:05:00.000Z</published>
     <updated>2024-09-07T03:13:46.001Z</updated>
     
@@ -92,23 +92,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
     
-    <category term="Wi-Fi" scheme="https://sysin.org/tags/Wi-Fi/"/>
+    <category term="Wi-Fi" scheme="https://sysin.cn/tags/Wi-Fi/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Catalyst 9100 Access Points, IOS XE Release 17.15.01</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-9100/"/>
-    <id>https://sysin.org/blog/cisco-catalyst-9100/</id>
+    <link href="https://sysin.cn/blog/cisco-catalyst-9100/"/>
+    <id>https://sysin.cn/blog/cisco-catalyst-9100/</id>
     <published>2024-09-07T01:04:33.000Z</published>
     <updated>2024-09-07T01:45:57.871Z</updated>
     
@@ -123,19 +123,19 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Catalyst 9000 Series Switches, IOS XE Release 17.15.1 ED</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-9000/"/>
-    <id>https://sysin.org/blog/cisco-catalyst-9000/</id>
+    <link href="https://sysin.cn/blog/cisco-catalyst-9000/"/>
+    <id>https://sysin.cn/blog/cisco-catalyst-9000/</id>
     <published>2024-09-07T01:03:00.000Z</published>
     <updated>2024-09-07T03:14:15.569Z</updated>
     
@@ -150,19 +150,19 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Catalyst 8000v Edge Software, IOS XE Release 17.15.01a ED</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-8000v/"/>
-    <id>https://sysin.org/blog/cisco-catalyst-8000v/</id>
+    <link href="https://sysin.cn/blog/cisco-catalyst-8000v/"/>
+    <id>https://sysin.cn/blog/cisco-catalyst-8000v/</id>
     <published>2024-09-07T01:02:01.000Z</published>
     <updated>2024-09-07T03:13:28.113Z</updated>
     
@@ -177,23 +177,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
     
-    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
+    <category term="Router" scheme="https://sysin.cn/tags/Router/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Catalyst 8000 Series Edge Platforms, IOS XE Release 17.15.01a ED</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-8000/"/>
-    <id>https://sysin.org/blog/cisco-catalyst-8000/</id>
+    <link href="https://sysin.cn/blog/cisco-catalyst-8000/"/>
+    <id>https://sysin.cn/blog/cisco-catalyst-8000/</id>
     <published>2024-09-07T01:01:00.000Z</published>
     <updated>2024-09-07T03:13:21.321Z</updated>
     
@@ -208,23 +208,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
     
-    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
+    <category term="Router" scheme="https://sysin.cn/tags/Router/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ACI Simulator 6.0(7e)M - ACI 模拟器</title>
-    <link href="https://sysin.org/blog/cisco-acisim-6/"/>
-    <id>https://sysin.org/blog/cisco-acisim-6/</id>
+    <link href="https://sysin.cn/blog/cisco-acisim-6/"/>
+    <id>https://sysin.cn/blog/cisco-acisim-6/</id>
     <published>2024-09-06T02:13:00.000Z</published>
     <updated>2024-09-06T05:18:16.954Z</updated>
     
@@ -239,23 +239,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
+    <category term="NX-OS" scheme="https://sysin.cn/tags/NX-OS/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ISR 4000 Series IOS XE Release 17.15.1a ED</title>
-    <link href="https://sysin.org/blog/cisco-isr-4000/"/>
-    <id>https://sysin.org/blog/cisco-isr-4000/</id>
+    <link href="https://sysin.cn/blog/cisco-isr-4000/"/>
+    <id>https://sysin.cn/blog/cisco-isr-4000/</id>
     <published>2024-09-06T01:25:00.000Z</published>
     <updated>2024-09-07T02:34:59.281Z</updated>
     
@@ -270,21 +270,21 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
     
-    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
+    <category term="Router" scheme="https://sysin.cn/tags/Router/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ISR 1000 Series IOS XE Release 17.15.1a ED</title>
-    <link href="https://sysin.org/blog/cisco-isr-1000/"/>
-    <id>https://sysin.org/blog/cisco-isr-1000/</id>
+    <link href="https://sysin.cn/blog/cisco-isr-1000/"/>
+    <id>https://sysin.cn/blog/cisco-isr-1000/</id>
     <published>2024-09-06T01:10:38.000Z</published>
     <updated>2024-09-06T01:28:39.850Z</updated>
     
@@ -299,21 +299,21 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
     
-    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
+    <category term="Router" scheme="https://sysin.cn/tags/Router/"/>
     
   </entry>
   
   <entry>
     <title>Firefox 130, Chrome 130, Chromium 130 官网离线下载 (macOS, Linux, Windows)</title>
-    <link href="https://sysin.org/blog/chrome-firefox-download/"/>
-    <id>https://sysin.org/blog/chrome-firefox-download/</id>
+    <link href="https://sysin.cn/blog/chrome-firefox-download/"/>
+    <id>https://sysin.cn/blog/chrome-firefox-download/</id>
     <published>2024-09-05T05:50:00.000Z</published>
     <updated>2024-09-05T06:44:04.256Z</updated>
     
@@ -328,23 +328,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
     
-    <category term="Chrome" scheme="https://sysin.org/tags/Chrome/"/>
+    <category term="Chrome" scheme="https://sysin.cn/tags/Chrome/"/>
     
-    <category term="Firefox" scheme="https://sysin.org/tags/Firefox/"/>
+    <category term="Firefox" scheme="https://sysin.cn/tags/Firefox/"/>
     
-    <category term="Safari" scheme="https://sysin.org/tags/Safari/"/>
+    <category term="Safari" scheme="https://sysin.cn/tags/Safari/"/>
     
   </entry>
   
   <entry>
     <title>Nexpose 6.6.268 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.org/blog/nexpose-6/"/>
-    <id>https://sysin.org/blog/nexpose-6/</id>
+    <link href="https://sysin.cn/blog/nexpose-6/"/>
+    <id>https://sysin.cn/blog/nexpose-6/</id>
     <published>2024-09-05T01:18:50.000Z</published>
     <updated>2024-09-05T02:29:07.962Z</updated>
     
@@ -359,23 +359,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
     <title>VMware Workstation 17.6 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Windows</title>
-    <link href="https://sysin.org/blog/vmware-workstation-17-unlocker-windows/"/>
-    <id>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</id>
+    <link href="https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/"/>
+    <id>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/</id>
     <published>2024-09-03T03:32:00.000Z</published>
     <updated>2024-09-05T02:24:19.480Z</updated>
     
@@ -390,21 +390,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Workstation 17.6 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Linux</title>
-    <link href="https://sysin.org/blog/vmware-workstation-17-unlocker-linux/"/>
-    <id>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</id>
+    <link href="https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/"/>
+    <id>https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/</id>
     <published>2024-09-03T03:31:00.000Z</published>
     <updated>2024-09-05T02:24:24.611Z</updated>
     
@@ -419,21 +419,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Workstation 17.6 Pro Unlocker &amp; OEM BIOS 2.7 for Windows &amp; Linux</title>
-    <link href="https://sysin.org/blog/vmware-workstation-17-unlocker/"/>
-    <id>https://sysin.org/blog/vmware-workstation-17-unlocker/</id>
+    <link href="https://sysin.cn/blog/vmware-workstation-17-unlocker/"/>
+    <id>https://sysin.cn/blog/vmware-workstation-17-unlocker/</id>
     <published>2024-09-03T03:30:00.000Z</published>
     <updated>2024-09-05T02:24:07.261Z</updated>
     
@@ -448,21 +448,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Workstation 17.6 Pro for Windows &amp; Linux - 领先的免费桌面虚拟化软件</title>
-    <link href="https://sysin.org/blog/vmware-workstation-17/"/>
-    <id>https://sysin.org/blog/vmware-workstation-17/</id>
+    <link href="https://sysin.cn/blog/vmware-workstation-17/"/>
+    <id>https://sysin.cn/blog/vmware-workstation-17/</id>
     <published>2024-09-03T03:21:00.000Z</published>
     <updated>2024-09-03T09:00:02.249Z</updated>
     
@@ -477,21 +477,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Fusion 13.6 OEM BIOS 2.7 - 在 macOS 中运行 Windows 虚拟机的最佳方式</title>
-    <link href="https://sysin.org/blog/vmware-fusion-13-oem/"/>
-    <id>https://sysin.org/blog/vmware-fusion-13-oem/</id>
+    <link href="https://sysin.cn/blog/vmware-fusion-13-oem/"/>
+    <id>https://sysin.cn/blog/vmware-fusion-13-oem/</id>
     <published>2024-09-03T03:20:00.000Z</published>
     <updated>2024-09-05T02:23:29.416Z</updated>
     
@@ -506,19 +506,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Fusion 13.6 for Mac - 领先的免费桌面虚拟化软件</title>
-    <link href="https://sysin.org/blog/vmware-fusion-13/"/>
-    <id>https://sysin.org/blog/vmware-fusion-13/</id>
+    <link href="https://sysin.cn/blog/vmware-fusion-13/"/>
+    <id>https://sysin.cn/blog/vmware-fusion-13/</id>
     <published>2024-09-03T03:05:00.000Z</published>
     <updated>2024-09-04T08:52:30.646Z</updated>
     
@@ -533,19 +533,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>Serif Affinity 2.5.5 (macOS, Windows) - 专业创意软件</title>
-    <link href="https://sysin.org/blog/affinity-2/"/>
-    <id>https://sysin.org/blog/affinity-2/</id>
+    <link href="https://sysin.cn/blog/affinity-2/"/>
+    <id>https://sysin.cn/blog/affinity-2/</id>
     <published>2024-09-03T01:08:00.000Z</published>
     <updated>2024-09-03T02:03:15.534Z</updated>
     
@@ -560,19 +560,19 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Affinity Publisher 2.5.5 (macOS, Windows) - 页面布局和设计的强大平台</title>
-    <link href="https://sysin.org/blog/affinity-publisher/"/>
-    <id>https://sysin.org/blog/affinity-publisher/</id>
+    <link href="https://sysin.cn/blog/affinity-publisher/"/>
+    <id>https://sysin.cn/blog/affinity-publisher/</id>
     <published>2024-09-03T01:05:41.000Z</published>
     <updated>2024-09-03T02:00:02.373Z</updated>
     
@@ -587,19 +587,19 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Affinity Photo 2.5.5 (macOS, Windows) - 梦寐以求的照片编辑器</title>
-    <link href="https://sysin.org/blog/affinity-photo/"/>
-    <id>https://sysin.org/blog/affinity-photo/</id>
+    <link href="https://sysin.cn/blog/affinity-photo/"/>
+    <id>https://sysin.cn/blog/affinity-photo/</id>
     <published>2024-09-03T01:03:50.000Z</published>
     <updated>2024-09-03T02:00:05.974Z</updated>
     
@@ -614,19 +614,19 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Affinity Designer 2.5.5 (macOS, Windows) - 制作最精美的插图和设计</title>
-    <link href="https://sysin.org/blog/affinity-designer/"/>
-    <id>https://sysin.org/blog/affinity-designer/</id>
+    <link href="https://sysin.cn/blog/affinity-designer/"/>
+    <id>https://sysin.cn/blog/affinity-designer/</id>
     <published>2024-09-03T01:02:58.000Z</published>
     <updated>2024-09-03T02:00:09.460Z</updated>
     
@@ -641,19 +641,19 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>VMware ESXi 8.0U3 macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
-    <link href="https://sysin.org/blog/vmware-esxi-8-u3-sysin/"/>
-    <id>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</id>
+    <link href="https://sysin.cn/blog/vmware-esxi-8-u3-sysin/"/>
+    <id>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</id>
     <published>2024-09-01T01:19:19.000Z</published>
     <updated>2024-09-04T06:06:42.220Z</updated>
     
@@ -668,21 +668,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
   </entry>
   
   <entry>
     <title>VMware ESXi 8.0U3 macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-    <link href="https://sysin.org/blog/vmware-esxi-8-u3-oem/"/>
-    <id>https://sysin.org/blog/vmware-esxi-8-u3-oem/</id>
+    <link href="https://sysin.cn/blog/vmware-esxi-8-u3-oem/"/>
+    <id>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</id>
     <published>2024-09-01T01:19:00.000Z</published>
     <updated>2024-09-04T06:06:42.249Z</updated>
     
@@ -697,21 +697,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
   </entry>
   
   <entry>
     <title>VMware ESXi 7.0U3q macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
-    <link href="https://sysin.org/blog/vmware-esxi-7-u3-sysin/"/>
-    <id>https://sysin.org/blog/vmware-esxi-7-u3-sysin/</id>
+    <link href="https://sysin.cn/blog/vmware-esxi-7-u3-sysin/"/>
+    <id>https://sysin.cn/blog/vmware-esxi-7-u3-sysin/</id>
     <published>2024-09-01T01:18:00.000Z</published>
     <updated>2024-09-04T06:06:42.223Z</updated>
     
@@ -726,21 +726,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
   </entry>
   
   <entry>
     <title>VMware ESXi 7.0U3q macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-    <link href="https://sysin.org/blog/vmware-esxi-7-u3-oem/"/>
-    <id>https://sysin.org/blog/vmware-esxi-7-u3-oem/</id>
+    <link href="https://sysin.cn/blog/vmware-esxi-7-u3-oem/"/>
+    <id>https://sysin.cn/blog/vmware-esxi-7-u3-oem/</id>
     <published>2024-09-01T01:17:00.000Z</published>
     <updated>2024-09-04T06:06:42.224Z</updated>
     
@@ -755,21 +755,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
   </entry>
   
   <entry>
     <title>VMware ESXi 6.7U3u macOS Unlocker &amp; OEM BIOS 2.7 集成 Realtek 网卡驱动和 NVMe 驱动 (集成驱动版) UI fix</title>
-    <link href="https://sysin.org/blog/vmware-esxi-6-sysin/"/>
-    <id>https://sysin.org/blog/vmware-esxi-6-sysin/</id>
+    <link href="https://sysin.cn/blog/vmware-esxi-6-sysin/"/>
+    <id>https://sysin.cn/blog/vmware-esxi-6-sysin/</id>
     <published>2024-09-01T01:16:30.000Z</published>
     <updated>2024-09-01T07:25:11.930Z</updated>
     
@@ -784,21 +784,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
   </entry>
   
   <entry>
     <title>VMware ESXi 6.7U3u macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版 UI fix</title>
-    <link href="https://sysin.org/blog/vmware-esxi-6-oem/"/>
-    <id>https://sysin.org/blog/vmware-esxi-6-oem/</id>
+    <link href="https://sysin.cn/blog/vmware-esxi-6-oem/"/>
+    <id>https://sysin.cn/blog/vmware-esxi-6-oem/</id>
     <published>2024-09-01T01:16:28.000Z</published>
     <updated>2024-09-01T07:25:11.905Z</updated>
     
@@ -813,21 +813,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
   </entry>
   
   <entry>
     <title>Magnet Acquire 2.71 Windows - 适用于智能手机和计算机的数字取证采集工具</title>
-    <link href="https://sysin.org/blog/magnet-acquire/"/>
-    <id>https://sysin.org/blog/magnet-acquire/</id>
+    <link href="https://sysin.cn/blog/magnet-acquire/"/>
+    <id>https://sysin.cn/blog/magnet-acquire/</id>
     <published>2024-09-01T01:15:45.000Z</published>
     <updated>2024-09-01T09:06:28.140Z</updated>
     
@@ -842,19 +842,19 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Linux 产品链接汇总</title>
-    <link href="https://sysin.org/blog/linux/"/>
-    <id>https://sysin.org/blog/linux/</id>
+    <link href="https://sysin.cn/blog/linux/"/>
+    <id>https://sysin.cn/blog/linux/</id>
     <published>2024-09-01T01:06:00.000Z</published>
     <updated>2024-08-31T04:44:01.982Z</updated>
     
@@ -869,16 +869,16 @@
     
     
     
-    <category term="Linux" scheme="https://sysin.org/categories/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="RHEL" scheme="https://sysin.org/tags/RHEL/"/>
+    <category term="RHEL" scheme="https://sysin.cn/tags/RHEL/"/>
     
-    <category term="Ubuntu" scheme="https://sysin.org/tags/Ubuntu/"/>
+    <category term="Ubuntu" scheme="https://sysin.cn/tags/Ubuntu/"/>
     
-    <category term="Debian" scheme="https://sysin.org/tags/Debian/"/>
+    <category term="Debian" scheme="https://sysin.cn/tags/Debian/"/>
     
   </entry>
   
