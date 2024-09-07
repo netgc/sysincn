@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sysin.cn/blog/magnet-axiom/</loc>
-    <lastmod>2024-09-07</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/cisco-catalyst-9000/</loc>
-    <lastmod>2024-09-07</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/cisco-catalyst-9800/</loc>
     <lastmod>2024-09-07</lastmod>
   </url>
   <url>
     <loc>https://sysin.cn/blog/cisco-catalyst-9800-cl/</loc>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/cisco-catalyst-9100/</loc>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/cisco-catalyst-9000/</loc>
     <lastmod>2024-09-07</lastmod>
   </url>
   <url>
@@ -25,20 +25,20 @@
     <lastmod>2024-09-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/cisco-isr-4000/</loc>
-    <lastmod>2024-09-07</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/cisco-catalyst-9100/</loc>
-    <lastmod>2024-09-07</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/cisco-c9800-cl/</loc>
-    <lastmod>2024-09-06</lastmod>
+    <lastmod>2024-09-07</lastmod>
   </url>
   <url>
     <loc>https://sysin.cn/blog/cisco-asr-9000/</loc>
-    <lastmod>2024-09-06</lastmod>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/magnet-axiom/</loc>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/cisco-isr-4000/</loc>
+    <lastmod>2024-09-07</lastmod>
   </url>
   <url>
     <loc>https://sysin.cn/blog/cisco-asr-1000/</loc>
@@ -1189,10 +1189,6 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7-u3-nuc-usb-nvme/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/vmware-esxi-7-u3/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -1202,6 +1198,10 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-8-u2-sysin/</loc>
+    <lastmod>2024-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/vmware-esxi-7-u3-nuc-usb-nvme/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1721,11 +1721,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2312/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2306/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2306/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2312/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2025,11 +2025,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/pt-network-attack-discovery/</loc>
+    <loc>https://sysin.cn/blog/public-key-authentication/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/public-key-authentication/</loc>
+    <loc>https://sysin.cn/blog/pt-network-attack-discovery/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2081,15 +2081,15 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-nsx-t-3/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/vmware-tce/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
     <loc>https://sysin.cn/blog/vmware-tkg/</loc>
+    <lastmod>2024-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/vmware-nsx-t-3/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
