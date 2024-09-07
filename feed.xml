@@ -15,8 +15,231 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Fri, 06 Sep 2024 01:40:55 GMT</pubDate>
+    <pubDate>Sat, 07 Sep 2024 01:45:57 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.01 ED</title>
+      <link>https://sysin.org/blog/cisco-catalyst-9800-cl/</link>
+      <guid>https://sysin.org/blog/cisco-catalyst-9800-cl/</guid>
+      <pubDate>Sat, 07 Sep 2024 01:06:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-9800-cl/&quot; title=&quot;Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.01 ED&quot;&gt;Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.01 ED&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      
+      
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      
+      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      
+      <category domain="https://sysin.org/tags/Wi-Fi/">Wi-Fi</category>
+      
+      
+      <comments>https://sysin.org/blog/cisco-catalyst-9800-cl/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Cisco Catalyst 9800 Wireless Controller, IOS XE Release 17.15.01 ED</title>
+      <link>https://sysin.org/blog/cisco-catalyst-9800/</link>
+      <guid>https://sysin.org/blog/cisco-catalyst-9800/</guid>
+      <pubDate>Sat, 07 Sep 2024 01:05:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-9800/&quot; title=&quot;Cisco Catalyst 9800 Wireless Controller, IOS XE Release 17.15.01 ED&quot;&gt;Cisco Catalyst 9800 Wireless Controller, IOS XE Release 17.15.01 ED&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      
+      
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      
+      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      
+      <category domain="https://sysin.org/tags/Wi-Fi/">Wi-Fi</category>
+      
+      
+      <comments>https://sysin.org/blog/cisco-catalyst-9800/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Cisco Catalyst 9100 Access Points, IOS XE Release 17.15.01</title>
+      <link>https://sysin.org/blog/cisco-catalyst-9100/</link>
+      <guid>https://sysin.org/blog/cisco-catalyst-9100/</guid>
+      <pubDate>Sat, 07 Sep 2024 01:04:33 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-9100/&quot; title=&quot;Cisco Catalyst 9100 Access Points, IOS XE Release 17.15.01&quot;&gt;Cisco Catalyst 9100 Access Points, IOS XE Release 17.15.01&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      
+      
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      
+      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      
+      
+      <comments>https://sysin.org/blog/cisco-catalyst-9100/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Cisco Catalyst 9000 Series Switches, IOS XE Release 17.15.1 ED</title>
+      <link>https://sysin.org/blog/cisco-catalyst-9000/</link>
+      <guid>https://sysin.org/blog/cisco-catalyst-9000/</guid>
+      <pubDate>Sat, 07 Sep 2024 01:03:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-9000/&quot; title=&quot;Cisco Catalyst 9000 Series Switches, IOS XE Release 17.15.1 ED&quot;&gt;Cisco Catalyst 9000 Series Switches, IOS XE Release 17.15.1 ED&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      
+      
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      
+      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      
+      
+      <comments>https://sysin.org/blog/cisco-catalyst-9000/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Cisco Catalyst 8000v Edge Software, IOS XE Release 17.15.01a ED</title>
+      <link>https://sysin.org/blog/cisco-catalyst-8000v/</link>
+      <guid>https://sysin.org/blog/cisco-catalyst-8000v/</guid>
+      <pubDate>Sat, 07 Sep 2024 01:02:01 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-8000v/&quot; title=&quot;Cisco Catalyst 8000v Edge Software, IOS XE Release 17.15.01a ED&quot;&gt;Cisco Catalyst 8000v Edge Software, IOS XE Release 17.15.01a ED&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      
+      
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      
+      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      
+      <category domain="https://sysin.org/tags/Router/">Router</category>
+      
+      
+      <comments>https://sysin.org/blog/cisco-catalyst-8000v/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Cisco Catalyst 8000 Series Edge Platforms, IOS XE Release 17.15.01a ED</title>
+      <link>https://sysin.org/blog/cisco-catalyst-8000/</link>
+      <guid>https://sysin.org/blog/cisco-catalyst-8000/</guid>
+      <pubDate>Sat, 07 Sep 2024 01:01:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-8000/&quot; title=&quot;Cisco Catalyst 8000 Series Edge Platforms, IOS XE Release 17.15.01a ED&quot;&gt;Cisco Catalyst 8000 Series Edge Platforms, IOS XE Release 17.15.01a ED&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      
+      
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      
+      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      
+      <category domain="https://sysin.org/tags/Router/">Router</category>
+      
+      
+      <comments>https://sysin.org/blog/cisco-catalyst-8000/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Cisco ACI Simulator 6.0(7e)M - ACI 模拟器</title>
+      <link>https://sysin.org/blog/cisco-acisim-6/</link>
+      <guid>https://sysin.org/blog/cisco-acisim-6/</guid>
+      <pubDate>Fri, 06 Sep 2024 02:13:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-acisim-6/&quot; title=&quot;Cisco ACI Simulator 6.0(7e)M - ACI 模拟器&quot;&gt;Cisco ACI Simulator 6.0(7e)M - ACI 模拟器&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      
+      <category domain="https://sysin.org/tags/NX-OS/">NX-OS</category>
+      
+      
+      <comments>https://sysin.org/blog/cisco-acisim-6/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Cisco ISR 4000 Series IOS XE Release 17.15.1a ED</title>
@@ -728,221 +951,6 @@
       
       
       <comments>https://sysin.org/blog/cisco/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>HTTP 协议与安全</title>
-      <link>https://sysin.org/blog/http/</link>
-      <guid>https://sysin.org/blog/http/</guid>
-      <pubDate>Sun, 01 Sep 2024 01:03:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/http/&quot; title=&quot;HTTP 协议与安全&quot;&gt;HTTP 协议与安全&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.org/tags/Unix/">Unix</category>
-      
-      
-      <comments>https://sysin.org/blog/http/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>VMware 产品下载汇总</title>
-      <link>https://sysin.org/blog/vmware/</link>
-      <guid>https://sysin.org/blog/vmware/</guid>
-      <pubDate>Sun, 01 Sep 2024 01:02:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware/&quot; title=&quot;VMware 产品下载汇总&quot;&gt;VMware 产品下载汇总&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
-      
-      
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
-      
-      
-      <comments>https://sysin.org/blog/vmware/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>macOS 下载汇总 (系统、应用和教程)</title>
-      <link>https://sysin.org/blog/macOS/</link>
-      <guid>https://sysin.org/blog/macOS/</guid>
-      <pubDate>Sun, 01 Sep 2024 01:01:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS/&quot; title=&quot;macOS 下载汇总 (系统、应用和教程)&quot;&gt;macOS 下载汇总 (系统、应用和教程)&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
-      
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
-      
-      
-      <comments>https://sysin.org/blog/macOS/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Burp Suite Professional 2024.8 for Windows x64 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.org/blog/burp-suite-pro-win/</link>
-      <guid>https://sysin.org/blog/burp-suite-pro-win/</guid>
-      <pubDate>Sat, 31 Aug 2024 02:18:12 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-win/&quot; title=&quot;Burp Suite Professional 2024.8 for Windows x64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.8 for Windows x64 - 领先的 Web 渗透测试软件&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
-      
-      <comments>https://sysin.org/blog/burp-suite-pro-win/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Burp Suite Professional 2024.8 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.org/blog/burp-suite-pro-mac/</link>
-      <guid>https://sysin.org/blog/burp-suite-pro-mac/</guid>
-      <pubDate>Sat, 31 Aug 2024 02:15:10 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-mac/&quot; title=&quot;Burp Suite Professional 2024.8 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.8 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
-      
-      <comments>https://sysin.org/blog/burp-suite-pro-mac/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Photomator 3.3.22 (macOS Universal) - 照片编辑软件</title>
-      <link>https://sysin.org/blog/photomator/</link>
-      <guid>https://sysin.org/blog/photomator/</guid>
-      <pubDate>Sat, 31 Aug 2024 01:11:09 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/photomator/&quot; title=&quot;Photomator 3.3.22 (macOS Universal) - 照片编辑软件&quot;&gt;Photomator 3.3.22 (macOS Universal) - 照片编辑软件&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
-      
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      
-      <comments>https://sysin.org/blog/photomator/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Burp Suite Professional 2024.8 (macOS, Linux, Windows) - Web 应用安全、测试和扫描</title>
-      <link>https://sysin.org/blog/burp-suite-pro/</link>
-      <guid>https://sysin.org/blog/burp-suite-pro/</guid>
-      <pubDate>Sat, 31 Aug 2024 01:10:10 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro/&quot; title=&quot;Burp Suite Professional 2024.8 (macOS, Linux, Windows) - Web 应用安全、测试和扫描&quot;&gt;Burp Suite Professional 2024.8 (macOS, Linux, Windows) - Web 应用安全、测试和扫描&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      
-      <comments>https://sysin.org/blog/burp-suite-pro/#disqus_thread</comments>
       
     </item>
     

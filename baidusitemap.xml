@@ -1,11 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sysin.org/blog/cisco-isr-4000/</loc>
+    <loc>https://sysin.org/blog/cisco-catalyst-9100/</loc>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-9800/</loc>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-8000/</loc>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-8000v/</loc>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-9000/</loc>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-9800-cl/</loc>
+    <lastmod>2024-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-c9800-cl/</loc>
+    <lastmod>2024-09-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-asr-9000/</loc>
+    <lastmod>2024-09-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-asr-1000/</loc>
+    <lastmod>2024-09-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-acisim-6/</loc>
+    <lastmod>2024-09-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/nessus-10/</loc>
     <lastmod>2024-09-06</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/acunetix/</loc>
+    <lastmod>2024-09-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-isr-4000/</loc>
     <lastmod>2024-09-06</lastmod>
   </url>
   <url>
@@ -533,10 +577,6 @@
     <lastmod>2024-08-13</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-8000v/</loc>
-    <lastmod>2024-08-13</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/pvs-studio/</loc>
     <lastmod>2024-08-12</lastmod>
   </url>
@@ -693,10 +733,6 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-9800/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/cisco-sd-wan-20/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -802,10 +838,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/adobe-cc-2021/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-acisim-6/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1009,11 +1041,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-3-5/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-3/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-3/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-3-5/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1042,10 +1074,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/cellebrite-physical-analyzer/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-c9800-cl/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1302,10 +1330,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/adobe-substance-3d/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-asr-1000/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1853,10 +1877,6 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-asr-9000/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/cisco-packet-tracer-8/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -1882,10 +1902,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/nessus-8/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/nessus-10/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2105,10 +2121,6 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-9000/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/cisco-catalyst-center/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -2142,10 +2154,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-asav/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-9100/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2317,11 +2325,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u2-oem/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u2/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u2/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u2-oem/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2562,10 +2570,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/dell-unityvsa-5/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-8000/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2830,10 +2834,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-vsphere-7-u3/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-9800-cl/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
