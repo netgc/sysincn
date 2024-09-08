@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-09-07T05:12:35.145Z</updated>
+  <updated>2024-09-08T01:12:51.432Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Cisco Secure Client 5.1.5.65 (macOS, Linux, Windows &amp; iOS, Andrord) - VPN 和远程访问客户端</title>
+    <link href="https://sysin.org/blog/cisco-secure-client-5/"/>
+    <id>https://sysin.org/blog/cisco-secure-client-5/</id>
+    <published>2024-09-08T01:08:00.000Z</published>
+    <updated>2024-09-08T01:12:51.432Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-secure-client-5/&quot; title=&quot;Cisco Secure Client 5.1.5.65 (macOS, Linux, Windows &amp;amp; iOS, Andrord) - VPN 和远程访问客户端&quot;&gt;Cisco Secure Client 5.1.5.65 (macOS, Linux, Windows &amp;amp; iOS, Andrord) - VPN 和远程访问客户端&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+  </entry>
   
   <entry>
     <title>Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server</title>
@@ -850,33 +877,6 @@
     <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
     <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Magnet Acquire 2.71 Windows - 适用于智能手机和计算机的数字取证采集工具</title>
-    <link href="https://sysin.org/blog/magnet-acquire/"/>
-    <id>https://sysin.org/blog/magnet-acquire/</id>
-    <published>2024-09-01T01:15:45.000Z</published>
-    <updated>2024-09-01T09:06:28.140Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-acquire/&quot; title=&quot;Magnet Acquire 2.71 Windows - 适用于智能手机和计算机的数字取证采集工具&quot;&gt;Magnet Acquire 2.71 Windows - 适用于智能手机和计算机的数字取证采集工具&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   

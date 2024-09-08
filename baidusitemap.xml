@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/cisco-secure-client-5/</loc>
+    <lastmod>2024-09-08</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/cisco-catalyst-9800/</loc>
     <lastmod>2024-09-07</lastmod>
   </url>
@@ -151,10 +155,6 @@
   <url>
     <loc>https://sysin.org/blog/affinity-publisher/</loc>
     <lastmod>2024-09-03</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-secure-client-5/</loc>
-    <lastmod>2024-09-02</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
@@ -2821,11 +2821,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
+    <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
+    <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
