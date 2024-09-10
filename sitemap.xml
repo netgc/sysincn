@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sysin.cn/blog/magnet-acquire/</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</loc>
     
     <lastmod>2024-09-10</lastmod>
@@ -21,6 +12,24 @@
   
   <url>
     <loc>https://sysin.cn/blog/macOS-Sequoia/</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/apple-xcode-16/</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/magnet-acquire/</loc>
     
     <lastmod>2024-09-10</lastmod>
     
@@ -876,15 +885,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/windows-10/</loc>
-    
-    <lastmod>2024-08-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/apple-xcode-16/</loc>
     
     <lastmod>2024-08-21</lastmod>
     
@@ -2297,7 +2297,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/pan-os-11/</loc>
+    <loc>https://sysin.cn/blog/ovirt/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2306,7 +2306,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/ovirt/</loc>
+    <loc>https://sysin.cn/blog/pan-os-11/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4889,7 +4889,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-ise-log4j2-fix/</loc>
+    <loc>https://sysin.cn/blog/cisco-ios-xrv-9000/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4898,7 +4898,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-ios-xrv-9000/</loc>
+    <loc>https://sysin.cn/blog/cisco-ise-log4j2-fix/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5222,7 +5222,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/syhunt-hybrid/</loc>
+    <loc>https://sysin.cn/blog/studio-3t/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5231,7 +5231,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/studio-3t/</loc>
+    <loc>https://sysin.cn/blog/syhunt-hybrid/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7296,13 +7296,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/DNS/</loc>
-    <lastmod>2024-09-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/tags/Citrix/</loc>
     <lastmod>2024-09-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -7311,6 +7304,13 @@
   
   <url>
     <loc>https://sysin.cn/tags/ADC/</loc>
+    <lastmod>2024-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/tags/DNS/</loc>
     <lastmod>2024-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

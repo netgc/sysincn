@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-09-10T02:13:08.573Z</updated>
+  <updated>2024-09-10T04:10:03.331Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="https://sysin.org/">sysin</generator>
   
   <entry>
+    <title>Xcode 16 RC (16A242) - Apple 平台 IDE</title>
+    <link href="https://sysin.cn/blog/apple-xcode-16/"/>
+    <id>https://sysin.cn/blog/apple-xcode-16/</id>
+    <published>2024-09-10T02:13:00.000Z</published>
+    <updated>2024-09-10T04:10:03.331Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-xcode-16/&quot; title=&quot;Xcode 16 RC (16A242) - Apple 平台 IDE&quot;&gt;Xcode 16 RC (16A242) - Apple 平台 IDE&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
+    
+    <category term="iOS" scheme="https://sysin.cn/tags/iOS/"/>
+    
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
+    
+  </entry>
+  
+  <entry>
     <title>macOS Sequoia 15 RC (24A335) Boot ISO 原版可引导镜像下载</title>
     <link href="https://sysin.cn/blog/macOS-Sequoia-boot-iso/"/>
     <id>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</id>
     <published>2024-09-10T01:22:00.000Z</published>
-    <updated>2024-09-10T02:13:08.573Z</updated>
+    <updated>2024-09-10T04:32:52.477Z</updated>
     
     
       
@@ -48,7 +79,7 @@
     <link href="https://sysin.cn/blog/macOS-Sequoia/"/>
     <id>https://sysin.cn/blog/macOS-Sequoia/</id>
     <published>2024-09-10T01:20:00.000Z</published>
-    <updated>2024-09-10T02:13:02.317Z</updated>
+    <updated>2024-09-10T04:32:29.329Z</updated>
     
     
       
@@ -829,35 +860,6 @@
         
         
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-esxi-8-u3-sysin/&quot; title=&quot;VMware ESXi 8.0U3 macOS Unlocker &amp;amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)&quot;&gt;VMware ESXi 8.0U3 macOS Unlocker &amp;amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
-    
-    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VMware ESXi 8.0U3 macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-    <link href="https://sysin.cn/blog/vmware-esxi-8-u3-oem/"/>
-    <id>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</id>
-    <published>2024-09-01T01:19:00.000Z</published>
-    <updated>2024-09-04T06:06:42.249Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-esxi-8-u3-oem/&quot; title=&quot;VMware ESXi 8.0U3 macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&quot;&gt;VMware ESXi 8.0U3 macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&lt;/a&gt;，查看最新版。</summary>
         
       
     

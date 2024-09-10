@@ -15,8 +15,41 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Tue, 10 Sep 2024 02:13:08 GMT</pubDate>
+    <pubDate>Tue, 10 Sep 2024 04:10:03 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Xcode 16 RC (16A242) - Apple 平台 IDE</title>
+      <link>https://sysin.cn/blog/apple-xcode-16/</link>
+      <guid>https://sysin.cn/blog/apple-xcode-16/</guid>
+      <pubDate>Tue, 10 Sep 2024 02:13:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-xcode-16/&quot; title=&quot;Xcode 16 RC (16A242) - Apple 平台 IDE&quot;&gt;Xcode 16 RC (16A242) - Apple 平台 IDE&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      
+      <category domain="https://sysin.cn/tags/iOS/">iOS</category>
+      
+      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      
+      
+      <comments>https://sysin.cn/blog/apple-xcode-16/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>macOS Sequoia 15 RC (24A335) Boot ISO 原版可引导镜像下载</title>
@@ -902,37 +935,6 @@
       
       
       <comments>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>VMware ESXi 8.0U3 macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-      <link>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</link>
-      <guid>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</guid>
-      <pubDate>Sun, 01 Sep 2024 01:19:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-esxi-8-u3-oem/&quot; title=&quot;VMware ESXi 8.0U3 macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&quot;&gt;VMware ESXi 8.0U3 macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
-      
-      
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
-      
-      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
-      
-      
-      <comments>https://sysin.cn/blog/vmware-esxi-8-u3-oem/#disqus_thread</comments>
       
     </item>
     
