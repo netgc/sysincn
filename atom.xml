@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-09-10T08:10:29.101Z</updated>
+  <updated>2024-09-10T08:34:11.384Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://sysin.cn/blog/dbeaver/"/>
     <id>https://sysin.cn/blog/dbeaver/</id>
     <published>2024-09-10T07:38:50.000Z</published>
-    <updated>2024-09-10T08:10:29.101Z</updated>
+    <updated>2024-09-10T08:34:11.384Z</updated>
     
     
       
@@ -265,9 +265,9 @@
     <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
@@ -592,9 +592,9 @@
     
     <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
     <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
     
