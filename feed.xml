@@ -15,8 +15,41 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Tue, 10 Sep 2024 05:33:48 GMT</pubDate>
+    <pubDate>Tue, 10 Sep 2024 08:10:29 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>DBeaver Ultimate Edtion 24.2 Multilingual (macOS, Linux, Windows) - 通用数据库工具</title>
+      <link>https://sysin.org/blog/dbeaver/</link>
+      <guid>https://sysin.org/blog/dbeaver/</guid>
+      <pubDate>Tue, 10 Sep 2024 07:38:50 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/dbeaver/&quot; title=&quot;DBeaver Ultimate Edtion 24.2 Multilingual (macOS, Linux, Windows) - 通用数据库工具&quot;&gt;DBeaver Ultimate Edtion 24.2 Multilingual (macOS, Linux, Windows) - 通用数据库工具&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Developer/">Developer</category>
+      
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Database/">Database</category>
+      
+      
+      <comments>https://sysin.org/blog/dbeaver/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Xcode 16 RC (16A242) - Apple 平台 IDE</title>
@@ -249,9 +282,9 @@
       <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
       
       <comments>https://sysin.org/blog/magnet-axiom/#disqus_thread</comments>
@@ -598,9 +631,9 @@
       
       <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
       <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
       
@@ -904,37 +937,6 @@
       
       
       <comments>https://sysin.org/blog/affinity-designer/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>VMware ESXi 8.0U3 macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
-      <link>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</link>
-      <guid>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</guid>
-      <pubDate>Sun, 01 Sep 2024 01:19:19 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-esxi-8-u3-sysin/&quot; title=&quot;VMware ESXi 8.0U3 macOS Unlocker &amp;amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)&quot;&gt;VMware ESXi 8.0U3 macOS Unlocker &amp;amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
-      
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
-      
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
-      
-      
-      <comments>https://sysin.org/blog/vmware-esxi-8-u3-sysin/#disqus_thread</comments>
       
     </item>
     
