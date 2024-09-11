@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/macOS-Sequoia-boot-iso/</loc>
+    
+    <lastmod>2024-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/macOS-Sequoia/</loc>
+    
+    <lastmod>2024-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/cisco-modeling-labs-2/</loc>
     
     <lastmod>2024-09-11</lastmod>
@@ -38,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/macOS-Sequoia/</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/dbeaver/</loc>
     
     <lastmod>2024-09-10</lastmod>
@@ -57,15 +66,6 @@
   
   <url>
     <loc>https://sysin.org/blog/apple-xcode-16/</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/macOS-Sequoia-boot-iso/</loc>
     
     <lastmod>2024-09-10</lastmod>
     
@@ -7254,7 +7254,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Router/</loc>
+    <loc>https://sysin.org/tags/IOS-XR/</loc>
     <lastmod>2024-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7268,7 +7268,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/IOS-XR/</loc>
+    <loc>https://sysin.org/tags/Router/</loc>
     <lastmod>2024-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
