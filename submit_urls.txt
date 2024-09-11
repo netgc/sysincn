@@ -1,3 +1,6 @@
+https://sysin.org/blog/parallels-desktop/
+https://sysin.org/blog/parallels-desktop-19/
+https://sysin.org/blog/invicti/
 https://sysin.org/blog/cisco-modeling-labs-2/
 https://sysin.org/blog/macOS-Sequoia/
 https://sysin.org/blog/dbeaver/
@@ -15,6 +18,3 @@ https://sysin.org/blog/cisco-catalyst-9800/
 https://sysin.org/blog/windows-server-2025/
 https://sysin.org/blog/cisco-catalyst-8000v/
 https://sysin.org/blog/cisco-catalyst-8000/
-https://sysin.org/blog/cisco-c8000v/
-https://sysin.org/blog/cisco-isr-4000/
-https://sysin.org/blog/cisco-isr-1000/
