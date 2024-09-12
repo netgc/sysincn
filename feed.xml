@@ -4,24 +4,24 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.org/</link>
+    <link>https://sysin.cn/</link>
     
     <image>
-      <url>https://sysin.org/img/favicon.png</url>
+      <url>https://sysin.cn/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.org/</link>
+      <link>https://sysin.cn/</link>
     </image>
     
-    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <description>sysin | SYStem INside | 软件与技术分享</description>
+    <description>sysin | 软件与技术分享 | SYStem INside</description>
     <pubDate>Thu, 12 Sep 2024 04:01:56 GMT</pubDate>
     <generator>http://sysin.org/</generator>
     
     <item>
       <title>Cellebrite UFED 4PC 7.70 (Windows) - Android 和 iOS 移动设备取证软件</title>
-      <link>https://sysin.org/blog/cellebrite-ufed/</link>
-      <guid>https://sysin.org/blog/cellebrite-ufed/</guid>
+      <link>https://sysin.cn/blog/cellebrite-ufed/</link>
+      <guid>https://sysin.cn/blog/cellebrite-ufed/</guid>
       <pubDate>Thu, 12 Sep 2024 02:23:18 GMT</pubDate>
       
         
@@ -35,22 +35,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/cellebrite-ufed/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cellebrite-ufed/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Nexpose 6.6.269 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.org/blog/nexpose-6/</link>
-      <guid>https://sysin.org/blog/nexpose-6/</guid>
+      <link>https://sysin.cn/blog/nexpose-6/</link>
+      <guid>https://sysin.cn/blog/nexpose-6/</guid>
       <pubDate>Thu, 12 Sep 2024 01:28:50 GMT</pubDate>
       
         
@@ -64,26 +64,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
+      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
       
       
-      <comments>https://sysin.org/blog/nexpose-6/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/nexpose-6/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Jabber 15.0 (Andriod, iOS, macOS, Windows) - 面向企业的多合一通信工具</title>
-      <link>https://sysin.org/blog/cisco-jabber-15/</link>
-      <guid>https://sysin.org/blog/cisco-jabber-15/</guid>
+      <link>https://sysin.cn/blog/cisco-jabber-15/</link>
+      <guid>https://sysin.cn/blog/cisco-jabber-15/</guid>
       <pubDate>Thu, 12 Sep 2024 01:19:35 GMT</pubDate>
       
         
@@ -97,24 +97,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
       
-      <comments>https://sysin.org/blog/cisco-jabber-15/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-jabber-15/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Adobe Media Encoder 2024 v24.6.1 (macOS, Windows) - 格式转换</title>
-      <link>https://sysin.org/blog/adobe-media-encoder/</link>
-      <guid>https://sysin.org/blog/adobe-media-encoder/</guid>
+      <link>https://sysin.cn/blog/adobe-media-encoder/</link>
+      <guid>https://sysin.cn/blog/adobe-media-encoder/</guid>
       <pubDate>Thu, 12 Sep 2024 01:19:18 GMT</pubDate>
       
         
@@ -128,24 +128,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Adobe/">Adobe</category>
+      <category domain="https://sysin.cn/tags/Adobe/">Adobe</category>
       
       
-      <comments>https://sysin.org/blog/adobe-media-encoder/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/adobe-media-encoder/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Adobe After Effects 2024 v24.6.1 (macOS, Windows) - 后期特效</title>
-      <link>https://sysin.org/blog/adobe-after-effects/</link>
-      <guid>https://sysin.org/blog/adobe-after-effects/</guid>
+      <link>https://sysin.cn/blog/adobe-after-effects/</link>
+      <guid>https://sysin.cn/blog/adobe-after-effects/</guid>
       <pubDate>Thu, 12 Sep 2024 01:10:18 GMT</pubDate>
       
         
@@ -159,24 +159,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Adobe/">Adobe</category>
+      <category domain="https://sysin.cn/tags/Adobe/">Adobe</category>
       
       
-      <comments>https://sysin.org/blog/adobe-after-effects/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/adobe-after-effects/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Live Site Recovery 9.0.2 - 数据中心灾难恢复 (DR)</title>
-      <link>https://sysin.org/blog/vmware-live-site-recovery-9/</link>
-      <guid>https://sysin.org/blog/vmware-live-site-recovery-9/</guid>
+      <link>https://sysin.cn/blog/vmware-live-site-recovery-9/</link>
+      <guid>https://sysin.cn/blog/vmware-live-site-recovery-9/</guid>
       <pubDate>Thu, 12 Sep 2024 01:05:10 GMT</pubDate>
       
         
@@ -190,24 +190,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/Backup/">Backup</category>
+      <category domain="https://sysin.cn/tags/Backup/">Backup</category>
       
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
       
       
-      <comments>https://sysin.org/blog/vmware-live-site-recovery-9/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-live-site-recovery-9/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Parallels Desktop for Mac 20.0.0 (build 55653) - 在 Mac 上运行 Windows</title>
-      <link>https://sysin.org/blog/parallels-desktop/</link>
-      <guid>https://sysin.org/blog/parallels-desktop/</guid>
+      <link>https://sysin.cn/blog/parallels-desktop/</link>
+      <guid>https://sysin.cn/blog/parallels-desktop/</guid>
       <pubDate>Wed, 11 Sep 2024 01:55:00 GMT</pubDate>
       
         
@@ -221,20 +221,20 @@
       
       
       
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
       
-      <comments>https://sysin.org/blog/parallels-desktop/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/parallels-desktop/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Invicti v24.9.0 for Windows - Web 应用程序安全测试</title>
-      <link>https://sysin.org/blog/invicti/</link>
-      <guid>https://sysin.org/blog/invicti/</guid>
+      <link>https://sysin.cn/blog/invicti/</link>
+      <guid>https://sysin.cn/blog/invicti/</guid>
       <pubDate>Wed, 11 Sep 2024 01:20:00 GMT</pubDate>
       
         
@@ -248,24 +248,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/invicti/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/invicti/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Modeling Labs (CML) 2.7.2 - 网络仿真工具</title>
-      <link>https://sysin.org/blog/cisco-modeling-labs-2/</link>
-      <guid>https://sysin.org/blog/cisco-modeling-labs-2/</guid>
+      <link>https://sysin.cn/blog/cisco-modeling-labs-2/</link>
+      <guid>https://sysin.cn/blog/cisco-modeling-labs-2/</guid>
       <pubDate>Wed, 11 Sep 2024 01:08:45 GMT</pubDate>
       
         
@@ -279,20 +279,20 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
       
-      <comments>https://sysin.org/blog/cisco-modeling-labs-2/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-modeling-labs-2/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>DBeaver Ultimate Edtion 24.2 Multilingual (macOS, Linux, Windows) - 通用数据库工具</title>
-      <link>https://sysin.org/blog/dbeaver/</link>
-      <guid>https://sysin.org/blog/dbeaver/</guid>
+      <link>https://sysin.cn/blog/dbeaver/</link>
+      <guid>https://sysin.cn/blog/dbeaver/</guid>
       <pubDate>Tue, 10 Sep 2024 07:38:50 GMT</pubDate>
       
         
@@ -306,26 +306,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/Developer/">Developer</category>
+      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Database/">Database</category>
+      <category domain="https://sysin.cn/tags/Database/">Database</category>
       
       
-      <comments>https://sysin.org/blog/dbeaver/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/dbeaver/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Xcode 16 RC (16A242) - Apple 平台 IDE</title>
-      <link>https://sysin.org/blog/apple-xcode-16/</link>
-      <guid>https://sysin.org/blog/apple-xcode-16/</guid>
+      <link>https://sysin.cn/blog/apple-xcode-16/</link>
+      <guid>https://sysin.cn/blog/apple-xcode-16/</guid>
       <pubDate>Tue, 10 Sep 2024 02:13:00 GMT</pubDate>
       
         
@@ -339,26 +339,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/Developer/">Developer</category>
+      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
       
-      <category domain="https://sysin.org/tags/iOS/">iOS</category>
+      <category domain="https://sysin.cn/tags/iOS/">iOS</category>
       
-      <category domain="https://sysin.org/tags/Code/">Code</category>
+      <category domain="https://sysin.cn/tags/Code/">Code</category>
       
       
-      <comments>https://sysin.org/blog/apple-xcode-16/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/apple-xcode-16/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS Sequoia 15 RC (24A335) Boot ISO 原版可引导镜像下载</title>
-      <link>https://sysin.org/blog/macOS-Sequoia-boot-iso/</link>
-      <guid>https://sysin.org/blog/macOS-Sequoia-boot-iso/</guid>
+      <link>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</link>
+      <guid>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</guid>
       <pubDate>Tue, 10 Sep 2024 01:22:00 GMT</pubDate>
       
         
@@ -372,22 +372,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.org/blog/macOS-Sequoia-boot-iso/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/macOS-Sequoia-boot-iso/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS Sequoia 15 RC (24A335) ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.org/blog/macOS-Sequoia/</link>
-      <guid>https://sysin.org/blog/macOS-Sequoia/</guid>
+      <link>https://sysin.cn/blog/macOS-Sequoia/</link>
+      <guid>https://sysin.cn/blog/macOS-Sequoia/</guid>
       <pubDate>Tue, 10 Sep 2024 01:20:00 GMT</pubDate>
       
         
@@ -401,22 +401,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.org/blog/macOS-Sequoia/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/macOS-Sequoia/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco SD-WAN (Viptela) version 20.15.1 ED - 软件定义广域网</title>
-      <link>https://sysin.org/blog/cisco-sd-wan-20/</link>
-      <guid>https://sysin.org/blog/cisco-sd-wan-20/</guid>
+      <link>https://sysin.cn/blog/cisco-sd-wan-20/</link>
+      <guid>https://sysin.cn/blog/cisco-sd-wan-20/</guid>
       <pubDate>Tue, 10 Sep 2024 01:15:00 GMT</pubDate>
       
         
@@ -430,24 +430,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/Router/">Router</category>
+      <category domain="https://sysin.cn/tags/Router/">Router</category>
       
       
-      <comments>https://sysin.org/blog/cisco-sd-wan-20/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-sd-wan-20/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Catalyst Center 2.3.7.6-VA - 网络管理和自动化</title>
-      <link>https://sysin.org/blog/cisco-catalyst-center/</link>
-      <guid>https://sysin.org/blog/cisco-catalyst-center/</guid>
+      <link>https://sysin.cn/blog/cisco-catalyst-center/</link>
+      <guid>https://sysin.cn/blog/cisco-catalyst-center/</guid>
       <pubDate>Mon, 09 Sep 2024 00:30:19 GMT</pubDate>
       
         
@@ -461,22 +461,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
       
       
-      <comments>https://sysin.org/blog/cisco-catalyst-center/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-catalyst-center/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Secure Client 5.1.5.65 (macOS, Linux, Windows &amp; iOS, Andrord) - VPN 和远程访问客户端</title>
-      <link>https://sysin.org/blog/cisco-secure-client-5/</link>
-      <guid>https://sysin.org/blog/cisco-secure-client-5/</guid>
+      <link>https://sysin.cn/blog/cisco-secure-client-5/</link>
+      <guid>https://sysin.cn/blog/cisco-secure-client-5/</guid>
       <pubDate>Sun, 08 Sep 2024 01:08:00 GMT</pubDate>
       
         
@@ -490,22 +490,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
+      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
       
-      <comments>https://sysin.org/blog/cisco-secure-client-5/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-secure-client-5/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server</title>
-      <link>https://sysin.org/blog/windows-server-2025/</link>
-      <guid>https://sysin.org/blog/windows-server-2025/</guid>
+      <link>https://sysin.cn/blog/windows-server-2025/</link>
+      <guid>https://sysin.cn/blog/windows-server-2025/</guid>
       <pubDate>Sat, 07 Sep 2024 02:25:15 GMT</pubDate>
       
         
@@ -519,24 +519,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
       
-      <category domain="https://sysin.org/tags/Server/">Server</category>
+      <category domain="https://sysin.cn/tags/Server/">Server</category>
       
       
-      <comments>https://sysin.org/blog/windows-server-2025/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/windows-server-2025/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析</title>
-      <link>https://sysin.org/blog/magnet-axiom/</link>
-      <guid>https://sysin.org/blog/magnet-axiom/</guid>
+      <link>https://sysin.cn/blog/magnet-axiom/</link>
+      <guid>https://sysin.cn/blog/magnet-axiom/</guid>
       <pubDate>Sat, 07 Sep 2024 01:35:45 GMT</pubDate>
       
         
@@ -550,22 +550,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.org/blog/magnet-axiom/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/magnet-axiom/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.1 ED</title>
-      <link>https://sysin.org/blog/cisco-catalyst-9800-cl/</link>
-      <guid>https://sysin.org/blog/cisco-catalyst-9800-cl/</guid>
+      <link>https://sysin.cn/blog/cisco-catalyst-9800-cl/</link>
+      <guid>https://sysin.cn/blog/cisco-catalyst-9800-cl/</guid>
       <pubDate>Sat, 07 Sep 2024 01:06:00 GMT</pubDate>
       
         
@@ -579,26 +579,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
       
-      <category domain="https://sysin.org/tags/Wi-Fi/">Wi-Fi</category>
+      <category domain="https://sysin.cn/tags/Wi-Fi/">Wi-Fi</category>
       
       
-      <comments>https://sysin.org/blog/cisco-catalyst-9800-cl/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-catalyst-9800-cl/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Catalyst 9800 Wireless Controller, IOS XE Release 17.15.1 ED</title>
-      <link>https://sysin.org/blog/cisco-catalyst-9800/</link>
-      <guid>https://sysin.org/blog/cisco-catalyst-9800/</guid>
+      <link>https://sysin.cn/blog/cisco-catalyst-9800/</link>
+      <guid>https://sysin.cn/blog/cisco-catalyst-9800/</guid>
       <pubDate>Sat, 07 Sep 2024 01:05:00 GMT</pubDate>
       
         
@@ -612,26 +612,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
       
-      <category domain="https://sysin.org/tags/Wi-Fi/">Wi-Fi</category>
+      <category domain="https://sysin.cn/tags/Wi-Fi/">Wi-Fi</category>
       
       
-      <comments>https://sysin.org/blog/cisco-catalyst-9800/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-catalyst-9800/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Catalyst 9100 Access Points, IOS XE Release 17.15.1</title>
-      <link>https://sysin.org/blog/cisco-catalyst-9100/</link>
-      <guid>https://sysin.org/blog/cisco-catalyst-9100/</guid>
+      <link>https://sysin.cn/blog/cisco-catalyst-9100/</link>
+      <guid>https://sysin.cn/blog/cisco-catalyst-9100/</guid>
       <pubDate>Sat, 07 Sep 2024 01:04:33 GMT</pubDate>
       
         
@@ -645,22 +645,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
       
       
-      <comments>https://sysin.org/blog/cisco-catalyst-9100/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-catalyst-9100/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Catalyst 9000 Series Switches, IOS XE Release 17.15.1 ED</title>
-      <link>https://sysin.org/blog/cisco-catalyst-9000/</link>
-      <guid>https://sysin.org/blog/cisco-catalyst-9000/</guid>
+      <link>https://sysin.cn/blog/cisco-catalyst-9000/</link>
+      <guid>https://sysin.cn/blog/cisco-catalyst-9000/</guid>
       <pubDate>Sat, 07 Sep 2024 01:03:00 GMT</pubDate>
       
         
@@ -674,22 +674,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
       
       
-      <comments>https://sysin.org/blog/cisco-catalyst-9000/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-catalyst-9000/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Catalyst 8000v Edge Software, IOS XE Release 17.15.1a ED</title>
-      <link>https://sysin.org/blog/cisco-catalyst-8000v/</link>
-      <guid>https://sysin.org/blog/cisco-catalyst-8000v/</guid>
+      <link>https://sysin.cn/blog/cisco-catalyst-8000v/</link>
+      <guid>https://sysin.cn/blog/cisco-catalyst-8000v/</guid>
       <pubDate>Sat, 07 Sep 2024 01:02:01 GMT</pubDate>
       
         
@@ -703,26 +703,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
       
-      <category domain="https://sysin.org/tags/Router/">Router</category>
+      <category domain="https://sysin.cn/tags/Router/">Router</category>
       
       
-      <comments>https://sysin.org/blog/cisco-catalyst-8000v/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-catalyst-8000v/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Catalyst 8000 Series Edge Platforms, IOS XE Release 17.15.1a ED</title>
-      <link>https://sysin.org/blog/cisco-catalyst-8000/</link>
-      <guid>https://sysin.org/blog/cisco-catalyst-8000/</guid>
+      <link>https://sysin.cn/blog/cisco-catalyst-8000/</link>
+      <guid>https://sysin.cn/blog/cisco-catalyst-8000/</guid>
       <pubDate>Sat, 07 Sep 2024 01:01:00 GMT</pubDate>
       
         
@@ -736,26 +736,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
       
-      <category domain="https://sysin.org/tags/Router/">Router</category>
+      <category domain="https://sysin.cn/tags/Router/">Router</category>
       
       
-      <comments>https://sysin.org/blog/cisco-catalyst-8000/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-catalyst-8000/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco ACI Simulator 6.0(7e)M - ACI 模拟器</title>
-      <link>https://sysin.org/blog/cisco-acisim-6/</link>
-      <guid>https://sysin.org/blog/cisco-acisim-6/</guid>
+      <link>https://sysin.cn/blog/cisco-acisim-6/</link>
+      <guid>https://sysin.cn/blog/cisco-acisim-6/</guid>
       <pubDate>Fri, 06 Sep 2024 02:13:00 GMT</pubDate>
       
         
@@ -769,26 +769,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/NX-OS/">NX-OS</category>
+      <category domain="https://sysin.cn/tags/NX-OS/">NX-OS</category>
       
       
-      <comments>https://sysin.org/blog/cisco-acisim-6/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-acisim-6/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco ISR 4000 Series IOS XE Release 17.15.1a ED</title>
-      <link>https://sysin.org/blog/cisco-isr-4000/</link>
-      <guid>https://sysin.org/blog/cisco-isr-4000/</guid>
+      <link>https://sysin.cn/blog/cisco-isr-4000/</link>
+      <guid>https://sysin.cn/blog/cisco-isr-4000/</guid>
       <pubDate>Fri, 06 Sep 2024 01:25:00 GMT</pubDate>
       
         
@@ -802,24 +802,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
       
-      <category domain="https://sysin.org/tags/Router/">Router</category>
+      <category domain="https://sysin.cn/tags/Router/">Router</category>
       
       
-      <comments>https://sysin.org/blog/cisco-isr-4000/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-isr-4000/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco ISR 1000 Series IOS XE Release 17.15.1a ED</title>
-      <link>https://sysin.org/blog/cisco-isr-1000/</link>
-      <guid>https://sysin.org/blog/cisco-isr-1000/</guid>
+      <link>https://sysin.cn/blog/cisco-isr-1000/</link>
+      <guid>https://sysin.cn/blog/cisco-isr-1000/</guid>
       <pubDate>Fri, 06 Sep 2024 01:10:38 GMT</pubDate>
       
         
@@ -833,24 +833,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
       
-      <category domain="https://sysin.org/tags/Router/">Router</category>
+      <category domain="https://sysin.cn/tags/Router/">Router</category>
       
       
-      <comments>https://sysin.org/blog/cisco-isr-1000/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-isr-1000/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Firefox 130, Chrome 130, Chromium 130 官网离线下载 (macOS, Linux, Windows)</title>
-      <link>https://sysin.org/blog/chrome-firefox-download/</link>
-      <guid>https://sysin.org/blog/chrome-firefox-download/</guid>
+      <link>https://sysin.cn/blog/chrome-firefox-download/</link>
+      <guid>https://sysin.cn/blog/chrome-firefox-download/</guid>
       <pubDate>Thu, 05 Sep 2024 05:50:00 GMT</pubDate>
       
         
@@ -864,26 +864,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.org/tags/Chrome/">Chrome</category>
+      <category domain="https://sysin.cn/tags/Chrome/">Chrome</category>
       
-      <category domain="https://sysin.org/tags/Firefox/">Firefox</category>
+      <category domain="https://sysin.cn/tags/Firefox/">Firefox</category>
       
-      <category domain="https://sysin.org/tags/Safari/">Safari</category>
+      <category domain="https://sysin.cn/tags/Safari/">Safari</category>
       
       
-      <comments>https://sysin.org/blog/chrome-firefox-download/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/chrome-firefox-download/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Workstation 17.6 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Windows</title>
-      <link>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</link>
-      <guid>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</guid>
+      <link>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/</link>
+      <guid>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/</guid>
       <pubDate>Tue, 03 Sep 2024 03:32:00 GMT</pubDate>
       
         
@@ -897,24 +897,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Workstation 17.6 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Linux</title>
-      <link>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</link>
-      <guid>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</guid>
+      <link>https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/</link>
+      <guid>https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/</guid>
       <pubDate>Tue, 03 Sep 2024 03:31:00 GMT</pubDate>
       
         
@@ -928,17 +928,17 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/#disqus_thread</comments>
       
     </item>
     
