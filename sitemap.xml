@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/vmware-nsx-alb-30/</loc>
+    
+    <lastmod>2024-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/vmware-avi-load-balancer-30/</loc>
+    
+    <lastmod>2024-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/vmware-live-recovery/</loc>
     
     <lastmod>2024-09-13</lastmod>
@@ -21,24 +39,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/vmware-nsx-alb-22/</loc>
-    
-    <lastmod>2024-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/vmware-avi-load-balancer-30/</loc>
-    
-    <lastmod>2024-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/vmware-nsx-alb-30/</loc>
     
     <lastmod>2024-09-13</lastmod>
     
@@ -7256,13 +7256,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/IOS-XE/</loc>
-    <lastmod>2024-09-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/tags/IOS-XR/</loc>
     <lastmod>2024-09-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -7270,7 +7263,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Wi-Fi/</loc>
+    <loc>https://sysin.cn/tags/IOS-XE/</loc>
     <lastmod>2024-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7278,6 +7271,13 @@
   
   <url>
     <loc>https://sysin.cn/tags/Router/</loc>
+    <lastmod>2024-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/tags/Wi-Fi/</loc>
     <lastmod>2024-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
