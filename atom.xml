@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-09-13T09:03:46.490Z</updated>
+  <updated>2024-09-14T04:21:38.300Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,155 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>SQL Server 2022 RTM CU14+GDR 发布，修复高危安全漏洞</title>
+    <link href="https://sysin.org/blog/sql-server-2022/"/>
+    <id>https://sysin.org/blog/sql-server-2022/</id>
+    <published>2024-09-14T02:20:00.000Z</published>
+    <updated>2024-09-14T04:21:38.300Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/sql-server-2022/&quot; title=&quot;SQL Server 2022 RTM CU14+GDR 发布，修复高危安全漏洞&quot;&gt;SQL Server 2022 RTM CU14+GDR 发布，修复高危安全漏洞&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+    <category term="SQL" scheme="https://sysin.org/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Microsoft SQL Server 2019 RTM CU28+GDR 发布，修复高危安全漏洞</title>
+    <link href="https://sysin.org/blog/sql-server-2019/"/>
+    <id>https://sysin.org/blog/sql-server-2019/</id>
+    <published>2024-09-14T02:18:04.000Z</published>
+    <updated>2024-09-14T04:21:20.116Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/sql-server-2019/&quot; title=&quot;Microsoft SQL Server 2019 RTM CU28+GDR 发布，修复高危安全漏洞&quot;&gt;Microsoft SQL Server 2019 RTM CU28+GDR 发布，修复高危安全漏洞&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+    <category term="SQL" scheme="https://sysin.org/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Microsoft SQL Server 2017 RTM CU31+GDR 发布，修复高危安全漏洞</title>
+    <link href="https://sysin.org/blog/sql-server-2017/"/>
+    <id>https://sysin.org/blog/sql-server-2017/</id>
+    <published>2024-09-14T02:18:00.000Z</published>
+    <updated>2024-09-14T04:20:54.872Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/sql-server-2017/&quot; title=&quot;Microsoft SQL Server 2017 RTM CU31+GDR 发布，修复高危安全漏洞&quot;&gt;Microsoft SQL Server 2017 RTM CU31+GDR 发布，修复高危安全漏洞&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+    <category term="SQL" scheme="https://sysin.org/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Microsoft SQL Server 2016 with SP3 GDR 发布，修复高危安全漏洞</title>
+    <link href="https://sysin.org/blog/sql-server-2016/"/>
+    <id>https://sysin.org/blog/sql-server-2016/</id>
+    <published>2024-09-14T02:17:56.000Z</published>
+    <updated>2024-09-14T04:08:18.846Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/sql-server-2016/&quot; title=&quot;Microsoft SQL Server 2016 with SP3 GDR 发布，修复高危安全漏洞&quot;&gt;Microsoft SQL Server 2016 with SP3 GDR 发布，修复高危安全漏洞&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+    <category term="SQL" scheme="https://sysin.org/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CrossOver 24.0.5 for Mac：在 macOS 上运行 Windows 应用</title>
+    <link href="https://sysin.org/blog/crossover/"/>
+    <id>https://sysin.org/blog/crossover/</id>
+    <published>2024-09-14T01:11:00.000Z</published>
+    <updated>2024-09-14T04:24:45.748Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/crossover/&quot; title=&quot;CrossOver 24.0.5 for Mac：在 macOS 上运行 Windows 应用&quot;&gt;CrossOver 24.0.5 for Mac：在 macOS 上运行 Windows 应用&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+  </entry>
   
   <entry>
     <title>VMware Avi Load Balancer 30.2.2 - 多云负载均衡平台</title>
@@ -147,9 +296,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
@@ -176,9 +325,9 @@
     
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
     <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
@@ -348,9 +497,9 @@
     
     <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
@@ -628,9 +777,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
@@ -720,155 +869,6 @@
     <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
     <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco Catalyst 9000 Series Switches, IOS XE Release 17.15.1 ED</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-9000/"/>
-    <id>https://sysin.org/blog/cisco-catalyst-9000/</id>
-    <published>2024-09-07T01:03:00.000Z</published>
-    <updated>2024-09-08T07:04:40.367Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-9000/&quot; title=&quot;Cisco Catalyst 9000 Series Switches, IOS XE Release 17.15.1 ED&quot;&gt;Cisco Catalyst 9000 Series Switches, IOS XE Release 17.15.1 ED&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
-    
-    
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco Catalyst 8000v Edge Software, IOS XE Release 17.15.1a ED</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-8000v/"/>
-    <id>https://sysin.org/blog/cisco-catalyst-8000v/</id>
-    <published>2024-09-07T01:02:01.000Z</published>
-    <updated>2024-09-07T04:36:45.500Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-8000v/&quot; title=&quot;Cisco Catalyst 8000v Edge Software, IOS XE Release 17.15.1a ED&quot;&gt;Cisco Catalyst 8000v Edge Software, IOS XE Release 17.15.1a ED&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
-    
-    
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
-    
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
-    
-    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco Catalyst 8000 Series Edge Platforms, IOS XE Release 17.15.1a ED</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-8000/"/>
-    <id>https://sysin.org/blog/cisco-catalyst-8000/</id>
-    <published>2024-09-07T01:01:00.000Z</published>
-    <updated>2024-09-07T04:36:39.420Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-8000/&quot; title=&quot;Cisco Catalyst 8000 Series Edge Platforms, IOS XE Release 17.15.1a ED&quot;&gt;Cisco Catalyst 8000 Series Edge Platforms, IOS XE Release 17.15.1a ED&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
-    
-    
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
-    
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
-    
-    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco ACI Simulator 6.0(7e)M - ACI 模拟器</title>
-    <link href="https://sysin.org/blog/cisco-acisim-6/"/>
-    <id>https://sysin.org/blog/cisco-acisim-6/</id>
-    <published>2024-09-06T02:13:00.000Z</published>
-    <updated>2024-09-08T03:17:48.565Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-acisim-6/&quot; title=&quot;Cisco ACI Simulator 6.0(7e)M - ACI 模拟器&quot;&gt;Cisco ACI Simulator 6.0(7e)M - ACI 模拟器&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
-    
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco ISR 4000 Series IOS XE Release 17.15.1a ED</title>
-    <link href="https://sysin.org/blog/cisco-isr-4000/"/>
-    <id>https://sysin.org/blog/cisco-isr-4000/</id>
-    <published>2024-09-06T01:25:00.000Z</published>
-    <updated>2024-09-07T04:23:42.467Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-isr-4000/&quot; title=&quot;Cisco ISR 4000 Series IOS XE Release 17.15.1a ED&quot;&gt;Cisco ISR 4000 Series IOS XE Release 17.15.1a ED&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
-    
-    
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
-    
-    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
     
   </entry>
   
