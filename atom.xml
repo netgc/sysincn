@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-09-15T01:44:28.517Z</updated>
+  <updated>2024-09-15T05:20:46.088Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -15,6 +15,95 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>VirtualBox 7.1.0 (macOS, Linux, Windows) - 开源跨平台虚拟化软件</title>
+    <link href="https://sysin.cn/blog/virtualbox-7/"/>
+    <id>https://sysin.cn/blog/virtualbox-7/</id>
+    <published>2024-09-15T02:35:18.000Z</published>
+    <updated>2024-09-15T05:20:46.088Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/virtualbox-7/&quot; title=&quot;VirtualBox 7.1.0 (macOS, Linux, Windows) - 开源跨平台虚拟化软件&quot;&gt;VirtualBox 7.1.0 (macOS, Linux, Windows) - 开源跨平台虚拟化软件&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Unix" scheme="https://sysin.cn/tags/Unix/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu 22.04.5 LTS (Jammy Jellyfish) - 现代化的企业与开源 Linux</title>
+    <link href="https://sysin.cn/blog/ubuntu-2204/"/>
+    <id>https://sysin.cn/blog/ubuntu-2204/</id>
+    <published>2024-09-15T02:26:21.000Z</published>
+    <updated>2024-09-15T03:50:12.284Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/ubuntu-2204/&quot; title=&quot;Ubuntu 22.04.5 LTS (Jammy Jellyfish) - 现代化的企业与开源 Linux&quot;&gt;Ubuntu 22.04.5 LTS (Jammy Jellyfish) - 现代化的企业与开源 Linux&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    
+    <category term="Ubuntu" scheme="https://sysin.cn/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kali Linux 2024.3 发布 (Multiple transitions) - 领先的渗透测试发行版</title>
+    <link href="https://sysin.cn/blog/kali-linux/"/>
+    <id>https://sysin.cn/blog/kali-linux/</id>
+    <published>2024-09-15T02:20:00.000Z</published>
+    <updated>2024-09-15T05:43:52.529Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/kali-linux/&quot; title=&quot;Kali Linux 2024.3 发布 (Multiple transitions) - 领先的渗透测试发行版&quot;&gt;Kali Linux 2024.3 发布 (Multiple transitions) - 领先的渗透测试发行版&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
+    
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    
+  </entry>
   
   <entry>
     <title>在不受支持的 Mac 上安装 macOS (索引页面)</title>
@@ -778,93 +867,6 @@
     <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
     
     <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server</title>
-    <link href="https://sysin.cn/blog/windows-server-2025/"/>
-    <id>https://sysin.cn/blog/windows-server-2025/</id>
-    <published>2024-09-07T02:25:15.000Z</published>
-    <updated>2024-09-07T05:12:35.145Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2025/&quot; title=&quot;Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server&quot;&gt;Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
-    
-    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析</title>
-    <link href="https://sysin.cn/blog/magnet-axiom/"/>
-    <id>https://sysin.cn/blog/magnet-axiom/</id>
-    <published>2024-09-07T01:35:45.000Z</published>
-    <updated>2024-09-07T03:35:28.741Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-axiom/&quot; title=&quot;Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析&quot;&gt;Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
-    
-    
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.1 ED</title>
-    <link href="https://sysin.cn/blog/cisco-catalyst-9800-cl/"/>
-    <id>https://sysin.cn/blog/cisco-catalyst-9800-cl/</id>
-    <published>2024-09-07T01:06:00.000Z</published>
-    <updated>2024-09-07T03:52:54.053Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-9800-cl/&quot; title=&quot;Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.1 ED&quot;&gt;Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.1 ED&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
-    
-    
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
-    
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
-    
-    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
-    
-    <category term="Wi-Fi" scheme="https://sysin.cn/tags/Wi-Fi/"/>
     
   </entry>
   

@@ -15,8 +15,103 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Sun, 15 Sep 2024 01:44:28 GMT</pubDate>
+    <pubDate>Sun, 15 Sep 2024 05:20:46 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>VirtualBox 7.1.0 (macOS, Linux, Windows) - 开源跨平台虚拟化软件</title>
+      <link>https://sysin.cn/blog/virtualbox-7/</link>
+      <guid>https://sysin.cn/blog/virtualbox-7/</guid>
+      <pubDate>Sun, 15 Sep 2024 02:35:18 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/virtualbox-7/&quot; title=&quot;VirtualBox 7.1.0 (macOS, Linux, Windows) - 开源跨平台虚拟化软件&quot;&gt;VirtualBox 7.1.0 (macOS, Linux, Windows) - 开源跨平台虚拟化软件&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/Linux/">Linux</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Unix/">Unix</category>
+      
+      
+      <comments>https://sysin.cn/blog/virtualbox-7/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu 22.04.5 LTS (Jammy Jellyfish) - 现代化的企业与开源 Linux</title>
+      <link>https://sysin.cn/blog/ubuntu-2204/</link>
+      <guid>https://sysin.cn/blog/ubuntu-2204/</guid>
+      <pubDate>Sun, 15 Sep 2024 02:26:21 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/ubuntu-2204/&quot; title=&quot;Ubuntu 22.04.5 LTS (Jammy Jellyfish) - 现代化的企业与开源 Linux&quot;&gt;Ubuntu 22.04.5 LTS (Jammy Jellyfish) - 现代化的企业与开源 Linux&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/Linux/">Linux</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.cn/tags/Ubuntu/">Ubuntu</category>
+      
+      
+      <comments>https://sysin.cn/blog/ubuntu-2204/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Kali Linux 2024.3 发布 (Multiple transitions) - 领先的渗透测试发行版</title>
+      <link>https://sysin.cn/blog/kali-linux/</link>
+      <guid>https://sysin.cn/blog/kali-linux/</guid>
+      <pubDate>Sun, 15 Sep 2024 02:20:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/kali-linux/&quot; title=&quot;Kali Linux 2024.3 发布 (Multiple transitions) - 领先的渗透测试发行版&quot;&gt;Kali Linux 2024.3 发布 (Multiple transitions) - 领先的渗透测试发行版&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/Linux/">Linux</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
+      
+      
+      <comments>https://sysin.cn/blog/kali-linux/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>在不受支持的 Mac 上安装 macOS (索引页面)</title>
@@ -834,99 +929,6 @@
       
       
       <comments>https://sysin.cn/blog/cisco-secure-client-5/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server</title>
-      <link>https://sysin.cn/blog/windows-server-2025/</link>
-      <guid>https://sysin.cn/blog/windows-server-2025/</guid>
-      <pubDate>Sat, 07 Sep 2024 02:25:15 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2025/&quot; title=&quot;Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server&quot;&gt;Windows Server 2025 中文版、英文版下载 (Inside Preview, updated Sep 2024) - 下一代 Windows 11 Server&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
-      
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
-      
-      <category domain="https://sysin.cn/tags/Server/">Server</category>
-      
-      
-      <comments>https://sysin.cn/blog/windows-server-2025/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析</title>
-      <link>https://sysin.cn/blog/magnet-axiom/</link>
-      <guid>https://sysin.cn/blog/magnet-axiom/</guid>
-      <pubDate>Sat, 07 Sep 2024 01:35:45 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-axiom/&quot; title=&quot;Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析&quot;&gt;Magnet AXIOM 8.4 Windows x64 Multilingual - 数字取证与分析&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      
-      <comments>https://sysin.cn/blog/magnet-axiom/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.1 ED</title>
-      <link>https://sysin.cn/blog/cisco-catalyst-9800-cl/</link>
-      <guid>https://sysin.cn/blog/cisco-catalyst-9800-cl/</guid>
-      <pubDate>Sat, 07 Sep 2024 01:06:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-9800-cl/&quot; title=&quot;Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.1 ED&quot;&gt;Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.15.1 ED&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
-      
-      
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
-      
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
-      
-      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
-      
-      <category domain="https://sysin.cn/tags/Wi-Fi/">Wi-Fi</category>
-      
-      
-      <comments>https://sysin.cn/blog/cisco-catalyst-9800-cl/#disqus_thread</comments>
       
     </item>
     

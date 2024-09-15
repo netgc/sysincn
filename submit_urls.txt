@@ -1,3 +1,8 @@
+https://sysin.cn/blog/kali-linux/
+https://sysin.cn/blog/virtualbox-7/
+https://sysin.cn/blog/kali-linux-2023/
+https://sysin.cn/blog/binary-ninja/
+https://sysin.cn/blog/ubuntu-2204/
 https://sysin.cn/blog/install-macos-15-on-unsupported-mac/
 https://sysin.cn/blog/install-macos-on-unsupported-mac/
 https://sysin.cn/blog/vmware-nsx-4-2/
@@ -13,8 +18,3 @@ https://sysin.cn/blog/vmware-esxi-8-u3-sysin/
 https://sysin.cn/blog/vmware-esxi-8-u3-oem/
 https://sysin.cn/blog/vmware-fusion-13-oem/
 https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/
-https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/
-https://sysin.cn/blog/vmware-workstation-17-unlocker/
-https://sysin.cn/blog/sql-server-2022/
-https://sysin.cn/blog/sql-server-2019/
-https://sysin.cn/blog/sql-server-2017/

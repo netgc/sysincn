@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/kali-linux/</loc>
+    
+    <lastmod>2024-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/virtualbox-7/</loc>
+    
+    <lastmod>2024-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/kali-linux-2023/</loc>
+    
+    <lastmod>2024-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/binary-ninja/</loc>
+    
+    <lastmod>2024-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/ubuntu-2204/</loc>
+    
+    <lastmod>2024-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/install-macos-15-on-unsupported-mac/</loc>
     
     <lastmod>2024-09-15</lastmod>
@@ -1136,15 +1181,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/binary-ninja/</loc>
-    
-    <lastmod>2024-08-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/algorius-net-viewer/</loc>
     
     <lastmod>2024-08-18</lastmod>
@@ -1614,15 +1650,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/chrome-unable-to-open-kubernetes-dashboard/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/kali-linux/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2702,7 +2729,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/exchange-2019/</loc>
+    <loc>https://sysin.cn/blog/exchange-patch/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2711,7 +2738,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/exchange-patch/</loc>
+    <loc>https://sysin.cn/blog/exchange-2019/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2955,15 +2982,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/how-to-install-macos-big-sur/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/kali-linux-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4080,15 +4098,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/windows/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/virtualbox-7/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5403,15 +5412,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/static-routing/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/ubuntu-2204/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7270,14 +7270,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Router/</loc>
+    <loc>https://sysin.cn/tags/Wi-Fi/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Wi-Fi/</loc>
+    <loc>https://sysin.cn/tags/Router/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
