@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/install-macos-on-unsupported-mac/</loc>
+    
+    <lastmod>2024-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/install-macos-15-on-unsupported-mac/</loc>
     
     <lastmod>2024-09-15</lastmod>
@@ -3926,7 +3935,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-log4j2-not-vulnerable/</loc>
+    <loc>https://sysin.org/blog/f5-big-iq-8/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -3935,7 +3944,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-iq-8/</loc>
+    <loc>https://sysin.org/blog/f5-log4j2-not-vulnerable/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4080,15 +4089,6 @@
   
   <url>
     <loc>https://sysin.org/blog/virtualbox-7/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/install-macos-on-unsupported-mac/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4979,7 +4979,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-ise-log4j2-fix/</loc>
+    <loc>https://sysin.org/blog/cisco-ios-xrv-9000/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4988,7 +4988,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-ios-xrv-9000/</loc>
+    <loc>https://sysin.org/blog/cisco-ise-log4j2-fix/</loc>
     
     <lastmod>2024-08-10</lastmod>
     

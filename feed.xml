@@ -15,8 +15,37 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Sun, 15 Sep 2024 01:34:21 GMT</pubDate>
+    <pubDate>Sun, 15 Sep 2024 01:44:28 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>在不受支持的 Mac 上安装 macOS (索引页面)</title>
+      <link>https://sysin.org/blog/install-macos-on-unsupported-mac/</link>
+      <guid>https://sysin.org/blog/install-macos-on-unsupported-mac/</guid>
+      <pubDate>Sun, 15 Sep 2024 01:20:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/install-macos-on-unsupported-mac/&quot; title=&quot;在不受支持的 Mac 上安装 macOS (索引页面)&quot;&gt;在不受支持的 Mac 上安装 macOS (索引页面)&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      
+      
+      <comments>https://sysin.org/blog/install-macos-on-unsupported-mac/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>在不受支持的 Mac 上安装 macOS Sequoia</title>
@@ -898,39 +927,6 @@
       
       
       <comments>https://sysin.org/blog/cisco-catalyst-9800-cl/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Cisco Catalyst 9800 Wireless Controller, IOS XE Release 17.15.1 ED</title>
-      <link>https://sysin.org/blog/cisco-catalyst-9800/</link>
-      <guid>https://sysin.org/blog/cisco-catalyst-9800/</guid>
-      <pubDate>Sat, 07 Sep 2024 01:05:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-catalyst-9800/&quot; title=&quot;Cisco Catalyst 9800 Wireless Controller, IOS XE Release 17.15.1 ED&quot;&gt;Cisco Catalyst 9800 Wireless Controller, IOS XE Release 17.15.1 ED&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
-      
-      
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
-      
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
-      
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
-      
-      <category domain="https://sysin.org/tags/Wi-Fi/">Wi-Fi</category>
-      
-      
-      <comments>https://sysin.org/blog/cisco-catalyst-9800/#disqus_thread</comments>
       
     </item>
     
