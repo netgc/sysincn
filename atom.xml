@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>sysin</title>
-  <icon>https://sysin.org/img/favicon.png</icon>
-  <subtitle>SYStem INside | 软件与技术分享</subtitle>
-  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <icon>https://sysin.cn/img/favicon.png</icon>
+  <subtitle>软件与技术分享</subtitle>
+  <link href="https://sysin.cn/atom.xml" rel="self"/>
   
-  <link href="https://sysin.org/"/>
+  <link href="https://sysin.cn/"/>
   <updated>2024-09-15T05:20:46.088Z</updated>
-  <id>https://sysin.org/</id>
+  <id>https://sysin.cn/</id>
   
   <author>
     <name>sysin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>VirtualBox 7.1.0 (macOS, Linux, Windows) - 开源跨平台虚拟化软件</title>
-    <link href="https://sysin.org/blog/virtualbox-7/"/>
-    <id>https://sysin.org/blog/virtualbox-7/</id>
+    <link href="https://sysin.cn/blog/virtualbox-7/"/>
+    <id>https://sysin.cn/blog/virtualbox-7/</id>
     <published>2024-09-15T02:35:18.000Z</published>
     <updated>2024-09-15T05:20:46.088Z</updated>
     
@@ -34,25 +34,25 @@
     
     
     
-    <category term="Linux" scheme="https://sysin.org/categories/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Unix" scheme="https://sysin.org/tags/Unix/"/>
+    <category term="Unix" scheme="https://sysin.cn/tags/Unix/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu 22.04.5 LTS (Jammy Jellyfish) - 现代化的企业与开源 Linux</title>
-    <link href="https://sysin.org/blog/ubuntu-2204/"/>
-    <id>https://sysin.org/blog/ubuntu-2204/</id>
+    <link href="https://sysin.cn/blog/ubuntu-2204/"/>
+    <id>https://sysin.cn/blog/ubuntu-2204/</id>
     <published>2024-09-15T02:26:21.000Z</published>
-    <updated>2024-09-15T03:50:12.284Z</updated>
+    <updated>2024-09-15T07:47:19.206Z</updated>
     
     
       
@@ -65,19 +65,19 @@
     
     
     
-    <category term="Linux" scheme="https://sysin.org/categories/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Ubuntu" scheme="https://sysin.org/tags/Ubuntu/"/>
+    <category term="Ubuntu" scheme="https://sysin.cn/tags/Ubuntu/"/>
     
   </entry>
   
   <entry>
     <title>Kali Linux 2024.3 发布 (Multiple transitions) - 领先的渗透测试发行版</title>
-    <link href="https://sysin.org/blog/kali-linux/"/>
-    <id>https://sysin.org/blog/kali-linux/</id>
+    <link href="https://sysin.cn/blog/kali-linux/"/>
+    <id>https://sysin.cn/blog/kali-linux/</id>
     <published>2024-09-15T02:20:00.000Z</published>
     <updated>2024-09-15T05:43:52.529Z</updated>
     
@@ -92,23 +92,23 @@
     
     
     
-    <category term="Linux" scheme="https://sysin.org/categories/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>在不受支持的 Mac 上安装 macOS (索引页面)</title>
-    <link href="https://sysin.org/blog/install-macos-on-unsupported-mac/"/>
-    <id>https://sysin.org/blog/install-macos-on-unsupported-mac/</id>
+    <link href="https://sysin.cn/blog/install-macos-on-unsupported-mac/"/>
+    <id>https://sysin.cn/blog/install-macos-on-unsupported-mac/</id>
     <published>2024-09-15T01:20:00.000Z</published>
     <updated>2024-09-15T01:44:28.517Z</updated>
     
@@ -123,19 +123,19 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
   </entry>
   
   <entry>
     <title>在不受支持的 Mac 上安装 macOS Sequoia (OpenCore Legacy Patcher v2.0.0)</title>
-    <link href="https://sysin.org/blog/install-macos-15-on-unsupported-mac/"/>
-    <id>https://sysin.org/blog/install-macos-15-on-unsupported-mac/</id>
+    <link href="https://sysin.cn/blog/install-macos-15-on-unsupported-mac/"/>
+    <id>https://sysin.cn/blog/install-macos-15-on-unsupported-mac/</id>
     <published>2024-09-15T01:10:00.000Z</published>
     <updated>2024-09-15T01:53:21.850Z</updated>
     
@@ -150,19 +150,19 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
   </entry>
   
   <entry>
     <title>SQL Server 2022 RTM CU14+GDR 发布，修复高危安全漏洞</title>
-    <link href="https://sysin.org/blog/sql-server-2022/"/>
-    <id>https://sysin.org/blog/sql-server-2022/</id>
+    <link href="https://sysin.cn/blog/sql-server-2022/"/>
+    <id>https://sysin.cn/blog/sql-server-2022/</id>
     <published>2024-09-14T02:20:00.000Z</published>
     <updated>2024-09-14T04:21:38.300Z</updated>
     
@@ -177,23 +177,23 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
     
-    <category term="SQL" scheme="https://sysin.org/tags/SQL/"/>
+    <category term="SQL" scheme="https://sysin.cn/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>Microsoft SQL Server 2019 RTM CU28+GDR 发布，修复高危安全漏洞</title>
-    <link href="https://sysin.org/blog/sql-server-2019/"/>
-    <id>https://sysin.org/blog/sql-server-2019/</id>
+    <link href="https://sysin.cn/blog/sql-server-2019/"/>
+    <id>https://sysin.cn/blog/sql-server-2019/</id>
     <published>2024-09-14T02:18:04.000Z</published>
     <updated>2024-09-14T04:21:20.116Z</updated>
     
@@ -208,23 +208,23 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
     
-    <category term="SQL" scheme="https://sysin.org/tags/SQL/"/>
+    <category term="SQL" scheme="https://sysin.cn/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>Microsoft SQL Server 2017 RTM CU31+GDR 发布，修复高危安全漏洞</title>
-    <link href="https://sysin.org/blog/sql-server-2017/"/>
-    <id>https://sysin.org/blog/sql-server-2017/</id>
+    <link href="https://sysin.cn/blog/sql-server-2017/"/>
+    <id>https://sysin.cn/blog/sql-server-2017/</id>
     <published>2024-09-14T02:18:00.000Z</published>
     <updated>2024-09-14T04:20:54.872Z</updated>
     
@@ -239,23 +239,23 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
     
-    <category term="SQL" scheme="https://sysin.org/tags/SQL/"/>
+    <category term="SQL" scheme="https://sysin.cn/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>Microsoft SQL Server 2016 with SP3 GDR 发布，修复高危安全漏洞</title>
-    <link href="https://sysin.org/blog/sql-server-2016/"/>
-    <id>https://sysin.org/blog/sql-server-2016/</id>
+    <link href="https://sysin.cn/blog/sql-server-2016/"/>
+    <id>https://sysin.cn/blog/sql-server-2016/</id>
     <published>2024-09-14T02:17:56.000Z</published>
     <updated>2024-09-14T04:08:18.846Z</updated>
     
@@ -270,23 +270,23 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
     
-    <category term="SQL" scheme="https://sysin.org/tags/SQL/"/>
+    <category term="SQL" scheme="https://sysin.cn/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>CrossOver 24.0.5 for Mac - 在 macOS 上运行 Windows 应用</title>
-    <link href="https://sysin.org/blog/crossover/"/>
-    <id>https://sysin.org/blog/crossover/</id>
+    <link href="https://sysin.cn/blog/crossover/"/>
+    <id>https://sysin.cn/blog/crossover/</id>
     <published>2024-09-14T01:11:00.000Z</published>
     <updated>2024-09-14T05:57:51.873Z</updated>
     
@@ -301,17 +301,17 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
   </entry>
   
   <entry>
     <title>VMware Avi Load Balancer 30.2.2 - 多云负载均衡平台</title>
-    <link href="https://sysin.org/blog/vmware-avi-load-balancer-30/"/>
-    <id>https://sysin.org/blog/vmware-avi-load-balancer-30/</id>
+    <link href="https://sysin.cn/blog/vmware-avi-load-balancer-30/"/>
+    <id>https://sysin.cn/blog/vmware-avi-load-balancer-30/</id>
     <published>2024-09-13T01:10:00.000Z</published>
     <updated>2024-09-13T09:03:46.490Z</updated>
     
@@ -326,19 +326,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="NSX" scheme="https://sysin.org/tags/NSX/"/>
+    <category term="NSX" scheme="https://sysin.cn/tags/NSX/"/>
     
   </entry>
   
   <entry>
     <title>VMware NSX Advanced Load Balancer (NSX ALB) 22.1.7 - 多云负载均衡平台</title>
-    <link href="https://sysin.org/blog/vmware-nsx-alb-22/"/>
-    <id>https://sysin.org/blog/vmware-nsx-alb-22/</id>
+    <link href="https://sysin.cn/blog/vmware-nsx-alb-22/"/>
+    <id>https://sysin.cn/blog/vmware-nsx-alb-22/</id>
     <published>2024-09-13T01:09:00.000Z</published>
     <updated>2024-09-13T03:33:29.725Z</updated>
     
@@ -353,19 +353,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="NSX" scheme="https://sysin.org/tags/NSX/"/>
+    <category term="NSX" scheme="https://sysin.cn/tags/NSX/"/>
     
   </entry>
   
   <entry>
     <title>VMware NSX 4.2.0.1 - 网络安全虚拟化平台</title>
-    <link href="https://sysin.org/blog/vmware-nsx-4-2/"/>
-    <id>https://sysin.org/blog/vmware-nsx-4-2/</id>
+    <link href="https://sysin.cn/blog/vmware-nsx-4-2/"/>
+    <id>https://sysin.cn/blog/vmware-nsx-4-2/</id>
     <published>2024-09-13T01:08:00.000Z</published>
     <updated>2024-09-14T06:01:04.228Z</updated>
     
@@ -380,19 +380,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="NSX" scheme="https://sysin.org/tags/NSX/"/>
+    <category term="NSX" scheme="https://sysin.cn/tags/NSX/"/>
     
   </entry>
   
   <entry>
     <title>VMware Tanzu Kubernetes Grid (TKG) 2.5.2 - 企业级 Kubernetes 解决方案</title>
-    <link href="https://sysin.org/blog/vmware-tkg-2/"/>
-    <id>https://sysin.org/blog/vmware-tkg-2/</id>
+    <link href="https://sysin.cn/blog/vmware-tkg-2/"/>
+    <id>https://sysin.cn/blog/vmware-tkg-2/</id>
     <published>2024-09-13T01:05:08.000Z</published>
     <updated>2024-09-13T01:09:36.546Z</updated>
     
@@ -407,21 +407,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="Kubernetes" scheme="https://sysin.org/tags/Kubernetes/"/>
+    <category term="Kubernetes" scheme="https://sysin.cn/tags/Kubernetes/"/>
     
-    <category term="Tanzu" scheme="https://sysin.org/tags/Tanzu/"/>
+    <category term="Tanzu" scheme="https://sysin.cn/tags/Tanzu/"/>
     
   </entry>
   
   <entry>
     <title>Cellebrite UFED 4PC 7.70 (Windows) - Android 和 iOS 移动设备取证软件</title>
-    <link href="https://sysin.org/blog/cellebrite-ufed/"/>
-    <id>https://sysin.org/blog/cellebrite-ufed/</id>
+    <link href="https://sysin.cn/blog/cellebrite-ufed/"/>
+    <id>https://sysin.cn/blog/cellebrite-ufed/</id>
     <published>2024-09-12T02:23:18.000Z</published>
     <updated>2024-09-12T04:01:56.857Z</updated>
     
@@ -436,19 +436,19 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Nexpose 6.6.269 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.org/blog/nexpose-6/"/>
-    <id>https://sysin.org/blog/nexpose-6/</id>
+    <link href="https://sysin.cn/blog/nexpose-6/"/>
+    <id>https://sysin.cn/blog/nexpose-6/</id>
     <published>2024-09-12T01:28:50.000Z</published>
     <updated>2024-09-12T03:56:37.084Z</updated>
     
@@ -463,23 +463,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Jabber 15.0 (Andriod, iOS, macOS, Windows) - 面向企业的多合一通信工具</title>
-    <link href="https://sysin.org/blog/cisco-jabber-15/"/>
-    <id>https://sysin.org/blog/cisco-jabber-15/</id>
+    <link href="https://sysin.cn/blog/cisco-jabber-15/"/>
+    <id>https://sysin.cn/blog/cisco-jabber-15/</id>
     <published>2024-09-12T01:19:35.000Z</published>
     <updated>2024-09-12T01:18:05.827Z</updated>
     
@@ -494,21 +494,21 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
   </entry>
   
   <entry>
     <title>Adobe Media Encoder 2024 v24.6.1 (macOS, Windows) - 格式转换</title>
-    <link href="https://sysin.org/blog/adobe-media-encoder/"/>
-    <id>https://sysin.org/blog/adobe-media-encoder/</id>
+    <link href="https://sysin.cn/blog/adobe-media-encoder/"/>
+    <id>https://sysin.cn/blog/adobe-media-encoder/</id>
     <published>2024-09-12T01:19:18.000Z</published>
     <updated>2024-09-12T01:56:42.850Z</updated>
     
@@ -523,21 +523,21 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Adobe" scheme="https://sysin.org/tags/Adobe/"/>
+    <category term="Adobe" scheme="https://sysin.cn/tags/Adobe/"/>
     
   </entry>
   
   <entry>
     <title>Adobe After Effects 2024 v24.6.1 (macOS, Windows) - 后期特效</title>
-    <link href="https://sysin.org/blog/adobe-after-effects/"/>
-    <id>https://sysin.org/blog/adobe-after-effects/</id>
+    <link href="https://sysin.cn/blog/adobe-after-effects/"/>
+    <id>https://sysin.cn/blog/adobe-after-effects/</id>
     <published>2024-09-12T01:10:18.000Z</published>
     <updated>2024-09-12T01:54:36.957Z</updated>
     
@@ -552,21 +552,21 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Adobe" scheme="https://sysin.org/tags/Adobe/"/>
+    <category term="Adobe" scheme="https://sysin.cn/tags/Adobe/"/>
     
   </entry>
   
   <entry>
     <title>VMware Live Site Recovery 9.0.2 - 数据中心灾难恢复 (DR)</title>
-    <link href="https://sysin.org/blog/vmware-live-site-recovery-9/"/>
-    <id>https://sysin.org/blog/vmware-live-site-recovery-9/</id>
+    <link href="https://sysin.cn/blog/vmware-live-site-recovery-9/"/>
+    <id>https://sysin.cn/blog/vmware-live-site-recovery-9/</id>
     <published>2024-09-12T01:05:10.000Z</published>
     <updated>2024-09-13T03:40:34.049Z</updated>
     
@@ -581,21 +581,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
+    <category term="Backup" scheme="https://sysin.cn/tags/Backup/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
   </entry>
   
   <entry>
     <title>Parallels Desktop for Mac 20.0.0 (build 55653) - 在 Mac 上运行 Windows</title>
-    <link href="https://sysin.org/blog/parallels-desktop/"/>
-    <id>https://sysin.org/blog/parallels-desktop/</id>
+    <link href="https://sysin.cn/blog/parallels-desktop/"/>
+    <id>https://sysin.cn/blog/parallels-desktop/</id>
     <published>2024-09-11T01:55:00.000Z</published>
     <updated>2024-09-11T02:06:20.599Z</updated>
     
@@ -610,17 +610,17 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
   </entry>
   
   <entry>
     <title>Invicti v24.9.0 for Windows - Web 应用程序安全测试</title>
-    <link href="https://sysin.org/blog/invicti/"/>
-    <id>https://sysin.org/blog/invicti/</id>
+    <link href="https://sysin.cn/blog/invicti/"/>
+    <id>https://sysin.cn/blog/invicti/</id>
     <published>2024-09-11T01:20:00.000Z</published>
     <updated>2024-09-11T01:54:18.474Z</updated>
     
@@ -635,21 +635,21 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Modeling Labs (CML) 2.7.2 - 网络仿真工具</title>
-    <link href="https://sysin.org/blog/cisco-modeling-labs-2/"/>
-    <id>https://sysin.org/blog/cisco-modeling-labs-2/</id>
+    <link href="https://sysin.cn/blog/cisco-modeling-labs-2/"/>
+    <id>https://sysin.cn/blog/cisco-modeling-labs-2/</id>
     <published>2024-09-11T01:08:45.000Z</published>
     <updated>2024-09-11T02:37:39.788Z</updated>
     
@@ -664,17 +664,17 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
   </entry>
   
   <entry>
     <title>DBeaver Ultimate Edtion 24.2 Multilingual (macOS, Linux, Windows) - 通用数据库工具</title>
-    <link href="https://sysin.org/blog/dbeaver/"/>
-    <id>https://sysin.org/blog/dbeaver/</id>
+    <link href="https://sysin.cn/blog/dbeaver/"/>
+    <id>https://sysin.cn/blog/dbeaver/</id>
     <published>2024-09-10T07:38:50.000Z</published>
     <updated>2024-09-10T08:34:11.384Z</updated>
     
@@ -689,23 +689,23 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Database" scheme="https://sysin.org/tags/Database/"/>
+    <category term="Database" scheme="https://sysin.cn/tags/Database/"/>
     
   </entry>
   
   <entry>
     <title>Xcode 16 RC (16A242) - Apple 平台 IDE</title>
-    <link href="https://sysin.org/blog/apple-xcode-16/"/>
-    <id>https://sysin.org/blog/apple-xcode-16/</id>
+    <link href="https://sysin.cn/blog/apple-xcode-16/"/>
+    <id>https://sysin.cn/blog/apple-xcode-16/</id>
     <published>2024-09-10T02:13:00.000Z</published>
     <updated>2024-09-10T05:33:48.031Z</updated>
     
@@ -720,23 +720,23 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
-    <category term="iOS" scheme="https://sysin.org/tags/iOS/"/>
+    <category term="iOS" scheme="https://sysin.cn/tags/iOS/"/>
     
-    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
     
   </entry>
   
   <entry>
     <title>macOS Sequoia 15 RC (24A335) Boot ISO 原版可引导镜像下载</title>
-    <link href="https://sysin.org/blog/macOS-Sequoia-boot-iso/"/>
-    <id>https://sysin.org/blog/macOS-Sequoia-boot-iso/</id>
+    <link href="https://sysin.cn/blog/macOS-Sequoia-boot-iso/"/>
+    <id>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</id>
     <published>2024-09-10T01:22:00.000Z</published>
     <updated>2024-09-11T02:40:29.055Z</updated>
     
@@ -751,19 +751,19 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
   </entry>
   
   <entry>
     <title>macOS Sequoia 15 RC (24A335) ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.org/blog/macOS-Sequoia/"/>
-    <id>https://sysin.org/blog/macOS-Sequoia/</id>
+    <link href="https://sysin.cn/blog/macOS-Sequoia/"/>
+    <id>https://sysin.cn/blog/macOS-Sequoia/</id>
     <published>2024-09-10T01:20:00.000Z</published>
     <updated>2024-09-11T02:40:22.708Z</updated>
     
@@ -778,19 +778,19 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
   </entry>
   
   <entry>
     <title>Cisco SD-WAN (Viptela) version 20.15.1 ED - 软件定义广域网</title>
-    <link href="https://sysin.org/blog/cisco-sd-wan-20/"/>
-    <id>https://sysin.org/blog/cisco-sd-wan-20/</id>
+    <link href="https://sysin.cn/blog/cisco-sd-wan-20/"/>
+    <id>https://sysin.cn/blog/cisco-sd-wan-20/</id>
     <published>2024-09-10T01:15:00.000Z</published>
     <updated>2024-09-09T09:24:38.452Z</updated>
     
@@ -805,21 +805,21 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
+    <category term="Router" scheme="https://sysin.cn/tags/Router/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Catalyst Center 2.3.7.6-VA - 网络管理和自动化</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-center/"/>
-    <id>https://sysin.org/blog/cisco-catalyst-center/</id>
+    <link href="https://sysin.cn/blog/cisco-catalyst-center/"/>
+    <id>https://sysin.cn/blog/cisco-catalyst-center/</id>
     <published>2024-09-09T00:30:19.000Z</published>
     <updated>2024-09-09T00:31:44.786Z</updated>
     
@@ -834,19 +834,19 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Secure Client 5.1.5.65 (macOS, Linux, Windows &amp; iOS, Andrord) - VPN 和远程访问客户端</title>
-    <link href="https://sysin.org/blog/cisco-secure-client-5/"/>
-    <id>https://sysin.org/blog/cisco-secure-client-5/</id>
+    <link href="https://sysin.cn/blog/cisco-secure-client-5/"/>
+    <id>https://sysin.cn/blog/cisco-secure-client-5/</id>
     <published>2024-09-08T01:08:00.000Z</published>
     <updated>2024-09-08T01:12:51.432Z</updated>
     
@@ -861,12 +861,12 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
   </entry>
   
