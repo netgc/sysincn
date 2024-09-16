@@ -1,3 +1,4 @@
+https://sysin.org/blog/apple-xcode-16/
 https://sysin.org/blog/macOS-Sonoma/
 https://sysin.org/blog/macOS-Sequoia-boot-iso/
 https://sysin.org/blog/macOS-Sequoia/
@@ -17,4 +18,3 @@ https://sysin.org/blog/vmware-nsx-4-1/
 https://sysin.org/blog/crossover-22/
 https://sysin.org/blog/crossover-23/
 https://sysin.org/blog/crossover/
-https://sysin.org/blog/vmware-esxi-6-oem/

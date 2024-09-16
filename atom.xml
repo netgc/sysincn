@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-09-16T22:50:13.202Z</updated>
+  <updated>2024-09-16T23:19:12.929Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Xcode 16 (16A242d) - Apple 平台 IDE</title>
+    <link href="https://sysin.org/blog/apple-xcode-16/"/>
+    <id>https://sysin.org/blog/apple-xcode-16/</id>
+    <published>2024-09-15T23:16:00.000Z</published>
+    <updated>2024-09-16T23:19:12.929Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-xcode-16/&quot; title=&quot;Xcode 16 (16A242d) - Apple 平台 IDE&quot;&gt;Xcode 16 (16A242d) - Apple 平台 IDE&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+    <category term="iOS" scheme="https://sysin.org/tags/iOS/"/>
+    
+    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    
+  </entry>
   
   <entry>
     <title>macOS Sequoia 15.0 (24A335) Boot ISO 原版可引导镜像下载</title>
@@ -830,37 +861,6 @@
     
     
     <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DBeaver Ultimate Edtion 24.2 Multilingual (macOS, Linux, Windows) - 通用数据库工具</title>
-    <link href="https://sysin.org/blog/dbeaver/"/>
-    <id>https://sysin.org/blog/dbeaver/</id>
-    <published>2024-09-10T07:38:50.000Z</published>
-    <updated>2024-09-10T08:34:11.384Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/dbeaver/&quot; title=&quot;DBeaver Ultimate Edtion 24.2 Multilingual (macOS, Linux, Windows) - 通用数据库工具&quot;&gt;DBeaver Ultimate Edtion 24.2 Multilingual (macOS, Linux, Windows) - 通用数据库工具&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Database" scheme="https://sysin.org/tags/Database/"/>
     
   </entry>
   
