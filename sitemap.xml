@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/macOS-Sequoia-boot-iso/</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/macOS-Sequoia/</loc>
     
     <lastmod>2024-09-17</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://sysin.org/blog/macOS-Sonoma/</loc>
-    
-    <lastmod>2024-09-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/macOS-Sequoia-boot-iso/</loc>
     
     <lastmod>2024-09-16</lastmod>
     
@@ -2153,7 +2153,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/adobe-bridge/</loc>
+    <loc>https://sysin.org/blog/adobe-cc-2021/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2162,7 +2162,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/adobe-cc-2021/</loc>
+    <loc>https://sysin.org/blog/adobe-bridge/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2954,7 +2954,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7-u3/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-7/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2963,7 +2963,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-7-u3/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4061,7 +4061,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/parallels-desktop-17/</loc>
+    <loc>https://sysin.org/blog/pfsence-2/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4070,7 +4070,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/pfsence-2/</loc>
+    <loc>https://sysin.org/blog/parallels-desktop-17/</loc>
     
     <lastmod>2024-08-10</lastmod>
     

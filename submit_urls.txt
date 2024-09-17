@@ -1,8 +1,8 @@
+https://sysin.org/blog/macOS-Sequoia-boot-iso/
 https://sysin.org/blog/macOS-Sequoia/
 https://sysin.org/blog/macos-createinstallmedia/
 https://sysin.org/blog/apple-xcode-16/
 https://sysin.org/blog/macOS-Sonoma/
-https://sysin.org/blog/macOS-Sequoia-boot-iso/
 https://sysin.org/blog/macOS-Sonoma-boot-iso/
 https://sysin.org/blog/macOS-Ventura/
 https://sysin.org/blog/macOS-Ventura-boot-iso/
