@@ -1,3 +1,7 @@
+https://sysin.org/blog/install-macos-15-on-unsupported-mac/
+https://sysin.org/blog/install-macos-12-on-unsupported-mac/
+https://sysin.org/blog/install-macos-13-on-unsupported-mac/
+https://sysin.org/blog/install-macos-14-on-unsupported-mac/
 https://sysin.org/blog/macOS-Sonoma-boot-iso/
 https://sysin.org/blog/macOS-Sonoma/
 https://sysin.org/blog/macOS-Sequoia/
@@ -14,7 +18,3 @@ https://sysin.org/blog/ubuntu-2204-ovf/
 https://sysin.org/blog/ubuntu-2204/
 https://sysin.org/blog/kali-linux/
 https://sysin.org/blog/virtualbox-7/
-https://sysin.org/blog/kali-linux-2023/
-https://sysin.org/blog/binary-ninja/
-https://sysin.org/blog/install-macos-15-on-unsupported-mac/
-https://sysin.org/blog/install-macos-on-unsupported-mac/

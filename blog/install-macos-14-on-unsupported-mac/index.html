@@ -1572,9 +1572,7 @@ Mac 还有了更多个性化方式，让你尽情展现自己的风格。</p>
 <li>
 <a href="/blog/macOS-Monterey/" title="macOS Monterey 12.7.6 (21H1320) 正式版 ISO、IPSW、PKG 下载">macOS Monterey 12.7.6 (21H1320) 正式版 ISO、IPSW、PKG 下载</a>
 </li>
-<li>
-<a href="/blog/macOS-Big-Sur/" title="macOS Big Sur 11.7.10 (20G1427) 正式版 ISO、PKG、DMG、IPSW 下载">macOS Big Sur 11.7.10 (20G1427) 正式版 ISO、PKG、DMG、IPSW 下载</a>
-</li>
+<li>更多：<a href="/blog/macOS/" title="macOS 下载汇总 (系统、应用和教程)">macOS 下载汇总 (系统、应用和教程)</a></li>
 </ul>
 <h3 id="3-USB-存储设备-16G-及以上-3">3. USB 存储设备 16G 及以上</h3>
 <p>可以是 U 盘，甚至是 SD 卡，当然最好是 SSD 的移动硬盘，容量 16G 及以上。</p>
@@ -1595,34 +1593,32 @@ Mac 还有了更多个性化方式，让你尽情展现自己的风格。</p>
 <blockquote>
 <p>创建完毕后，卷名称将自动修改为：<code>Install macOS Sonoma</code></p>
 </blockquote>
-<p>同样也支持 macOS Ventura、macOS Monterey 和 macOS Big Sur，命令如下：</p>
+<p>之前的版本同样也支持，命令如下：</p>
 <p>macOS Ventura：</p>
 <p><code>sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/sysin</code></p>
 <p>macOS Monterey：</p>
 <p><code>sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/sysin</code></p>
-<p>macOS Big Sur：</p>
-<p><code>sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/sysin</code></p>
 <p>参看：<a href="https://sysin.org/blog/macos-createinstallmedia/">创建可引导的 macOS 安装介质</a></p>
 <h3 id="2-OpenCore-Patcher-设置-3">2. OpenCore Patcher 设置</h3>
 <p>打开 OpenCore Patcher，点击 “Settings”，勾选 “Verbose”，这样在启动系统安装过程中会输出详细信息，以便排错。</p>
 <blockquote>
 <p>有读者反馈，某些机型勾选 “Verbose” 无法正常启动，如果勾选有异常，请尝试取消勾选。</p>
 </blockquote>
-<p><img src="101.webp" alt="Verbose"></p>
+<p><img src="/blog/install-macos-on-unsupported-mac/101.webp" alt="Verbose"></p>
 <p>一般在需要安装的 Mac 上运行该程序（或称为目标 Mac），也可以在另外一台 Mac 为其他 Mac 创建安装介质，点击 “Settings”，下拉选择对应的机型，如图：</p>
-<p><img src="102.webp" alt="Models"></p>
+<p><img src="/blog/install-macos-on-unsupported-mac/102.webp" alt="Models"></p>
 <blockquote>
 <p>这里是以 “型号标识符” 来表示机型，可以通过点击系统菜单栏  &gt; “关于本机”，点击（ “概览” 标签页中的）“系统报告…”，此时打开 “系统信息” 可以看到 “型号标识符”。</p>
 </blockquote>
 <h3 id="3-Build-and-Install-OpenCore（构建和安装-OpenCore）-3">3. Build and Install OpenCore（构建和安装 OpenCore）</h3>
-<p><img src="103.webp" alt="Build and Install OpenCore"></p>
+<p><img src="/blog/install-macos-on-unsupported-mac/103.webp" alt="Build and Install OpenCore"></p>
 <p>在 OpenCore-Patcher 主界面点击 “Build and Install OpenCore” 按钮，在出现的画面点击 “Build OpenCore”</p>
 <p>Build 成功后，如图，点击 “Install OpenCore”（现在构建成功后会自动弹出对话框），点击 “Install to disk” 即可</p>
-<p><img src="104.webp" alt="Install OpenCore"></p>
+<p><img src="/blog/install-macos-on-unsupported-mac/104.webp" alt="Install OpenCore"></p>
 <p>选择要安装的磁盘，如下图，disk0 为电脑内置磁盘，默认分区的情况下，USB 存储设备通常为 disk2，如果有两块磁盘，或者多个 USB 存储设备，都会列出，本例中 disk2 是一块 USB SSD，点击即可。</p>
-<p><img src="105.webp" alt="Select Disk"></p>
+<p><img src="/blog/install-macos-on-unsupported-mac/105.webp" alt="Select Disk"></p>
 <p>出现 EFI 分区选择界面，点击即可。</p>
-<p><img src="106.webp" alt="Select Partition"></p>
+<p><img src="/blog/install-macos-on-unsupported-mac/106.webp" alt="Select Partition"></p>
 <h3 id="4-启动-OpenCore-和-macOS-Installer-3">4. 启动 OpenCore 和 macOS Installer</h3>
 <p>现在重新启动 Mac，按住 <code>Option</code> 键不放，直到出现启动选择画面，选择带有 OpenCore 徽标的 <code>EFI Boot</code> 图标：</p>
 <p>按住 <code>Control</code> 键可以将使其成为默认启动项，即暂时使用 USB 作为默认启动项，安装后任务将解决默认启动问题。</p>
@@ -1646,13 +1642,13 @@ Mac 还有了更多个性化方式，让你尽情展现自己的风格。</p>
 <p>现在 OpenCore 是安装在 USB 存储的 EFI 分区，拔掉 USB 存储将无法正常启动，我们需要将 OpenCore 安装到 Mac 内置储存的 EFI 分区中，这样才能脱离 USB 存储正常启动。步骤与上文中 “构建和安装 OpenCore” 类似。</p>
 <p>运行 OpenCore Patcher，点击 Settings 根据需要更改设置；</p>
 <p>点击 “Build and Install OpenCore” 再次 “Build OpenCore”，“Install OpenCore” 时选择内置存储（通常是 disk0）；</p>
-<p><img src="309.webp" alt="Select Disk"></p>
+<p><img src="/blog/install-macos-on-unsupported-mac/309.webp" alt="Select Disk"></p>
 <p>出现 EFI 分区选择界面，点击即可；</p>
-<p><img src="310.webp" alt="Select Partition"></p>
+<p><img src="/blog/install-macos-on-unsupported-mac/310.webp" alt="Select Partition"></p>
 <p>重启按住 Option，然后选择内部 EFI 分区，即可出现 OpenCore Picker（启动选择器），再次正常启动系统。</p>
 <h3 id="3-无需-Verbose-或-OpenCore-Picker-即可无缝启动-3">3. 无需 Verbose 或 OpenCore Picker 即可无缝启动</h3>
 <p>运行 OpenCore Patcher 并点击 “Settings”，设置如下：</p>
-<p><img src="311.webp" alt="OpenCore Settings"></p>
+<p><img src="/blog/install-macos-on-unsupported-mac/311.webp" alt="OpenCore Settings"></p>
 <p>再次 “Build and Install OpenCore” 同上 2，以使设置生效。</p>
 <blockquote>
 <p>现在要显示 OpenCore Picker（启动选择器），您只需在单击 EFI 启动时按住 “ESC” 键，然后在看到左上角的光标箭头时松开 “ESC” 键。</p>
@@ -1670,9 +1666,9 @@ Mac 还有了更多个性化方式，让你尽情展现自己的风格。</p>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left"><img src="312.webp" alt="SIP Settings"></td>
-<td><img src="313.webp" alt="SIP Settings"></td>
-<td style="text-align:left"><img src="314.webp" alt="SIP Settings"></td>
+<td style="text-align:left"><img src="/blog/install-macos-on-unsupported-mac/312.webp" alt="SIP Settings"></td>
+<td><img src="/blog/install-macos-on-unsupported-mac/313.webp" alt="SIP Settings"></td>
+<td style="text-align:left"><img src="/blog/install-macos-on-unsupported-mac/314.webp" alt="SIP Settings"></td>
 </tr>
 </tbody>
 </table>
@@ -1681,7 +1677,7 @@ Mac 还有了更多个性化方式，让你尽情展现自己的风格。</p>
 <h3 id="5-运行-“Post-Install-Root-Patch”-3">5. 运行 “Post-Install Root Patch”</h3>
 <p>对于使用不受支持的 GPU/Wi-Fi 卡的用户，您需要运行 Post Install Root Volume 补丁以恢复功能。</p>
 <p>OpenCore-Patcher 中点击 “Post-Install Root Patch”，会列出需要修补的功能（0.4.4+ 会自动提示安装 Root Patch）。</p>
-<p><img src="315.webp" alt="Root Patch"></p>
+<p><img src="/blog/install-macos-on-unsupported-mac/315.webp" alt="Root Patch"></p>
 <p>点击 “Start Root Patching” 开始修复（如果无需修复，该按钮灰色不可用）。</p>
 <p>修补成功后会提示重启系统生效。</p>
 <p>支持以下型号的 GPU 和无线网卡：</p>
