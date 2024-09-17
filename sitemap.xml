@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/macOS-Sonoma-boot-iso/</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/macOS-Sonoma/</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/macOS-Sequoia/</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/cisco-secure-client-5/</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/macOS/</loc>
     
     <lastmod>2024-09-17</lastmod>
@@ -38,15 +83,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/macOS-Sequoia/</loc>
-    
-    <lastmod>2024-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/macOS-Ventura/</loc>
     
     <lastmod>2024-09-17</lastmod>
@@ -57,33 +93,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/macOS-Ventura-boot-iso/</loc>
-    
-    <lastmod>2024-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/macOS-Sonoma-boot-iso/</loc>
-    
-    <lastmod>2024-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/macOS-Sonoma/</loc>
-    
-    <lastmod>2024-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</loc>
     
     <lastmod>2024-09-17</lastmod>
     
@@ -561,15 +570,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/dellemc-unity-5/</loc>
-    
-    <lastmod>2024-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/cisco-secure-client-5/</loc>
     
     <lastmod>2024-09-08</lastmod>
     
@@ -5060,15 +5060,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/exploit-pack-17/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/f5-big-ip-16/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -5097,6 +5088,15 @@
   
   <url>
     <loc>https://sysin.cn/blog/gartner-magic-quadrant-cips-2022/</loc>
+    
+    <lastmod>2024-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/exploit-pack-17/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5969,15 +5969,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/gartner-magic-quadrant-sd-wan-2023/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/gartner-magic-quadrant-tms-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -5988,6 +5979,15 @@
   
   <url>
     <loc>https://sysin.cn/blog/get-serial-number-via-cli/</loc>
+    
+    <lastmod>2024-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/gartner-magic-quadrant-sd-wan-2023/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7403,14 +7403,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/AutoUpdate/</loc>
+    <loc>https://sysin.cn/tags/Edge/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Edge/</loc>
+    <loc>https://sysin.cn/tags/AutoUpdate/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
