@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.cn/blog/apple-ios-dfu/</loc>
+    <lastmod>2024-09-18</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</loc>
+    <lastmod>2024-09-18</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</loc>
+    <lastmod>2024-09-18</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/vmware-vcenter-7-u3/</loc>
     <lastmod>2024-09-18</lastmod>
   </url>
@@ -142,14 +154,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-7-u3-sysin/</loc>
-    <lastmod>2024-09-14</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</loc>
-    <lastmod>2024-09-14</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</loc>
     <lastmod>2024-09-14</lastmod>
   </url>
   <url>
@@ -1261,11 +1265,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/exchange-patch/</loc>
+    <loc>https://sysin.cn/blog/exchange-2019/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/exchange-2019/</loc>
+    <loc>https://sysin.cn/blog/exchange-patch/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1442,10 +1446,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/alpn/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/apple-ios-dfu/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2129,11 +2129,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/rocky-linux-9-aarch64-ovf/</loc>
+    <loc>https://sysin.cn/blog/rocky-linux-9-ovf/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/rocky-linux-9-ovf/</loc>
+    <loc>https://sysin.cn/blog/rocky-linux-9-aarch64-ovf/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -3101,11 +3101,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/hello-hexo/</loc>
+    <loc>https://sysin.cn/blog/guhua/</loc>
     <lastmod>2023-05-16</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/guhua/</loc>
+    <loc>https://sysin.cn/blog/hello-hexo/</loc>
     <lastmod>2023-05-16</lastmod>
   </url>
   <url>

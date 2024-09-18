@@ -1,3 +1,6 @@
+https://sysin.cn/blog/apple-ios-dfu/
+https://sysin.cn/blog/vmware-esxi-8-u3-oem/
+https://sysin.cn/blog/vmware-esxi-8-u3-sysin/
 https://sysin.cn/blog/vmware-vcenter-7-u3/
 https://sysin.cn/blog/vmware-vsphere-8-u3/
 https://sysin.cn/blog/vmware-vcenter-8-u3/
@@ -15,6 +18,3 @@ https://sysin.cn/blog/macOS-Sequoia-boot-iso/
 https://sysin.cn/blog/macOS/
 https://sysin.cn/blog/macOS-Big-Sur-boot-iso/
 https://sysin.cn/blog/macOS-Monterey/
-https://sysin.cn/blog/apple-xcode-16/
-https://sysin.cn/blog/macOS-Ventura/
-https://sysin.cn/blog/macOS-Ventura-boot-iso/

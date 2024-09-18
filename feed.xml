@@ -15,8 +15,70 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Wed, 18 Sep 2024 04:49:46 GMT</pubDate>
+    <pubDate>Wed, 18 Sep 2024 06:35:00 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>VMware ESXi 8.0U3b macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
+      <link>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</link>
+      <guid>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</guid>
+      <pubDate>Wed, 18 Sep 2024 04:19:19 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-esxi-8-u3-sysin/&quot; title=&quot;VMware ESXi 8.0U3b macOS Unlocker &amp;amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)&quot;&gt;VMware ESXi 8.0U3b macOS Unlocker &amp;amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
+      
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
+      
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
+      
+      
+      <comments>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>VMware ESXi 8.0U3b macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
+      <link>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</link>
+      <guid>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</guid>
+      <pubDate>Wed, 18 Sep 2024 04:19:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-esxi-8-u3-oem/&quot; title=&quot;VMware ESXi 8.0U3b macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&quot;&gt;VMware ESXi 8.0U3b macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
+      
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
+      
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
+      
+      
+      <comments>https://sysin.cn/blog/vmware-esxi-8-u3-oem/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>VMware vCenter Server 7.0U3s 下载 - 集中管理 vSphere 环境</title>
@@ -832,9 +894,9 @@
       <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
-      
       <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
       
       <comments>https://sysin.cn/blog/cellebrite-ufed/#disqus_thread</comments>
@@ -863,76 +925,14 @@
       
       <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
-      
       <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
       <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
       
       
       <comments>https://sysin.cn/blog/nexpose-6/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Cisco Jabber 15.0 (Andriod, iOS, macOS, Windows) - 面向企业的多合一通信工具</title>
-      <link>https://sysin.cn/blog/cisco-jabber-15/</link>
-      <guid>https://sysin.cn/blog/cisco-jabber-15/</guid>
-      <pubDate>Thu, 12 Sep 2024 01:19:35 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-jabber-15/&quot; title=&quot;Cisco Jabber 15.0 (Andriod, iOS, macOS, Windows) - 面向企业的多合一通信工具&quot;&gt;Cisco Jabber 15.0 (Andriod, iOS, macOS, Windows) - 面向企业的多合一通信工具&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
-      
-      
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
-      
-      
-      <comments>https://sysin.cn/blog/cisco-jabber-15/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Adobe Media Encoder 2024 v24.6.1 (macOS, Windows) - 格式转换</title>
-      <link>https://sysin.cn/blog/adobe-media-encoder/</link>
-      <guid>https://sysin.cn/blog/adobe-media-encoder/</guid>
-      <pubDate>Thu, 12 Sep 2024 01:19:18 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/adobe-media-encoder/&quot; title=&quot;Adobe Media Encoder 2024 v24.6.1 (macOS, Windows) - 格式转换&quot;&gt;Adobe Media Encoder 2024 v24.6.1 (macOS, Windows) - 格式转换&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
-      
-      
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.cn/tags/Adobe/">Adobe</category>
-      
-      
-      <comments>https://sysin.cn/blog/adobe-media-encoder/#disqus_thread</comments>
       
     </item>
     
