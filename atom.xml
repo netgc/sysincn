@@ -837,9 +837,9 @@
     <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
@@ -866,9 +866,9 @@
     
     <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
     <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
     
