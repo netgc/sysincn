@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/vmware-vsphere-8-u3/</loc>
+    
+    <lastmod>2024-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-vcenter-8-u3/</loc>
+    
+    <lastmod>2024-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u3/</loc>
+    
+    <lastmod>2024-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/macOS-Sonoma/</loc>
     
     <lastmod>2024-09-18</lastmod>
@@ -3053,15 +3080,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcenter-8-u3/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/how-to-install-macos-big-sur/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -4395,15 +4413,6 @@
   
   <url>
     <loc>https://sysin.org/blog/gartner-magic-quadrant-ast-2023/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u3/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6897,15 +6906,6 @@
   
   <url>
     <loc>https://sysin.org/blog/ssms/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-8-u3/</loc>
     
     <lastmod>2024-08-10</lastmod>
     

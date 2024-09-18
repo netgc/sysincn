@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-09-18T01:46:00.908Z</updated>
+  <updated>2024-09-18T02:38:05.247Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,97 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>VMware vSphere 8.0 Update 3b 下载 - 企业级工作负载平台</title>
+    <link href="https://sysin.org/blog/vmware-vsphere-8-u3/"/>
+    <id>https://sysin.org/blog/vmware-vsphere-8-u3/</id>
+    <published>2024-09-18T02:18:00.000Z</published>
+    <updated>2024-09-18T02:38:05.247Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-vsphere-8-u3/&quot; title=&quot;VMware vSphere 8.0 Update 3b 下载 - 企业级工作负载平台&quot;&gt;VMware vSphere 8.0 Update 3b 下载 - 企业级工作负载平台&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    
+    <category term="ESXi" scheme="https://sysin.org/tags/ESXi/"/>
+    
+    <category term="vCenter" scheme="https://sysin.org/tags/vCenter/"/>
+    
+    <category term="vSAN" scheme="https://sysin.org/tags/vSAN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware vCenter Server 8.0U3b - 集中式管理 vSphere 环境</title>
+    <link href="https://sysin.org/blog/vmware-vcenter-8-u3/"/>
+    <id>https://sysin.org/blog/vmware-vcenter-8-u3/</id>
+    <published>2024-09-18T02:15:00.000Z</published>
+    <updated>2024-09-18T02:36:08.523Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-vcenter-8-u3/&quot; title=&quot;VMware vCenter Server 8.0U3b - 集中式管理 vSphere 环境&quot;&gt;VMware vCenter Server 8.0U3b - 集中式管理 vSphere 环境&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    
+    <category term="vCenter" scheme="https://sysin.org/tags/vCenter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware ESXi 8.0U3b - 领先的裸机 Hypervisor</title>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3/"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3/</id>
+    <published>2024-09-18T02:11:00.000Z</published>
+    <updated>2024-09-18T02:35:12.949Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-esxi-8-u3/&quot; title=&quot;VMware ESXi 8.0U3b - 领先的裸机 Hypervisor&quot;&gt;VMware ESXi 8.0U3b - 领先的裸机 Hypervisor&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    
+    <category term="ESXi" scheme="https://sysin.org/tags/ESXi/"/>
+    
+  </entry>
   
   <entry>
     <title>如何创建可引导的 macOS 安装介质</title>
@@ -780,89 +871,6 @@
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
     <category term="Adobe" scheme="https://sysin.org/tags/Adobe/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VMware Live Site Recovery 9.0.2 - 数据中心灾难恢复 (DR)</title>
-    <link href="https://sysin.org/blog/vmware-live-site-recovery-9/"/>
-    <id>https://sysin.org/blog/vmware-live-site-recovery-9/</id>
-    <published>2024-09-12T01:05:10.000Z</published>
-    <updated>2024-09-13T03:40:34.049Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-live-site-recovery-9/&quot; title=&quot;VMware Live Site Recovery 9.0.2 - 数据中心灾难恢复 (DR)&quot;&gt;VMware Live Site Recovery 9.0.2 - 数据中心灾难恢复 (DR)&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
-    
-    
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
-    
-    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
-    
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Parallels Desktop for Mac 20.0.0 (build 55653) - 在 Mac 上运行 Windows</title>
-    <link href="https://sysin.org/blog/parallels-desktop/"/>
-    <id>https://sysin.org/blog/parallels-desktop/</id>
-    <published>2024-09-11T01:55:00.000Z</published>
-    <updated>2024-09-11T02:06:20.599Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/parallels-desktop/&quot; title=&quot;Parallels Desktop for Mac 20.0.0 (build 55653) - 在 Mac 上运行 Windows&quot;&gt;Parallels Desktop for Mac 20.0.0 (build 55653) - 在 Mac 上运行 Windows&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Invicti v24.9.0 for Windows - Web 应用程序安全测试</title>
-    <link href="https://sysin.org/blog/invicti/"/>
-    <id>https://sysin.org/blog/invicti/</id>
-    <published>2024-09-11T01:20:00.000Z</published>
-    <updated>2024-09-11T01:54:18.474Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/invicti/&quot; title=&quot;Invicti v24.9.0 for Windows - Web 应用程序安全测试&quot;&gt;Invicti v24.9.0 for Windows - Web 应用程序安全测试&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
