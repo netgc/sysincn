@@ -15,8 +15,37 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Thu, 19 Sep 2024 00:46:32 GMT</pubDate>
+    <pubDate>Thu, 19 Sep 2024 07:16:48 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Microsoft Office 2024 正式版 (16.017932.20114) 中英文版 iso 下载</title>
+      <link>https://sysin.org/blog/office-2024/</link>
+      <guid>https://sysin.org/blog/office-2024/</guid>
+      <pubDate>Thu, 19 Sep 2024 07:06:27 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/office-2024/&quot; title=&quot;Microsoft Office 2024 正式版 (16.017932.20114) 中英文版 iso 下载&quot;&gt;Microsoft Office 2024 正式版 (16.017932.20114) 中英文版 iso 下载&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      
+      
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      
+      <category domain="https://sysin.org/tags/Office/">Office</category>
+      
+      
+      <comments>https://sysin.org/blog/office-2024/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Nexpose 6.6.270 for Linux &amp; Windows - 漏洞扫描</title>
@@ -906,37 +935,6 @@
       
       
       <comments>https://sysin.org/blog/vmware-nsx-4-2/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>VMware Tanzu Kubernetes Grid (TKG) 2.5.2 - 企业级 Kubernetes 解决方案</title>
-      <link>https://sysin.org/blog/vmware-tkg-2/</link>
-      <guid>https://sysin.org/blog/vmware-tkg-2/</guid>
-      <pubDate>Fri, 13 Sep 2024 01:05:08 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-tkg-2/&quot; title=&quot;VMware Tanzu Kubernetes Grid (TKG) 2.5.2 - 企业级 Kubernetes 解决方案&quot;&gt;VMware Tanzu Kubernetes Grid (TKG) 2.5.2 - 企业级 Kubernetes 解决方案&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
-      
-      
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
-      
-      <category domain="https://sysin.org/tags/Kubernetes/">Kubernetes</category>
-      
-      <category domain="https://sysin.org/tags/Tanzu/">Tanzu</category>
-      
-      
-      <comments>https://sysin.org/blog/vmware-tkg-2/#disqus_thread</comments>
       
     </item>
     
