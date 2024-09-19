@@ -1,10 +1,10 @@
-https://sysin.org/blog/apple-ios-dfu/
 https://sysin.org/blog/vmware-esxi-8-u3-oem/
 https://sysin.org/blog/vmware-esxi-8-u3-sysin/
-https://sysin.org/blog/vmware-vcenter-7-u3/
 https://sysin.org/blog/vmware-vsphere-8-u3/
-https://sysin.org/blog/vmware-vcenter-8-u3/
 https://sysin.org/blog/vmware-esxi-8-u3/
+https://sysin.org/blog/apple-ios-dfu/
+https://sysin.org/blog/vmware-vcenter-7-u3/
+https://sysin.org/blog/vmware-vcenter-8-u3/
 https://sysin.org/blog/macOS-Sonoma/
 https://sysin.org/blog/cisco-secure-client-5/
 https://sysin.org/blog/macos-createinstallmedia/

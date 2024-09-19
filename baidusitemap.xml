@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sysin.org/blog/apple-ios-dfu/</loc>
-    <lastmod>2024-09-18</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-09-19</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
+    <lastmod>2024-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-vsphere-8-u3/</loc>
+    <lastmod>2024-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u3/</loc>
+    <lastmod>2024-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/apple-ios-dfu/</loc>
     <lastmod>2024-09-18</lastmod>
   </url>
   <url>
@@ -17,15 +25,7 @@
     <lastmod>2024-09-18</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-8-u3/</loc>
-    <lastmod>2024-09-18</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-vcenter-8-u3/</loc>
-    <lastmod>2024-09-18</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u3/</loc>
     <lastmod>2024-09-18</lastmod>
   </url>
   <url>
@@ -989,11 +989,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-audition/</loc>
+    <loc>https://sysin.org/blog/adobe-bridge/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-bridge/</loc>
+    <loc>https://sysin.org/blog/adobe-audition/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1265,11 +1265,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/exchange-patch/</loc>
+    <loc>https://sysin.org/blog/exchange-2019/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/exchange-2019/</loc>
+    <loc>https://sysin.org/blog/exchange-patch/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1477,11 +1477,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/omnissa-horizon-8/</loc>
+    <loc>https://sysin.org/blog/opnsense/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/opnsense/</loc>
+    <loc>https://sysin.org/blog/omnissa-horizon-8/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1909,11 +1909,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/md-live/</loc>
+    <loc>https://sysin.org/blog/metasploit-framework-6/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/metasploit-framework-6/</loc>
+    <loc>https://sysin.org/blog/md-live/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2041,11 +2041,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/arm-development-studio-2023/</loc>
+    <loc>https://sysin.org/blog/binary-ninja-3/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/binary-ninja-3/</loc>
+    <loc>https://sysin.org/blog/arm-development-studio-2023/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2093,11 +2093,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/nessus-auto-install-for-macos/</loc>
+    <loc>https://sysin.org/blog/mobaxterm/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/mobaxterm/</loc>
+    <loc>https://sysin.org/blog/nessus-auto-install-for-macos/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2110,10 +2110,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/proxmox-ve-7/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/pt-network-attack-discovery/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2138,6 +2134,10 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/rocky-linux-migrate-centos/</loc>
+    <lastmod>2024-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/pt-network-attack-discovery/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2401,11 +2401,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/apple-imovie/</loc>
+    <loc>https://sysin.org/blog/apple-iwork-10/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/apple-iwork-10/</loc>
+    <loc>https://sysin.org/blog/apple-imovie/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
