@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sysin.org/blog/macOS-Sonoma/</loc>
+    <loc>https://sysin.org/blog/vmware-vcenter-7-u3/</loc>
     
     <lastmod>2024-09-19</lastmod>
     
@@ -11,16 +11,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/nexpose-6/</loc>
-    
-    <lastmod>2024-09-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/metasploit-pro-4/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
     
     <lastmod>2024-09-19</lastmod>
     
@@ -38,7 +29,25 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
+    <loc>https://sysin.org/blog/metasploit-pro-4/</loc>
+    
+    <lastmod>2024-09-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/macOS-Sonoma/</loc>
+    
+    <lastmod>2024-09-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/nexpose-6/</loc>
     
     <lastmod>2024-09-19</lastmod>
     
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://sysin.org/blog/apple-ios-dfu/</loc>
-    
-    <lastmod>2024-09-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-vcenter-7-u3/</loc>
     
     <lastmod>2024-09-18</lastmod>
     
@@ -6338,7 +6338,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/install-docker-on-ubuntu-2004/</loc>
+    <loc>https://sysin.org/blog/install-macos-12-on-unsupported-mac-opencore/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6347,7 +6347,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/install-macos-12-on-unsupported-mac-opencore/</loc>
+    <loc>https://sysin.org/blog/install-docker-on-ubuntu-2004/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7361,20 +7361,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Microsoft/</loc>
-    <lastmod>2024-09-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/PowerShell/</loc>
-    <lastmod>2024-09-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/tags/Dell/</loc>
     <lastmod>2024-09-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -7383,6 +7369,20 @@
   
   <url>
     <loc>https://sysin.org/tags/Storage/</loc>
+    <lastmod>2024-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/tags/Microsoft/</loc>
+    <lastmod>2024-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/tags/PowerShell/</loc>
     <lastmod>2024-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
