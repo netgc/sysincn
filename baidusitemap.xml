@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sysin.cn/blog/vmware-vcenter-7-u3/</loc>
-    <lastmod>2024-09-19</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</loc>
     <lastmod>2024-09-19</lastmod>
   </url>
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</loc>
+    <lastmod>2024-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/vmware-vcenter-7-u3/</loc>
     <lastmod>2024-09-19</lastmod>
   </url>
   <url>
