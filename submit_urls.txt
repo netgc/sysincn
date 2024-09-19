@@ -1,3 +1,4 @@
+https://sysin.org/blog/office-2024-for-mac/
 https://sysin.org/blog/office-2024/
 https://sysin.org/blog/vmware-esxi-8-u3-sysin/
 https://sysin.org/blog/vmware-esxi-8-u3-oem/
@@ -17,4 +18,3 @@ https://sysin.org/blog/install-macos-13-on-unsupported-mac/
 https://sysin.org/blog/install-macos-14-on-unsupported-mac/
 https://sysin.org/blog/macOS-Sonoma-boot-iso/
 https://sysin.org/blog/macOS-Sequoia/
-https://sysin.org/blog/macOS-Sequoia-boot-iso/

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/office-2024-for-mac/</loc>
+    
+    <lastmod>2024-09-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/office-2024/</loc>
     
     <lastmod>2024-09-19</lastmod>
@@ -2576,15 +2585,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/office-2024-for-mac/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/opnsense-22/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -4664,7 +4664,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-17/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4673,7 +4673,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-17/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
