@@ -1,3 +1,5 @@
+https://sysin.cn/blog/nexpose-6/
+https://sysin.cn/blog/metasploit-pro-4/
 https://sysin.cn/blog/vmware-esxi-8-u3-oem/
 https://sysin.cn/blog/vmware-esxi-8-u3-sysin/
 https://sysin.cn/blog/vmware-vsphere-8-u3/
@@ -16,5 +18,3 @@ https://sysin.cn/blog/macOS-Sonoma-boot-iso/
 https://sysin.cn/blog/macOS-Sequoia/
 https://sysin.cn/blog/macOS-Sequoia-boot-iso/
 https://sysin.cn/blog/macOS/
-https://sysin.cn/blog/macOS-Big-Sur-boot-iso/
-https://sysin.cn/blog/macOS-Monterey/

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.cn/blog/nexpose-6/</loc>
+    <lastmod>2024-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/metasploit-pro-4/</loc>
+    <lastmod>2024-09-19</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</loc>
     <lastmod>2024-09-19</lastmod>
   </url>
@@ -218,10 +226,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/cellebrite-ufed/</loc>
-    <lastmod>2024-09-12</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/nexpose-6/</loc>
     <lastmod>2024-09-12</lastmod>
   </url>
   <url>
@@ -454,10 +458,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/vmware-cloud-foundation-9/</loc>
-    <lastmod>2024-08-28</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/metasploit-pro-4/</loc>
     <lastmod>2024-08-28</lastmod>
   </url>
   <url>

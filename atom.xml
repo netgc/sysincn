@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-09-19T00:32:24.783Z</updated>
+  <updated>2024-09-19T00:46:32.124Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -15,6 +15,68 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Nexpose 6.6.270 for Linux &amp; Windows - 漏洞扫描</title>
+    <link href="https://sysin.cn/blog/nexpose-6/"/>
+    <id>https://sysin.cn/blog/nexpose-6/</id>
+    <published>2024-09-19T00:39:30.000Z</published>
+    <updated>2024-09-19T00:46:32.124Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-6/&quot; title=&quot;Nexpose 6.6.270 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 6.6.270 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Metasploit Pro 4.22.4-2024091601 (Linux, Windows) - 专业渗透测试框架</title>
+    <link href="https://sysin.cn/blog/metasploit-pro-4/"/>
+    <id>https://sysin.cn/blog/metasploit-pro-4/</id>
+    <published>2024-09-19T00:39:10.000Z</published>
+    <updated>2024-09-19T00:46:24.799Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/metasploit-pro-4/&quot; title=&quot;Metasploit Pro 4.22.4-2024091601 (Linux, Windows) - 专业渗透测试框架&quot;&gt;Metasploit Pro 4.22.4-2024091601 (Linux, Windows) - 专业渗透测试框架&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
+    
+  </entry>
   
   <entry>
     <title>VMware ESXi 8.0U3b macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
@@ -813,64 +875,6 @@
     <category term="Kubernetes" scheme="https://sysin.cn/tags/Kubernetes/"/>
     
     <category term="Tanzu" scheme="https://sysin.cn/tags/Tanzu/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cellebrite UFED 4PC 7.70 (Windows) - Android 和 iOS 移动设备取证软件</title>
-    <link href="https://sysin.cn/blog/cellebrite-ufed/"/>
-    <id>https://sysin.cn/blog/cellebrite-ufed/</id>
-    <published>2024-09-12T02:23:18.000Z</published>
-    <updated>2024-09-12T04:01:56.857Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cellebrite-ufed/&quot; title=&quot;Cellebrite UFED 4PC 7.70 (Windows) - Android 和 iOS 移动设备取证软件&quot;&gt;Cellebrite UFED 4PC 7.70 (Windows) - Android 和 iOS 移动设备取证软件&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
-    
-    
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nexpose 6.6.269 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.cn/blog/nexpose-6/"/>
-    <id>https://sysin.cn/blog/nexpose-6/</id>
-    <published>2024-09-12T01:28:50.000Z</published>
-    <updated>2024-09-12T03:56:37.084Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-6/&quot; title=&quot;Nexpose 6.6.269 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 6.6.269 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
-    
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
-    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
     
   </entry>
   
