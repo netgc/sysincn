@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/devices-unsupported-in-esxi-7/</loc>
+    <lastmod>2024-09-20</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/devices-unsupported-in-esxi-8/</loc>
+    <lastmod>2024-09-20</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/rhel-8/</loc>
+    <lastmod>2024-09-20</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/rhel-9/</loc>
+    <lastmod>2024-09-20</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/nessus-10/</loc>
     <lastmod>2024-09-20</lastmod>
   </url>
@@ -18,14 +34,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-anyconnect-4/</loc>
-    <lastmod>2024-09-20</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/rhel-8/</loc>
-    <lastmod>2024-09-20</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/rhel-9/</loc>
     <lastmod>2024-09-20</lastmod>
   </url>
   <url>
@@ -2021,10 +2029,6 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/devices-unsupported-in-esxi-7/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/nessus-8/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -2133,11 +2137,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/pt-network-attack-discovery/</loc>
+    <loc>https://sysin.org/blog/public-key-authentication/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/public-key-authentication/</loc>
+    <loc>https://sysin.org/blog/pt-network-attack-discovery/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2778,10 +2782,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-4/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/devices-unsupported-in-esxi-8/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
