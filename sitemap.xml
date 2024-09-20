@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.cn/blog/vmware-sd-wan-6/</loc>
+    
+    <lastmod>2024-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/macOS-Sonoma/</loc>
     
     <lastmod>2024-09-20</lastmod>
@@ -2271,15 +2280,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/vmware-horizon-8-2309/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/vmware-sd-wan-6/</loc>
     
     <lastmod>2024-08-10</lastmod>
     

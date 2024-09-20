@@ -1,4 +1,5 @@
 https://sysin.cn/blog/rhel-9/
+https://sysin.cn/blog/vmware-sd-wan-6/
 https://sysin.cn/blog/macOS-Sonoma/
 https://sysin.cn/blog/macOS-Ventura-boot-iso/
 https://sysin.cn/blog/macOS-Ventura/
@@ -17,4 +18,3 @@ https://sysin.cn/blog/cisco-anyconnect-4/
 https://sysin.cn/blog/acunetix/
 https://sysin.cn/blog/cisco-fmc-7/
 https://sysin.cn/blog/vmware-cloud-foundation-4/
-https://sysin.cn/blog/adobe-photoshop/
