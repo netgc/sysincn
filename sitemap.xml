@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/rhel-9/</loc>
+    
+    <lastmod>2024-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/macOS-Sonoma/</loc>
     
     <lastmod>2024-09-20</lastmod>
@@ -84,15 +93,6 @@
   
   <url>
     <loc>https://sysin.org/blog/rhel-8/</loc>
-    
-    <lastmod>2024-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/rhel-9/</loc>
     
     <lastmod>2024-09-20</lastmod>
     
@@ -7403,14 +7403,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Edge/</loc>
+    <loc>https://sysin.org/tags/AutoUpdate/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/AutoUpdate/</loc>
+    <loc>https://sysin.org/tags/Edge/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
