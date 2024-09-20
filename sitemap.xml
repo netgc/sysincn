@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/cisco-anyconnect-4/</loc>
+    
+    <lastmod>2024-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/rhel-8/</loc>
+    
+    <lastmod>2024-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/rhel-9/</loc>
+    
+    <lastmod>2024-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/acunetix/</loc>
     
     <lastmod>2024-09-20</lastmod>
@@ -2369,7 +2396,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/veritas-netbackup-10-1/</loc>
+    <loc>https://sysin.org/blog/veritas-backup-exec-23/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2378,7 +2405,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/veritas-backup-exec-23/</loc>
+    <loc>https://sysin.org/blog/veritas-netbackup-10-1/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5285,15 +5312,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-anyconnect-4/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/cisco-nx-os-10/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -6041,15 +6059,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/rhel-9/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/veritas-netbackup-10-3/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -6357,15 +6366,6 @@
   
   <url>
     <loc>https://sysin.org/blog/kali-linux-2021/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/rhel-8/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7340,14 +7340,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/ESXi/</loc>
+    <loc>https://sysin.org/tags/vCenter/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/vCenter/</loc>
+    <loc>https://sysin.org/tags/ESXi/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

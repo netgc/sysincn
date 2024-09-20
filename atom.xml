@@ -304,9 +304,9 @@
     
     <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
     
-    <category term="ESXi" scheme="https://sysin.org/tags/ESXi/"/>
-    
     <category term="vCenter" scheme="https://sysin.org/tags/vCenter/"/>
+    
+    <category term="ESXi" scheme="https://sysin.org/tags/ESXi/"/>
     
     <category term="vSAN" scheme="https://sysin.org/tags/vSAN/"/>
     
