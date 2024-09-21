@@ -15,8 +15,39 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Sat, 21 Sep 2024 00:36:46 GMT</pubDate>
+    <pubDate>Sat, 21 Sep 2024 04:09:21 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>macOS 15 Blank OVF - macOS Sequoia 虚拟化解决方案</title>
+      <link>https://sysin.cn/blog/macos-15-ovf/</link>
+      <guid>https://sysin.cn/blog/macos-15-ovf/</guid>
+      <pubDate>Sat, 21 Sep 2024 03:50:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-15-ovf/&quot; title=&quot;macOS 15 Blank OVF - macOS Sequoia 虚拟化解决方案&quot;&gt;macOS 15 Blank OVF - macOS Sequoia 虚拟化解决方案&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
+      
+      
+      <comments>https://sysin.cn/blog/macos-15-ovf/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Windows Server 2022 中文版、英文版下载 (updated Sep 2024)</title>
@@ -902,35 +933,6 @@
       
       
       <comments>https://sysin.cn/blog/install-macos-on-unsupported-mac/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>在不受支持的 Mac 上安装 macOS Sequoia (OpenCore Legacy Patcher v2.0.1)</title>
-      <link>https://sysin.cn/blog/install-macos-15-on-unsupported-mac/</link>
-      <guid>https://sysin.cn/blog/install-macos-15-on-unsupported-mac/</guid>
-      <pubDate>Sun, 15 Sep 2024 01:10:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/install-macos-on-unsupported-mac/&quot; title=&quot;在不受支持的 Mac 上安装 macOS (索引页面)&quot;&gt;在不受支持的 Mac 上安装 macOS (索引页面)&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
-      
-      
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
-      
-      
-      <comments>https://sysin.cn/blog/install-macos-15-on-unsupported-mac/#disqus_thread</comments>
       
     </item>
     

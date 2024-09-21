@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-09-21T00:36:46.068Z</updated>
+  <updated>2024-09-21T04:09:21.071Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>macOS 15 Blank OVF - macOS Sequoia 虚拟化解决方案</title>
+    <link href="https://sysin.cn/blog/macos-15-ovf/"/>
+    <id>https://sysin.cn/blog/macos-15-ovf/</id>
+    <published>2024-09-21T03:50:00.000Z</published>
+    <updated>2024-09-21T04:09:21.071Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-15-ovf/&quot; title=&quot;macOS 15 Blank OVF - macOS Sequoia 虚拟化解决方案&quot;&gt;macOS 15 Blank OVF - macOS Sequoia 虚拟化解决方案&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
+    
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    
+  </entry>
   
   <entry>
     <title>Windows Server 2022 中文版、英文版下载 (updated Sep 2024)</title>
@@ -572,7 +601,7 @@
     <link href="https://sysin.cn/blog/macOS-Sequoia-boot-iso/"/>
     <id>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</id>
     <published>2024-09-15T23:02:20.000Z</published>
-    <updated>2024-09-17T04:58:42.362Z</updated>
+    <updated>2024-09-21T04:01:49.048Z</updated>
     
     
       
@@ -824,33 +853,6 @@
     <id>https://sysin.cn/blog/install-macos-on-unsupported-mac/</id>
     <published>2024-09-15T01:20:00.000Z</published>
     <updated>2024-09-15T01:44:28.517Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/install-macos-on-unsupported-mac/&quot; title=&quot;在不受支持的 Mac 上安装 macOS (索引页面)&quot;&gt;在不受支持的 Mac 上安装 macOS (索引页面)&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
-    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>在不受支持的 Mac 上安装 macOS Sequoia (OpenCore Legacy Patcher v2.0.1)</title>
-    <link href="https://sysin.cn/blog/install-macos-15-on-unsupported-mac/"/>
-    <id>https://sysin.cn/blog/install-macos-15-on-unsupported-mac/</id>
-    <published>2024-09-15T01:10:00.000Z</published>
-    <updated>2024-09-20T12:59:00.958Z</updated>
     
     
       

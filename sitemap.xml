@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/macos-15-ovf/</loc>
+    
+    <lastmod>2024-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</loc>
+    
+    <lastmod>2024-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/macos-14-ovf/</loc>
+    
+    <lastmod>2024-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/macOS/</loc>
+    
+    <lastmod>2024-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/windows-10-arm/</loc>
     
     <lastmod>2024-09-21</lastmod>
@@ -102,15 +138,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/install-macos-14-on-unsupported-mac/</loc>
-    
-    <lastmod>2024-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/macOS/</loc>
     
     <lastmod>2024-09-20</lastmod>
     
@@ -363,15 +390,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/macOS-Sequoia/</loc>
-    
-    <lastmod>2024-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</loc>
     
     <lastmod>2024-09-17</lastmod>
     
@@ -3737,15 +3755,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/macos-14-ovf/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/pan-os-10-1/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -4718,7 +4727,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/f5-big-ip-next/</loc>
+    <loc>https://sysin.cn/blog/f5-big-ip-17/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4727,7 +4736,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/f5-big-ip-17/</loc>
+    <loc>https://sysin.cn/blog/f5-big-ip-next/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5763,15 +5772,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/varnish-with-hitch-http2/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/macos-15-ovf/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7207,6 +7207,20 @@
   </url>
   
   <url>
+    <loc>https://sysin.cn/tags/Kubernetes/</loc>
+    <lastmod>2024-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/tags/SSL/</loc>
+    <lastmod>2024-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/tags/Chrome/</loc>
     <lastmod>2024-09-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -7222,20 +7236,6 @@
   
   <url>
     <loc>https://sysin.cn/tags/Safari/</loc>
-    <lastmod>2024-09-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/tags/Kubernetes/</loc>
-    <lastmod>2024-09-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/tags/SSL/</loc>
     <lastmod>2024-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7846,14 +7846,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/categories/Windows/</loc>
+    <loc>https://sysin.cn/categories/macOS/</loc>
     <lastmod>2024-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/categories/macOS/</loc>
+    <loc>https://sysin.cn/categories/Windows/</loc>
     <lastmod>2024-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
