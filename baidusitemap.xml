@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/apple-silicon-mac-dfu/</loc>
+    <lastmod>2024-09-21</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/apple-ios-dfu/</loc>
+    <lastmod>2024-09-21</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/macos-installer-damaged/</loc>
+    <lastmod>2024-09-21</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/how-to-install-macos/</loc>
+    <lastmod>2024-09-21</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/macos-if-crashes-when-opening/</loc>
+    <lastmod>2024-09-21</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/macos-universal-control-on-unsupported-mac/</loc>
+    <lastmod>2024-09-21</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/macos-15-ovf/</loc>
     <lastmod>2024-09-21</lastmod>
   </url>
@@ -9,11 +33,19 @@
     <lastmod>2024-09-21</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/macos-14-ovf/</loc>
+    <loc>https://sysin.org/blog/macos-createinstallmedia/</loc>
     <lastmod>2024-09-21</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/macOS/</loc>
+    <lastmod>2024-09-21</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware/</loc>
+    <lastmod>2024-09-21</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/macos-14-ovf/</loc>
     <lastmod>2024-09-21</lastmod>
   </url>
   <url>
@@ -149,19 +181,11 @@
     <lastmod>2024-09-19</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/apple-ios-dfu/</loc>
-    <lastmod>2024-09-18</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-vcenter-8-u3/</loc>
     <lastmod>2024-09-18</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-secure-client-5/</loc>
-    <lastmod>2024-09-18</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/macos-createinstallmedia/</loc>
     <lastmod>2024-09-18</lastmod>
   </url>
   <url>
@@ -433,10 +457,6 @@
     <lastmod>2024-09-04</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/how-to-install-macos/</loc>
-    <lastmod>2024-09-04</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-tkgi/</loc>
     <lastmod>2024-09-04</lastmod>
   </url>
@@ -463,10 +483,6 @@
   <url>
     <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
     <lastmod>2024-09-02</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware/</loc>
-    <lastmod>2024-09-01</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/linux/</loc>
@@ -1385,11 +1401,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7-u3/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-7/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-7-u3/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1697,10 +1713,6 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/macos-universal-control-on-unsupported-mac/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-esxi-7-u2-sysin/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -1909,10 +1921,6 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/macos-if-crashes-when-opening/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/baidu-netdisk-restrict/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -1966,10 +1974,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/macOS-Monterey-boot-iso/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/macos-installer-damaged/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2145,11 +2149,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/public-key-authentication/</loc>
+    <loc>https://sysin.org/blog/redirect-jquery-cdn/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/redirect-jquery-cdn/</loc>
+    <loc>https://sysin.org/blog/public-key-authentication/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2193,11 +2197,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-tkg/</loc>
+    <loc>https://sysin.org/blog/vmware-tce/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-tce/</loc>
+    <loc>https://sysin.org/blog/vmware-tkg/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -3018,10 +3022,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/anolis-os-8-ovf/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/apple-silicon-mac-dfu/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>

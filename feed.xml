@@ -15,8 +15,37 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Sat, 21 Sep 2024 04:09:21 GMT</pubDate>
+    <pubDate>Sat, 21 Sep 2024 05:53:29 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>macOS 提示：“应用程序” 已损坏，无法打开的解决方法总结</title>
+      <link>https://sysin.org/blog/macos-if-crashes-when-opening/</link>
+      <guid>https://sysin.org/blog/macos-if-crashes-when-opening/</guid>
+      <pubDate>Sat, 21 Sep 2024 04:10:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-if-crashes-when-opening/&quot; title=&quot;macOS 提示：“应用程序” 已损坏，无法打开的解决方法总结&quot;&gt;macOS 提示：“应用程序” 已损坏，无法打开的解决方法总结&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      
+      
+      <comments>https://sysin.org/blog/macos-if-crashes-when-opening/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>macOS 15 Blank OVF - macOS Sequoia 虚拟化解决方案</title>
@@ -418,6 +447,126 @@
     </item>
     
     <item>
+      <title>使用 “恢复模式” 或 “DFU 模式” 来更新和恢复 iOS 固件</title>
+      <link>https://sysin.org/blog/apple-ios-dfu/</link>
+      <guid>https://sysin.org/blog/apple-ios-dfu/</guid>
+      <pubDate>Wed, 18 Sep 2024 04:18:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-ios-dfu/&quot; title=&quot;使用 “恢复模式” 或 “DFU 模式” 来更新和恢复 iOS 固件&quot;&gt;使用 “恢复模式” 或 “DFU 模式” 来更新和恢复 iOS 固件&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      
+      
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      
+      <category domain="https://sysin.org/tags/iOS/">iOS</category>
+      
+      <category domain="https://sysin.org/tags/DFU/">DFU</category>
+      
+      
+      <comments>https://sysin.org/blog/apple-ios-dfu/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>安装旧版 macOS 时提示：应用程序副本已损坏</title>
+      <link>https://sysin.org/blog/macos-installer-damaged/</link>
+      <guid>https://sysin.org/blog/macos-installer-damaged/</guid>
+      <pubDate>Wed, 18 Sep 2024 04:15:19 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-installer-damaged/&quot; title=&quot;安装旧版 macOS 时提示：应用程序副本已损坏&quot;&gt;安装旧版 macOS 时提示：应用程序副本已损坏&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      
+      
+      <comments>https://sysin.org/blog/macos-installer-damaged/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>如何在 Mac 和虚拟机上安装 macOS Ventura、macOS Sonoma 和 macOS Sequoia</title>
+      <link>https://sysin.org/blog/how-to-install-macos/</link>
+      <guid>https://sysin.org/blog/how-to-install-macos/</guid>
+      <pubDate>Wed, 18 Sep 2024 04:01:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/how-to-install-macos/&quot; title=&quot;如何在 Mac 和虚拟机上安装 macOS Ventura、macOS Sonoma 和 macOS Sequoia&quot;&gt;如何在 Mac 和虚拟机上安装 macOS Ventura、macOS Sonoma 和 macOS Sequoia&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      
+      
+      <comments>https://sysin.org/blog/how-to-install-macos/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>在 Apple silicon Mac 上 DFU 模式修复或恢复 macOS 固件</title>
+      <link>https://sysin.org/blog/apple-silicon-mac-dfu/</link>
+      <guid>https://sysin.org/blog/apple-silicon-mac-dfu/</guid>
+      <pubDate>Wed, 18 Sep 2024 04:00:20 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-silicon-mac-dfu/&quot; title=&quot;在 Apple silicon Mac 上 DFU 模式修复或恢复 macOS 固件&quot;&gt;在 Apple silicon Mac 上 DFU 模式修复或恢复 macOS 固件&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      
+      <category domain="https://sysin.org/tags/DFU/">DFU</category>
+      
+      
+      <comments>https://sysin.org/blog/apple-silicon-mac-dfu/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>VMware vCenter Server 7.0U3s 下载 - 集中管理 vSphere 环境 (安全修复)</title>
       <link>https://sysin.org/blog/vmware-vcenter-7-u3/</link>
       <guid>https://sysin.org/blog/vmware-vcenter-7-u3/</guid>
@@ -780,159 +929,6 @@
       
       
       <comments>https://sysin.org/blog/macOS-Ventura-boot-iso/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>macOS Ventura 13.7 (22H123) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.org/blog/macOS-Ventura/</link>
-      <guid>https://sysin.org/blog/macOS-Ventura/</guid>
-      <pubDate>Sun, 15 Sep 2024 23:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Ventura/&quot; title=&quot;macOS Ventura 13.7 (22H123) 正式版 ISO、IPSW、PKG 下载&quot;&gt;macOS Ventura 13.7 (22H123) 正式版 ISO、IPSW、PKG 下载&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
-      
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
-      
-      
-      <comments>https://sysin.org/blog/macOS-Ventura/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>VirtualBox 7.1.0 (macOS, Linux, Windows) - 开源跨平台虚拟化软件</title>
-      <link>https://sysin.org/blog/virtualbox-7/</link>
-      <guid>https://sysin.org/blog/virtualbox-7/</guid>
-      <pubDate>Sun, 15 Sep 2024 02:35:18 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/virtualbox-7/&quot; title=&quot;VirtualBox 7.1.0 (macOS, Linux, Windows) - 开源跨平台虚拟化软件&quot;&gt;VirtualBox 7.1.0 (macOS, Linux, Windows) - 开源跨平台虚拟化软件&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Linux/">Linux</category>
-      
-      
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.org/tags/Unix/">Unix</category>
-      
-      
-      <comments>https://sysin.org/blog/virtualbox-7/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Ubuntu 22.04.5 LTS (Jammy Jellyfish) - 现代化的企业与开源 Linux</title>
-      <link>https://sysin.org/blog/ubuntu-2204/</link>
-      <guid>https://sysin.org/blog/ubuntu-2204/</guid>
-      <pubDate>Sun, 15 Sep 2024 02:26:21 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/ubuntu-2204/&quot; title=&quot;Ubuntu 22.04.5 LTS (Jammy Jellyfish) - 现代化的企业与开源 Linux&quot;&gt;Ubuntu 22.04.5 LTS (Jammy Jellyfish) - 现代化的企业与开源 Linux&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Linux/">Linux</category>
-      
-      
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.org/tags/Ubuntu/">Ubuntu</category>
-      
-      
-      <comments>https://sysin.org/blog/ubuntu-2204/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Kali Linux 2024.3 发布 (Multiple transitions) - 领先的渗透测试发行版</title>
-      <link>https://sysin.org/blog/kali-linux/</link>
-      <guid>https://sysin.org/blog/kali-linux/</guid>
-      <pubDate>Sun, 15 Sep 2024 02:20:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/kali-linux/&quot; title=&quot;Kali Linux 2024.3 发布 (Multiple transitions) - 领先的渗透测试发行版&quot;&gt;Kali Linux 2024.3 发布 (Multiple transitions) - 领先的渗透测试发行版&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Linux/">Linux</category>
-      
-      
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
-      
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
-      
-      
-      <comments>https://sysin.org/blog/kali-linux/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>在不受支持的 Mac 上安装 macOS (索引页面)</title>
-      <link>https://sysin.org/blog/install-macos-on-unsupported-mac/</link>
-      <guid>https://sysin.org/blog/install-macos-on-unsupported-mac/</guid>
-      <pubDate>Sun, 15 Sep 2024 01:20:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/install-macos-on-unsupported-mac/&quot; title=&quot;在不受支持的 Mac 上安装 macOS (索引页面)&quot;&gt;在不受支持的 Mac 上安装 macOS (索引页面)&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
-      
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
-      
-      
-      <comments>https://sysin.org/blog/install-macos-on-unsupported-mac/#disqus_thread</comments>
       
     </item>
     
