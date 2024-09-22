@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-09-21T05:53:29.460Z</updated>
+  <updated>2024-09-22T07:00:58.850Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>如何屏蔽 iOS 软件自动更新，去除更新通知和标记</title>
+    <link href="https://sysin.cn/blog/disable-ios-update/"/>
+    <id>https://sysin.cn/blog/disable-ios-update/</id>
+    <published>2024-09-22T05:10:18.000Z</published>
+    <updated>2024-09-22T07:00:58.850Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/disable-ios-update/&quot; title=&quot;如何屏蔽 iOS 软件自动更新，去除更新通知和标记&quot;&gt;如何屏蔽 iOS 软件自动更新，去除更新通知和标记&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
+    
+    
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
+    
+    <category term="iOS" scheme="https://sysin.cn/tags/iOS/"/>
+    
+    <category term="AutoUpdate" scheme="https://sysin.cn/tags/AutoUpdate/"/>
+    
+  </entry>
   
   <entry>
     <title>macOS 提示：“应用程序” 已损坏，无法打开的解决方法总结</title>
@@ -829,33 +858,6 @@
         
         
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Sonoma/&quot; title=&quot;macOS Sonoma 14.7 (23H124) 正式版 ISO、IPSW、PKG 下载&quot;&gt;macOS Sonoma 14.7 (23H124) 正式版 ISO、IPSW、PKG 下载&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
-    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>macOS Ventura 13.7 (22H123) Boot ISO 原版可引导镜像下载</title>
-    <link href="https://sysin.cn/blog/macOS-Ventura-boot-iso/"/>
-    <id>https://sysin.cn/blog/macOS-Ventura-boot-iso/</id>
-    <published>2024-09-15T23:00:20.000Z</published>
-    <updated>2024-09-20T09:13:16.741Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Ventura-boot-iso/&quot; title=&quot;macOS Ventura 13.7 (22H123) Boot ISO 原版可引导镜像下载&quot;&gt;macOS Ventura 13.7 (22H123) Boot ISO 原版可引导镜像下载&lt;/a&gt;，查看最新版。</summary>
         
       
     

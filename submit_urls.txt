@@ -1,3 +1,4 @@
+https://sysin.cn/blog/disable-ios-update/
 https://sysin.cn/blog/apple-silicon-mac-dfu/
 https://sysin.cn/blog/apple-ios-dfu/
 https://sysin.cn/blog/macos-installer-damaged/
@@ -17,4 +18,3 @@ https://sysin.cn/blog/windows-server-2022/
 https://sysin.cn/blog/install-macos-15-on-unsupported-mac/
 https://sysin.cn/blog/rhel-9/
 https://sysin.cn/blog/vmware-sd-wan-6/
-https://sysin.cn/blog/macOS-Sonoma/

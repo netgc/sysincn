@@ -15,8 +15,39 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Sat, 21 Sep 2024 05:53:29 GMT</pubDate>
+    <pubDate>Sun, 22 Sep 2024 07:00:58 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>如何屏蔽 iOS 软件自动更新，去除更新通知和标记</title>
+      <link>https://sysin.cn/blog/disable-ios-update/</link>
+      <guid>https://sysin.cn/blog/disable-ios-update/</guid>
+      <pubDate>Sun, 22 Sep 2024 05:10:18 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/disable-ios-update/&quot; title=&quot;如何屏蔽 iOS 软件自动更新，去除更新通知和标记&quot;&gt;如何屏蔽 iOS 软件自动更新，去除更新通知和标记&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      
+      <category domain="https://sysin.cn/tags/iOS/">iOS</category>
+      
+      <category domain="https://sysin.cn/tags/AutoUpdate/">AutoUpdate</category>
+      
+      
+      <comments>https://sysin.cn/blog/disable-ios-update/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>macOS 提示：“应用程序” 已损坏，无法打开的解决方法总结</title>
@@ -900,35 +931,6 @@
       
       
       <comments>https://sysin.cn/blog/macOS-Sonoma/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>macOS Ventura 13.7 (22H123) Boot ISO 原版可引导镜像下载</title>
-      <link>https://sysin.cn/blog/macOS-Ventura-boot-iso/</link>
-      <guid>https://sysin.cn/blog/macOS-Ventura-boot-iso/</guid>
-      <pubDate>Sun, 15 Sep 2024 23:00:20 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Ventura-boot-iso/&quot; title=&quot;macOS Ventura 13.7 (22H123) Boot ISO 原版可引导镜像下载&quot;&gt;macOS Ventura 13.7 (22H123) Boot ISO 原版可引导镜像下载&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
-      
-      
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
-      
-      
-      <comments>https://sysin.cn/blog/macOS-Ventura-boot-iso/#disqus_thread</comments>
       
     </item>
     
