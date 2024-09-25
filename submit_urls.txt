@@ -1,3 +1,5 @@
+https://sysin.cn/blog/apple-xcode-16/
+https://sysin.cn/blog/install-macos-15-on-unsupported-mac/
 https://sysin.cn/blog/cisco-firepower-9300/
 https://sysin.cn/blog/cisco-firepower-4100/
 https://sysin.cn/blog/cisco-firepower-4200/
@@ -16,5 +18,3 @@ https://sysin.cn/blog/apple-ios-dfu/
 https://sysin.cn/blog/macos-installer-damaged/
 https://sysin.cn/blog/how-to-install-macos/
 https://sysin.cn/blog/macos-if-crashes-when-opening/
-https://sysin.cn/blog/macos-universal-control-on-unsupported-mac/
-https://sysin.cn/blog/macOS-Sequoia-boot-iso/

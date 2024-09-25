@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/apple-xcode-16/</loc>
+    
+    <lastmod>2024-09-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/install-macos-15-on-unsupported-mac/</loc>
+    
+    <lastmod>2024-09-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/cisco-firepower-9300/</loc>
     
     <lastmod>2024-09-25</lastmod>
@@ -248,15 +266,6 @@
     <loc>https://sysin.cn/blog/windows-server-2022/</loc>
     
     <lastmod>2024-09-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/install-macos-15-on-unsupported-mac/</loc>
-    
-    <lastmod>2024-09-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -552,15 +561,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/macOS-Monterey/</loc>
-    
-    <lastmod>2024-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/apple-xcode-16/</loc>
     
     <lastmod>2024-09-17</lastmod>
     
@@ -2639,7 +2639,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vsphere-essentials-plus-kit/</loc>
+    <loc>https://sysin.cn/blog/vmware-vsphere-client-session-timeout/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2648,7 +2648,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vsphere-client-session-timeout/</loc>
+    <loc>https://sysin.cn/blog/vmware-vsphere-essentials-plus-kit/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
