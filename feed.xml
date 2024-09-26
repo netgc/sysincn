@@ -4,24 +4,86 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
     
-    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Thu, 26 Sep 2024 04:50:07 GMT</pubDate>
+    <description>sysin | SYStem INside | 软件与技术分享</description>
+    <pubDate>Thu, 26 Sep 2024 06:29:52 GMT</pubDate>
     <generator>http://sysin.org/</generator>
     
     <item>
+      <title>VMware ESXi 8.0U3b macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
+      <link>https://sysin.org/blog/vmware-esxi-8-u3-oem/</link>
+      <guid>https://sysin.org/blog/vmware-esxi-8-u3-oem/</guid>
+      <pubDate>Thu, 26 Sep 2024 04:19:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-esxi-8-u3-oem/&quot; title=&quot;VMware ESXi 8.0U3b macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&quot;&gt;VMware ESXi 8.0U3b macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      
+      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      
+      
+      <comments>https://sysin.org/blog/vmware-esxi-8-u3-oem/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>VMware ESXi 7.0U3q macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
+      <link>https://sysin.org/blog/vmware-esxi-7-u3-oem/</link>
+      <guid>https://sysin.org/blog/vmware-esxi-7-u3-oem/</guid>
+      <pubDate>Thu, 26 Sep 2024 04:17:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-esxi-7-u3-oem/&quot; title=&quot;VMware ESXi 7.0U3q macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&quot;&gt;VMware ESXi 7.0U3q macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      
+      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      
+      
+      <comments>https://sysin.org/blog/vmware-esxi-7-u3-oem/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Cisco Secure Network Analytics 7.5.1 - 领先的网络检测和响应 (NDR) 解决方案</title>
-      <link>https://sysin.cn/blog/cisco-secure-network-analytics/</link>
-      <guid>https://sysin.cn/blog/cisco-secure-network-analytics/</guid>
+      <link>https://sysin.org/blog/cisco-secure-network-analytics/</link>
+      <guid>https://sysin.org/blog/cisco-secure-network-analytics/</guid>
       <pubDate>Thu, 26 Sep 2024 01:10:19 GMT</pubDate>
       
         
@@ -35,22 +97,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
+      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-secure-network-analytics/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-secure-network-analytics/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Firepower 9300 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-      <link>https://sysin.cn/blog/cisco-firepower-9300/</link>
-      <guid>https://sysin.cn/blog/cisco-firepower-9300/</guid>
+      <link>https://sysin.org/blog/cisco-firepower-9300/</link>
+      <guid>https://sysin.org/blog/cisco-firepower-9300/</guid>
       <pubDate>Wed, 25 Sep 2024 03:22:00 GMT</pubDate>
       
         
@@ -64,26 +126,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
+      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.cn/tags/Firepower/">Firepower</category>
+      <category domain="https://sysin.org/tags/Firepower/">Firepower</category>
       
-      <category domain="https://sysin.cn/tags/FXOS/">FXOS</category>
+      <category domain="https://sysin.org/tags/FXOS/">FXOS</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-firepower-9300/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-firepower-9300/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Secure Firewall 4200 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-      <link>https://sysin.cn/blog/cisco-firepower-4200/</link>
-      <guid>https://sysin.cn/blog/cisco-firepower-4200/</guid>
+      <link>https://sysin.org/blog/cisco-firepower-4200/</link>
+      <guid>https://sysin.org/blog/cisco-firepower-4200/</guid>
       <pubDate>Wed, 25 Sep 2024 03:21:00 GMT</pubDate>
       
         
@@ -97,26 +159,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
+      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.cn/tags/Firepower/">Firepower</category>
+      <category domain="https://sysin.org/tags/Firepower/">Firepower</category>
       
-      <category domain="https://sysin.cn/tags/FXOS/">FXOS</category>
+      <category domain="https://sysin.org/tags/FXOS/">FXOS</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-firepower-4200/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-firepower-4200/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Firepower 4100 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-      <link>https://sysin.cn/blog/cisco-firepower-4100/</link>
-      <guid>https://sysin.cn/blog/cisco-firepower-4100/</guid>
+      <link>https://sysin.org/blog/cisco-firepower-4100/</link>
+      <guid>https://sysin.org/blog/cisco-firepower-4100/</guid>
       <pubDate>Wed, 25 Sep 2024 03:20:00 GMT</pubDate>
       
         
@@ -130,26 +192,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
+      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.cn/tags/Firepower/">Firepower</category>
+      <category domain="https://sysin.org/tags/Firepower/">Firepower</category>
       
-      <category domain="https://sysin.cn/tags/FXOS/">FXOS</category>
+      <category domain="https://sysin.org/tags/FXOS/">FXOS</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-firepower-4100/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-firepower-4100/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Secure Firewall 3100 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-      <link>https://sysin.cn/blog/cisco-firepower-3100/</link>
-      <guid>https://sysin.cn/blog/cisco-firepower-3100/</guid>
+      <link>https://sysin.org/blog/cisco-firepower-3100/</link>
+      <guid>https://sysin.org/blog/cisco-firepower-3100/</guid>
       <pubDate>Wed, 25 Sep 2024 03:19:00 GMT</pubDate>
       
         
@@ -163,26 +225,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
+      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.cn/tags/Firepower/">Firepower</category>
+      <category domain="https://sysin.org/tags/Firepower/">Firepower</category>
       
-      <category domain="https://sysin.cn/tags/FXOS/">FXOS</category>
+      <category domain="https://sysin.org/tags/FXOS/">FXOS</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-firepower-3100/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-firepower-3100/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Firepower 1000 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-      <link>https://sysin.cn/blog/cisco-firepower-1000/</link>
-      <guid>https://sysin.cn/blog/cisco-firepower-1000/</guid>
+      <link>https://sysin.org/blog/cisco-firepower-1000/</link>
+      <guid>https://sysin.org/blog/cisco-firepower-1000/</guid>
       <pubDate>Wed, 25 Sep 2024 03:17:00 GMT</pubDate>
       
         
@@ -196,26 +258,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
+      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.cn/tags/Firepower/">Firepower</category>
+      <category domain="https://sysin.org/tags/Firepower/">Firepower</category>
       
-      <category domain="https://sysin.cn/tags/FXOS/">FXOS</category>
+      <category domain="https://sysin.org/tags/FXOS/">FXOS</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-firepower-1000/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-firepower-1000/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco ASAv 9.22.1 - 思科自适应安全虚拟设备 (ASAv)</title>
-      <link>https://sysin.cn/blog/cisco-asav/</link>
-      <guid>https://sysin.cn/blog/cisco-asav/</guid>
+      <link>https://sysin.org/blog/cisco-asav/</link>
+      <guid>https://sysin.org/blog/cisco-asav/</guid>
       <pubDate>Tue, 24 Sep 2024 01:12:00 GMT</pubDate>
       
         
@@ -229,24 +291,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
+      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-asav/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-asav/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco ASA 9.22.1 - 思科自适应安全设备 (ASA) 软件</title>
-      <link>https://sysin.cn/blog/cisco-asa/</link>
-      <guid>https://sysin.cn/blog/cisco-asa/</guid>
+      <link>https://sysin.org/blog/cisco-asa/</link>
+      <guid>https://sysin.org/blog/cisco-asa/</guid>
       <pubDate>Tue, 24 Sep 2024 01:10:00 GMT</pubDate>
       
         
@@ -260,24 +322,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
+      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-asa/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-asa/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Secure Firewall Management Center Virtual 7.6.0 - 思科 Firepower 管理中心软件</title>
-      <link>https://sysin.cn/blog/cisco-fmc-7/</link>
-      <guid>https://sysin.cn/blog/cisco-fmc-7/</guid>
+      <link>https://sysin.org/blog/cisco-fmc-7/</link>
+      <guid>https://sysin.org/blog/cisco-fmc-7/</guid>
       <pubDate>Mon, 23 Sep 2024 05:56:00 GMT</pubDate>
       
         
@@ -291,26 +353,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
+      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.cn/tags/Firepower/">Firepower</category>
+      <category domain="https://sysin.org/tags/Firepower/">Firepower</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-fmc-7/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-fmc-7/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Secure Firewall Threat Defense Virtual 7.6.0 - 思科下一代防火墙虚拟设备 (FTDv)</title>
-      <link>https://sysin.cn/blog/cisco-firepower-7/</link>
-      <guid>https://sysin.cn/blog/cisco-firepower-7/</guid>
+      <link>https://sysin.org/blog/cisco-firepower-7/</link>
+      <guid>https://sysin.org/blog/cisco-firepower-7/</guid>
       <pubDate>Mon, 23 Sep 2024 05:55:00 GMT</pubDate>
       
         
@@ -324,28 +386,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
+      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.cn/tags/Firepower/">Firepower</category>
+      <category domain="https://sysin.org/tags/Firepower/">Firepower</category>
       
-      <category domain="https://sysin.cn/tags/FXOS/">FXOS</category>
+      <category domain="https://sysin.org/tags/FXOS/">FXOS</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-firepower-7/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-firepower-7/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>如何屏蔽 iOS 软件自动更新，去除更新通知和标记</title>
-      <link>https://sysin.cn/blog/disable-ios-update/</link>
-      <guid>https://sysin.cn/blog/disable-ios-update/</guid>
+      <link>https://sysin.org/blog/disable-ios-update/</link>
+      <guid>https://sysin.org/blog/disable-ios-update/</guid>
       <pubDate>Sun, 22 Sep 2024 05:10:18 GMT</pubDate>
       
         
@@ -359,24 +421,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
-      <category domain="https://sysin.cn/tags/iOS/">iOS</category>
+      <category domain="https://sysin.org/tags/iOS/">iOS</category>
       
-      <category domain="https://sysin.cn/tags/AutoUpdate/">AutoUpdate</category>
+      <category domain="https://sysin.org/tags/AutoUpdate/">AutoUpdate</category>
       
       
-      <comments>https://sysin.cn/blog/disable-ios-update/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/disable-ios-update/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS 提示：“应用程序” 已损坏，无法打开的解决方法总结</title>
-      <link>https://sysin.cn/blog/macos-if-crashes-when-opening/</link>
-      <guid>https://sysin.cn/blog/macos-if-crashes-when-opening/</guid>
+      <link>https://sysin.org/blog/macos-if-crashes-when-opening/</link>
+      <guid>https://sysin.org/blog/macos-if-crashes-when-opening/</guid>
       <pubDate>Sat, 21 Sep 2024 04:10:00 GMT</pubDate>
       
         
@@ -390,22 +452,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.cn/blog/macos-if-crashes-when-opening/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/macos-if-crashes-when-opening/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS 15 Blank OVF - macOS Sequoia 虚拟化解决方案</title>
-      <link>https://sysin.cn/blog/macos-15-ovf/</link>
-      <guid>https://sysin.cn/blog/macos-15-ovf/</guid>
+      <link>https://sysin.org/blog/macos-15-ovf/</link>
+      <guid>https://sysin.org/blog/macos-15-ovf/</guid>
       <pubDate>Sat, 21 Sep 2024 03:50:00 GMT</pubDate>
       
         
@@ -419,24 +481,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
-      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
+      <category domain="https://sysin.org/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.cn/blog/macos-15-ovf/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/macos-15-ovf/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows Server 2022 中文版、英文版下载 (updated Sep 2024)</title>
-      <link>https://sysin.cn/blog/windows-server-2022/</link>
-      <guid>https://sysin.cn/blog/windows-server-2022/</guid>
+      <link>https://sysin.org/blog/windows-server-2022/</link>
+      <guid>https://sysin.org/blog/windows-server-2022/</guid>
       <pubDate>Sat, 21 Sep 2024 00:39:00 GMT</pubDate>
       
         
@@ -450,24 +512,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
-      <category domain="https://sysin.cn/tags/Server/">Server</category>
+      <category domain="https://sysin.org/tags/Server/">Server</category>
       
       
-      <comments>https://sysin.cn/blog/windows-server-2022/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-server-2022/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 11 version 23H2 中文版、英文版 (x64、ARM64) 下载 (updated Sep 2024)</title>
-      <link>https://sysin.cn/blog/windows-11/</link>
-      <guid>https://sysin.cn/blog/windows-11/</guid>
+      <link>https://sysin.org/blog/windows-11/</link>
+      <guid>https://sysin.org/blog/windows-11/</guid>
       <pubDate>Sat, 21 Sep 2024 00:38:00 GMT</pubDate>
       
         
@@ -481,22 +543,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.cn/blog/windows-11/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-11/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 10 on ARM, version 22H2 (updated Sep 2024) ARM64 AArch64 中文版、英文版下载</title>
-      <link>https://sysin.cn/blog/windows-10-arm/</link>
-      <guid>https://sysin.cn/blog/windows-10-arm/</guid>
+      <link>https://sysin.org/blog/windows-10-arm/</link>
+      <guid>https://sysin.org/blog/windows-10-arm/</guid>
       <pubDate>Sat, 21 Sep 2024 00:36:00 GMT</pubDate>
       
         
@@ -510,22 +572,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.cn/blog/windows-10-arm/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-10-arm/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 10 version 22H2 (updated Sep 2024) 中文版、英文版下载</title>
-      <link>https://sysin.cn/blog/windows-10/</link>
-      <guid>https://sysin.cn/blog/windows-10/</guid>
+      <link>https://sysin.org/blog/windows-10/</link>
+      <guid>https://sysin.org/blog/windows-10/</guid>
       <pubDate>Sat, 21 Sep 2024 00:35:00 GMT</pubDate>
       
         
@@ -539,22 +601,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.cn/blog/windows-10/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-10/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Adobe Photoshop 2024 v25.12 (macOS, Windows) - 照片和设计软件</title>
-      <link>https://sysin.cn/blog/adobe-photoshop/</link>
-      <guid>https://sysin.cn/blog/adobe-photoshop/</guid>
+      <link>https://sysin.org/blog/adobe-photoshop/</link>
+      <guid>https://sysin.org/blog/adobe-photoshop/</guid>
       <pubDate>Fri, 20 Sep 2024 01:30:18 GMT</pubDate>
       
         
@@ -568,24 +630,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
+      <category domain="https://sysin.org/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Adobe/">Adobe</category>
+      <category domain="https://sysin.org/tags/Adobe/">Adobe</category>
       
       
-      <comments>https://sysin.cn/blog/adobe-photoshop/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/adobe-photoshop/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Adobe After Effects 2024 v24.6.2 (macOS, Windows) - 后期特效</title>
-      <link>https://sysin.cn/blog/adobe-after-effects/</link>
-      <guid>https://sysin.cn/blog/adobe-after-effects/</guid>
+      <link>https://sysin.org/blog/adobe-after-effects/</link>
+      <guid>https://sysin.org/blog/adobe-after-effects/</guid>
       <pubDate>Fri, 20 Sep 2024 01:10:18 GMT</pubDate>
       
         
@@ -599,24 +661,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
+      <category domain="https://sysin.org/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Adobe/">Adobe</category>
+      <category domain="https://sysin.org/tags/Adobe/">Adobe</category>
       
       
-      <comments>https://sysin.cn/blog/adobe-after-effects/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/adobe-after-effects/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Acunetix v24.9 (Linux, Windows) - Web 应用程序安全测试</title>
-      <link>https://sysin.cn/blog/acunetix/</link>
-      <guid>https://sysin.cn/blog/acunetix/</guid>
+      <link>https://sysin.org/blog/acunetix/</link>
+      <guid>https://sysin.org/blog/acunetix/</guid>
       <pubDate>Fri, 20 Sep 2024 01:10:00 GMT</pubDate>
       
         
@@ -630,24 +692,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.cn/blog/acunetix/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/acunetix/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Microsoft Office 2024 正式版 (16.017932.20114) 中英文版 iso 下载</title>
-      <link>https://sysin.cn/blog/office-2024/</link>
-      <guid>https://sysin.cn/blog/office-2024/</guid>
+      <link>https://sysin.org/blog/office-2024/</link>
+      <guid>https://sysin.org/blog/office-2024/</guid>
       <pubDate>Thu, 19 Sep 2024 07:06:27 GMT</pubDate>
       
         
@@ -661,22 +723,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
-      <category domain="https://sysin.cn/tags/Office/">Office</category>
+      <category domain="https://sysin.org/tags/Office/">Office</category>
       
       
-      <comments>https://sysin.cn/blog/office-2024/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/office-2024/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Nexpose 6.6.270 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.cn/blog/nexpose-6/</link>
-      <guid>https://sysin.cn/blog/nexpose-6/</guid>
+      <link>https://sysin.org/blog/nexpose-6/</link>
+      <guid>https://sysin.org/blog/nexpose-6/</guid>
       <pubDate>Thu, 19 Sep 2024 00:39:30 GMT</pubDate>
       
         
@@ -690,26 +752,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
+      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
       
       
-      <comments>https://sysin.cn/blog/nexpose-6/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/nexpose-6/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Metasploit Pro 4.22.4-2024091601 (Linux, Windows) - 专业渗透测试框架</title>
-      <link>https://sysin.cn/blog/metasploit-pro-4/</link>
-      <guid>https://sysin.cn/blog/metasploit-pro-4/</guid>
+      <link>https://sysin.org/blog/metasploit-pro-4/</link>
+      <guid>https://sysin.org/blog/metasploit-pro-4/</guid>
       <pubDate>Thu, 19 Sep 2024 00:39:10 GMT</pubDate>
       
         
@@ -723,26 +785,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
+      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
       
       
-      <comments>https://sysin.cn/blog/metasploit-pro-4/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/metasploit-pro-4/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware ESXi 8.0U3b macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
-      <link>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</link>
-      <guid>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</guid>
+      <link>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</link>
+      <guid>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</guid>
       <pubDate>Wed, 18 Sep 2024 04:19:19 GMT</pubDate>
       
         
@@ -756,55 +818,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
+      <category domain="https://sysin.org/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
+      <category domain="https://sysin.org/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
-      
-      
-      <comments>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>VMware ESXi 8.0U3b macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-      <link>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</link>
-      <guid>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</guid>
-      <pubDate>Wed, 18 Sep 2024 04:19:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-esxi-8-u3-oem/&quot; title=&quot;VMware ESXi 8.0U3b macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&quot;&gt;VMware ESXi 8.0U3b macOS Unlocker &amp;amp; OEM BIOS 2.7 标准版和厂商定制版&lt;/a&gt;，查看最新版。</description>
-          
-        
+      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
       
       
-      
-      
-      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
-      
-      
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
-      
-      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
-      
-      
-      <comments>https://sysin.cn/blog/vmware-esxi-8-u3-oem/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/vmware-esxi-8-u3-sysin/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>使用 “恢复模式” 或 “DFU 模式” 来更新和恢复 iOS 固件</title>
-      <link>https://sysin.cn/blog/apple-ios-dfu/</link>
-      <guid>https://sysin.cn/blog/apple-ios-dfu/</guid>
+      <link>https://sysin.org/blog/apple-ios-dfu/</link>
+      <guid>https://sysin.org/blog/apple-ios-dfu/</guid>
       <pubDate>Wed, 18 Sep 2024 04:18:00 GMT</pubDate>
       
         
@@ -818,24 +849,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
-      <category domain="https://sysin.cn/tags/iOS/">iOS</category>
+      <category domain="https://sysin.org/tags/iOS/">iOS</category>
       
-      <category domain="https://sysin.cn/tags/DFU/">DFU</category>
+      <category domain="https://sysin.org/tags/DFU/">DFU</category>
       
       
-      <comments>https://sysin.cn/blog/apple-ios-dfu/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/apple-ios-dfu/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>安装旧版 macOS 时提示：应用程序副本已损坏</title>
-      <link>https://sysin.cn/blog/macos-installer-damaged/</link>
-      <guid>https://sysin.cn/blog/macos-installer-damaged/</guid>
+      <link>https://sysin.org/blog/macos-installer-damaged/</link>
+      <guid>https://sysin.org/blog/macos-installer-damaged/</guid>
       <pubDate>Wed, 18 Sep 2024 04:15:19 GMT</pubDate>
       
         
@@ -849,22 +880,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.cn/blog/macos-installer-damaged/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/macos-installer-damaged/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>如何在 Mac 和虚拟机上安装 macOS Ventura、macOS Sonoma 和 macOS Sequoia</title>
-      <link>https://sysin.cn/blog/how-to-install-macos/</link>
-      <guid>https://sysin.cn/blog/how-to-install-macos/</guid>
+      <link>https://sysin.org/blog/how-to-install-macos/</link>
+      <guid>https://sysin.org/blog/how-to-install-macos/</guid>
       <pubDate>Wed, 18 Sep 2024 04:01:00 GMT</pubDate>
       
         
@@ -878,22 +909,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.cn/blog/how-to-install-macos/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/how-to-install-macos/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>在 Apple silicon Mac 上 DFU 模式修复或恢复 macOS 固件</title>
-      <link>https://sysin.cn/blog/apple-silicon-mac-dfu/</link>
-      <guid>https://sysin.cn/blog/apple-silicon-mac-dfu/</guid>
+      <link>https://sysin.org/blog/apple-silicon-mac-dfu/</link>
+      <guid>https://sysin.org/blog/apple-silicon-mac-dfu/</guid>
       <pubDate>Wed, 18 Sep 2024 04:00:20 GMT</pubDate>
       
         
@@ -907,48 +938,17 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
-      <category domain="https://sysin.cn/tags/DFU/">DFU</category>
-      
-      
-      <comments>https://sysin.cn/blog/apple-silicon-mac-dfu/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>VMware vCenter Server 7.0U3s 下载 - 集中管理 vSphere 环境 (安全修复)</title>
-      <link>https://sysin.cn/blog/vmware-vcenter-7-u3/</link>
-      <guid>https://sysin.cn/blog/vmware-vcenter-7-u3/</guid>
-      <pubDate>Wed, 18 Sep 2024 03:55:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-vcenter-7-u3/&quot; title=&quot;VMware vCenter Server 7.0U3s 下载 - 集中管理 vSphere 环境 (安全修复)&quot;&gt;VMware vCenter Server 7.0U3s 下载 - 集中管理 vSphere 环境 (安全修复)&lt;/a&gt;，查看最新版。</description>
-          
-        
+      <category domain="https://sysin.org/tags/DFU/">DFU</category>
       
       
-      
-      
-      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
-      
-      
-      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
-      
-      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
-      
-      <category domain="https://sysin.cn/tags/vCenter/">vCenter</category>
-      
-      
-      <comments>https://sysin.cn/blog/vmware-vcenter-7-u3/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/apple-silicon-mac-dfu/#disqus_thread</comments>
       
     </item>
     
