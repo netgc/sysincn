@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/cisco-secure-network-analytics/</loc>
+    
+    <lastmod>2024-09-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/vmware-cloud-director-10/</loc>
     
     <lastmod>2024-09-26</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://sysin.org/blog/cisco/</loc>
-    
-    <lastmod>2024-09-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-secure-network-analytics/</loc>
     
     <lastmod>2024-09-26</lastmod>
     
@@ -2414,7 +2414,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/pan-os-10/</loc>
+    <loc>https://sysin.org/blog/parallels-desktop-18/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2423,7 +2423,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/parallels-desktop-18/</loc>
+    <loc>https://sysin.org/blog/pan-os-10/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -3044,7 +3044,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/dbeaver-mac/</loc>
+    <loc>https://sysin.org/blog/dbeaver-23/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -3053,7 +3053,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/dbeaver-23/</loc>
+    <loc>https://sysin.org/blog/dbeaver-mac/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4817,7 +4817,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-17/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4826,7 +4826,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-17/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4952,6 +4952,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/blog/rocky-linux-9-ovf/</loc>
+    
+    <lastmod>2024-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/rocky-linux-9-aarch64-ovf/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -4962,15 +4971,6 @@
   
   <url>
     <loc>https://sysin.org/blog/rocky-linux-migrate-centos/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/rocky-linux-9-ovf/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6428,7 +6428,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
+    <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6437,7 +6437,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
+    <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7384,7 +7384,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Dell/</loc>
+    <loc>https://sysin.org/tags/DellEMC/</loc>
     <lastmod>2024-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7398,14 +7398,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/DellEMC/</loc>
+    <loc>https://sysin.org/tags/Header/</loc>
     <lastmod>2024-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Header/</loc>
+    <loc>https://sysin.org/tags/Dell/</loc>
     <lastmod>2024-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
