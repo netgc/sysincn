@@ -15,8 +15,37 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Wed, 25 Sep 2024 04:58:51 GMT</pubDate>
+    <pubDate>Thu, 26 Sep 2024 01:14:15 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Cisco Secure Network Analytics 7.5.1 - 领先的网络检测和响应 (NDR) 解决方案</title>
+      <link>https://sysin.org/blog/cisco-secure-network-analytics/</link>
+      <guid>https://sysin.org/blog/cisco-secure-network-analytics/</guid>
+      <pubDate>Thu, 26 Sep 2024 01:10:19 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-secure-network-analytics/&quot; title=&quot;Cisco Secure Network Analytics 7.5.1 - 领先的网络检测和响应 (NDR) 解决方案&quot;&gt;Cisco Secure Network Analytics 7.5.1 - 领先的网络检测和响应 (NDR) 解决方案&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      
+      
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      
+      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
+      
+      
+      <comments>https://sysin.org/blog/cisco-secure-network-analytics/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Cisco Firepower 9300 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
@@ -920,41 +949,6 @@
       
       
       <comments>https://sysin.org/blog/vmware-vcenter-7-u3/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>VMware vSphere 8.0 Update 3b 下载 - 企业级工作负载平台</title>
-      <link>https://sysin.org/blog/vmware-vsphere-8-u3/</link>
-      <guid>https://sysin.org/blog/vmware-vsphere-8-u3/</guid>
-      <pubDate>Wed, 18 Sep 2024 02:18:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-vsphere-8-u3/&quot; title=&quot;VMware vSphere 8.0 Update 3b 下载 - 企业级工作负载平台&quot;&gt;VMware vSphere 8.0 Update 3b 下载 - 企业级工作负载平台&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
-      
-      
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
-      
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
-      
-      <category domain="https://sysin.org/tags/vCenter/">vCenter</category>
-      
-      <category domain="https://sysin.org/tags/ESXi/">ESXi</category>
-      
-      <category domain="https://sysin.org/tags/vSAN/">vSAN</category>
-      
-      
-      <comments>https://sysin.org/blog/vmware-vsphere-8-u3/#disqus_thread</comments>
       
     </item>
     
