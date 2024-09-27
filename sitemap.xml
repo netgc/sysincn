@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-8-sysin/</loc>
+    
+    <lastmod>2024-09-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u1-sysin/</loc>
+    
+    <lastmod>2024-09-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u2-sysin/</loc>
     
     <lastmod>2024-09-27</lastmod>
     
@@ -12,6 +30,15 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
+    
+    <lastmod>2024-09-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
     
     <lastmod>2024-09-27</lastmod>
     
@@ -2540,7 +2567,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/adobe-audition/</loc>
+    <loc>https://sysin.org/blog/adobe-bridge/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2549,7 +2576,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/adobe-bridge/</loc>
+    <loc>https://sysin.org/blog/adobe-audition/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -3315,15 +3342,6 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-7/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u2-sysin/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4475,15 +4493,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-sysin/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/create-bootable-esxi-usb-installer/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -5025,15 +5034,6 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-7-u1-oem/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u1-sysin/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
