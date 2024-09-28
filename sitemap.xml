@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/linux/</loc>
+    
+    <lastmod>2024-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/vmware-cloud-foundation-5/</loc>
     
     <lastmod>2024-09-28</lastmod>
@@ -1454,15 +1463,6 @@
     <loc>https://sysin.cn/blog/windows-server-2025-ovf/</loc>
     
     <lastmod>2024-09-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/linux/</loc>
-    
-    <lastmod>2024-08-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4547,15 +4547,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/deepin-20/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/baidu-netdisk-restrict/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -5519,7 +5510,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/syhunt-hybrid/</loc>
+    <loc>https://sysin.cn/blog/studio-3t/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -5528,7 +5519,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/studio-3t/</loc>
+    <loc>https://sysin.cn/blog/syhunt-hybrid/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7076,13 +7067,6 @@
 
   
   <url>
-    <loc>https://sysin.cn/tags/macOS/</loc>
-    <lastmod>2024-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/tags/Linux/</loc>
     <lastmod>2024-09-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -7090,14 +7074,21 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Security/</loc>
+    <loc>https://sysin.cn/tags/HTTP/</loc>
     <lastmod>2024-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/HTTP/</loc>
+    <loc>https://sysin.cn/tags/macOS/</loc>
+    <lastmod>2024-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/tags/Security/</loc>
     <lastmod>2024-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
