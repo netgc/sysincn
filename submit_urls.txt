@@ -1,3 +1,4 @@
+https://sysin.org/blog/vmware-cloud-foundation-5/
 https://sysin.org/blog/install-macos-15-on-unsupported-mac/
 https://sysin.org/blog/install-macos-14-on-unsupported-mac/
 https://sysin.org/blog/install-macos-13-on-unsupported-mac/
@@ -17,4 +18,3 @@ https://sysin.org/blog/appscan-10/
 https://sysin.org/blog/macOS-Sequoia/
 https://sysin.org/blog/macOS-Sequoia-boot-iso/
 https://sysin.org/blog/macOS-Sonoma-boot-iso/
-https://sysin.org/blog/macOS-Sonoma/
