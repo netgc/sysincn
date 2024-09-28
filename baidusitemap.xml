@@ -5,6 +5,66 @@
     <lastmod>2024-09-28</lastmod>
   </url>
   <url>
+    <loc>https://sysin.cn/blog/install-macos-14-on-unsupported-mac/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/install-macos-13-on-unsupported-mac/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/install-macos-12-on-unsupported-mac/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/oracle-linux-9/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/openeuler-2003/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/office-2024/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/juniper-srx-jsrp-config/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/jetbrains-pycharm/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/jb-pycharm-2023/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/gartner-magic-quadrant-ast-2023/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/fortios-fgcp-ha-config/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/exploit-pack-17/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/create-custom-esxi-iso/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/debian-11-install/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/appscan-10/</loc>
+    <lastmod>2024-09-28</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/macOS-Sequoia/</loc>
     <lastmod>2024-09-28</lastmod>
   </url>
@@ -141,11 +201,11 @@
     <lastmod>2024-09-27</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/cisco-firepower-4200/</loc>
+    <loc>https://sysin.cn/blog/cisco-firepower-3100/</loc>
     <lastmod>2024-09-27</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/cisco-firepower-3100/</loc>
+    <loc>https://sysin.cn/blog/cisco-firepower-4200/</loc>
     <lastmod>2024-09-27</lastmod>
   </url>
   <url>
@@ -166,10 +226,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/sql-server-2022/</loc>
-    <lastmod>2024-09-27</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/office-2024/</loc>
     <lastmod>2024-09-27</lastmod>
   </url>
   <url>
@@ -265,10 +321,6 @@
     <lastmod>2024-09-20</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/install-macos-14-on-unsupported-mac/</loc>
-    <lastmod>2024-09-20</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/devices-unsupported-in-esxi-7/</loc>
     <lastmod>2024-09-20</lastmod>
   </url>
@@ -331,14 +383,6 @@
   <url>
     <loc>https://sysin.cn/blog/vmware-vcenter-8-u3/</loc>
     <lastmod>2024-09-18</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/install-macos-12-on-unsupported-mac/</loc>
-    <lastmod>2024-09-17</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/install-macos-13-on-unsupported-mac/</loc>
-    <lastmod>2024-09-17</lastmod>
   </url>
   <url>
     <loc>https://sysin.cn/blog/macOS-Big-Sur-boot-iso/</loc>
@@ -725,10 +769,6 @@
     <lastmod>2024-08-24</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/appscan-10/</loc>
-    <lastmod>2024-08-23</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/windows-server-2016/</loc>
     <lastmod>2024-08-22</lastmod>
   </url>
@@ -849,10 +889,6 @@
     <lastmod>2024-08-17</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/jb-pycharm-2023/</loc>
-    <lastmod>2024-08-17</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/jb-rider-2023/</loc>
     <lastmod>2024-08-17</lastmod>
   </url>
@@ -922,10 +958,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/jetbrains-phpstorm/</loc>
-    <lastmod>2024-08-17</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/jetbrains-pycharm/</loc>
     <lastmod>2024-08-17</lastmod>
   </url>
   <url>
@@ -1274,10 +1306,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/feature-policy-renamed-to-permissions-policy/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/fortios-fgcp-ha-config/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1917,19 +1945,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/create-custom-esxi-iso/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/debian-11-install/</loc>
+    <loc>https://sysin.cn/blog/f5-log4j2-not-vulnerable/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
     <loc>https://sysin.cn/blog/f5-big-iq-8/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/f5-log4j2-not-vulnerable/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2073,10 +2093,6 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/gartner-magic-quadrant-ast-2023/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/zerto-10/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -2161,11 +2177,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/f5-big-ip-17/</loc>
+    <loc>https://sysin.cn/blog/f5-big-ip-next/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/f5-big-ip-next/</loc>
+    <loc>https://sysin.cn/blog/f5-big-ip-17/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2325,10 +2341,6 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/exploit-pack-17/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/f5-big-ip-16/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
@@ -2426,10 +2438,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/krita-5/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/openeuler-2003/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2937,15 +2945,7 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/juniper-srx-jsrp-config/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/ncdu/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/oracle-linux-9/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
