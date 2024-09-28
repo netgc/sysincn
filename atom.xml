@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>sysin</title>
-  <icon>https://sysin.cn/img/favicon.png</icon>
-  <subtitle>软件与技术分享</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
+  <icon>https://sysin.org/img/favicon.png</icon>
+  <subtitle>SYStem INside | 软件与技术分享</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
   
-  <link href="https://sysin.cn/"/>
+  <link href="https://sysin.org/"/>
   <updated>2024-09-28T01:27:02.212Z</updated>
-  <id>https://sysin.cn/</id>
+  <id>https://sysin.org/</id>
   
   <author>
     <name>sysin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>VMware Cloud Director Availability 4.7.3 | 灾难恢复和迁移 | DRaaS</title>
-    <link href="https://sysin.cn/blog/vmware-cloud-director-availability-4/"/>
-    <id>https://sysin.cn/blog/vmware-cloud-director-availability-4/</id>
+    <link href="https://sysin.org/blog/vmware-cloud-director-availability-4/"/>
+    <id>https://sysin.org/blog/vmware-cloud-director-availability-4/</id>
     <published>2024-09-28T01:10:00.000Z</published>
     <updated>2024-09-28T01:27:02.212Z</updated>
     
@@ -34,21 +34,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="Backup" scheme="https://sysin.cn/tags/Backup/"/>
+    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
     
-    <category term="Cloud" scheme="https://sysin.cn/tags/Cloud/"/>
+    <category term="Cloud" scheme="https://sysin.org/tags/Cloud/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Secure Client 5.1.6.103 (macOS, Linux, Windows &amp; iOS, Andrord) - VPN 和远程访问客户端</title>
-    <link href="https://sysin.cn/blog/cisco-secure-client-5/"/>
-    <id>https://sysin.cn/blog/cisco-secure-client-5/</id>
+    <link href="https://sysin.org/blog/cisco-secure-client-5/"/>
+    <id>https://sysin.org/blog/cisco-secure-client-5/</id>
     <published>2024-09-27T01:08:00.000Z</published>
     <updated>2024-09-27T02:01:32.149Z</updated>
     
@@ -63,19 +63,19 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
   </entry>
   
   <entry>
     <title>Nexpose 6.6.271 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.cn/blog/nexpose-6/"/>
-    <id>https://sysin.cn/blog/nexpose-6/</id>
+    <link href="https://sysin.org/blog/nexpose-6/"/>
+    <id>https://sysin.org/blog/nexpose-6/</id>
     <published>2024-09-27T00:39:30.000Z</published>
     <updated>2024-09-27T00:31:23.715Z</updated>
     
@@ -90,23 +90,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
     <title>VMware ESXi 8.0U3b macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-    <link href="https://sysin.cn/blog/vmware-esxi-8-u3-oem/"/>
-    <id>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</id>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3-oem/"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3-oem/</id>
     <published>2024-09-26T04:19:00.000Z</published>
     <updated>2024-09-27T06:49:15.534Z</updated>
     
@@ -121,21 +121,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
     
   </entry>
   
   <entry>
     <title>VMware ESXi 7.0U3q macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-    <link href="https://sysin.cn/blog/vmware-esxi-7-u3-oem/"/>
-    <id>https://sysin.cn/blog/vmware-esxi-7-u3-oem/</id>
+    <link href="https://sysin.org/blog/vmware-esxi-7-u3-oem/"/>
+    <id>https://sysin.org/blog/vmware-esxi-7-u3-oem/</id>
     <published>2024-09-26T04:17:00.000Z</published>
     <updated>2024-09-27T01:54:21.096Z</updated>
     
@@ -150,21 +150,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Secure Network Analytics 7.5.1 - 领先的网络检测和响应 (NDR) 解决方案</title>
-    <link href="https://sysin.cn/blog/cisco-secure-network-analytics/"/>
-    <id>https://sysin.cn/blog/cisco-secure-network-analytics/</id>
+    <link href="https://sysin.org/blog/cisco-secure-network-analytics/"/>
+    <id>https://sysin.org/blog/cisco-secure-network-analytics/</id>
     <published>2024-09-26T01:10:19.000Z</published>
     <updated>2024-09-26T04:50:07.293Z</updated>
     
@@ -179,19 +179,19 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Firepower 9300 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-    <link href="https://sysin.cn/blog/cisco-firepower-9300/"/>
-    <id>https://sysin.cn/blog/cisco-firepower-9300/</id>
+    <link href="https://sysin.org/blog/cisco-firepower-9300/"/>
+    <id>https://sysin.org/blog/cisco-firepower-9300/</id>
     <published>2024-09-25T03:22:00.000Z</published>
     <updated>2024-09-27T05:27:11.856Z</updated>
     
@@ -206,23 +206,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="Firepower" scheme="https://sysin.cn/tags/Firepower/"/>
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
     
-    <category term="FXOS" scheme="https://sysin.cn/tags/FXOS/"/>
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Secure Firewall 4200 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-    <link href="https://sysin.cn/blog/cisco-firepower-4200/"/>
-    <id>https://sysin.cn/blog/cisco-firepower-4200/</id>
+    <link href="https://sysin.org/blog/cisco-firepower-4200/"/>
+    <id>https://sysin.org/blog/cisco-firepower-4200/</id>
     <published>2024-09-25T03:21:00.000Z</published>
     <updated>2024-09-27T04:46:46.057Z</updated>
     
@@ -237,23 +237,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="Firepower" scheme="https://sysin.cn/tags/Firepower/"/>
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
     
-    <category term="FXOS" scheme="https://sysin.cn/tags/FXOS/"/>
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Firepower 4100 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-    <link href="https://sysin.cn/blog/cisco-firepower-4100/"/>
-    <id>https://sysin.cn/blog/cisco-firepower-4100/</id>
+    <link href="https://sysin.org/blog/cisco-firepower-4100/"/>
+    <id>https://sysin.org/blog/cisco-firepower-4100/</id>
     <published>2024-09-25T03:20:00.000Z</published>
     <updated>2024-09-27T05:27:26.698Z</updated>
     
@@ -268,23 +268,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="Firepower" scheme="https://sysin.cn/tags/Firepower/"/>
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
     
-    <category term="FXOS" scheme="https://sysin.cn/tags/FXOS/"/>
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Secure Firewall 3100 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-    <link href="https://sysin.cn/blog/cisco-firepower-3100/"/>
-    <id>https://sysin.cn/blog/cisco-firepower-3100/</id>
+    <link href="https://sysin.org/blog/cisco-firepower-3100/"/>
+    <id>https://sysin.org/blog/cisco-firepower-3100/</id>
     <published>2024-09-25T03:19:00.000Z</published>
     <updated>2024-09-27T04:46:46.057Z</updated>
     
@@ -299,23 +299,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="Firepower" scheme="https://sysin.cn/tags/Firepower/"/>
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
     
-    <category term="FXOS" scheme="https://sysin.cn/tags/FXOS/"/>
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Firepower 1000 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-    <link href="https://sysin.cn/blog/cisco-firepower-1000/"/>
-    <id>https://sysin.cn/blog/cisco-firepower-1000/</id>
+    <link href="https://sysin.org/blog/cisco-firepower-1000/"/>
+    <id>https://sysin.org/blog/cisco-firepower-1000/</id>
     <published>2024-09-25T03:17:00.000Z</published>
     <updated>2024-09-27T04:46:46.080Z</updated>
     
@@ -330,23 +330,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="Firepower" scheme="https://sysin.cn/tags/Firepower/"/>
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
     
-    <category term="FXOS" scheme="https://sysin.cn/tags/FXOS/"/>
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
     
   </entry>
   
   <entry>
     <title>SQL Server 2022 RTM Cumulative Update #15</title>
-    <link href="https://sysin.cn/blog/sql-server-2022/"/>
-    <id>https://sysin.cn/blog/sql-server-2022/</id>
+    <link href="https://sysin.org/blog/sql-server-2022/"/>
+    <id>https://sysin.org/blog/sql-server-2022/</id>
     <published>2024-09-25T02:20:00.000Z</published>
     <updated>2024-09-27T01:40:32.095Z</updated>
     
@@ -361,23 +361,23 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
     
-    <category term="SQL" scheme="https://sysin.cn/tags/SQL/"/>
+    <category term="SQL" scheme="https://sysin.org/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ASAv 9.22.1 - 思科自适应安全虚拟设备 (ASAv)</title>
-    <link href="https://sysin.cn/blog/cisco-asav/"/>
-    <id>https://sysin.cn/blog/cisco-asav/</id>
+    <link href="https://sysin.org/blog/cisco-asav/"/>
+    <id>https://sysin.org/blog/cisco-asav/</id>
     <published>2024-09-24T01:12:00.000Z</published>
     <updated>2024-09-24T06:28:26.774Z</updated>
     
@@ -392,21 +392,21 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ASA 9.22.1 - 思科自适应安全设备 (ASA) 软件</title>
-    <link href="https://sysin.cn/blog/cisco-asa/"/>
-    <id>https://sysin.cn/blog/cisco-asa/</id>
+    <link href="https://sysin.org/blog/cisco-asa/"/>
+    <id>https://sysin.org/blog/cisco-asa/</id>
     <published>2024-09-24T01:10:00.000Z</published>
     <updated>2024-09-27T04:46:46.057Z</updated>
     
@@ -421,21 +421,21 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Secure Firewall Management Center Virtual 7.6.0 - 思科 Firepower 管理中心软件</title>
-    <link href="https://sysin.cn/blog/cisco-fmc-7/"/>
-    <id>https://sysin.cn/blog/cisco-fmc-7/</id>
+    <link href="https://sysin.org/blog/cisco-fmc-7/"/>
+    <id>https://sysin.org/blog/cisco-fmc-7/</id>
     <published>2024-09-23T05:56:00.000Z</published>
     <updated>2024-09-23T08:31:09.884Z</updated>
     
@@ -450,23 +450,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="Firepower" scheme="https://sysin.cn/tags/Firepower/"/>
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Secure Firewall Threat Defense Virtual 7.6.0 - 思科下一代防火墙虚拟设备 (FTDv)</title>
-    <link href="https://sysin.cn/blog/cisco-firepower-7/"/>
-    <id>https://sysin.cn/blog/cisco-firepower-7/</id>
+    <link href="https://sysin.org/blog/cisco-firepower-7/"/>
+    <id>https://sysin.org/blog/cisco-firepower-7/</id>
     <published>2024-09-23T05:55:00.000Z</published>
     <updated>2024-09-27T05:29:31.722Z</updated>
     
@@ -481,27 +481,27 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="Firepower" scheme="https://sysin.cn/tags/Firepower/"/>
+    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
     
-    <category term="FXOS" scheme="https://sysin.cn/tags/FXOS/"/>
+    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
     
   </entry>
   
   <entry>
     <title>如何屏蔽 iOS 软件自动更新，去除更新通知和标记</title>
-    <link href="https://sysin.cn/blog/disable-ios-update/"/>
-    <id>https://sysin.cn/blog/disable-ios-update/</id>
+    <link href="https://sysin.org/blog/disable-ios-update/"/>
+    <id>https://sysin.org/blog/disable-ios-update/</id>
     <published>2024-09-22T05:10:18.000Z</published>
-    <updated>2024-09-22T07:00:58.850Z</updated>
+    <updated>2024-09-28T02:57:07.430Z</updated>
     
     
       
@@ -514,21 +514,21 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
     
     
-    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
     
-    <category term="iOS" scheme="https://sysin.cn/tags/iOS/"/>
+    <category term="iOS" scheme="https://sysin.org/tags/iOS/"/>
     
-    <category term="AutoUpdate" scheme="https://sysin.cn/tags/AutoUpdate/"/>
+    <category term="AutoUpdate" scheme="https://sysin.org/tags/AutoUpdate/"/>
     
   </entry>
   
   <entry>
     <title>macOS 提示：“应用程序” 已损坏，无法打开的解决方法总结</title>
-    <link href="https://sysin.cn/blog/macos-if-crashes-when-opening/"/>
-    <id>https://sysin.cn/blog/macos-if-crashes-when-opening/</id>
+    <link href="https://sysin.org/blog/macos-if-crashes-when-opening/"/>
+    <id>https://sysin.org/blog/macos-if-crashes-when-opening/</id>
     <published>2024-09-21T04:10:00.000Z</published>
     <updated>2024-09-21T05:53:29.460Z</updated>
     
@@ -543,21 +543,21 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
     
   </entry>
   
   <entry>
     <title>macOS 15 Blank OVF - macOS Sequoia 虚拟化解决方案</title>
-    <link href="https://sysin.cn/blog/macos-15-ovf/"/>
-    <id>https://sysin.cn/blog/macos-15-ovf/</id>
+    <link href="https://sysin.org/blog/macos-15-ovf/"/>
+    <id>https://sysin.org/blog/macos-15-ovf/</id>
     <published>2024-09-21T03:50:00.000Z</published>
-    <updated>2024-09-23T08:20:27.124Z</updated>
+    <updated>2024-09-28T02:35:02.117Z</updated>
     
     
       
@@ -570,21 +570,21 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>Windows Server 2022 中文版、英文版下载 (updated Sep 2024)</title>
-    <link href="https://sysin.cn/blog/windows-server-2022/"/>
-    <id>https://sysin.cn/blog/windows-server-2022/</id>
+    <link href="https://sysin.org/blog/windows-server-2022/"/>
+    <id>https://sysin.org/blog/windows-server-2022/</id>
     <published>2024-09-21T00:39:00.000Z</published>
     <updated>2024-09-21T00:36:46.068Z</updated>
     
@@ -599,21 +599,21 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
     
   </entry>
   
   <entry>
     <title>Windows 11 version 23H2 中文版、英文版 (x64、ARM64) 下载 (updated Sep 2024)</title>
-    <link href="https://sysin.cn/blog/windows-11/"/>
-    <id>https://sysin.cn/blog/windows-11/</id>
+    <link href="https://sysin.org/blog/windows-11/"/>
+    <id>https://sysin.org/blog/windows-11/</id>
     <published>2024-09-21T00:38:00.000Z</published>
     <updated>2024-09-21T00:36:53.755Z</updated>
     
@@ -628,19 +628,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Windows 10 on ARM, version 22H2 (updated Sep 2024) ARM64 AArch64 中文版、英文版下载</title>
-    <link href="https://sysin.cn/blog/windows-10-arm/"/>
-    <id>https://sysin.cn/blog/windows-10-arm/</id>
+    <link href="https://sysin.org/blog/windows-10-arm/"/>
+    <id>https://sysin.org/blog/windows-10-arm/</id>
     <published>2024-09-21T00:36:00.000Z</published>
     <updated>2024-09-21T00:37:08.228Z</updated>
     
@@ -655,19 +655,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Windows 10 version 22H2 (updated Sep 2024) 中文版、英文版下载</title>
-    <link href="https://sysin.cn/blog/windows-10/"/>
-    <id>https://sysin.cn/blog/windows-10/</id>
+    <link href="https://sysin.org/blog/windows-10/"/>
+    <id>https://sysin.org/blog/windows-10/</id>
     <published>2024-09-21T00:35:00.000Z</published>
     <updated>2024-09-21T00:37:02.812Z</updated>
     
@@ -682,19 +682,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Adobe Photoshop 2024 v25.12 (macOS, Windows) - 照片和设计软件</title>
-    <link href="https://sysin.cn/blog/adobe-photoshop/"/>
-    <id>https://sysin.cn/blog/adobe-photoshop/</id>
+    <link href="https://sysin.org/blog/adobe-photoshop/"/>
+    <id>https://sysin.org/blog/adobe-photoshop/</id>
     <published>2024-09-20T01:30:18.000Z</published>
     <updated>2024-09-20T01:23:54.573Z</updated>
     
@@ -709,21 +709,21 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Adobe" scheme="https://sysin.cn/tags/Adobe/"/>
+    <category term="Adobe" scheme="https://sysin.org/tags/Adobe/"/>
     
   </entry>
   
   <entry>
     <title>Adobe After Effects 2024 v24.6.2 (macOS, Windows) - 后期特效</title>
-    <link href="https://sysin.cn/blog/adobe-after-effects/"/>
-    <id>https://sysin.cn/blog/adobe-after-effects/</id>
+    <link href="https://sysin.org/blog/adobe-after-effects/"/>
+    <id>https://sysin.org/blog/adobe-after-effects/</id>
     <published>2024-09-20T01:10:18.000Z</published>
     <updated>2024-09-20T03:33:24.742Z</updated>
     
@@ -738,21 +738,21 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Adobe" scheme="https://sysin.cn/tags/Adobe/"/>
+    <category term="Adobe" scheme="https://sysin.org/tags/Adobe/"/>
     
   </entry>
   
   <entry>
     <title>Acunetix v24.9 (Linux, Windows) - Web 应用程序安全测试</title>
-    <link href="https://sysin.cn/blog/acunetix/"/>
-    <id>https://sysin.cn/blog/acunetix/</id>
+    <link href="https://sysin.org/blog/acunetix/"/>
+    <id>https://sysin.org/blog/acunetix/</id>
     <published>2024-09-20T01:10:00.000Z</published>
     <updated>2024-09-20T01:53:27.549Z</updated>
     
@@ -767,21 +767,21 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Microsoft Office 2024 正式版 (16.0.17932.20114) 中英文版 iso 下载</title>
-    <link href="https://sysin.cn/blog/office-2024/"/>
-    <id>https://sysin.cn/blog/office-2024/</id>
+    <link href="https://sysin.org/blog/office-2024/"/>
+    <id>https://sysin.org/blog/office-2024/</id>
     <published>2024-09-19T07:06:27.000Z</published>
     <updated>2024-09-27T00:49:24.333Z</updated>
     
@@ -796,19 +796,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
-    <category term="Office" scheme="https://sysin.cn/tags/Office/"/>
+    <category term="Office" scheme="https://sysin.org/tags/Office/"/>
     
   </entry>
   
   <entry>
     <title>VMware vSAN 8.0U3b - 存储虚拟化软件</title>
-    <link href="https://sysin.cn/blog/vmware-vsan/"/>
-    <id>https://sysin.cn/blog/vmware-vsan/</id>
+    <link href="https://sysin.org/blog/vmware-vsan/"/>
+    <id>https://sysin.org/blog/vmware-vsan/</id>
     <published>2024-09-19T03:50:01.000Z</published>
     <updated>2024-09-27T05:15:59.157Z</updated>
     
@@ -823,25 +823,25 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
     
-    <category term="ESXi" scheme="https://sysin.cn/tags/ESXi/"/>
+    <category term="ESXi" scheme="https://sysin.org/tags/ESXi/"/>
     
-    <category term="vCenter" scheme="https://sysin.cn/tags/vCenter/"/>
+    <category term="vCenter" scheme="https://sysin.org/tags/vCenter/"/>
     
-    <category term="vSAN" scheme="https://sysin.cn/tags/vSAN/"/>
+    <category term="vSAN" scheme="https://sysin.org/tags/vSAN/"/>
     
   </entry>
   
   <entry>
     <title>Metasploit Pro 4.22.4-2024091601 (Linux, Windows) - 专业渗透测试框架</title>
-    <link href="https://sysin.cn/blog/metasploit-pro-4/"/>
-    <id>https://sysin.cn/blog/metasploit-pro-4/</id>
+    <link href="https://sysin.org/blog/metasploit-pro-4/"/>
+    <id>https://sysin.org/blog/metasploit-pro-4/</id>
     <published>2024-09-19T00:39:10.000Z</published>
     <updated>2024-09-19T03:16:49.862Z</updated>
     
@@ -856,23 +856,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
     <title>VMware ESXi 8.0U3b macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
-    <link href="https://sysin.cn/blog/vmware-esxi-8-u3-sysin/"/>
-    <id>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</id>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3-sysin/"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</id>
     <published>2024-09-18T04:19:19.000Z</published>
     <updated>2024-09-27T06:57:59.620Z</updated>
     
@@ -887,14 +887,14 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
     
   </entry>
   
