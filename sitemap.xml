@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sysin.org/blog/vmware-cloud-director-availability-4/</loc>
+    <loc>https://sysin.org/blog/vmware-cloud-foundation-5/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-cloud-foundation-5/</loc>
+    <loc>https://sysin.org/blog/vmware-cloud-director-availability-4/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -7375,7 +7375,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/DellEMC/</loc>
+    <loc>https://sysin.org/tags/Dell/</loc>
     <lastmod>2024-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7389,7 +7389,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Dell/</loc>
+    <loc>https://sysin.org/tags/DellEMC/</loc>
     <lastmod>2024-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7853,14 +7853,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/categories/Linux/</loc>
+    <loc>https://sysin.org/categories/Windows/</loc>
     <lastmod>2024-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/categories/Windows/</loc>
+    <loc>https://sysin.org/categories/Linux/</loc>
     <lastmod>2024-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
