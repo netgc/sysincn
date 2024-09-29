@@ -149,9 +149,9 @@
     
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
     <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
@@ -247,7 +247,7 @@
     <link href="https://sysin.org/blog/cisco-firepower-9300/"/>
     <id>https://sysin.org/blog/cisco-firepower-9300/</id>
     <published>2024-09-25T03:22:00.000Z</published>
-    <updated>2024-09-27T05:27:11.856Z</updated>
+    <updated>2024-09-29T06:36:50.563Z</updated>
     
     
       
@@ -278,7 +278,7 @@
     <link href="https://sysin.org/blog/cisco-firepower-4200/"/>
     <id>https://sysin.org/blog/cisco-firepower-4200/</id>
     <published>2024-09-25T03:21:00.000Z</published>
-    <updated>2024-09-27T04:46:46.057Z</updated>
+    <updated>2024-09-29T06:37:58.580Z</updated>
     
     
       
@@ -309,7 +309,7 @@
     <link href="https://sysin.org/blog/cisco-firepower-4100/"/>
     <id>https://sysin.org/blog/cisco-firepower-4100/</id>
     <published>2024-09-25T03:20:00.000Z</published>
-    <updated>2024-09-27T05:27:26.698Z</updated>
+    <updated>2024-09-29T06:38:34.152Z</updated>
     
     
       
@@ -340,7 +340,7 @@
     <link href="https://sysin.org/blog/cisco-firepower-3100/"/>
     <id>https://sysin.org/blog/cisco-firepower-3100/</id>
     <published>2024-09-25T03:19:00.000Z</published>
-    <updated>2024-09-27T04:46:46.057Z</updated>
+    <updated>2024-09-29T06:39:11.999Z</updated>
     
     
       
@@ -371,7 +371,7 @@
     <link href="https://sysin.org/blog/cisco-firepower-1000/"/>
     <id>https://sysin.org/blog/cisco-firepower-1000/</id>
     <published>2024-09-25T03:17:00.000Z</published>
-    <updated>2024-09-27T04:46:46.080Z</updated>
+    <updated>2024-09-29T06:40:44.924Z</updated>
     
     
       
@@ -522,7 +522,7 @@
     <link href="https://sysin.org/blog/cisco-firepower-7/"/>
     <id>https://sysin.org/blog/cisco-firepower-7/</id>
     <published>2024-09-23T05:55:00.000Z</published>
-    <updated>2024-09-27T05:29:31.722Z</updated>
+    <updated>2024-09-29T06:41:27.608Z</updated>
     
     
       
@@ -826,9 +826,9 @@
     
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   

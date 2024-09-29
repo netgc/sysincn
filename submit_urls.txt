@@ -1,3 +1,10 @@
+https://sysin.org/blog/cisco-firepower-7/
+https://sysin.org/blog/cisco-firepower-1000/
+https://sysin.org/blog/cisco-firepower-2100/
+https://sysin.org/blog/cisco-firepower-3100/
+https://sysin.org/blog/cisco-firepower-4100/
+https://sysin.org/blog/cisco-firepower-4200/
+https://sysin.org/blog/cisco-firepower-9300/
 https://sysin.org/blog/vmware-cloud-foundation-5/
 https://sysin.org/blog/vmware-cloud-director-availability-4/
 https://sysin.org/blog/vmware-nsx-4/
@@ -11,10 +18,3 @@ https://sysin.org/blog/oracle-linux-9/
 https://sysin.org/blog/openeuler-2003/
 https://sysin.org/blog/office-2024/
 https://sysin.org/blog/juniper-srx-jsrp-config/
-https://sysin.org/blog/jetbrains-pycharm/
-https://sysin.org/blog/jb-pycharm-2023/
-https://sysin.org/blog/gartner-magic-quadrant-ast-2023/
-https://sysin.org/blog/fortios-fgcp-ha-config/
-https://sysin.org/blog/exploit-pack-17/
-https://sysin.org/blog/create-custom-esxi-iso/
-https://sysin.org/blog/debian-11-install/

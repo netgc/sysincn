@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/cisco-firepower-7/</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-firepower-1000/</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-firepower-2100/</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-firepower-3100/</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-firepower-4100/</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-firepower-4200/</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-firepower-9300/</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/vmware-cloud-foundation-5/</loc>
     <lastmod>2024-09-29</lastmod>
   </url>
@@ -177,22 +205,6 @@
     <lastmod>2024-09-27</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-firepower-7/</loc>
-    <lastmod>2024-09-27</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-firepower-4100/</loc>
-    <lastmod>2024-09-27</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-firepower-9300/</loc>
-    <lastmod>2024-09-27</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-firepower-2100/</loc>
-    <lastmod>2024-09-27</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-tkgi/</loc>
     <lastmod>2024-09-27</lastmod>
   </url>
@@ -201,19 +213,7 @@
     <lastmod>2024-09-27</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-firepower-1000/</loc>
-    <lastmod>2024-09-27</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/cisco-asa/</loc>
-    <lastmod>2024-09-27</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-firepower-3100/</loc>
-    <lastmod>2024-09-27</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-firepower-4200/</loc>
     <lastmod>2024-09-27</lastmod>
   </url>
   <url>

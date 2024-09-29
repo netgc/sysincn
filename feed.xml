@@ -158,9 +158,9 @@
       
       <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
       <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
       
@@ -881,9 +881,9 @@
       
       <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
       
       <comments>https://sysin.org/blog/acunetix/#disqus_thread</comments>
