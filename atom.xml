@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-09-29T00:45:32.124Z</updated>
+  <updated>2024-09-29T09:42:41.977Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Windows Server 2025 RTM 中文版、英文版下载 (Released Sep 2024)</title>
+    <link href="https://sysin.org/blog/windows-server-2025/"/>
+    <id>https://sysin.org/blog/windows-server-2025/</id>
+    <published>2024-09-29T03:25:15.000Z</published>
+    <updated>2024-09-29T09:42:41.977Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2025/&quot; title=&quot;Windows Server 2025 RTM 中文版、英文版下载 (Released Sep 2024)&quot;&gt;Windows Server 2025 RTM 中文版、英文版下载 (Released Sep 2024)&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+  </entry>
   
   <entry>
     <title>Cisco Expressway Release X15.0.3 - 统一通信网关</title>
@@ -149,9 +178,9 @@
     
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
     <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
@@ -826,9 +855,9 @@
     
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
@@ -856,39 +885,6 @@
     <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
     <category term="Office" scheme="https://sysin.org/tags/Office/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VMware vSAN 8.0U3b - 存储虚拟化软件</title>
-    <link href="https://sysin.org/blog/vmware-vsan/"/>
-    <id>https://sysin.org/blog/vmware-vsan/</id>
-    <published>2024-09-19T03:50:01.000Z</published>
-    <updated>2024-09-27T05:15:59.157Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-vsan/&quot; title=&quot;VMware vSAN 8.0U3b - 存储虚拟化软件&quot;&gt;VMware vSAN 8.0U3b - 存储虚拟化软件&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
-    
-    
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
-    
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
-    
-    <category term="ESXi" scheme="https://sysin.org/tags/ESXi/"/>
-    
-    <category term="vCenter" scheme="https://sysin.org/tags/vCenter/"/>
-    
-    <category term="vSAN" scheme="https://sysin.org/tags/vSAN/"/>
     
   </entry>
   

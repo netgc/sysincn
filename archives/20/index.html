@@ -515,9 +515,9 @@ DBeaver 是一个通用的数据库管理工具，适用于需要以专业方式
     
     <a href="/tags/#macOS" title="macOS">macOS</a>
     
-    <a href="/tags/#Windows" title="Windows">Windows</a>
-    
     <a href="/tags/#Security" title="Security">Security</a>
+    
+    <a href="/tags/#Windows" title="Windows">Windows</a>
     
     <a href="/tags/#Rapid7" title="Rapid7">Rapid7</a>
     
@@ -1291,11 +1291,11 @@ MobaXterm 是您 “远程计算的旗舰工具......
     
     
     
-    <a href="/tags/#Windows" title="Windows" rel="208">Windows</a>
-    
-    
-    
     <a href="/tags/#Security" title="Security" rel="68">Security</a>
+    
+    
+    
+    <a href="/tags/#Windows" title="Windows" rel="208">Windows</a>
     
     
     
@@ -1726,6 +1726,10 @@ MobaXterm 是您 “远程计算的旗舰工具......
 <div class="widget">
   <ul>
     
+    <a href="../../blog/windows-server-2025/">
+      <li>Windows Server 2025 RTM 中文版、英文版下载 (Released Sep 2024)</li>
+    </a>
+    
     <a href="../../blog/cisco-expressway-15/">
       <li>Cisco Expressway Release X15.0.3 - 统一通信网关</li>
     </a>
@@ -1740,10 +1744,6 @@ MobaXterm 是您 “远程计算的旗舰工具......
     
     <a href="../../blog/cisco-secure-client-5/">
       <li>Cisco Secure Client 5.1.6.103 (macOS, Linux, Windows &amp; iOS, Andrord) - VPN 和远程访问客户端</li>
-    </a>
-    
-    <a href="../../blog/nexpose-6/">
-      <li>Nexpose 6.6.271 for Linux &amp; Windows - 漏洞扫描</li>
     </a>
     
   </ul>
@@ -2269,5 +2269,20 @@ start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </scrip
 
 
 		
-	</body>
+	<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
 </html>
