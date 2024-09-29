@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sysin.cn/blog/vmware-nsx-4/</loc>
+    <loc>https://sysin.cn/blog/vmware-cloud-director-availability-4/</loc>
     <lastmod>2024-09-29</lastmod>
   </url>
   <url>
     <loc>https://sysin.cn/blog/vmware-cloud-foundation-5/</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/vmware-nsx-4/</loc>
     <lastmod>2024-09-29</lastmod>
   </url>
   <url>
@@ -146,10 +150,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/macos-15-ovf/</loc>
-    <lastmod>2024-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/vmware-cloud-director-availability-4/</loc>
     <lastmod>2024-09-28</lastmod>
   </url>
   <url>
@@ -3101,11 +3101,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/guhua/</loc>
+    <loc>https://sysin.cn/blog/hello-hexo/</loc>
     <lastmod>2023-05-16</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/hello-hexo/</loc>
+    <loc>https://sysin.cn/blog/guhua/</loc>
     <lastmod>2023-05-16</lastmod>
   </url>
   <url>

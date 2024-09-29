@@ -1,5 +1,6 @@
-https://sysin.cn/blog/vmware-nsx-4/
+https://sysin.cn/blog/vmware-cloud-director-availability-4/
 https://sysin.cn/blog/vmware-cloud-foundation-5/
+https://sysin.cn/blog/vmware-nsx-4/
 https://sysin.cn/blog/cisco-expressway-15/
 https://sysin.cn/blog/linux/
 https://sysin.cn/blog/install-macos-15-on-unsupported-mac/
@@ -17,4 +18,3 @@ https://sysin.cn/blog/fortios-fgcp-ha-config/
 https://sysin.cn/blog/exploit-pack-17/
 https://sysin.cn/blog/create-custom-esxi-iso/
 https://sysin.cn/blog/debian-11-install/
-https://sysin.cn/blog/appscan-10/
