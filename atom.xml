@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-09-28T05:47:45.304Z</updated>
+  <updated>2024-09-29T00:45:32.124Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Cisco Expressway Release X15.0.3 - 统一通信网关</title>
+    <link href="https://sysin.org/blog/cisco-expressway-15/"/>
+    <id>https://sysin.org/blog/cisco-expressway-15/</id>
+    <published>2024-09-29T00:45:56.000Z</published>
+    <updated>2024-09-29T00:45:32.124Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-expressway-15/&quot; title=&quot;Cisco Expressway Release X15.0.3 - 统一通信网关&quot;&gt;Cisco Expressway Release X15.0.3 - 统一通信网关&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+  </entry>
   
   <entry>
     <title>在不受支持的 Mac 上安装 macOS Sequoia (OpenCore Legacy Patcher v2.0.2)</title>
@@ -862,37 +889,6 @@
     <category term="vCenter" scheme="https://sysin.org/tags/vCenter/"/>
     
     <category term="vSAN" scheme="https://sysin.org/tags/vSAN/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Metasploit Pro 4.22.4-2024091601 (Linux, Windows) - 专业渗透测试框架</title>
-    <link href="https://sysin.org/blog/metasploit-pro-4/"/>
-    <id>https://sysin.org/blog/metasploit-pro-4/</id>
-    <published>2024-09-19T00:39:10.000Z</published>
-    <updated>2024-09-19T03:16:49.862Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/metasploit-pro-4/&quot; title=&quot;Metasploit Pro 4.22.4-2024091601 (Linux, Windows) - 专业渗透测试框架&quot;&gt;Metasploit Pro 4.22.4-2024091601 (Linux, Windows) - 专业渗透测试框架&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
   </entry>
   

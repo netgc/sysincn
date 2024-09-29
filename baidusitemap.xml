@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sysin.org/blog/linux/</loc>
-    <lastmod>2024-09-28</lastmod>
+    <loc>https://sysin.org/blog/vmware-nsx-4/</loc>
+    <lastmod>2024-09-29</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-cloud-foundation-5/</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-expressway-15/</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/linux/</loc>
     <lastmod>2024-09-28</lastmod>
   </url>
   <url>
@@ -166,10 +174,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
-    <lastmod>2024-09-27</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-expressway-15/</loc>
     <lastmod>2024-09-27</lastmod>
   </url>
   <url>
@@ -2386,10 +2390,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-horizon-8-2106/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-nsx-4/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
