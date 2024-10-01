@@ -1,3 +1,8 @@
+https://sysin.cn/blog/vmware-tkgi/
+https://sysin.cn/blog/studio-3t/
+https://sysin.cn/blog/vmware-cloud-foundation-5/
+https://sysin.cn/blog/cisco-catalyst-8000v/
+https://sysin.cn/blog/cisco-catalyst-8000/
 https://sysin.cn/blog/vmware-vsan/
 https://sysin.cn/blog/windows-server-2025/
 https://sysin.cn/blog/cisco-firepower-7/
@@ -7,14 +12,9 @@ https://sysin.cn/blog/cisco-firepower-3100/
 https://sysin.cn/blog/cisco-firepower-4100/
 https://sysin.cn/blog/cisco-firepower-4200/
 https://sysin.cn/blog/cisco-firepower-9300/
-https://sysin.cn/blog/vmware-cloud-foundation-5/
 https://sysin.cn/blog/vmware-cloud-director-availability-4/
 https://sysin.cn/blog/vmware-nsx-4/
 https://sysin.cn/blog/cisco-expressway-15/
 https://sysin.cn/blog/linux/
 https://sysin.cn/blog/install-macos-15-on-unsupported-mac/
 https://sysin.cn/blog/install-macos-14-on-unsupported-mac/
-https://sysin.cn/blog/install-macos-13-on-unsupported-mac/
-https://sysin.cn/blog/install-macos-12-on-unsupported-mac/
-https://sysin.cn/blog/oracle-linux-9/
-https://sysin.cn/blog/openeuler-2003/

@@ -15,8 +15,41 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Mon, 30 Sep 2024 02:35:21 GMT</pubDate>
+    <pubDate>Tue, 01 Oct 2024 02:10:39 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Studio 3T 2024.4 (macOS, Linux, Windows) - MongoDB 的专业 GUI、IDE 和 客户端，支持自然语言查询</title>
+      <link>https://sysin.cn/blog/studio-3t/</link>
+      <guid>https://sysin.cn/blog/studio-3t/</guid>
+      <pubDate>Tue, 01 Oct 2024 02:10:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/studio-3t/&quot; title=&quot;Studio 3T 2024.4 (macOS, Linux, Windows) - MongoDB 的专业 GUI、IDE 和 客户端，支持自然语言查询&quot;&gt;Studio 3T 2024.4 (macOS, Linux, Windows) - MongoDB 的专业 GUI、IDE 和 客户端，支持自然语言查询&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/Developer/">Developer</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Database/">Database</category>
+      
+      
+      <comments>https://sysin.cn/blog/studio-3t/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>VMware vSAN 8.0U3b - 存储虚拟化软件</title>
@@ -922,37 +955,6 @@
       
       
       <comments>https://sysin.cn/blog/adobe-after-effects/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Acunetix v24.9 (Linux, Windows) - Web 应用程序安全测试</title>
-      <link>https://sysin.cn/blog/acunetix/</link>
-      <guid>https://sysin.cn/blog/acunetix/</guid>
-      <pubDate>Fri, 20 Sep 2024 01:10:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/acunetix/&quot; title=&quot;Acunetix v24.9 (Linux, Windows) - Web 应用程序安全测试&quot;&gt;Acunetix v24.9 (Linux, Windows) - Web 应用程序安全测试&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      
-      <comments>https://sysin.cn/blog/acunetix/#disqus_thread</comments>
       
     </item>
     

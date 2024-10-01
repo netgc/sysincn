@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.cn/blog/vmware-tkgi/</loc>
+    <lastmod>2024-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/studio-3t/</loc>
+    <lastmod>2024-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/vmware-cloud-foundation-5/</loc>
+    <lastmod>2024-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/cisco-catalyst-8000v/</loc>
+    <lastmod>2024-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/cisco-catalyst-8000/</loc>
+    <lastmod>2024-09-30</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/vmware-vsan/</loc>
     <lastmod>2024-09-30</lastmod>
   </url>
@@ -34,10 +54,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/cisco-firepower-9300/</loc>
-    <lastmod>2024-09-29</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/vmware-cloud-foundation-5/</loc>
     <lastmod>2024-09-29</lastmod>
   </url>
   <url>
@@ -210,10 +226,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</loc>
-    <lastmod>2024-09-27</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/vmware-tkgi/</loc>
     <lastmod>2024-09-27</lastmod>
   </url>
   <url>
@@ -578,14 +590,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/cisco-catalyst-9800/</loc>
-    <lastmod>2024-09-07</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/cisco-catalyst-8000v/</loc>
-    <lastmod>2024-09-07</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/cisco-catalyst-8000/</loc>
     <lastmod>2024-09-07</lastmod>
   </url>
   <url>
@@ -1345,11 +1349,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/output-messenger-2/</loc>
+    <loc>https://sysin.cn/blog/ovirt/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/ovirt/</loc>
+    <loc>https://sysin.cn/blog/output-messenger-2/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1425,11 +1429,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/convert-jsonl-to-json/</loc>
+    <loc>https://sysin.cn/blog/clear-browser-dns-cache/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/clear-browser-dns-cache/</loc>
+    <loc>https://sysin.cn/blog/convert-jsonl-to-json/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -1921,11 +1925,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/xray/</loc>
+    <loc>https://sysin.cn/blog/xiyouji/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/xiyouji/</loc>
+    <loc>https://sysin.cn/blog/xray/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2269,11 +2273,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-tkg/</loc>
+    <loc>https://sysin.cn/blog/vmware-tce/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-tce/</loc>
+    <loc>https://sysin.cn/blog/vmware-tkg/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
@@ -2442,10 +2446,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/run-nxos-on-linux/</loc>
-    <lastmod>2024-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/studio-3t/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
