@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.cn/blog/windows-11/</loc>
+    <lastmod>2024-10-03</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/vmware-data-services-manager/</loc>
     <lastmod>2024-10-02</lastmod>
   </url>
@@ -10,10 +14,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/burp-suite-pro/</loc>
-    <lastmod>2024-10-02</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/windows-11/</loc>
     <lastmod>2024-10-02</lastmod>
   </url>
   <url>
@@ -2185,11 +2185,11 @@
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/f5-big-ip-17/</loc>
+    <loc>https://sysin.cn/blog/f5-big-ip-next/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/f5-big-ip-next/</loc>
+    <loc>https://sysin.cn/blog/f5-big-ip-17/</loc>
     <lastmod>2024-08-10</lastmod>
   </url>
   <url>
