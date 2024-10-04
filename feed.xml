@@ -15,8 +15,37 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Fri, 04 Oct 2024 04:18:18 GMT</pubDate>
+    <pubDate>Fri, 04 Oct 2024 09:06:30 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>macOS Sequoia 15.0.1 (24A348) 正式版 ISO、IPSW、PKG 下载</title>
+      <link>https://sysin.org/blog/macOS-Sequoia/</link>
+      <guid>https://sysin.org/blog/macOS-Sequoia/</guid>
+      <pubDate>Fri, 04 Oct 2024 04:02:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS-Sequoia/&quot; title=&quot;macOS Sequoia 15.0.1 (24A348) 正式版 ISO、IPSW、PKG 下载&quot;&gt;macOS Sequoia 15.0.1 (24A348) 正式版 ISO、IPSW、PKG 下载&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      
+      
+      <comments>https://sysin.org/blog/macOS-Sequoia/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Cisco Meeting Server 3.10 - 会议与协作</title>
@@ -936,39 +965,6 @@
       
       
       <comments>https://sysin.org/blog/cisco-asa/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Cisco Secure Firewall Management Center Virtual 7.6.0 - 思科 Firepower 管理中心软件</title>
-      <link>https://sysin.org/blog/cisco-fmc-7/</link>
-      <guid>https://sysin.org/blog/cisco-fmc-7/</guid>
-      <pubDate>Mon, 23 Sep 2024 05:56:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-fmc-7/&quot; title=&quot;Cisco Secure Firewall Management Center Virtual 7.6.0 - 思科 Firepower 管理中心软件&quot;&gt;Cisco Secure Firewall Management Center Virtual 7.6.0 - 思科 Firepower 管理中心软件&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
-      
-      
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
-      
-      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
-      
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
-      
-      <category domain="https://sysin.org/tags/Firepower/">Firepower</category>
-      
-      
-      <comments>https://sysin.org/blog/cisco-fmc-7/#disqus_thread</comments>
       
     </item>
     
