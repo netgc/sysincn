@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-10-05T02:02:17.304Z</updated>
+  <updated>2024-10-05T02:22:46.416Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Nexpose 6.6.272 for Linux &amp; Windows - 漏洞扫描</title>
+    <link href="https://sysin.org/blog/nexpose-6/"/>
+    <id>https://sysin.org/blog/nexpose-6/</id>
+    <published>2024-10-05T02:09:30.000Z</published>
+    <updated>2024-10-05T02:22:46.416Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-6/&quot; title=&quot;Nexpose 6.6.272 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 6.6.272 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
+    
+  </entry>
   
   <entry>
     <title>VMware Private AI Foundation with NVIDIA - 生成式人工智能解决方案</title>
@@ -541,37 +572,6 @@
     <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
     <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nexpose 6.6.271 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.org/blog/nexpose-6/"/>
-    <id>https://sysin.org/blog/nexpose-6/</id>
-    <published>2024-09-27T00:39:30.000Z</published>
-    <updated>2024-09-27T00:31:23.715Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-6/&quot; title=&quot;Nexpose 6.6.271 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 6.6.271 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
   </entry>
   
