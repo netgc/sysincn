@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-10-05T01:55:28.736Z</updated>
+  <updated>2024-10-05T02:02:17.304Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://sysin.cn/blog/vmware-private-ai-foundation-nvidia/"/>
     <id>https://sysin.cn/blog/vmware-private-ai-foundation-nvidia/</id>
     <published>2024-10-05T01:16:39.000Z</published>
-    <updated>2024-10-05T01:55:28.736Z</updated>
+    <updated>2024-10-05T02:02:17.304Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-data-services-manager/&quot; title=&quot;VMware Data Services Manager 2.1 - 数据库管理和数据服务管理&quot;&gt;VMware Data Services Manager 2.1 - 数据库管理和数据服务管理&lt;/a&gt;，查看最新版。</summary>
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-private-ai-foundation-nvidia/&quot; title=&quot;VMware Private AI Foundation with NVIDIA - 生成式人工智能解决方案&quot;&gt;VMware Private AI Foundation with NVIDIA - 生成式人工智能解决方案&lt;/a&gt;，查看最新版。</summary>
         
       
     
@@ -248,9 +248,9 @@
     
     <category term="NX-OS" scheme="https://sysin.cn/tags/NX-OS/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
-    
     <category term="IOS-XR" scheme="https://sysin.cn/tags/IOS-XR/"/>
+    
+    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
     
     <category term="FXOS" scheme="https://sysin.cn/tags/FXOS/"/>
     

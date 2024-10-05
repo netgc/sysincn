@@ -15,7 +15,7 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Sat, 05 Oct 2024 01:55:28 GMT</pubDate>
+    <pubDate>Sat, 05 Oct 2024 02:02:17 GMT</pubDate>
     <generator>http://sysin.org/</generator>
     
     <item>
@@ -28,7 +28,7 @@
         
           
           
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-data-services-manager/&quot; title=&quot;VMware Data Services Manager 2.1 - 数据库管理和数据服务管理&quot;&gt;VMware Data Services Manager 2.1 - 数据库管理和数据服务管理&lt;/a&gt;，查看最新版。</description>
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-private-ai-foundation-nvidia/&quot; title=&quot;VMware Private AI Foundation with NVIDIA - 生成式人工智能解决方案&quot;&gt;VMware Private AI Foundation with NVIDIA - 生成式人工智能解决方案&lt;/a&gt;，查看最新版。</description>
           
         
       
@@ -263,9 +263,9 @@
       
       <category domain="https://sysin.cn/tags/NX-OS/">NX-OS</category>
       
-      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
-      
       <category domain="https://sysin.cn/tags/IOS-XR/">IOS-XR</category>
+      
+      <category domain="https://sysin.cn/tags/IOS-XE/">IOS-XE</category>
       
       <category domain="https://sysin.cn/tags/FXOS/">FXOS</category>
       
