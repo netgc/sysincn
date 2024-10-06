@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/cisco-nexus-9000v/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-nexus-9000/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/rocky-linux-9-aarch64-ovf/</loc>
     
     <lastmod>2024-10-06</lastmod>
@@ -156,15 +174,6 @@
   
   <url>
     <loc>https://sysin.org/blog/cisco-apic-6/</loc>
-    
-    <lastmod>2024-10-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-nexus-9000/</loc>
     
     <lastmod>2024-10-06</lastmod>
     
@@ -2855,7 +2864,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-replication-8/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-foundation/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2864,7 +2873,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-foundation/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-replication-8/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -6762,15 +6771,6 @@
   
   <url>
     <loc>https://sysin.org/blog/cisco-acisim-5/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-nexus-9000v/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
