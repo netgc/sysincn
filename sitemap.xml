@@ -2,79 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-nexus-9000v/</loc>
-    
-    <lastmod>2024-10-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/cisco-nexus-9000/</loc>
-    
-    <lastmod>2024-10-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/rocky-linux-9-aarch64-ovf/</loc>
-    
-    <lastmod>2024-10-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/invicti-enterprise/</loc>
-    
-    <lastmod>2024-10-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/freebsd-14-ovf/</loc>
-    
-    <lastmod>2024-10-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/cisco-ios-xrv-9000/</loc>
-    
-    <lastmod>2024-10-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/adobe-premiere-elements/</loc>
-    
-    <lastmod>2024-10-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/adobe-photoshop-elements/</loc>
-    
-    <lastmod>2024-10-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/zabbix-7-ovf/</loc>
     
     <lastmod>2024-10-06</lastmod>
     
@@ -147,6 +75,78 @@
   
   <url>
     <loc>https://sysin.cn/blog/cisco-catalyst-9800-cl/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/cisco-nexus-9000v/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/rocky-linux-9-aarch64-ovf/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/invicti-enterprise/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/freebsd-14-ovf/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/cisco-ios-xrv-9000/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/adobe-premiere-elements/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/adobe-photoshop-elements/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/zabbix-7-ovf/</loc>
     
     <lastmod>2024-10-06</lastmod>
     
@@ -2810,7 +2810,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/pan-os-10/</loc>
+    <loc>https://sysin.cn/blog/parallels-desktop-18/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -2819,7 +2819,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/parallels-desktop-18/</loc>
+    <loc>https://sysin.cn/blog/pan-os-10/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7013,7 +7013,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/hello-hexo/</loc>
+    <loc>https://sysin.cn/blog/guhua/</loc>
     
     <lastmod>2023-05-16</lastmod>
     
@@ -7022,7 +7022,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/guhua/</loc>
+    <loc>https://sysin.cn/blog/hello-hexo/</loc>
     
     <lastmod>2023-05-16</lastmod>
     
