@@ -15,8 +15,70 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Sat, 05 Oct 2024 02:30:06 GMT</pubDate>
+    <pubDate>Sun, 06 Oct 2024 01:38:30 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Burp Suite Professional 2024.9 for Windows x64 - 领先的 Web 渗透测试软件</title>
+      <link>https://sysin.cn/blog/burp-suite-pro-win/</link>
+      <guid>https://sysin.cn/blog/burp-suite-pro-win/</guid>
+      <pubDate>Sun, 06 Oct 2024 01:18:12 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-win/&quot; title=&quot;Burp Suite Professional 2024.9 for Windows x64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.9 for Windows x64 - 领先的 Web 渗透测试软件&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      
+      
+      <comments>https://sysin.cn/blog/burp-suite-pro-win/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Burp Suite Professional 2024.9 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
+      <link>https://sysin.cn/blog/burp-suite-pro-mac/</link>
+      <guid>https://sysin.cn/blog/burp-suite-pro-mac/</guid>
+      <pubDate>Sun, 06 Oct 2024 01:15:10 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-mac/&quot; title=&quot;Burp Suite Professional 2024.9 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.9 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      
+      
+      <comments>https://sysin.cn/blog/burp-suite-pro-mac/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Nexpose 6.6.272 for Linux &amp; Windows - 漏洞扫描</title>
@@ -901,68 +963,6 @@
       
       
       <comments>https://sysin.cn/blog/sql-server-2022/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Invicti v24.9.1 for Windows - Web 应用程序安全测试</title>
-      <link>https://sysin.cn/blog/invicti/</link>
-      <guid>https://sysin.cn/blog/invicti/</guid>
-      <pubDate>Wed, 25 Sep 2024 01:20:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/invicti/&quot; title=&quot;Invicti v24.9.1 for Windows - Web 应用程序安全测试&quot;&gt;Invicti v24.9.1 for Windows - Web 应用程序安全测试&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
-      
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      
-      <comments>https://sysin.cn/blog/invicti/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Cisco ASAv 9.22.1 - 思科自适应安全虚拟设备 (ASAv)</title>
-      <link>https://sysin.cn/blog/cisco-asav/</link>
-      <guid>https://sysin.cn/blog/cisco-asav/</guid>
-      <pubDate>Tue, 24 Sep 2024 01:12:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-asav/&quot; title=&quot;Cisco ASAv 9.22.1 - 思科自适应安全虚拟设备 (ASAv)&quot;&gt;Cisco ASAv 9.22.1 - 思科自适应安全虚拟设备 (ASAv)&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
-      
-      
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
-      
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
-      
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
-      
-      
-      <comments>https://sysin.cn/blog/cisco-asav/#disqus_thread</comments>
       
     </item>
     

@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-10-05T02:30:06.399Z</updated>
+  <updated>2024-10-06T01:38:30.370Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Burp Suite Professional 2024.9 for Windows x64 - 领先的 Web 渗透测试软件</title>
+    <link href="https://sysin.cn/blog/burp-suite-pro-win/"/>
+    <id>https://sysin.cn/blog/burp-suite-pro-win/</id>
+    <published>2024-10-06T01:18:12.000Z</published>
+    <updated>2024-10-06T01:38:30.370Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-win/&quot; title=&quot;Burp Suite Professional 2024.9 for Windows x64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.9 for Windows x64 - 领先的 Web 渗透测试软件&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    
+    
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
+    
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Burp Suite Professional 2024.9 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
+    <link href="https://sysin.cn/blog/burp-suite-pro-mac/"/>
+    <id>https://sysin.cn/blog/burp-suite-pro-mac/</id>
+    <published>2024-10-06T01:15:10.000Z</published>
+    <updated>2024-10-06T01:38:43.037Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-mac/&quot; title=&quot;Burp Suite Professional 2024.9 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.9 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    
+    
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
+    
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+  </entry>
   
   <entry>
     <title>Nexpose 6.6.272 for Linux &amp; Windows - 漏洞扫描</title>
@@ -843,64 +901,6 @@
     <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
     
     <category term="SQL" scheme="https://sysin.cn/tags/SQL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Invicti v24.9.1 for Windows - Web 应用程序安全测试</title>
-    <link href="https://sysin.cn/blog/invicti/"/>
-    <id>https://sysin.cn/blog/invicti/</id>
-    <published>2024-09-25T01:20:00.000Z</published>
-    <updated>2024-10-02T23:25:51.641Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/invicti/&quot; title=&quot;Invicti v24.9.1 for Windows - Web 应用程序安全测试&quot;&gt;Invicti v24.9.1 for Windows - Web 应用程序安全测试&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
-    
-    
-    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
-    
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco ASAv 9.22.1 - 思科自适应安全虚拟设备 (ASAv)</title>
-    <link href="https://sysin.cn/blog/cisco-asav/"/>
-    <id>https://sysin.cn/blog/cisco-asav/</id>
-    <published>2024-09-24T01:12:00.000Z</published>
-    <updated>2024-09-24T06:28:26.774Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-asav/&quot; title=&quot;Cisco ASAv 9.22.1 - 思科自适应安全虚拟设备 (ASAv)&quot;&gt;Cisco ASAv 9.22.1 - 思科自适应安全虚拟设备 (ASAv)&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
-    
-    
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
-    
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
-    
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
   </entry>
   
