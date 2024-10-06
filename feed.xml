@@ -517,9 +517,9 @@
       
       <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
       
-      <category domain="https://sysin.org/tags/ESXi/">ESXi</category>
-      
       <category domain="https://sysin.org/tags/vCenter/">vCenter</category>
+      
+      <category domain="https://sysin.org/tags/ESXi/">ESXi</category>
       
       <category domain="https://sysin.org/tags/vSAN/">vSAN</category>
       

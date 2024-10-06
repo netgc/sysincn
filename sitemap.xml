@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/how-to-install-vmware-tools/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/office-2021/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/burp-suite-pro-mac/</loc>
     
     <lastmod>2024-10-06</lastmod>
@@ -2630,15 +2648,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/how-to-install-vmware-tools/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/itunes-for-windows/</loc>
     
     <lastmod>2024-08-10</lastmod>
@@ -3332,7 +3341,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/exchange-2019/</loc>
+    <loc>https://sysin.org/blog/exchange-patch/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -3341,7 +3350,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/exchange-patch/</loc>
+    <loc>https://sysin.org/blog/exchange-2019/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -3423,15 +3432,6 @@
   
   <url>
     <loc>https://sysin.org/blog/md-next/</loc>
-    
-    <lastmod>2024-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/office-2021/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4952,7 +4952,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-17/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -4961,7 +4961,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-17/</loc>
     
     <lastmod>2024-08-10</lastmod>
     
@@ -7225,27 +7225,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Chrome/</loc>
-    <lastmod>2024-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/Firefox/</loc>
-    <lastmod>2024-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/Safari/</loc>
-    <lastmod>2024-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/tags/Kubernetes/</loc>
     <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -7274,14 +7253,28 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/IOS-XE/</loc>
+    <loc>https://sysin.org/tags/Chrome/</loc>
     <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/IOS-XR/</loc>
+    <loc>https://sysin.org/tags/Firefox/</loc>
+    <lastmod>2024-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/tags/Safari/</loc>
+    <lastmod>2024-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/tags/IOS-XE/</loc>
     <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7296,6 +7289,13 @@
   
   <url>
     <loc>https://sysin.org/tags/Wi-Fi/</loc>
+    <lastmod>2024-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/tags/IOS-XR/</loc>
     <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7358,14 +7358,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/ESXi/</loc>
+    <loc>https://sysin.org/tags/vCenter/</loc>
     <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/vCenter/</loc>
+    <loc>https://sysin.org/tags/ESXi/</loc>
     <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7393,7 +7393,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Dell/</loc>
+    <loc>https://sysin.org/tags/DellEMC/</loc>
     <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7407,14 +7407,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/DellEMC/</loc>
+    <loc>https://sysin.org/tags/Header/</loc>
     <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Header/</loc>
+    <loc>https://sysin.org/tags/Dell/</loc>
     <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
