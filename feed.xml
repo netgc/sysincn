@@ -15,8 +15,37 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Sun, 06 Oct 2024 01:38:30 GMT</pubDate>
+    <pubDate>Mon, 07 Oct 2024 05:40:13 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024</title>
+      <link>https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/</link>
+      <guid>https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/</guid>
+      <pubDate>Mon, 07 Oct 2024 05:11:02 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/gartner-magic-quadrant-enterprise-br-2024/&quot; title=&quot;Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024&quot;&gt;Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024&lt;/a&gt;，查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Gartner/">Gartner</category>
+      
+      
+      <category domain="https://sysin.org/tags/Backup/">Backup</category>
+      
+      <category domain="https://sysin.org/tags/Gartner/">Gartner</category>
+      
+      
+      <comments>https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Burp Suite Professional 2024.9 for Windows x64 - 领先的 Web 渗透测试软件</title>
@@ -40,9 +69,9 @@
       
       <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.org/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
       
       <comments>https://sysin.org/blog/burp-suite-pro-win/#disqus_thread</comments>
@@ -71,9 +100,9 @@
       
       <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.org/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
       
       <comments>https://sysin.org/blog/burp-suite-pro-mac/#disqus_thread</comments>
@@ -102,9 +131,9 @@
       
       <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
       <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
       
@@ -191,9 +220,9 @@
       <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
       <category domain="https://sysin.org/tags/OVF/">OVF</category>
       
@@ -257,11 +286,11 @@
       
       <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
       <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
       
       <comments>https://sysin.org/blog/burp-suite-pro/#disqus_thread</comments>
@@ -393,9 +422,9 @@
       
       <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
       <category domain="https://sysin.org/tags/Unix/">Unix</category>
       
@@ -482,9 +511,9 @@
       
       <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
       <category domain="https://sysin.org/tags/Database/">Database</category>
       
@@ -930,39 +959,6 @@
       
       
       <comments>https://sysin.org/blog/cisco-firepower-1000/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>SQL Server 2022 RTM Cumulative Update #15</title>
-      <link>https://sysin.org/blog/sql-server-2022/</link>
-      <guid>https://sysin.org/blog/sql-server-2022/</guid>
-      <pubDate>Wed, 25 Sep 2024 02:20:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/sql-server-2022/&quot; title=&quot;SQL Server 2022 RTM Cumulative Update #15&quot;&gt;SQL Server 2022 RTM Cumulative Update #15&lt;/a&gt;，查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
-      
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
-      
-      <category domain="https://sysin.org/tags/Server/">Server</category>
-      
-      <category domain="https://sysin.org/tags/SQL/">SQL</category>
-      
-      
-      <comments>https://sysin.org/blog/sql-server-2022/#disqus_thread</comments>
       
     </item>
     

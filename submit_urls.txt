@@ -1,3 +1,6 @@
+https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/
+https://sysin.org/blog/burp-suite-pro-mac/
+https://sysin.org/blog/burp-suite-pro/
 https://sysin.org/blog/cisco-nexus-9000/
 https://sysin.org/blog/cisco-secure-network-analytics/
 https://sysin.org/blog/cisco-wsa-15/
@@ -15,6 +18,3 @@ https://sysin.org/blog/cisco-ios-xrv-9000/
 https://sysin.org/blog/adobe-premiere-elements/
 https://sysin.org/blog/adobe-photoshop-elements/
 https://sysin.org/blog/zabbix-7-ovf/
-https://sysin.org/blog/cisco-catalyst-9800/
-https://sysin.org/blog/cisco/
-https://sysin.org/blog/cisco-apic-6/

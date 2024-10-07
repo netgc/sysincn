@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-10-06T01:38:30.370Z</updated>
+  <updated>2024-10-07T05:40:13.387Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024</title>
+    <link href="https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/"/>
+    <id>https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/</id>
+    <published>2024-10-07T05:11:02.000Z</published>
+    <updated>2024-10-07T05:40:13.387Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/gartner-magic-quadrant-enterprise-br-2024/&quot; title=&quot;Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024&quot;&gt;Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024&lt;/a&gt;，查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Gartner" scheme="https://sysin.org/categories/Gartner/"/>
+    
+    
+    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
+    
+    <category term="Gartner" scheme="https://sysin.org/tags/Gartner/"/>
+    
+  </entry>
   
   <entry>
     <title>Burp Suite Professional 2024.9 for Windows x64 - 领先的 Web 渗透测试软件</title>
@@ -39,9 +66,9 @@
     
     <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
   </entry>
   
@@ -50,7 +77,7 @@
     <link href="https://sysin.org/blog/burp-suite-pro-mac/"/>
     <id>https://sysin.org/blog/burp-suite-pro-mac/</id>
     <published>2024-10-06T01:15:10.000Z</published>
-    <updated>2024-10-06T01:38:43.037Z</updated>
+    <updated>2024-10-06T09:46:50.061Z</updated>
     
     
       
@@ -68,9 +95,9 @@
     
     <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
   </entry>
   
@@ -97,9 +124,9 @@
     
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
     <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
@@ -180,9 +207,9 @@
     <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
     <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
@@ -222,7 +249,7 @@
     <link href="https://sysin.org/blog/burp-suite-pro/"/>
     <id>https://sysin.org/blog/burp-suite-pro/</id>
     <published>2024-10-02T23:10:10.000Z</published>
-    <updated>2024-10-02T23:23:52.839Z</updated>
+    <updated>2024-10-06T09:41:19.393Z</updated>
     
     
       
@@ -242,11 +269,11 @@
     
     <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
   </entry>
   
@@ -370,9 +397,9 @@
     
     <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
     <category term="Unix" scheme="https://sysin.org/tags/Unix/"/>
     
@@ -453,9 +480,9 @@
     
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
     <category term="Database" scheme="https://sysin.org/tags/Database/"/>
     
@@ -870,37 +897,6 @@
     <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
     
     <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SQL Server 2022 RTM Cumulative Update #15</title>
-    <link href="https://sysin.org/blog/sql-server-2022/"/>
-    <id>https://sysin.org/blog/sql-server-2022/</id>
-    <published>2024-09-25T02:20:00.000Z</published>
-    <updated>2024-09-27T01:40:32.095Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/sql-server-2022/&quot; title=&quot;SQL Server 2022 RTM Cumulative Update #15&quot;&gt;SQL Server 2022 RTM Cumulative Update #15&lt;/a&gt;，查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
-    
-    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
-    
-    <category term="SQL" scheme="https://sysin.org/tags/SQL/"/>
     
   </entry>
   

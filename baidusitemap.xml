@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/</loc>
+    <lastmod>2024-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/burp-suite-pro-mac/</loc>
+    <lastmod>2024-10-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/burp-suite-pro/</loc>
+    <lastmod>2024-10-06</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/cisco-nexus-9000/</loc>
     <lastmod>2024-10-06</lastmod>
   </url>
@@ -101,10 +113,6 @@
     <lastmod>2024-10-06</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/burp-suite-pro-mac/</loc>
-    <lastmod>2024-10-06</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/burp-suite-pro-win/</loc>
     <lastmod>2024-10-06</lastmod>
   </url>
@@ -134,10 +142,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/invicti/</loc>
-    <lastmod>2024-10-02</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/burp-suite-pro/</loc>
     <lastmod>2024-10-02</lastmod>
   </url>
   <url>
