@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
+    <lastmod>2024-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-aci-16/</loc>
+    <lastmod>2024-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-vsan/</loc>
+    <lastmod>2024-10-07</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
@@ -353,10 +365,6 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-vsan/</loc>
-    <lastmod>2024-10-07</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-2/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
@@ -633,10 +641,6 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
-    <lastmod>2024-10-07</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-vsphere-8-u3-whats-new/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
@@ -829,11 +833,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/citrix-adc-13/</loc>
+    <loc>https://sysin.org/blog/cisco-nexus-9000/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-nexus-9000/</loc>
+    <loc>https://sysin.org/blog/citrix-adc-13/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -1789,11 +1793,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-esxi-7-u1-oem/</loc>
+    <loc>https://sysin.org/blog/vmware-data-services-manager/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-data-services-manager/</loc>
+    <loc>https://sysin.org/blog/vmware-esxi-7-u1-oem/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -1881,11 +1885,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/veritas-enterprise-vault-15/</loc>
+    <loc>https://sysin.org/blog/veeam-one-12/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/veeam-one-12/</loc>
+    <loc>https://sysin.org/blog/veritas-enterprise-vault-15/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -2025,11 +2029,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/pt-maxpatrol/</loc>
+    <loc>https://sysin.org/blog/pt-application-inspector/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/pt-application-inspector/</loc>
+    <loc>https://sysin.org/blog/pt-maxpatrol/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -2226,10 +2230,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/adobe-cc-2023/</loc>
-    <lastmod>2024-10-07</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-aci-16/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>

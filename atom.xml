@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-10-07T06:27:02.910Z</updated>
+  <updated>2024-10-08T00:55:13.520Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Cisco NX-OS System Software - ACI 16.0(7e)M</title>
+    <link href="https://sysin.org/blog/cisco-aci-16/"/>
+    <id>https://sysin.org/blog/cisco-aci-16/</id>
+    <published>2024-10-08T01:50:00.000Z</published>
+    <updated>2024-10-08T00:55:13.520Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-aci-16/&quot; title=&quot;Cisco NX-OS System Software - ACI 16.0(7e)M&quot;&gt;Cisco NX-OS System Software - ACI 16.0(7e)M&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
+    
+  </entry>
   
   <entry>
     <title>Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024</title>
@@ -493,7 +522,7 @@
     <link href="https://sysin.org/blog/vmware-vsan/"/>
     <id>https://sysin.org/blog/vmware-vsan/</id>
     <published>2024-09-30T01:50:01.000Z</published>
-    <updated>2024-10-07T06:27:09.498Z</updated>
+    <updated>2024-10-07T09:22:38.530Z</updated>
     
     
       
@@ -851,37 +880,6 @@
         
         
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-firepower-3100/&quot; title=&quot;Cisco Secure Firewall 3100 Series FTD Software 7.6.0 &amp;amp; ASA Software 9.22.1&quot;&gt;Cisco Secure Firewall 3100 Series FTD Software 7.6.0 &amp;amp; ASA Software 9.22.1&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
-    
-    
-    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
-    
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-    <category term="Firepower" scheme="https://sysin.org/tags/Firepower/"/>
-    
-    <category term="FXOS" scheme="https://sysin.org/tags/FXOS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco Firepower 1000 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-    <link href="https://sysin.org/blog/cisco-firepower-1000/"/>
-    <id>https://sysin.org/blog/cisco-firepower-1000/</id>
-    <published>2024-09-25T03:17:00.000Z</published>
-    <updated>2024-10-07T06:27:02.945Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-firepower-1000/&quot; title=&quot;Cisco Firepower 1000 Series FTD Software 7.6.0 &amp;amp; ASA Software 9.22.1&quot;&gt;Cisco Firepower 1000 Series FTD Software 7.6.0 &amp;amp; ASA Software 9.22.1&lt;/a&gt; 查看最新版。</summary>
         
       
     

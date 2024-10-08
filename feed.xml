@@ -15,8 +15,39 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Mon, 07 Oct 2024 06:27:02 GMT</pubDate>
+    <pubDate>Tue, 08 Oct 2024 00:55:13 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Cisco NX-OS System Software - ACI 16.0(7e)M</title>
+      <link>https://sysin.org/blog/cisco-aci-16/</link>
+      <guid>https://sysin.org/blog/cisco-aci-16/</guid>
+      <pubDate>Tue, 08 Oct 2024 01:50:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-aci-16/&quot; title=&quot;Cisco NX-OS System Software - ACI 16.0(7e)M&quot;&gt;Cisco NX-OS System Software - ACI 16.0(7e)M&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      
+      <category domain="https://sysin.org/tags/NX-OS/">NX-OS</category>
+      
+      
+      <comments>https://sysin.org/blog/cisco-aci-16/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024</title>
@@ -926,39 +957,6 @@
       
       
       <comments>https://sysin.org/blog/cisco-firepower-3100/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Cisco Firepower 1000 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-      <link>https://sysin.org/blog/cisco-firepower-1000/</link>
-      <guid>https://sysin.org/blog/cisco-firepower-1000/</guid>
-      <pubDate>Wed, 25 Sep 2024 03:17:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-firepower-1000/&quot; title=&quot;Cisco Firepower 1000 Series FTD Software 7.6.0 &amp;amp; ASA Software 9.22.1&quot;&gt;Cisco Firepower 1000 Series FTD Software 7.6.0 &amp;amp; ASA Software 9.22.1&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
-      
-      
-      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
-      
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
-      
-      <category domain="https://sysin.org/tags/Firepower/">Firepower</category>
-      
-      <category domain="https://sysin.org/tags/FXOS/">FXOS</category>
-      
-      
-      <comments>https://sysin.org/blog/cisco-firepower-1000/#disqus_thread</comments>
       
     </item>
     
