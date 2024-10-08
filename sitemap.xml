@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</loc>
+    
+    <lastmod>2024-10-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</loc>
+    
+    <lastmod>2024-10-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/disable-edge-auto-update/</loc>
+    
+    <lastmod>2024-10-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-apic-6/</loc>
+    
+    <lastmod>2024-10-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/windows-11-no-tpm/</loc>
     
     <lastmod>2024-10-08</lastmod>
@@ -596,7 +632,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/itunes-for-windows/</loc>
+    <loc>https://sysin.org/blog/jb-2022/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -605,7 +641,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jb-2022/</loc>
+    <loc>https://sysin.org/blog/itunes-for-windows/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2126,15 +2162,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/windows-10-arm/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -2577,15 +2604,6 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-vrops-8/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -4043,6 +4061,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/blog/vmware-data-services-manager/</loc>
+    
+    <lastmod>2024-10-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/vmware-esxi-7-u1-oem/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -4062,15 +4089,6 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-nsx-4-1/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-data-services-manager/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -5294,15 +5312,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-apic-6/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/citrix-adc-14/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -6348,15 +6357,6 @@
   
   <url>
     <loc>https://sysin.org/blog/davinci-resolve/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/disable-edge-auto-update/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
