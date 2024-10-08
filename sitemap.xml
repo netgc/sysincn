@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/windows-11-no-tpm/</loc>
+    
+    <lastmod>2024-10-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</loc>
     
     <lastmod>2024-10-08</lastmod>
@@ -587,7 +596,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/jb-2022/</loc>
+    <loc>https://sysin.cn/blog/itunes-for-windows/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -596,7 +605,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/itunes-for-windows/</loc>
+    <loc>https://sysin.cn/blog/jb-2022/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -3746,7 +3755,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/pvs-studio/</loc>
+    <loc>https://sysin.cn/blog/public-key-authentication/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -3755,7 +3764,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/public-key-authentication/</loc>
+    <loc>https://sysin.cn/blog/pvs-studio/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -5204,15 +5213,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/windows-11-no-tpm/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/windows-7/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -5861,7 +5861,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-catalyst-9800-cl/</loc>
+    <loc>https://sysin.cn/blog/cisco-catalyst-8000v/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -5870,7 +5870,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-catalyst-8000v/</loc>
+    <loc>https://sysin.cn/blog/cisco-catalyst-9800-cl/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -7115,14 +7115,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Security/</loc>
+    <loc>https://sysin.cn/tags/Windows/</loc>
     <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Windows/</loc>
+    <loc>https://sysin.cn/tags/Security/</loc>
     <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7192,14 +7192,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Unix/</loc>
+    <loc>https://sysin.cn/tags/Rapid7/</loc>
     <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Rapid7/</loc>
+    <loc>https://sysin.cn/tags/Unix/</loc>
     <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

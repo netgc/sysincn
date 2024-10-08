@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2024-10-08T00:55:13.520Z</updated>
+  <updated>2024-10-08T02:48:47.574Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Windows 11 绕过 TPM 方法总结，通用免 TPM 镜像下载 (Updated Oct 2024)</title>
+    <link href="https://sysin.cn/blog/windows-11-no-tpm/"/>
+    <id>https://sysin.cn/blog/windows-11-no-tpm/</id>
+    <published>2024-10-08T02:08:11.000Z</published>
+    <updated>2024-10-08T02:48:47.574Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-11-no-tpm/&quot; title=&quot;Windows 11 绕过 TPM 方法总结，通用免 TPM 镜像下载 (Updated Oct 2024)&quot;&gt;Windows 11 绕过 TPM 方法总结，通用免 TPM 镜像下载 (Updated Oct 2024)&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    
+  </entry>
   
   <entry>
     <title>Cisco NX-OS System Software - ACI 16.0(7e)M</title>
@@ -153,9 +180,9 @@
     
     <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
     <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
     
@@ -300,9 +327,9 @@
     
     <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
   </entry>
   
@@ -849,37 +876,6 @@
         
         
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-firepower-4100/&quot; title=&quot;Cisco Firepower 4100 Series FTD Software 7.6.0 &amp;amp; ASA Software 9.22.1&quot;&gt;Cisco Firepower 4100 Series FTD Software 7.6.0 &amp;amp; ASA Software 9.22.1&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
-    
-    
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
-    
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
-    
-    <category term="Firepower" scheme="https://sysin.cn/tags/Firepower/"/>
-    
-    <category term="FXOS" scheme="https://sysin.cn/tags/FXOS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco Secure Firewall 3100 Series FTD Software 7.6.0 &amp; ASA Software 9.22.1</title>
-    <link href="https://sysin.cn/blog/cisco-firepower-3100/"/>
-    <id>https://sysin.cn/blog/cisco-firepower-3100/</id>
-    <published>2024-09-25T03:19:00.000Z</published>
-    <updated>2024-10-07T06:27:02.910Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-firepower-3100/&quot; title=&quot;Cisco Secure Firewall 3100 Series FTD Software 7.6.0 &amp;amp; ASA Software 9.22.1&quot;&gt;Cisco Secure Firewall 3100 Series FTD Software 7.6.0 &amp;amp; ASA Software 9.22.1&lt;/a&gt; 查看最新版。</summary>
         
       
     
