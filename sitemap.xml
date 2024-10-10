@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/vmware-fusion-13/</loc>
+    
+    <lastmod>2024-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-workstation-17/</loc>
+    
+    <lastmod>2024-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/vmware-tools-12/</loc>
     
     <lastmod>2024-10-10</lastmod>
@@ -2306,7 +2324,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-meeting-server-3/</loc>
+    <loc>https://sysin.org/blog/cisco-jabber-15/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2315,7 +2333,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-jabber-15/</loc>
+    <loc>https://sysin.org/blog/cisco-meeting-server-3/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -3918,15 +3936,6 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-cloud-foundation-4/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-fusion-13/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -6050,15 +6059,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-workstation-17/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/vmware/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -7306,14 +7306,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Router/</loc>
+    <loc>https://sysin.org/tags/Wi-Fi/</loc>
     <lastmod>2024-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Wi-Fi/</loc>
+    <loc>https://sysin.org/tags/Router/</loc>
     <lastmod>2024-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

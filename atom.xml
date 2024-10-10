@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-10-10T04:00:45.266Z</updated>
+  <updated>2024-10-10T09:55:46.332Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>VMware Workstation 17.6.1 Pro for Windows &amp; Linux - 领先的免费桌面虚拟化软件</title>
+    <link href="https://sysin.org/blog/vmware-workstation-17/"/>
+    <id>https://sysin.org/blog/vmware-workstation-17/</id>
+    <published>2024-10-10T07:21:00.000Z</published>
+    <updated>2024-10-10T09:55:46.332Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-workstation-17/&quot; title=&quot;VMware Workstation 17.6.1 Pro for Windows &amp;amp; Linux - 领先的免费桌面虚拟化软件&quot;&gt;VMware Workstation 17.6.1 Pro for Windows &amp;amp; Linux - 领先的免费桌面虚拟化软件&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware Fusion 13.6.1 for Mac - 领先的免费桌面虚拟化软件</title>
+    <link href="https://sysin.org/blog/vmware-fusion-13/"/>
+    <id>https://sysin.org/blog/vmware-fusion-13/</id>
+    <published>2024-10-10T07:05:00.000Z</published>
+    <updated>2024-10-10T09:56:18.954Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-fusion-13/&quot; title=&quot;VMware Fusion 13.6.1 for Mac - 领先的免费桌面虚拟化软件&quot;&gt;VMware Fusion 13.6.1 for Mac - 领先的免费桌面虚拟化软件&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+  </entry>
   
   <entry>
     <title>VMware Tools 12.5.0 下载 - 客户机操作系统无缝交互必备组件</title>
@@ -837,62 +893,6 @@
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
     <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>在不受支持的 Mac 上安装 macOS Sequoia (OpenCore Legacy Patcher v2.0.2)</title>
-    <link href="https://sysin.org/blog/install-macos-15-on-unsupported-mac/"/>
-    <id>https://sysin.org/blog/install-macos-15-on-unsupported-mac/</id>
-    <published>2024-09-28T04:10:00.000Z</published>
-    <updated>2024-10-07T06:27:05.971Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/install-macos-on-unsupported-mac/&quot; title=&quot;在不受支持的 Mac 上安装 macOS (索引页面)&quot;&gt;在不受支持的 Mac 上安装 macOS (索引页面)&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VMware Cloud Director Availability 4.7.3 | 灾难恢复和迁移 | DRaaS</title>
-    <link href="https://sysin.org/blog/vmware-cloud-director-availability-4/"/>
-    <id>https://sysin.org/blog/vmware-cloud-director-availability-4/</id>
-    <published>2024-09-28T01:10:00.000Z</published>
-    <updated>2024-10-07T06:27:02.943Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-cloud-director-availability-4/&quot; title=&quot;VMware Cloud Director Availability 4.7.3 | 灾难恢复和迁移 | DRaaS&quot;&gt;VMware Cloud Director Availability 4.7.3 | 灾难恢复和迁移 | DRaaS&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
-    
-    
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
-    
-    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
-    
-    <category term="Cloud" scheme="https://sysin.org/tags/Cloud/"/>
     
   </entry>
   

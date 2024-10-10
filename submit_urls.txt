@@ -1,3 +1,5 @@
+https://sysin.org/blog/vmware-fusion-13/
+https://sysin.org/blog/vmware-workstation-17/
 https://sysin.org/blog/vmware-tools-12/
 https://sysin.org/blog/vmware-esxi-8-u2-oem/
 https://sysin.org/blog/vmware-esxi-8-u2-sysin/
@@ -16,5 +18,3 @@ https://sysin.org/blog/windows-server-2022-ovf/
 https://sysin.org/blog/windows-server-2025/
 https://sysin.org/blog/invicti/
 https://sysin.org/blog/gartner-magic-quadrant-sd-wan-2024/
-https://sysin.org/blog/vmware-workstation-17-unlocker-windows/
-https://sysin.org/blog/vmware-workstation-17-unlocker-linux/

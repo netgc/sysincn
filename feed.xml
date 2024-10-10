@@ -15,8 +15,68 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Thu, 10 Oct 2024 04:00:45 GMT</pubDate>
+    <pubDate>Thu, 10 Oct 2024 09:55:46 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>VMware Workstation 17.6.1 Pro for Windows &amp; Linux - 领先的免费桌面虚拟化软件</title>
+      <link>https://sysin.org/blog/vmware-workstation-17/</link>
+      <guid>https://sysin.org/blog/vmware-workstation-17/</guid>
+      <pubDate>Thu, 10 Oct 2024 07:21:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-workstation-17/&quot; title=&quot;VMware Workstation 17.6.1 Pro for Windows &amp;amp; Linux - 领先的免费桌面虚拟化软件&quot;&gt;VMware Workstation 17.6.1 Pro for Windows &amp;amp; Linux - 领先的免费桌面虚拟化软件&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      
+      
+      <comments>https://sysin.org/blog/vmware-workstation-17/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>VMware Fusion 13.6.1 for Mac - 领先的免费桌面虚拟化软件</title>
+      <link>https://sysin.org/blog/vmware-fusion-13/</link>
+      <guid>https://sysin.org/blog/vmware-fusion-13/</guid>
+      <pubDate>Thu, 10 Oct 2024 07:05:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-fusion-13/&quot; title=&quot;VMware Fusion 13.6.1 for Mac - 领先的免费桌面虚拟化软件&quot;&gt;VMware Fusion 13.6.1 for Mac - 领先的免费桌面虚拟化软件&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      
+      
+      <comments>https://sysin.org/blog/vmware-fusion-13/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>VMware Tools 12.5.0 下载 - 客户机操作系统无缝交互必备组件</title>
@@ -895,66 +955,6 @@
       
       
       <comments>https://sysin.org/blog/cisco-expressway-15/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>在不受支持的 Mac 上安装 macOS Sequoia (OpenCore Legacy Patcher v2.0.2)</title>
-      <link>https://sysin.org/blog/install-macos-15-on-unsupported-mac/</link>
-      <guid>https://sysin.org/blog/install-macos-15-on-unsupported-mac/</guid>
-      <pubDate>Sat, 28 Sep 2024 04:10:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/install-macos-on-unsupported-mac/&quot; title=&quot;在不受支持的 Mac 上安装 macOS (索引页面)&quot;&gt;在不受支持的 Mac 上安装 macOS (索引页面)&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
-      
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
-      
-      
-      <comments>https://sysin.org/blog/install-macos-15-on-unsupported-mac/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>VMware Cloud Director Availability 4.7.3 | 灾难恢复和迁移 | DRaaS</title>
-      <link>https://sysin.org/blog/vmware-cloud-director-availability-4/</link>
-      <guid>https://sysin.org/blog/vmware-cloud-director-availability-4/</guid>
-      <pubDate>Sat, 28 Sep 2024 01:10:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-cloud-director-availability-4/&quot; title=&quot;VMware Cloud Director Availability 4.7.3 | 灾难恢复和迁移 | DRaaS&quot;&gt;VMware Cloud Director Availability 4.7.3 | 灾难恢复和迁移 | DRaaS&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
-      
-      
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
-      
-      <category domain="https://sysin.org/tags/Backup/">Backup</category>
-      
-      <category domain="https://sysin.org/tags/Cloud/">Cloud</category>
-      
-      
-      <comments>https://sysin.org/blog/vmware-cloud-director-availability-4/#disqus_thread</comments>
       
     </item>
     
