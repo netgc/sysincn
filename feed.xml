@@ -15,8 +15,41 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Thu, 10 Oct 2024 00:37:23 GMT</pubDate>
+    <pubDate>Thu, 10 Oct 2024 03:36:26 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>VMware Tools 12.5.0 下载 - 客户机操作系统无缝交互必备组件</title>
+      <link>https://sysin.cn/blog/vmware-tools-12/</link>
+      <guid>https://sysin.cn/blog/vmware-tools-12/</guid>
+      <pubDate>Thu, 10 Oct 2024 03:10:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-tools-12/&quot; title=&quot;VMware Tools 12.5.0 下载 - 客户机操作系统无缝交互必备组件&quot;&gt;VMware Tools 12.5.0 下载 - 客户机操作系统无缝交互必备组件&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
+      
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
+      
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
+      
+      
+      <comments>https://sysin.cn/blog/vmware-tools-12/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Windows Server 2025 OVF, released Sep 2024 (sysin) - VMware 虚拟机模板</title>
@@ -922,35 +955,6 @@
       
       
       <comments>https://sysin.cn/blog/vmware-cloud-director-availability-4/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Cisco Secure Client 5.1.6.103 (macOS, Linux, Windows &amp; iOS, Andrord) - VPN 和远程访问客户端</title>
-      <link>https://sysin.cn/blog/cisco-secure-client-5/</link>
-      <guid>https://sysin.cn/blog/cisco-secure-client-5/</guid>
-      <pubDate>Fri, 27 Sep 2024 01:08:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-secure-client-5/&quot; title=&quot;Cisco Secure Client 5.1.6.103 (macOS, Linux, Windows &amp;amp; iOS, Andrord) - VPN 和远程访问客户端&quot;&gt;Cisco Secure Client 5.1.6.103 (macOS, Linux, Windows &amp;amp; iOS, Andrord) - VPN 和远程访问客户端&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
-      
-      
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
-      
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
-      
-      
-      <comments>https://sysin.cn/blog/cisco-secure-client-5/#disqus_thread</comments>
       
     </item>
     

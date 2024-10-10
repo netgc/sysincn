@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vcenter-6-7/</loc>
+    <loc>https://sysin.cn/blog/vmware-tools-12/</loc>
+    
+    <lastmod>2024-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/vmware-esxi-8-u2-oem/</loc>
+    
+    <lastmod>2024-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/vmware-esxi-8-u2-sysin/</loc>
     
     <lastmod>2024-10-10</lastmod>
     
@@ -12,6 +30,69 @@
   
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-8/</loc>
+    
+    <lastmod>2024-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/vmware-esxi-8-u1/</loc>
+    
+    <lastmod>2024-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/vmware-vsphere-8/</loc>
+    
+    <lastmod>2024-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/vmware-vsphere-8-u1/</loc>
+    
+    <lastmod>2024-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/vmware-vcenter-8/</loc>
+    
+    <lastmod>2024-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/vmware-vcenter-8-u1/</loc>
+    
+    <lastmod>2024-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/windows-11-no-tpm/</loc>
+    
+    <lastmod>2024-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/vmware-vcenter-6-7/</loc>
     
     <lastmod>2024-10-10</lastmod>
     
@@ -57,15 +138,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/windows-server-2025/</loc>
-    
-    <lastmod>2024-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/windows-11-no-tpm/</loc>
     
     <lastmod>2024-10-09</lastmod>
     
@@ -785,15 +857,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vsphere-8/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/vmware-vsphere-foundation/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -1343,15 +1406,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-tools-12/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/windows-10/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -1524,15 +1578,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-6-oem/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-8-u2-sysin/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -1838,7 +1883,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7/</loc>
+    <loc>https://sysin.cn/blog/vmware-esxi-7-u3/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -1847,7 +1892,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7-u3/</loc>
+    <loc>https://sysin.cn/blog/vmware-esxi-7/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -1973,7 +2018,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-secure-network-analytics/</loc>
+    <loc>https://sysin.cn/blog/citrix-adc-13/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -1982,7 +2027,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/citrix-adc-13/</loc>
+    <loc>https://sysin.cn/blog/cisco-secure-network-analytics/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2270,7 +2315,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-meeting-server-3/</loc>
+    <loc>https://sysin.cn/blog/cisco-modeling-labs-2/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2279,7 +2324,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-modeling-labs-2/</loc>
+    <loc>https://sysin.cn/blog/cisco-meeting-server-3/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2469,15 +2514,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-7-u2-nuc-usb-nvme/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-8-u1/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2918,7 +2954,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/how-to-change-file-date/</loc>
+    <loc>https://sysin.cn/blog/how-to-flush-dns-cache/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2927,7 +2963,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/how-to-flush-dns-cache/</loc>
+    <loc>https://sysin.cn/blog/how-to-change-file-date/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -3071,7 +3107,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2306/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2312/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -3080,7 +3116,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2312/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2306/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -3926,15 +3962,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vsphere-8-u1/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/vmware-workstation-17-unlocker/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -4674,15 +4701,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-7-u3-oem/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-8-u2-oem/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -6167,15 +6185,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-vcenter-8-u1/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/vmware-vsphere-7-u3/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -6744,15 +6753,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-host-client-session-timeout/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/vmware-vcenter-8/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -7882,14 +7882,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/categories/macOS/</loc>
+    <loc>https://sysin.cn/categories/Windows/</loc>
     <lastmod>2024-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/categories/Windows/</loc>
+    <loc>https://sysin.cn/categories/macOS/</loc>
     <lastmod>2024-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
