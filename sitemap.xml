@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sysin.org/blog/vmware-fusion-13/</loc>
+    <loc>https://sysin.org/blog/vmware-workstation-17/</loc>
     
     <lastmod>2024-10-10</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-workstation-17/</loc>
+    <loc>https://sysin.org/blog/vmware-fusion-13/</loc>
     
     <lastmod>2024-10-10</lastmod>
     
@@ -4574,7 +4574,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-16/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-17-lts/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -4583,7 +4583,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-17-lts/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-16/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -7306,14 +7306,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Wi-Fi/</loc>
+    <loc>https://sysin.org/tags/Router/</loc>
     <lastmod>2024-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Router/</loc>
+    <loc>https://sysin.org/tags/Wi-Fi/</loc>
     <lastmod>2024-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7889,14 +7889,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/categories/Windows/</loc>
+    <loc>https://sysin.org/categories/Linux/</loc>
     <lastmod>2024-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/categories/Linux/</loc>
+    <loc>https://sysin.org/categories/Windows/</loc>
     <lastmod>2024-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

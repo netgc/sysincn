@@ -1,5 +1,5 @@
-https://sysin.org/blog/vmware-fusion-13/
 https://sysin.org/blog/vmware-workstation-17/
+https://sysin.org/blog/vmware-fusion-13/
 https://sysin.org/blog/vmware-tools-12/
 https://sysin.org/blog/vmware-esxi-8-u2-oem/
 https://sysin.org/blog/vmware-esxi-8-u2-sysin/
