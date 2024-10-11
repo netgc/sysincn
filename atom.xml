@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-10-10T10:08:16.939Z</updated>
+  <updated>2024-10-11T00:40:58.208Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -17,11 +17,185 @@
   <generator uri="https://sysin.org/">sysin</generator>
   
   <entry>
+    <title>Nexpose 6.6.273 for Linux &amp; Windows - 漏洞扫描</title>
+    <link href="https://sysin.org/blog/nexpose-6/"/>
+    <id>https://sysin.org/blog/nexpose-6/</id>
+    <published>2024-10-11T00:35:30.000Z</published>
+    <updated>2024-10-11T00:40:58.208Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-6/&quot; title=&quot;Nexpose 6.6.273 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 6.6.273 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware Workstation 17.6.1 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Windows</title>
+    <link href="https://sysin.org/blog/vmware-workstation-17-unlocker-windows/"/>
+    <id>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</id>
+    <published>2024-10-11T00:32:00.000Z</published>
+    <updated>2024-10-11T00:50:39.730Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-workstation-17-unlocker-windows/&quot; title=&quot;VMware Workstation 17.6.1 Pro macOS Unlocker &amp;amp; OEM BIOS 2.7 for Windows&quot;&gt;VMware Workstation 17.6.1 Pro macOS Unlocker &amp;amp; OEM BIOS 2.7 for Windows&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware Workstation 17.6.1 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Linux</title>
+    <link href="https://sysin.org/blog/vmware-workstation-17-unlocker-linux/"/>
+    <id>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</id>
+    <published>2024-10-11T00:31:00.000Z</published>
+    <updated>2024-10-11T00:50:23.186Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-workstation-17-unlocker-linux/&quot; title=&quot;VMware Workstation 17.6.1 Pro macOS Unlocker &amp;amp; OEM BIOS 2.7 for Linux&quot;&gt;VMware Workstation 17.6.1 Pro macOS Unlocker &amp;amp; OEM BIOS 2.7 for Linux&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware Workstation 17.6.1 Pro Unlocker &amp; OEM BIOS 2.7 for Windows &amp; Linux</title>
+    <link href="https://sysin.org/blog/vmware-workstation-17-unlocker/"/>
+    <id>https://sysin.org/blog/vmware-workstation-17-unlocker/</id>
+    <published>2024-10-11T00:30:05.000Z</published>
+    <updated>2024-10-11T00:48:04.558Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-workstation-17-unlocker/&quot; title=&quot;VMware Workstation 17.6.1 Pro Unlocker &amp;amp; OEM BIOS 2.7 for Windows &amp;amp; Linux&quot;&gt;VMware Workstation 17.6.1 Pro Unlocker &amp;amp; OEM BIOS 2.7 for Windows &amp;amp; Linux&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware Fusion 13.6.1 OEM BIOS 2.7 - 在 macOS 中运行 Windows 虚拟机的最佳方式</title>
+    <link href="https://sysin.org/blog/vmware-fusion-13-oem/"/>
+    <id>https://sysin.org/blog/vmware-fusion-13-oem/</id>
+    <published>2024-10-11T00:30:00.000Z</published>
+    <updated>2024-10-11T00:50:06.977Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-fusion-13-oem/&quot; title=&quot;VMware Fusion 13.6.1 OEM BIOS 2.7 - 在 macOS 中运行 Windows 虚拟机的最佳方式&quot;&gt;VMware Fusion 13.6.1 OEM BIOS 2.7 - 在 macOS 中运行 Windows 虚拟机的最佳方式&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 下载汇总</title>
+    <link href="https://sysin.org/blog/windows/"/>
+    <id>https://sysin.org/blog/windows/</id>
+    <published>2024-10-11T00:28:15.000Z</published>
+    <updated>2024-10-11T00:41:14.186Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows/&quot; title=&quot;Windows 下载汇总&quot;&gt;Windows 下载汇总&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+  </entry>
+  
+  <entry>
     <title>VMware Workstation 17.6.1 Pro for Windows &amp; Linux - 领先的免费桌面虚拟化软件</title>
     <link href="https://sysin.org/blog/vmware-workstation-17/"/>
     <id>https://sysin.org/blog/vmware-workstation-17/</id>
     <published>2024-10-10T07:21:00.000Z</published>
-    <updated>2024-10-10T10:08:16.939Z</updated>
+    <updated>2024-10-11T00:48:38.441Z</updated>
     
     
       
@@ -421,37 +595,6 @@
   </entry>
   
   <entry>
-    <title>Nexpose 6.6.272 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.org/blog/nexpose-6/"/>
-    <id>https://sysin.org/blog/nexpose-6/</id>
-    <published>2024-10-05T02:09:30.000Z</published>
-    <updated>2024-10-07T06:27:03.627Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-6/&quot; title=&quot;Nexpose 6.6.272 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 6.6.272 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
-    
-  </entry>
-  
-  <entry>
     <title>VMware Private AI Foundation with NVIDIA - 生成式人工智能解决方案</title>
     <link href="https://sysin.org/blog/vmware-private-ai-foundation-nvidia/"/>
     <id>https://sysin.org/blog/vmware-private-ai-foundation-nvidia/</id>
@@ -746,153 +889,6 @@
     
     
     <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>macOS 下载汇总 (系统、应用和教程)</title>
-    <link href="https://sysin.org/blog/macOS/"/>
-    <id>https://sysin.org/blog/macOS/</id>
-    <published>2024-10-02T01:01:00.000Z</published>
-    <updated>2024-10-07T06:27:05.512Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macOS/&quot; title=&quot;macOS 下载汇总 (系统、应用和教程)&quot;&gt;macOS 下载汇总 (系统、应用和教程)&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Studio 3T 2024.4 (macOS, Linux, Windows) - MongoDB 的专业 GUI、IDE 和 客户端，支持自然语言查询</title>
-    <link href="https://sysin.org/blog/studio-3t/"/>
-    <id>https://sysin.org/blog/studio-3t/</id>
-    <published>2024-10-01T02:10:00.000Z</published>
-    <updated>2024-10-07T06:53:26.178Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/studio-3t/&quot; title=&quot;Studio 3T 2024.4 (macOS, Linux, Windows) - MongoDB 的专业 GUI、IDE 和 客户端，支持自然语言查询&quot;&gt;Studio 3T 2024.4 (macOS, Linux, Windows) - MongoDB 的专业 GUI、IDE 和 客户端，支持自然语言查询&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Database" scheme="https://sysin.org/tags/Database/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VMware vSAN 8.0U3b - 存储虚拟化软件</title>
-    <link href="https://sysin.org/blog/vmware-vsan/"/>
-    <id>https://sysin.org/blog/vmware-vsan/</id>
-    <published>2024-09-30T01:50:01.000Z</published>
-    <updated>2024-10-07T09:22:38.530Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-vsan/&quot; title=&quot;VMware vSAN 8.0U3b - 存储虚拟化软件&quot;&gt;VMware vSAN 8.0U3b - 存储虚拟化软件&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
-    
-    
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
-    
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
-    
-    <category term="ESXi" scheme="https://sysin.org/tags/ESXi/"/>
-    
-    <category term="vCenter" scheme="https://sysin.org/tags/vCenter/"/>
-    
-    <category term="vSAN" scheme="https://sysin.org/tags/vSAN/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows Server 2025 RTM 中文版、英文版下载 (released Sep 2024)</title>
-    <link href="https://sysin.org/blog/windows-server-2025/"/>
-    <id>https://sysin.org/blog/windows-server-2025/</id>
-    <published>2024-09-29T03:25:15.000Z</published>
-    <updated>2024-10-09T03:22:35.245Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2025/&quot; title=&quot;Windows Server 2025 RTM 中文版、英文版下载 (released Sep 2024)&quot;&gt;Windows Server 2025 RTM 中文版、英文版下载 (released Sep 2024)&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
-    
-    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco Expressway Release X15.0.3 - 统一通信网关</title>
-    <link href="https://sysin.org/blog/cisco-expressway-15/"/>
-    <id>https://sysin.org/blog/cisco-expressway-15/</id>
-    <published>2024-09-29T00:45:56.000Z</published>
-    <updated>2024-10-07T06:27:02.909Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-expressway-15/&quot; title=&quot;Cisco Expressway Release X15.0.3 - 统一通信网关&quot;&gt;Cisco Expressway Release X15.0.3 - 统一通信网关&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
   </entry>
   
