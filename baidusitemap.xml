@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/adobe-camera-raw/</loc>
+    <lastmod>2024-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/adobe-dng-converter/</loc>
+    <lastmod>2024-10-12</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/luminar-neo/</loc>
     <lastmod>2024-10-12</lastmod>
   </url>
@@ -753,10 +761,6 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-camera-raw/</loc>
-    <lastmod>2024-10-07</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/almalinux-8-ovf/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
@@ -961,10 +965,6 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-dng-converter/</loc>
-    <lastmod>2024-10-07</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/adobe-photoshop-elements/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
@@ -997,15 +997,15 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/citrix-adc-13/</loc>
-    <lastmod>2024-10-07</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/cisco-nexus-9000/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-secure-network-analytics/</loc>
+    <lastmod>2024-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/citrix-adc-13/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -1773,11 +1773,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/public-key-authentication/</loc>
+    <loc>https://sysin.org/blog/pvs-studio/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/pvs-studio/</loc>
+    <loc>https://sysin.org/blog/public-key-authentication/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -1885,15 +1885,15 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
+    <loc>https://sysin.org/blog/vmware-data-services-manager/</loc>
+    <lastmod>2024-10-07</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/vmware-esxi-7-u1-oem/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-8-u1-sysin/</loc>
-    <lastmod>2024-10-07</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-data-services-manager/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -2113,11 +2113,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/pt-application-inspector/</loc>
+    <loc>https://sysin.org/blog/pt-maxpatrol/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/pt-maxpatrol/</loc>
+    <loc>https://sysin.org/blog/pt-application-inspector/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -2153,11 +2153,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/apple-final-cut-pro/</loc>
+    <loc>https://sysin.org/blog/apple-imovie/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/apple-imovie/</loc>
+    <loc>https://sysin.org/blog/apple-final-cut-pro/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -2421,11 +2421,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/gartner-magic-quadrant-siem-2024/</loc>
+    <loc>https://sysin.org/blog/gartner-magic-quadrant-sd-wan-2023/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/gartner-magic-quadrant-sd-wan-2023/</loc>
+    <loc>https://sysin.org/blog/gartner-magic-quadrant-siem-2024/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -2681,11 +2681,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/magnet-acquire/</loc>
+    <loc>https://sysin.org/blog/macOS-Sequoia/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/macOS-Sequoia/</loc>
+    <loc>https://sysin.org/blog/magnet-acquire/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>

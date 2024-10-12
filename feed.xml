@@ -15,8 +15,70 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Sat, 12 Oct 2024 01:37:47 GMT</pubDate>
+    <pubDate>Sat, 12 Oct 2024 03:17:09 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Adobe DNG Converter v17.0 (macOS, Windows) - DNG 格式转换</title>
+      <link>https://sysin.org/blog/adobe-dng-converter/</link>
+      <guid>https://sysin.org/blog/adobe-dng-converter/</guid>
+      <pubDate>Sat, 12 Oct 2024 01:28:18 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/adobe-dng-converter/&quot; title=&quot;Adobe DNG Converter v17.0 (macOS, Windows) - DNG 格式转换&quot;&gt;Adobe DNG Converter v17.0 (macOS, Windows) - DNG 格式转换&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Adobe/">Adobe</category>
+      
+      
+      <comments>https://sysin.org/blog/adobe-dng-converter/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Adobe Camera Raw v17.0 (macOS, Windows) - 相机 RAW 格式处理</title>
+      <link>https://sysin.org/blog/adobe-camera-raw/</link>
+      <guid>https://sysin.org/blog/adobe-camera-raw/</guid>
+      <pubDate>Sat, 12 Oct 2024 01:27:18 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/adobe-camera-raw/&quot; title=&quot;Adobe Camera Raw v17.0 (macOS, Windows) - 相机 RAW 格式处理&quot;&gt;Adobe Camera Raw v17.0 (macOS, Windows) - 相机 RAW 格式处理&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Adobe/">Adobe</category>
+      
+      
+      <comments>https://sysin.org/blog/adobe-camera-raw/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Luminar Neo 1.21.0 (macOS Universal) - 创新 AI 图像编辑器</title>
@@ -873,78 +935,6 @@
       
       
       <comments>https://sysin.org/blog/vmware-aria-operations-for-logs/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Linux 产品链接汇总</title>
-      <link>https://sysin.org/blog/linux/</link>
-      <guid>https://sysin.org/blog/linux/</guid>
-      <pubDate>Wed, 02 Oct 2024 01:06:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/linux/&quot; title=&quot;Linux 产品链接汇总&quot;&gt;Linux 产品链接汇总&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Linux/">Linux</category>
-      
-      
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.org/tags/RHEL/">RHEL</category>
-      
-      <category domain="https://sysin.org/tags/Ubuntu/">Ubuntu</category>
-      
-      <category domain="https://sysin.org/tags/Debian/">Debian</category>
-      
-      
-      <comments>https://sysin.org/blog/linux/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Cisco 产品下载链接汇总</title>
-      <link>https://sysin.org/blog/cisco/</link>
-      <guid>https://sysin.org/blog/cisco/</guid>
-      <pubDate>Wed, 02 Oct 2024 01:05:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco/&quot; title=&quot;Cisco 产品下载链接汇总&quot;&gt;Cisco 产品下载链接汇总&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
-      
-      
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
-      
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
-      
-      <category domain="https://sysin.org/tags/NX-OS/">NX-OS</category>
-      
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
-      
-      <category domain="https://sysin.org/tags/IOS-XR/">IOS-XR</category>
-      
-      <category domain="https://sysin.org/tags/FXOS/">FXOS</category>
-      
-      
-      <comments>https://sysin.org/blog/cisco/#disqus_thread</comments>
       
     </item>
     
