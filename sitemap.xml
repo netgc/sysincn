@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/veritas-netbackup-10-5/</loc>
+    
+    <lastmod>2024-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/veritas-netbackup-10-4/</loc>
+    
+    <lastmod>2024-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/veritas-netbackup-10-3/</loc>
+    
+    <lastmod>2024-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/veritas-netbackup-10-2/</loc>
+    
+    <lastmod>2024-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/veritas-netbackup-10-1/</loc>
+    
+    <lastmod>2024-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/veritas-netbackup-10/</loc>
+    
+    <lastmod>2024-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/veritas-backup-exec-23/</loc>
     
     <lastmod>2024-10-13</lastmod>
@@ -20,61 +74,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/veritas-netbackup-10-1/</loc>
-    
-    <lastmod>2024-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/veritas-netbackup-10-2/</loc>
-    
-    <lastmod>2024-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/veritas-netbackup-10-3/</loc>
-    
-    <lastmod>2024-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/veritas-netbackup-10-4/</loc>
-    
-    <lastmod>2024-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/veritas-netbackup-10/</loc>
-    
-    <lastmod>2024-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/ravynos/</loc>
-    
-    <lastmod>2024-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/veritas-netbackup-10-5/</loc>
     
     <lastmod>2024-10-13</lastmod>
     
@@ -2315,6 +2315,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/blog/cisco-secure-network-analytics/</loc>
+    
+    <lastmod>2024-10-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/citrix-adc-13/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -2325,15 +2334,6 @@
   
   <url>
     <loc>https://sysin.org/blog/disable-ios-update/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-secure-network-analytics/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -6194,7 +6194,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/juniper-srx-jsrp-config/</loc>
+    <loc>https://sysin.org/blog/kali-linux-2021/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -6203,7 +6203,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/kali-linux-2021/</loc>
+    <loc>https://sysin.org/blog/juniper-srx-jsrp-config/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
