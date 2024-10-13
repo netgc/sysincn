@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>sysin</title>
-  <icon>https://sysin.org/img/favicon.png</icon>
-  <subtitle>SYStem INside | 软件与技术分享</subtitle>
-  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <icon>https://sysin.cn/img/favicon.png</icon>
+  <subtitle>软件与技术分享</subtitle>
+  <link href="https://sysin.cn/atom.xml" rel="self"/>
   
-  <link href="https://sysin.org/"/>
-  <updated>2024-10-13T02:28:20.354Z</updated>
-  <id>https://sysin.org/</id>
+  <link href="https://sysin.cn/"/>
+  <updated>2024-10-13T04:34:07.658Z</updated>
+  <id>https://sysin.cn/</id>
   
   <author>
     <name>sysin</name>
@@ -17,9 +17,36 @@
   <generator uri="https://sysin.org/">sysin</generator>
   
   <entry>
+    <title>Veritas Backup Exec 24.0 (Windows) - 面向中小型企业的数据备份和恢复</title>
+    <link href="https://sysin.cn/blog/veritas-backup-exec-24/"/>
+    <id>https://sysin.cn/blog/veritas-backup-exec-24/</id>
+    <published>2024-10-13T03:10:00.000Z</published>
+    <updated>2024-10-13T04:34:07.658Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/veritas-backup-exec-24/&quot; title=&quot;Veritas Backup Exec 24.0 (Windows) - 面向中小型企业的数据备份和恢复&quot;&gt;Veritas Backup Exec 24.0 (Windows) - 面向中小型企业的数据备份和恢复&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    
+    
+    <category term="Backup" scheme="https://sysin.cn/tags/Backup/"/>
+    
+    <category term="Veritas" scheme="https://sysin.cn/tags/Veritas/"/>
+    
+  </entry>
+  
+  <entry>
     <title>ravynOS 0.5.1 - 基于 FreeBSD 的 macOS 兼容开源操作系统</title>
-    <link href="https://sysin.org/blog/ravynos/"/>
-    <id>https://sysin.org/blog/ravynos/</id>
+    <link href="https://sysin.cn/blog/ravynos/"/>
+    <id>https://sysin.cn/blog/ravynos/</id>
     <published>2024-10-13T02:11:31.000Z</published>
     <updated>2024-10-13T02:28:20.354Z</updated>
     
@@ -34,23 +61,23 @@
     
     
     
-    <category term="Unix" scheme="https://sysin.org/categories/Unix/"/>
+    <category term="Unix" scheme="https://sysin.cn/categories/Unix/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Unix" scheme="https://sysin.org/tags/Unix/"/>
+    <category term="Unix" scheme="https://sysin.cn/tags/Unix/"/>
     
-    <category term="BSD" scheme="https://sysin.org/tags/BSD/"/>
+    <category term="BSD" scheme="https://sysin.cn/tags/BSD/"/>
     
-    <category term="FreeBSD" scheme="https://sysin.org/tags/FreeBSD/"/>
+    <category term="FreeBSD" scheme="https://sysin.cn/tags/FreeBSD/"/>
     
   </entry>
   
   <entry>
     <title>Veritas NetBackup 10.5 (Unix, Linux, Windows) - 领先的企业备份解决方案</title>
-    <link href="https://sysin.org/blog/veritas-netbackup-10-5/"/>
-    <id>https://sysin.org/blog/veritas-netbackup-10-5/</id>
+    <link href="https://sysin.cn/blog/veritas-netbackup-10-5/"/>
+    <id>https://sysin.cn/blog/veritas-netbackup-10-5/</id>
     <published>2024-10-13T01:06:00.000Z</published>
     <updated>2024-10-13T02:14:35.870Z</updated>
     
@@ -65,25 +92,25 @@
     
     
     
-    <category term="Linux" scheme="https://sysin.org/categories/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/categories/Linux/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Unix" scheme="https://sysin.org/tags/Unix/"/>
+    <category term="Unix" scheme="https://sysin.cn/tags/Unix/"/>
     
-    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
+    <category term="Backup" scheme="https://sysin.cn/tags/Backup/"/>
     
-    <category term="Veritas" scheme="https://sysin.org/tags/Veritas/"/>
+    <category term="Veritas" scheme="https://sysin.cn/tags/Veritas/"/>
     
   </entry>
   
   <entry>
     <title>Adobe DNG Converter v17.0 (macOS, Windows) - DNG 格式转换</title>
-    <link href="https://sysin.org/blog/adobe-dng-converter/"/>
-    <id>https://sysin.org/blog/adobe-dng-converter/</id>
+    <link href="https://sysin.cn/blog/adobe-dng-converter/"/>
+    <id>https://sysin.cn/blog/adobe-dng-converter/</id>
     <published>2024-10-12T01:28:18.000Z</published>
     <updated>2024-10-12T03:17:09.500Z</updated>
     
@@ -98,21 +125,21 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Adobe" scheme="https://sysin.org/tags/Adobe/"/>
+    <category term="Adobe" scheme="https://sysin.cn/tags/Adobe/"/>
     
   </entry>
   
   <entry>
     <title>Adobe Camera Raw v17.0 (macOS, Windows) - 相机 RAW 格式处理</title>
-    <link href="https://sysin.org/blog/adobe-camera-raw/"/>
-    <id>https://sysin.org/blog/adobe-camera-raw/</id>
+    <link href="https://sysin.cn/blog/adobe-camera-raw/"/>
+    <id>https://sysin.cn/blog/adobe-camera-raw/</id>
     <published>2024-10-12T01:27:18.000Z</published>
     <updated>2024-10-12T03:17:26.382Z</updated>
     
@@ -127,21 +154,21 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Adobe" scheme="https://sysin.org/tags/Adobe/"/>
+    <category term="Adobe" scheme="https://sysin.cn/tags/Adobe/"/>
     
   </entry>
   
   <entry>
     <title>Luminar Neo 1.21.0 (macOS Universal) - 创新 AI 图像编辑器</title>
-    <link href="https://sysin.org/blog/luminar-neo/"/>
-    <id>https://sysin.org/blog/luminar-neo/</id>
+    <link href="https://sysin.cn/blog/luminar-neo/"/>
+    <id>https://sysin.cn/blog/luminar-neo/</id>
     <published>2024-10-12T01:10:29.000Z</published>
     <updated>2024-10-12T01:37:47.453Z</updated>
     
@@ -156,17 +183,17 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
   </entry>
   
   <entry>
     <title>Nexpose 6.6.273 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.org/blog/nexpose-6/"/>
-    <id>https://sysin.org/blog/nexpose-6/</id>
+    <link href="https://sysin.cn/blog/nexpose-6/"/>
+    <id>https://sysin.cn/blog/nexpose-6/</id>
     <published>2024-10-11T00:35:30.000Z</published>
     <updated>2024-10-11T00:40:58.208Z</updated>
     
@@ -181,23 +208,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
     <title>VMware Workstation 17.6.1 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Windows</title>
-    <link href="https://sysin.org/blog/vmware-workstation-17-unlocker-windows/"/>
-    <id>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</id>
+    <link href="https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/"/>
+    <id>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/</id>
     <published>2024-10-11T00:32:00.000Z</published>
     <updated>2024-10-11T00:50:39.730Z</updated>
     
@@ -212,21 +239,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Workstation 17.6.1 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Linux</title>
-    <link href="https://sysin.org/blog/vmware-workstation-17-unlocker-linux/"/>
-    <id>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</id>
+    <link href="https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/"/>
+    <id>https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/</id>
     <published>2024-10-11T00:31:00.000Z</published>
     <updated>2024-10-11T00:50:23.186Z</updated>
     
@@ -241,21 +268,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Workstation 17.6.1 Pro Unlocker &amp; OEM BIOS 2.7 for Windows &amp; Linux</title>
-    <link href="https://sysin.org/blog/vmware-workstation-17-unlocker/"/>
-    <id>https://sysin.org/blog/vmware-workstation-17-unlocker/</id>
+    <link href="https://sysin.cn/blog/vmware-workstation-17-unlocker/"/>
+    <id>https://sysin.cn/blog/vmware-workstation-17-unlocker/</id>
     <published>2024-10-11T00:30:05.000Z</published>
     <updated>2024-10-11T00:48:04.558Z</updated>
     
@@ -270,21 +297,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Fusion 13.6.1 OEM BIOS 2.7 - 在 macOS 中运行 Windows 虚拟机的最佳方式</title>
-    <link href="https://sysin.org/blog/vmware-fusion-13-oem/"/>
-    <id>https://sysin.org/blog/vmware-fusion-13-oem/</id>
+    <link href="https://sysin.cn/blog/vmware-fusion-13-oem/"/>
+    <id>https://sysin.cn/blog/vmware-fusion-13-oem/</id>
     <published>2024-10-11T00:30:00.000Z</published>
     <updated>2024-10-11T00:50:06.977Z</updated>
     
@@ -299,19 +326,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>Windows 下载汇总</title>
-    <link href="https://sysin.org/blog/windows/"/>
-    <id>https://sysin.org/blog/windows/</id>
+    <link href="https://sysin.cn/blog/windows/"/>
+    <id>https://sysin.cn/blog/windows/</id>
     <published>2024-10-11T00:28:15.000Z</published>
     <updated>2024-10-11T00:41:14.186Z</updated>
     
@@ -326,21 +353,21 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
     
   </entry>
   
   <entry>
     <title>VMware Workstation 17.6.1 Pro for Windows &amp; Linux - 领先的免费桌面虚拟化软件</title>
-    <link href="https://sysin.org/blog/vmware-workstation-17/"/>
-    <id>https://sysin.org/blog/vmware-workstation-17/</id>
+    <link href="https://sysin.cn/blog/vmware-workstation-17/"/>
+    <id>https://sysin.cn/blog/vmware-workstation-17/</id>
     <published>2024-10-10T07:21:00.000Z</published>
     <updated>2024-10-11T00:48:38.441Z</updated>
     
@@ -355,21 +382,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Fusion 13.6.1 for Mac - 领先的免费桌面虚拟化软件</title>
-    <link href="https://sysin.org/blog/vmware-fusion-13/"/>
-    <id>https://sysin.org/blog/vmware-fusion-13/</id>
+    <link href="https://sysin.cn/blog/vmware-fusion-13/"/>
+    <id>https://sysin.cn/blog/vmware-fusion-13/</id>
     <published>2024-10-10T07:05:00.000Z</published>
     <updated>2024-10-10T10:07:45.589Z</updated>
     
@@ -384,19 +411,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
   </entry>
   
   <entry>
     <title>VMware Tools 12.5.0 下载 - 客户机操作系统无缝交互必备组件</title>
-    <link href="https://sysin.org/blog/vmware-tools-12/"/>
-    <id>https://sysin.org/blog/vmware-tools-12/</id>
+    <link href="https://sysin.cn/blog/vmware-tools-12/"/>
+    <id>https://sysin.cn/blog/vmware-tools-12/</id>
     <published>2024-10-10T03:10:00.000Z</published>
     <updated>2024-10-10T04:00:45.266Z</updated>
     
@@ -411,23 +438,23 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
   </entry>
   
   <entry>
     <title>Windows Server 2025 OVF, released Sep 2024 (sysin) - VMware 虚拟机模板</title>
-    <link href="https://sysin.org/blog/windows-server-2025-ovf/"/>
-    <id>https://sysin.org/blog/windows-server-2025-ovf/</id>
+    <link href="https://sysin.cn/blog/windows-server-2025-ovf/"/>
+    <id>https://sysin.cn/blog/windows-server-2025-ovf/</id>
     <published>2024-10-10T00:26:01.000Z</published>
     <updated>2024-10-11T05:50:15.727Z</updated>
     
@@ -442,23 +469,23 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>VMware vCenter Server 8.0U3c - 集中式管理 vSphere 环境</title>
-    <link href="https://sysin.org/blog/vmware-vcenter-8-u3/"/>
-    <id>https://sysin.org/blog/vmware-vcenter-8-u3/</id>
+    <link href="https://sysin.cn/blog/vmware-vcenter-8-u3/"/>
+    <id>https://sysin.cn/blog/vmware-vcenter-8-u3/</id>
     <published>2024-10-10T00:25:00.000Z</published>
     <updated>2024-10-10T00:37:08.510Z</updated>
     
@@ -473,21 +500,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
-    <category term="vCenter" scheme="https://sysin.org/tags/vCenter/"/>
+    <category term="vCenter" scheme="https://sysin.cn/tags/vCenter/"/>
     
   </entry>
   
   <entry>
     <title>VMware ESXi 8.0d - 领先的裸机 Hypervisor</title>
-    <link href="https://sysin.org/blog/vmware-esxi-8/"/>
-    <id>https://sysin.org/blog/vmware-esxi-8/</id>
+    <link href="https://sysin.cn/blog/vmware-esxi-8/"/>
+    <id>https://sysin.cn/blog/vmware-esxi-8/</id>
     <published>2024-10-10T00:20:50.000Z</published>
     <updated>2024-10-10T02:57:49.883Z</updated>
     
@@ -502,21 +529,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
-    <category term="ESXi" scheme="https://sysin.org/tags/ESXi/"/>
+    <category term="ESXi" scheme="https://sysin.cn/tags/ESXi/"/>
     
   </entry>
   
   <entry>
     <title>VMware vCenter Server 6.7U3v (安全更新) - ESXi 集中管理软件</title>
-    <link href="https://sysin.org/blog/vmware-vcenter-6-7/"/>
-    <id>https://sysin.org/blog/vmware-vcenter-6-7/</id>
+    <link href="https://sysin.cn/blog/vmware-vcenter-6-7/"/>
+    <id>https://sysin.cn/blog/vmware-vcenter-6-7/</id>
     <published>2024-10-10T00:20:38.000Z</published>
     <updated>2024-10-10T00:43:27.332Z</updated>
     
@@ -531,23 +558,23 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
     
-    <category term="vCenter" scheme="https://sysin.org/tags/vCenter/"/>
+    <category term="vCenter" scheme="https://sysin.cn/tags/vCenter/"/>
     
   </entry>
   
   <entry>
     <title>Gartner Magic Quadrant for SD-WAN 2024</title>
-    <link href="https://sysin.org/blog/gartner-magic-quadrant-sd-wan-2024/"/>
-    <id>https://sysin.org/blog/gartner-magic-quadrant-sd-wan-2024/</id>
+    <link href="https://sysin.cn/blog/gartner-magic-quadrant-sd-wan-2024/"/>
+    <id>https://sysin.cn/blog/gartner-magic-quadrant-sd-wan-2024/</id>
     <published>2024-10-09T01:15:00.000Z</published>
     <updated>2024-10-08T09:42:35.581Z</updated>
     
@@ -562,19 +589,19 @@
     
     
     
-    <category term="Gartner" scheme="https://sysin.org/categories/Gartner/"/>
+    <category term="Gartner" scheme="https://sysin.cn/categories/Gartner/"/>
     
     
-    <category term="Gartner" scheme="https://sysin.org/tags/Gartner/"/>
+    <category term="Gartner" scheme="https://sysin.cn/tags/Gartner/"/>
     
-    <category term="SD-WAN" scheme="https://sysin.org/tags/SD-WAN/"/>
+    <category term="SD-WAN" scheme="https://sysin.cn/tags/SD-WAN/"/>
     
   </entry>
   
   <entry>
     <title>Invicti v24.10.0 for Windows - Web 应用程序安全测试</title>
-    <link href="https://sysin.org/blog/invicti/"/>
-    <id>https://sysin.org/blog/invicti/</id>
+    <link href="https://sysin.cn/blog/invicti/"/>
+    <id>https://sysin.cn/blog/invicti/</id>
     <published>2024-10-09T01:10:00.000Z</published>
     <updated>2024-10-09T01:15:58.587Z</updated>
     
@@ -589,21 +616,21 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Windows 11 绕过 TPM 方法总结，通用免 TPM 镜像下载 (Updated Oct 2024)</title>
-    <link href="https://sysin.org/blog/windows-11-no-tpm/"/>
-    <id>https://sysin.org/blog/windows-11-no-tpm/</id>
+    <link href="https://sysin.cn/blog/windows-11-no-tpm/"/>
+    <id>https://sysin.cn/blog/windows-11-no-tpm/</id>
     <published>2024-10-08T02:08:11.000Z</published>
     <updated>2024-10-11T05:52:56.243Z</updated>
     
@@ -618,19 +645,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Cisco NX-OS System Software - ACI 16.0(7e)M</title>
-    <link href="https://sysin.org/blog/cisco-aci-16/"/>
-    <id>https://sysin.org/blog/cisco-aci-16/</id>
+    <link href="https://sysin.cn/blog/cisco-aci-16/"/>
+    <id>https://sysin.cn/blog/cisco-aci-16/</id>
     <published>2024-10-08T01:50:00.000Z</published>
     <updated>2024-10-08T00:55:13.520Z</updated>
     
@@ -645,21 +672,21 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
-    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
+    <category term="NX-OS" scheme="https://sysin.cn/tags/NX-OS/"/>
     
   </entry>
   
   <entry>
     <title>Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024</title>
-    <link href="https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/"/>
-    <id>https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/</id>
+    <link href="https://sysin.cn/blog/gartner-magic-quadrant-enterprise-br-2024/"/>
+    <id>https://sysin.cn/blog/gartner-magic-quadrant-enterprise-br-2024/</id>
     <published>2024-10-07T05:11:02.000Z</published>
     <updated>2024-10-07T06:27:02.910Z</updated>
     
@@ -674,19 +701,19 @@
     
     
     
-    <category term="Gartner" scheme="https://sysin.org/categories/Gartner/"/>
+    <category term="Gartner" scheme="https://sysin.cn/categories/Gartner/"/>
     
     
-    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
+    <category term="Backup" scheme="https://sysin.cn/tags/Backup/"/>
     
-    <category term="Gartner" scheme="https://sysin.org/tags/Gartner/"/>
+    <category term="Gartner" scheme="https://sysin.cn/tags/Gartner/"/>
     
   </entry>
   
   <entry>
     <title>Burp Suite Professional 2024.9 for Windows x64 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.org/blog/burp-suite-pro-win/"/>
-    <id>https://sysin.org/blog/burp-suite-pro-win/</id>
+    <link href="https://sysin.cn/blog/burp-suite-pro-win/"/>
+    <id>https://sysin.cn/blog/burp-suite-pro-win/</id>
     <published>2024-10-06T01:18:12.000Z</published>
     <updated>2024-10-07T06:27:09.494Z</updated>
     
@@ -701,21 +728,21 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
   </entry>
   
   <entry>
     <title>Burp Suite Professional 2024.9 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.org/blog/burp-suite-pro-mac/"/>
-    <id>https://sysin.org/blog/burp-suite-pro-mac/</id>
+    <link href="https://sysin.cn/blog/burp-suite-pro-mac/"/>
+    <id>https://sysin.cn/blog/burp-suite-pro-mac/</id>
     <published>2024-10-06T01:15:10.000Z</published>
     <updated>2024-10-07T06:27:02.780Z</updated>
     
@@ -730,21 +757,21 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
   </entry>
   
   <entry>
     <title>VMware Private AI Foundation with NVIDIA - 生成式人工智能解决方案</title>
-    <link href="https://sysin.org/blog/vmware-private-ai-foundation-nvidia/"/>
-    <id>https://sysin.org/blog/vmware-private-ai-foundation-nvidia/</id>
+    <link href="https://sysin.cn/blog/vmware-private-ai-foundation-nvidia/"/>
+    <id>https://sysin.cn/blog/vmware-private-ai-foundation-nvidia/</id>
     <published>2024-10-05T01:16:39.000Z</published>
     <updated>2024-10-07T06:27:02.976Z</updated>
     
@@ -759,19 +786,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="Cloud" scheme="https://sysin.org/tags/Cloud/"/>
+    <category term="Cloud" scheme="https://sysin.cn/tags/Cloud/"/>
     
   </entry>
   
   <entry>
     <title>macOS Sequoia 15.0.1 (24A348) 正式版 ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.org/blog/macOS-Sequoia/"/>
-    <id>https://sysin.org/blog/macOS-Sequoia/</id>
+    <link href="https://sysin.cn/blog/macOS-Sequoia/"/>
+    <id>https://sysin.cn/blog/macOS-Sequoia/</id>
     <published>2024-10-04T04:02:00.000Z</published>
     <updated>2024-10-07T06:27:02.944Z</updated>
     
@@ -786,19 +813,19 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    <category term="Apple" scheme="https://sysin.cn/tags/Apple/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Meeting Server 3.10 - 会议与协作</title>
-    <link href="https://sysin.org/blog/cisco-meeting-server-3/"/>
-    <id>https://sysin.org/blog/cisco-meeting-server-3/</id>
+    <link href="https://sysin.cn/blog/cisco-meeting-server-3/"/>
+    <id>https://sysin.cn/blog/cisco-meeting-server-3/</id>
     <published>2024-10-04T03:45:40.000Z</published>
     <updated>2024-10-07T06:27:09.492Z</updated>
     
@@ -813,23 +840,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
     
   </entry>
   
   <entry>
     <title>VMware Data Services Manager 2.1 - 数据库管理和数据服务管理</title>
-    <link href="https://sysin.org/blog/vmware-data-services-manager/"/>
-    <id>https://sysin.org/blog/vmware-data-services-manager/</id>
+    <link href="https://sysin.cn/blog/vmware-data-services-manager/"/>
+    <id>https://sysin.cn/blog/vmware-data-services-manager/</id>
     <published>2024-10-02T23:25:38.000Z</published>
     <updated>2024-10-07T06:27:05.511Z</updated>
     
@@ -844,45 +871,12 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
     
-    <category term="Cloud" scheme="https://sysin.org/tags/Cloud/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Burp Suite Professional 2024.9 (macOS, Linux, Windows) - Web 应用安全、测试和扫描</title>
-    <link href="https://sysin.org/blog/burp-suite-pro/"/>
-    <id>https://sysin.org/blog/burp-suite-pro/</id>
-    <published>2024-10-02T23:10:10.000Z</published>
-    <updated>2024-10-07T06:27:09.493Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro/&quot; title=&quot;Burp Suite Professional 2024.9 (macOS, Linux, Windows) - Web 应用安全、测试和扫描&quot;&gt;Burp Suite Professional 2024.9 (macOS, Linux, Windows) - Web 应用安全、测试和扫描&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    <category term="Cloud" scheme="https://sysin.cn/tags/Cloud/"/>
     
   </entry>
   
