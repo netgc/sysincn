@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/cisco-apic-6/</loc>
+    <lastmod>2024-10-15</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/invicti/</loc>
     <lastmod>2024-10-14</lastmod>
   </url>
@@ -314,10 +318,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/disable-edge-auto-update/</loc>
-    <lastmod>2024-10-08</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-apic-6/</loc>
     <lastmod>2024-10-08</lastmod>
   </url>
   <url>
@@ -645,11 +645,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/gartner-magic-quadrant-wms-2023/</loc>
+    <loc>https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2023/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2023/</loc>
+    <loc>https://sysin.org/blog/gartner-magic-quadrant-wms-2023/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -3125,11 +3125,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/guhua/</loc>
+    <loc>https://sysin.org/blog/hello-hexo/</loc>
     <lastmod>2023-05-16</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/hello-hexo/</loc>
+    <loc>https://sysin.org/blog/guhua/</loc>
     <lastmod>2023-05-16</lastmod>
   </url>
   <url>

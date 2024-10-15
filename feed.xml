@@ -15,8 +15,41 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Mon, 14 Oct 2024 07:23:39 GMT</pubDate>
+    <pubDate>Tue, 15 Oct 2024 06:09:45 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Cisco APIC 6.0(7e)M - 应用策略基础设施控制器</title>
+      <link>https://sysin.org/blog/cisco-apic-6/</link>
+      <guid>https://sysin.org/blog/cisco-apic-6/</guid>
+      <pubDate>Tue, 15 Oct 2024 03:55:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-apic-6/&quot; title=&quot;Cisco APIC 6.0(7e)M - 应用策略基础设施控制器&quot;&gt;Cisco APIC 6.0(7e)M - 应用策略基础设施控制器&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      
+      <category domain="https://sysin.org/tags/NX-OS/">NX-OS</category>
+      
+      
+      <comments>https://sysin.org/blog/cisco-apic-6/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Veritas Enterprise Vault 15.1 (Windows) - 自动捕获数据并归档信息</title>
@@ -904,39 +937,6 @@
       
       
       <comments>https://sysin.org/blog/macOS-Sequoia/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Cisco Meeting Server 3.10 - 会议与协作</title>
-      <link>https://sysin.org/blog/cisco-meeting-server-3/</link>
-      <guid>https://sysin.org/blog/cisco-meeting-server-3/</guid>
-      <pubDate>Fri, 04 Oct 2024 03:45:40 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-meeting-server-3/&quot; title=&quot;Cisco Meeting Server 3.10 - 会议与协作&quot;&gt;Cisco Meeting Server 3.10 - 会议与协作&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
-      
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
-      
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
-      
-      
-      <comments>https://sysin.org/blog/cisco-meeting-server-3/#disqus_thread</comments>
       
     </item>
     
