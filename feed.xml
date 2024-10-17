@@ -4,24 +4,24 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.org/</link>
+    <link>https://sysin.cn/</link>
     
     <image>
-      <url>https://sysin.org/img/favicon.png</url>
+      <url>https://sysin.cn/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.org/</link>
+      <link>https://sysin.cn/</link>
     </image>
     
-    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <description>sysin | SYStem INside | 软件与技术分享</description>
+    <description>sysin | 软件与技术分享 | SYStem INside</description>
     <pubDate>Thu, 17 Oct 2024 06:22:41 GMT</pubDate>
     <generator>http://sysin.org/</generator>
     
     <item>
       <title>Windows Server 2022 中文版、英文版下载 (updated Oct 2024)</title>
-      <link>https://sysin.org/blog/windows-server-2022/</link>
-      <guid>https://sysin.org/blog/windows-server-2022/</guid>
+      <link>https://sysin.cn/blog/windows-server-2022/</link>
+      <guid>https://sysin.cn/blog/windows-server-2022/</guid>
       <pubDate>Thu, 17 Oct 2024 01:39:00 GMT</pubDate>
       
         
@@ -35,24 +35,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
       
-      <category domain="https://sysin.org/tags/Server/">Server</category>
+      <category domain="https://sysin.cn/tags/Server/">Server</category>
       
       
-      <comments>https://sysin.org/blog/windows-server-2022/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/windows-server-2022/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 11 version 24H2 &amp; LTSC 2024 中文版、英文版 (x64、ARM64) 下载 (updated Oct 2024)</title>
-      <link>https://sysin.org/blog/windows-11/</link>
-      <guid>https://sysin.org/blog/windows-11/</guid>
+      <link>https://sysin.cn/blog/windows-11/</link>
+      <guid>https://sysin.cn/blog/windows-11/</guid>
       <pubDate>Thu, 17 Oct 2024 01:38:00 GMT</pubDate>
       
         
@@ -66,22 +66,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.org/blog/windows-11/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/windows-11/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 10 on ARM, version 22H2 (updated Oct 2024) ARM64 AArch64 中文版、英文版下载</title>
-      <link>https://sysin.org/blog/windows-10-arm/</link>
-      <guid>https://sysin.org/blog/windows-10-arm/</guid>
+      <link>https://sysin.cn/blog/windows-10-arm/</link>
+      <guid>https://sysin.cn/blog/windows-10-arm/</guid>
       <pubDate>Thu, 17 Oct 2024 01:36:00 GMT</pubDate>
       
         
@@ -95,22 +95,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.org/blog/windows-10-arm/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/windows-10-arm/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 10 version 22H2 (updated Oct 2024) 中文版、英文版下载</title>
-      <link>https://sysin.org/blog/windows-10/</link>
-      <guid>https://sysin.org/blog/windows-10/</guid>
+      <link>https://sysin.cn/blog/windows-10/</link>
+      <guid>https://sysin.cn/blog/windows-10/</guid>
       <pubDate>Thu, 17 Oct 2024 01:35:00 GMT</pubDate>
       
         
@@ -124,22 +124,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.org/blog/windows-10/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/windows-10/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Nexpose 6.6.274 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.org/blog/nexpose-6/</link>
-      <guid>https://sysin.org/blog/nexpose-6/</guid>
+      <link>https://sysin.cn/blog/nexpose-6/</link>
+      <guid>https://sysin.cn/blog/nexpose-6/</guid>
       <pubDate>Thu, 17 Oct 2024 01:05:30 GMT</pubDate>
       
         
@@ -153,26 +153,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
+      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
       
       
-      <comments>https://sysin.org/blog/nexpose-6/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/nexpose-6/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Metasploit Pro 4.22.4-2024101401 (Linux, Windows) - 专业渗透测试框架</title>
-      <link>https://sysin.org/blog/metasploit-pro-4/</link>
-      <guid>https://sysin.org/blog/metasploit-pro-4/</guid>
+      <link>https://sysin.cn/blog/metasploit-pro-4/</link>
+      <guid>https://sysin.cn/blog/metasploit-pro-4/</guid>
       <pubDate>Thu, 17 Oct 2024 01:03:10 GMT</pubDate>
       
         
@@ -186,26 +186,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
+      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
       
       
-      <comments>https://sysin.org/blog/metasploit-pro-4/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/metasploit-pro-4/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Microsoft Office for Mac 2021 (Office 365) 16.90 Universal</title>
-      <link>https://sysin.org/blog/office-2021-for-mac/</link>
-      <guid>https://sysin.org/blog/office-2021-for-mac/</guid>
+      <link>https://sysin.cn/blog/office-2021-for-mac/</link>
+      <guid>https://sysin.cn/blog/office-2021-for-mac/</guid>
       <pubDate>Thu, 17 Oct 2024 00:28:00 GMT</pubDate>
       
         
@@ -219,24 +219,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
       
-      <category domain="https://sysin.org/tags/Office/">Office</category>
+      <category domain="https://sysin.cn/tags/Office/">Office</category>
       
       
-      <comments>https://sysin.org/blog/office-2021-for-mac/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/office-2021-for-mac/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Pixelmator Pro 3.6.10 Archipelago (macOS Universal) - 专业图像编辑工具</title>
-      <link>https://sysin.org/blog/pixelmator-pro-3/</link>
-      <guid>https://sysin.org/blog/pixelmator-pro-3/</guid>
+      <link>https://sysin.cn/blog/pixelmator-pro-3/</link>
+      <guid>https://sysin.cn/blog/pixelmator-pro-3/</guid>
       <pubDate>Wed, 16 Oct 2024 01:10:08 GMT</pubDate>
       
         
@@ -250,20 +250,20 @@
       
       
       
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
       
-      <comments>https://sysin.org/blog/pixelmator-pro-3/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/pixelmator-pro-3/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Microsoft Office for Mac 2024 (Office 365) 16.90 Universal</title>
-      <link>https://sysin.org/blog/office-2024-for-mac/</link>
-      <guid>https://sysin.org/blog/office-2024-for-mac/</guid>
+      <link>https://sysin.cn/blog/office-2024-for-mac/</link>
+      <guid>https://sysin.cn/blog/office-2024-for-mac/</guid>
       <pubDate>Wed, 16 Oct 2024 01:09:00 GMT</pubDate>
       
         
@@ -277,24 +277,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
       
-      <category domain="https://sysin.org/tags/Office/">Office</category>
+      <category domain="https://sysin.cn/tags/Office/">Office</category>
       
       
-      <comments>https://sysin.org/blog/office-2024-for-mac/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/office-2024-for-mac/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco APIC 6.0(7e)M - 应用策略基础设施控制器</title>
-      <link>https://sysin.org/blog/cisco-apic-6/</link>
-      <guid>https://sysin.org/blog/cisco-apic-6/</guid>
+      <link>https://sysin.cn/blog/cisco-apic-6/</link>
+      <guid>https://sysin.cn/blog/cisco-apic-6/</guid>
       <pubDate>Tue, 15 Oct 2024 03:55:00 GMT</pubDate>
       
         
@@ -308,26 +308,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.org/tags/NX-OS/">NX-OS</category>
+      <category domain="https://sysin.cn/tags/NX-OS/">NX-OS</category>
       
       
-      <comments>https://sysin.org/blog/cisco-apic-6/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/cisco-apic-6/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Veritas Enterprise Vault 15.1 (Windows) - 自动捕获数据并归档信息</title>
-      <link>https://sysin.org/blog/veritas-enterprise-vault-15/</link>
-      <guid>https://sysin.org/blog/veritas-enterprise-vault-15/</guid>
+      <link>https://sysin.cn/blog/veritas-enterprise-vault-15/</link>
+      <guid>https://sysin.cn/blog/veritas-enterprise-vault-15/</guid>
       <pubDate>Mon, 14 Oct 2024 06:10:10 GMT</pubDate>
       
         
@@ -341,20 +341,20 @@
       
       
       
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/Veritas/">Veritas</category>
+      <category domain="https://sysin.cn/tags/Veritas/">Veritas</category>
       
       
-      <comments>https://sysin.org/blog/veritas-enterprise-vault-15/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/veritas-enterprise-vault-15/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Veritas Backup Exec 24.0 (Windows) - 面向中小型企业的数据备份和恢复</title>
-      <link>https://sysin.org/blog/veritas-backup-exec-24/</link>
-      <guid>https://sysin.org/blog/veritas-backup-exec-24/</guid>
+      <link>https://sysin.cn/blog/veritas-backup-exec-24/</link>
+      <guid>https://sysin.cn/blog/veritas-backup-exec-24/</guid>
       <pubDate>Sun, 13 Oct 2024 03:10:00 GMT</pubDate>
       
         
@@ -368,22 +368,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/Backup/">Backup</category>
+      <category domain="https://sysin.cn/tags/Backup/">Backup</category>
       
-      <category domain="https://sysin.org/tags/Veritas/">Veritas</category>
+      <category domain="https://sysin.cn/tags/Veritas/">Veritas</category>
       
       
-      <comments>https://sysin.org/blog/veritas-backup-exec-24/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/veritas-backup-exec-24/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>ravynOS 0.5.1 - 基于 FreeBSD 的 macOS 兼容开源操作系统</title>
-      <link>https://sysin.org/blog/ravynos/</link>
-      <guid>https://sysin.org/blog/ravynos/</guid>
+      <link>https://sysin.cn/blog/ravynos/</link>
+      <guid>https://sysin.cn/blog/ravynos/</guid>
       <pubDate>Sun, 13 Oct 2024 02:11:31 GMT</pubDate>
       
         
@@ -397,26 +397,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/Unix/">Unix</category>
+      <category domain="https://sysin.cn/categories/Unix/">Unix</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Unix/">Unix</category>
+      <category domain="https://sysin.cn/tags/Unix/">Unix</category>
       
-      <category domain="https://sysin.org/tags/BSD/">BSD</category>
+      <category domain="https://sysin.cn/tags/BSD/">BSD</category>
       
-      <category domain="https://sysin.org/tags/FreeBSD/">FreeBSD</category>
+      <category domain="https://sysin.cn/tags/FreeBSD/">FreeBSD</category>
       
       
-      <comments>https://sysin.org/blog/ravynos/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/ravynos/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Veritas NetBackup 10.5 (Unix, Linux, Windows) - 领先的企业备份解决方案</title>
-      <link>https://sysin.org/blog/veritas-netbackup-10-5/</link>
-      <guid>https://sysin.org/blog/veritas-netbackup-10-5/</guid>
+      <link>https://sysin.cn/blog/veritas-netbackup-10-5/</link>
+      <guid>https://sysin.cn/blog/veritas-netbackup-10-5/</guid>
       <pubDate>Sun, 13 Oct 2024 01:06:00 GMT</pubDate>
       
         
@@ -430,28 +430,28 @@
       
       
       
-      <category domain="https://sysin.org/categories/Linux/">Linux</category>
+      <category domain="https://sysin.cn/categories/Linux/">Linux</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Unix/">Unix</category>
+      <category domain="https://sysin.cn/tags/Unix/">Unix</category>
       
-      <category domain="https://sysin.org/tags/Backup/">Backup</category>
+      <category domain="https://sysin.cn/tags/Backup/">Backup</category>
       
-      <category domain="https://sysin.org/tags/Veritas/">Veritas</category>
+      <category domain="https://sysin.cn/tags/Veritas/">Veritas</category>
       
       
-      <comments>https://sysin.org/blog/veritas-netbackup-10-5/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/veritas-netbackup-10-5/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Adobe DNG Converter v17.0 (macOS, Windows) - DNG 格式转换</title>
-      <link>https://sysin.org/blog/adobe-dng-converter/</link>
-      <guid>https://sysin.org/blog/adobe-dng-converter/</guid>
+      <link>https://sysin.cn/blog/adobe-dng-converter/</link>
+      <guid>https://sysin.cn/blog/adobe-dng-converter/</guid>
       <pubDate>Sat, 12 Oct 2024 01:28:18 GMT</pubDate>
       
         
@@ -465,24 +465,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Adobe/">Adobe</category>
+      <category domain="https://sysin.cn/tags/Adobe/">Adobe</category>
       
       
-      <comments>https://sysin.org/blog/adobe-dng-converter/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/adobe-dng-converter/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Adobe Camera Raw v17.0 (macOS, Windows) - 相机 RAW 格式处理</title>
-      <link>https://sysin.org/blog/adobe-camera-raw/</link>
-      <guid>https://sysin.org/blog/adobe-camera-raw/</guid>
+      <link>https://sysin.cn/blog/adobe-camera-raw/</link>
+      <guid>https://sysin.cn/blog/adobe-camera-raw/</guid>
       <pubDate>Sat, 12 Oct 2024 01:27:18 GMT</pubDate>
       
         
@@ -496,24 +496,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Adobe/">Adobe</category>
+      <category domain="https://sysin.cn/tags/Adobe/">Adobe</category>
       
       
-      <comments>https://sysin.org/blog/adobe-camera-raw/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/adobe-camera-raw/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Luminar Neo 1.21.0 (macOS Universal) - 创新 AI 图像编辑器</title>
-      <link>https://sysin.org/blog/luminar-neo/</link>
-      <guid>https://sysin.org/blog/luminar-neo/</guid>
+      <link>https://sysin.cn/blog/luminar-neo/</link>
+      <guid>https://sysin.cn/blog/luminar-neo/</guid>
       <pubDate>Sat, 12 Oct 2024 01:10:29 GMT</pubDate>
       
         
@@ -527,20 +527,20 @@
       
       
       
-      <category domain="https://sysin.org/categories/Designer/">Designer</category>
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
       
-      <comments>https://sysin.org/blog/luminar-neo/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/luminar-neo/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Workstation 17.6.1 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Windows</title>
-      <link>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</link>
-      <guid>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</guid>
+      <link>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/</link>
+      <guid>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/</guid>
       <pubDate>Fri, 11 Oct 2024 00:32:00 GMT</pubDate>
       
         
@@ -554,24 +554,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-workstation-17-unlocker-windows/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Workstation 17.6.1 Pro macOS Unlocker &amp; OEM BIOS 2.7 for Linux</title>
-      <link>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</link>
-      <guid>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</guid>
+      <link>https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/</link>
+      <guid>https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/</guid>
       <pubDate>Fri, 11 Oct 2024 00:31:00 GMT</pubDate>
       
         
@@ -585,24 +585,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-workstation-17-unlocker-linux/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Workstation 17.6.1 Pro Unlocker &amp; OEM BIOS 2.7 for Windows &amp; Linux</title>
-      <link>https://sysin.org/blog/vmware-workstation-17-unlocker/</link>
-      <guid>https://sysin.org/blog/vmware-workstation-17-unlocker/</guid>
+      <link>https://sysin.cn/blog/vmware-workstation-17-unlocker/</link>
+      <guid>https://sysin.cn/blog/vmware-workstation-17-unlocker/</guid>
       <pubDate>Fri, 11 Oct 2024 00:30:05 GMT</pubDate>
       
         
@@ -616,24 +616,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-workstation-17-unlocker/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-workstation-17-unlocker/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Fusion 13.6.1 OEM BIOS 2.7 - 在 macOS 中运行 Windows 虚拟机的最佳方式</title>
-      <link>https://sysin.org/blog/vmware-fusion-13-oem/</link>
-      <guid>https://sysin.org/blog/vmware-fusion-13-oem/</guid>
+      <link>https://sysin.cn/blog/vmware-fusion-13-oem/</link>
+      <guid>https://sysin.cn/blog/vmware-fusion-13-oem/</guid>
       <pubDate>Fri, 11 Oct 2024 00:30:00 GMT</pubDate>
       
         
@@ -647,22 +647,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-fusion-13-oem/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-fusion-13-oem/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 下载汇总</title>
-      <link>https://sysin.org/blog/windows/</link>
-      <guid>https://sysin.org/blog/windows/</guid>
+      <link>https://sysin.cn/blog/windows/</link>
+      <guid>https://sysin.cn/blog/windows/</guid>
       <pubDate>Fri, 11 Oct 2024 00:28:15 GMT</pubDate>
       
         
@@ -676,24 +676,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
       
-      <category domain="https://sysin.org/tags/Server/">Server</category>
+      <category domain="https://sysin.cn/tags/Server/">Server</category>
       
       
-      <comments>https://sysin.org/blog/windows/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/windows/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Workstation 17.6.1 Pro for Windows &amp; Linux - 领先的免费桌面虚拟化软件</title>
-      <link>https://sysin.org/blog/vmware-workstation-17/</link>
-      <guid>https://sysin.org/blog/vmware-workstation-17/</guid>
+      <link>https://sysin.cn/blog/vmware-workstation-17/</link>
+      <guid>https://sysin.cn/blog/vmware-workstation-17/</guid>
       <pubDate>Thu, 10 Oct 2024 07:21:00 GMT</pubDate>
       
         
@@ -707,24 +707,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-workstation-17/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-workstation-17/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Fusion 13.6.1 for Mac - 领先的免费桌面虚拟化软件</title>
-      <link>https://sysin.org/blog/vmware-fusion-13/</link>
-      <guid>https://sysin.org/blog/vmware-fusion-13/</guid>
+      <link>https://sysin.cn/blog/vmware-fusion-13/</link>
+      <guid>https://sysin.cn/blog/vmware-fusion-13/</guid>
       <pubDate>Thu, 10 Oct 2024 07:05:00 GMT</pubDate>
       
         
@@ -738,22 +738,22 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.org/blog/vmware-fusion-13/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-fusion-13/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware Tools 12.5.0 下载 - 客户机操作系统无缝交互必备组件</title>
-      <link>https://sysin.org/blog/vmware-tools-12/</link>
-      <guid>https://sysin.org/blog/vmware-tools-12/</guid>
+      <link>https://sysin.cn/blog/vmware-tools-12/</link>
+      <guid>https://sysin.cn/blog/vmware-tools-12/</guid>
       <pubDate>Thu, 10 Oct 2024 03:10:00 GMT</pubDate>
       
         
@@ -767,26 +767,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
       
       
-      <comments>https://sysin.org/blog/vmware-tools-12/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-tools-12/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows Server 2025 OVF, released Sep 2024 (sysin) - VMware 虚拟机模板</title>
-      <link>https://sysin.org/blog/windows-server-2025-ovf/</link>
-      <guid>https://sysin.org/blog/windows-server-2025-ovf/</guid>
+      <link>https://sysin.cn/blog/windows-server-2025-ovf/</link>
+      <guid>https://sysin.cn/blog/windows-server-2025-ovf/</guid>
       <pubDate>Thu, 10 Oct 2024 00:26:01 GMT</pubDate>
       
         
@@ -800,26 +800,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/Windows/">Windows</category>
+      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/OVF/">OVF</category>
+      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.org/blog/windows-server-2025-ovf/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/windows-server-2025-ovf/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware vCenter Server 8.0U3c - 集中式管理 vSphere 环境</title>
-      <link>https://sysin.org/blog/vmware-vcenter-8-u3/</link>
-      <guid>https://sysin.org/blog/vmware-vcenter-8-u3/</guid>
+      <link>https://sysin.cn/blog/vmware-vcenter-8-u3/</link>
+      <guid>https://sysin.cn/blog/vmware-vcenter-8-u3/</guid>
       <pubDate>Thu, 10 Oct 2024 00:25:00 GMT</pubDate>
       
         
@@ -833,24 +833,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
       
-      <category domain="https://sysin.org/tags/vCenter/">vCenter</category>
+      <category domain="https://sysin.cn/tags/vCenter/">vCenter</category>
       
       
-      <comments>https://sysin.org/blog/vmware-vcenter-8-u3/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-vcenter-8-u3/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware ESXi 8.0d - 领先的裸机 Hypervisor</title>
-      <link>https://sysin.org/blog/vmware-esxi-8/</link>
-      <guid>https://sysin.org/blog/vmware-esxi-8/</guid>
+      <link>https://sysin.cn/blog/vmware-esxi-8/</link>
+      <guid>https://sysin.cn/blog/vmware-esxi-8/</guid>
       <pubDate>Thu, 10 Oct 2024 00:20:50 GMT</pubDate>
       
         
@@ -864,24 +864,24 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
       
-      <category domain="https://sysin.org/tags/ESXi/">ESXi</category>
+      <category domain="https://sysin.cn/tags/ESXi/">ESXi</category>
       
       
-      <comments>https://sysin.org/blog/vmware-esxi-8/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-esxi-8/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware vCenter Server 6.7U3v (安全更新) - ESXi 集中管理软件</title>
-      <link>https://sysin.org/blog/vmware-vcenter-6-7/</link>
-      <guid>https://sysin.org/blog/vmware-vcenter-6-7/</guid>
+      <link>https://sysin.cn/blog/vmware-vcenter-6-7/</link>
+      <guid>https://sysin.cn/blog/vmware-vcenter-6-7/</guid>
       <pubDate>Thu, 10 Oct 2024 00:20:38 GMT</pubDate>
       
         
@@ -895,26 +895,26 @@
       
       
       
-      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.org/tags/vSphere/">vSphere</category>
+      <category domain="https://sysin.cn/tags/vSphere/">vSphere</category>
       
-      <category domain="https://sysin.org/tags/vCenter/">vCenter</category>
+      <category domain="https://sysin.cn/tags/vCenter/">vCenter</category>
       
       
-      <comments>https://sysin.org/blog/vmware-vcenter-6-7/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/vmware-vcenter-6-7/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Gartner Magic Quadrant for SD-WAN 2024</title>
-      <link>https://sysin.org/blog/gartner-magic-quadrant-sd-wan-2024/</link>
-      <guid>https://sysin.org/blog/gartner-magic-quadrant-sd-wan-2024/</guid>
+      <link>https://sysin.cn/blog/gartner-magic-quadrant-sd-wan-2024/</link>
+      <guid>https://sysin.cn/blog/gartner-magic-quadrant-sd-wan-2024/</guid>
       <pubDate>Wed, 09 Oct 2024 01:15:00 GMT</pubDate>
       
         
@@ -928,15 +928,15 @@
       
       
       
-      <category domain="https://sysin.org/categories/Gartner/">Gartner</category>
+      <category domain="https://sysin.cn/categories/Gartner/">Gartner</category>
       
       
-      <category domain="https://sysin.org/tags/Gartner/">Gartner</category>
+      <category domain="https://sysin.cn/tags/Gartner/">Gartner</category>
       
-      <category domain="https://sysin.org/tags/SD-WAN/">SD-WAN</category>
+      <category domain="https://sysin.cn/tags/SD-WAN/">SD-WAN</category>
       
       
-      <comments>https://sysin.org/blog/gartner-magic-quadrant-sd-wan-2024/#disqus_thread</comments>
+      <comments>https://sysin.cn/blog/gartner-magic-quadrant-sd-wan-2024/#disqus_thread</comments>
       
     </item>
     
