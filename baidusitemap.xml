@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/windows-server-2022/</loc>
+    <lastmod>2024-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-11/</loc>
+    <lastmod>2024-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-10/</loc>
+    <lastmod>2024-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-10-arm/</loc>
+    <lastmod>2024-10-17</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/metasploit-pro-4/</loc>
     <lastmod>2024-10-17</lastmod>
   </url>
@@ -181,19 +197,11 @@
     <lastmod>2024-10-11</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/windows-10-arm/</loc>
-    <lastmod>2024-10-11</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/windows-10-ltsc-2021/</loc>
     <lastmod>2024-10-11</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/windows-10-recovery-partition/</loc>
-    <lastmod>2024-10-11</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/windows-10/</loc>
     <lastmod>2024-10-11</lastmod>
   </url>
   <url>
@@ -213,10 +221,6 @@
     <lastmod>2024-10-11</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/windows-11/</loc>
-    <lastmod>2024-10-11</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/windows-env/</loc>
     <lastmod>2024-10-11</lastmod>
   </url>
@@ -230,10 +234,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/windows-server-2025/</loc>
-    <lastmod>2024-10-11</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/windows-server-2022/</loc>
     <lastmod>2024-10-11</lastmod>
   </url>
   <url>
@@ -1533,11 +1533,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/almalinux-8/</loc>
+    <loc>https://sysin.org/blog/almalinux-9-aarch64-ovf/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/almalinux-9-aarch64-ovf/</loc>
+    <loc>https://sysin.org/blog/almalinux-8/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
@@ -2185,11 +2185,11 @@
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/apple-imovie/</loc>
+    <loc>https://sysin.org/blog/apple-final-cut-pro/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/apple-final-cut-pro/</loc>
+    <loc>https://sysin.org/blog/apple-imovie/</loc>
     <lastmod>2024-10-07</lastmod>
   </url>
   <url>

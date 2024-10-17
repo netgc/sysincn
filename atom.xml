@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2024-10-17T01:11:13.667Z</updated>
+  <updated>2024-10-17T06:22:41.799Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,116 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Windows Server 2022 中文版、英文版下载 (updated Oct 2024)</title>
+    <link href="https://sysin.org/blog/windows-server-2022/"/>
+    <id>https://sysin.org/blog/windows-server-2022/</id>
+    <published>2024-10-17T01:39:00.000Z</published>
+    <updated>2024-10-17T06:22:41.799Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2022/&quot; title=&quot;Windows Server 2022 中文版、英文版下载 (updated Oct 2024)&quot;&gt;Windows Server 2022 中文版、英文版下载 (updated Oct 2024)&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 11 version 24H2 &amp; LTSC 2024 中文版、英文版 (x64、ARM64) 下载 (updated Oct 2024)</title>
+    <link href="https://sysin.org/blog/windows-11/"/>
+    <id>https://sysin.org/blog/windows-11/</id>
+    <published>2024-10-17T01:38:00.000Z</published>
+    <updated>2024-10-17T06:21:20.997Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-11/&quot; title=&quot;Windows 11 version 24H2 &amp;amp; LTSC 2024 中文版、英文版 (x64、ARM64) 下载 (updated Oct 2024)&quot;&gt;Windows 11 version 24H2 &amp;amp; LTSC 2024 中文版、英文版 (x64、ARM64) 下载 (updated Oct 2024)&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 10 on ARM, version 22H2 (updated Oct 2024) ARM64 AArch64 中文版、英文版下载</title>
+    <link href="https://sysin.org/blog/windows-10-arm/"/>
+    <id>https://sysin.org/blog/windows-10-arm/</id>
+    <published>2024-10-17T01:36:00.000Z</published>
+    <updated>2024-10-17T06:19:40.560Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-10-arm/&quot; title=&quot;Windows 10 on ARM, version 22H2 (updated Oct 2024) ARM64 AArch64 中文版、英文版下载&quot;&gt;Windows 10 on ARM, version 22H2 (updated Oct 2024) ARM64 AArch64 中文版、英文版下载&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 10 version 22H2 (updated Oct 2024) 中文版、英文版下载</title>
+    <link href="https://sysin.org/blog/windows-10/"/>
+    <id>https://sysin.org/blog/windows-10/</id>
+    <published>2024-10-17T01:35:00.000Z</published>
+    <updated>2024-10-17T06:19:55.316Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-10/&quot; title=&quot;Windows 10 version 22H2 (updated Oct 2024) 中文版、英文版下载&quot;&gt;Windows 10 version 22H2 (updated Oct 2024) 中文版、英文版下载&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+  </entry>
   
   <entry>
     <title>Nexpose 6.6.274 for Linux &amp; Windows - 漏洞扫描</title>
@@ -765,118 +875,6 @@
     <category term="Gartner" scheme="https://sysin.org/tags/Gartner/"/>
     
     <category term="SD-WAN" scheme="https://sysin.org/tags/SD-WAN/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Invicti v24.10.0 for Windows - Web 应用程序安全测试</title>
-    <link href="https://sysin.org/blog/invicti/"/>
-    <id>https://sysin.org/blog/invicti/</id>
-    <published>2024-10-09T01:10:00.000Z</published>
-    <updated>2024-10-14T08:39:51.236Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/invicti/&quot; title=&quot;Invicti v24.10.0 for Windows - Web 应用程序安全测试&quot;&gt;Invicti v24.10.0 for Windows - Web 应用程序安全测试&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows 11 绕过 TPM 方法总结，通用免 TPM 镜像下载 (Updated Oct 2024)</title>
-    <link href="https://sysin.org/blog/windows-11-no-tpm/"/>
-    <id>https://sysin.org/blog/windows-11-no-tpm/</id>
-    <published>2024-10-08T02:08:11.000Z</published>
-    <updated>2024-10-11T05:52:56.243Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-11-no-tpm/&quot; title=&quot;Windows 11 绕过 TPM 方法总结，通用免 TPM 镜像下载 (Updated Oct 2024)&quot;&gt;Windows 11 绕过 TPM 方法总结，通用免 TPM 镜像下载 (Updated Oct 2024)&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cisco NX-OS System Software - ACI 16.0(7e)M</title>
-    <link href="https://sysin.org/blog/cisco-aci-16/"/>
-    <id>https://sysin.org/blog/cisco-aci-16/</id>
-    <published>2024-10-08T01:50:00.000Z</published>
-    <updated>2024-10-08T00:55:13.520Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-aci-16/&quot; title=&quot;Cisco NX-OS System Software - ACI 16.0(7e)M&quot;&gt;Cisco NX-OS System Software - ACI 16.0(7e)M&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024</title>
-    <link href="https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/"/>
-    <id>https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/</id>
-    <published>2024-10-07T05:11:02.000Z</published>
-    <updated>2024-10-07T06:27:02.910Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/gartner-magic-quadrant-enterprise-br-2024/&quot; title=&quot;Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024&quot;&gt;Gartner Magic Quadrant for Enterprise Backup and Recovery Solutions 2024&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Gartner" scheme="https://sysin.org/categories/Gartner/"/>
-    
-    
-    <category term="Backup" scheme="https://sysin.org/tags/Backup/"/>
-    
-    <category term="Gartner" scheme="https://sysin.org/tags/Gartner/"/>
     
   </entry>
   
