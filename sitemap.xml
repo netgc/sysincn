@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/metasploit-pro-4/</loc>
+    
+    <lastmod>2024-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/nexpose-6/</loc>
+    
+    <lastmod>2024-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/office-2024-for-mac/</loc>
     
     <lastmod>2024-10-17</lastmod>
@@ -606,15 +624,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/windows/</loc>
-    
-    <lastmod>2024-10-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/nexpose-6/</loc>
     
     <lastmod>2024-10-11</lastmod>
     
@@ -2045,7 +2054,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/dbeaver-mac/</loc>
+    <loc>https://sysin.cn/blog/dbeaver-23/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2054,7 +2063,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/dbeaver-23/</loc>
+    <loc>https://sysin.cn/blog/dbeaver-mac/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2351,7 +2360,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/citrix-adc-13/</loc>
+    <loc>https://sysin.cn/blog/cisco-secure-network-analytics/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2360,7 +2369,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-secure-network-analytics/</loc>
+    <loc>https://sysin.cn/blog/citrix-adc-13/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2504,7 +2513,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2303/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2212/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2513,7 +2522,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2212/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2303/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -2612,15 +2621,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-modeling-labs-2/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/cisco-jabber-15/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -2631,6 +2631,15 @@
   
   <url>
     <loc>https://sysin.cn/blog/cisco-meeting-server-3/</loc>
+    
+    <lastmod>2024-10-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/cisco-modeling-labs-2/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -3440,7 +3449,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/almalinux-8/</loc>
+    <loc>https://sysin.cn/blog/almalinux-9-aarch64-ovf/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -3449,7 +3458,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/almalinux-9-aarch64-ovf/</loc>
+    <loc>https://sysin.cn/blog/almalinux-8/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -4313,7 +4322,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7-u1-oem/</loc>
+    <loc>https://sysin.cn/blog/vmware-data-services-manager/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -4322,7 +4331,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-data-services-manager/</loc>
+    <loc>https://sysin.cn/blog/vmware-esxi-7-u1-oem/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -4736,7 +4745,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/f5-big-ip-17-lts/</loc>
+    <loc>https://sysin.cn/blog/f5-big-ip-16/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -4745,7 +4754,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/f5-big-ip-16/</loc>
+    <loc>https://sysin.cn/blog/f5-big-ip-17-lts/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -4934,7 +4943,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-isr-1000/</loc>
+    <loc>https://sysin.cn/blog/cisco-ise-3/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -4943,7 +4952,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-ise-3/</loc>
+    <loc>https://sysin.cn/blog/cisco-isr-1000/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -5925,15 +5934,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/jetbrains-goland/</loc>
-    
-    <lastmod>2024-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/metasploit-pro-4/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -7142,14 +7142,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Windows/</loc>
+    <loc>https://sysin.cn/tags/Security/</loc>
     <lastmod>2024-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Security/</loc>
+    <loc>https://sysin.cn/tags/Windows/</loc>
     <lastmod>2024-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7429,7 +7429,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/DellEMC/</loc>
+    <loc>https://sysin.cn/tags/Dell/</loc>
     <lastmod>2024-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7443,14 +7443,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Dell/</loc>
-    <lastmod>2024-10-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/tags/AutoUpdate/</loc>
+    <loc>https://sysin.cn/tags/DellEMC/</loc>
     <lastmod>2024-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7458,6 +7451,13 @@
   
   <url>
     <loc>https://sysin.cn/tags/Header/</loc>
+    <lastmod>2024-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/tags/AutoUpdate/</loc>
     <lastmod>2024-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7688,14 +7688,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/NIOS/</loc>
+    <loc>https://sysin.cn/tags/Docker/</loc>
     <lastmod>2024-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Docker/</loc>
+    <loc>https://sysin.cn/tags/NIOS/</loc>
     <lastmod>2024-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
