@@ -1,10 +1,13 @@
+https://sysin.org/blog/vmware-fusion-13/
+https://sysin.org/blog/vmware-workstation-17/
+https://sysin.org/blog/firewall/
+https://sysin.org/blog/windows-server-2022/
 https://sysin.org/blog/vmware-esxi-7-u3-oem/
 https://sysin.org/blog/vmware-esxi-8-u3-oem/
 https://sysin.org/blog/vmware-esxi-8-u3-sysin/
 https://sysin.org/blog/sfos-21/
 https://sysin.org/blog/chrome-firefox-download/
 https://sysin.org/blog/vmware-esxi-7-u3-sysin/
-https://sysin.org/blog/windows-server-2022/
 https://sysin.org/blog/windows-11/
 https://sysin.org/blog/windows-10/
 https://sysin.org/blog/windows-10-arm/
@@ -15,6 +18,3 @@ https://sysin.org/blog/office-2021-for-mac/
 https://sysin.org/blog/cisco-secure-client-5/
 https://sysin.org/blog/pixelmator-pro-3/
 https://sysin.org/blog/cisco-apic-6/
-https://sysin.org/blog/invicti/
-https://sysin.org/blog/veritas-enterprise-vault-15/
-https://sysin.org/blog/veritas-backup-exec-24/

@@ -52,7 +52,7 @@
     <link href="https://sysin.org/blog/windows-server-2022/"/>
     <id>https://sysin.org/blog/windows-server-2022/</id>
     <published>2024-10-17T01:39:00.000Z</published>
-    <updated>2024-10-17T06:22:41.799Z</updated>
+    <updated>2024-10-18T08:09:25.471Z</updated>
     
     
       
@@ -680,7 +680,7 @@
     <link href="https://sysin.org/blog/vmware-workstation-17/"/>
     <id>https://sysin.org/blog/vmware-workstation-17/</id>
     <published>2024-10-10T07:21:00.000Z</published>
-    <updated>2024-10-11T00:48:38.441Z</updated>
+    <updated>2024-10-18T08:40:28.227Z</updated>
     
     
       
@@ -709,7 +709,7 @@
     <link href="https://sysin.org/blog/vmware-fusion-13/"/>
     <id>https://sysin.org/blog/vmware-fusion-13/</id>
     <published>2024-10-10T07:05:00.000Z</published>
-    <updated>2024-10-10T10:07:45.589Z</updated>
+    <updated>2024-10-18T08:41:45.426Z</updated>
     
     
       
@@ -759,6 +759,31 @@
     <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
     <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Firewall 产品链接汇总</title>
+    <link href="https://sysin.org/blog/firewall/"/>
+    <id>https://sysin.org/blog/firewall/</id>
+    <published>2024-10-10T01:00:29.000Z</published>
+    <updated>2024-10-18T08:33:53.480Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/firewall/&quot; title=&quot;Firewall 产品链接汇总&quot;&gt;Firewall 产品链接汇总&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://sysin.org/categories/Linux/"/>
+    
+    
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
   </entry>
   
@@ -848,37 +873,6 @@
     <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
     
     <category term="ESXi" scheme="https://sysin.org/tags/ESXi/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VMware vCenter Server 6.7U3v (安全更新) - ESXi 集中管理软件</title>
-    <link href="https://sysin.org/blog/vmware-vcenter-6-7/"/>
-    <id>https://sysin.org/blog/vmware-vcenter-6-7/</id>
-    <published>2024-10-10T00:20:38.000Z</published>
-    <updated>2024-10-10T00:43:27.332Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-vcenter-6-7/&quot; title=&quot;VMware vCenter Server 6.7U3v (安全更新) - ESXi 集中管理软件&quot;&gt;VMware vCenter Server 6.7U3v (安全更新) - ESXi 集中管理软件&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
-    
-    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
-    
-    <category term="vCenter" scheme="https://sysin.org/tags/vCenter/"/>
     
   </entry>
   
